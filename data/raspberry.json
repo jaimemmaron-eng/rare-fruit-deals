@@ -1,0 +1,5040 @@
+{
+ "fruit": "raspberry",
+ "updated": "2026-11-09",
+ "scope": "Specialty raspberries only: black, purple, gold/yellow, thornless or otherwise unusual. Ordinary red types (Heritage, Caroline, Joan J, Polana, Encore, Nova, Latham, Killarney and similar) are deliberately left out.",
+ "last_run": {
+  "date": "2026-11-09",
+  "summary": "Back in stock at Nourse Farms: Bristol $6.52, Jewel $6.52, Niwot $7.73, Double Gold $4.70, Anne $3.47. Price changes at Hartmann's Plant Company: Pequot Lakes priced at $25.50. Arbor Day Foundation Tree Nursery: Jewel now sold out.",
+  "gaps": [
+   "burntridge: no per-variety prices",
+   "bob-wells: would not load",
+   "indiana-berry: would not load",
+   "johnnys-seeds: would not load",
+   "waysidegardens: would not load"
+  ],
+  "checked": [
+   "arborday",
+   "berries-unlimited",
+   "berryplants",
+   "blessings-grow-meadows",
+   "burpee",
+   "double-a",
+   "edible-landscaping",
+   "fedco",
+   "food-forest",
+   "groworganic",
+   "gurneys",
+   "handpicked",
+   "hartmanns",
+   "hirts",
+   "hollandbulbfarms",
+   "mckay-nursery",
+   "migardener",
+   "naturehills",
+   "nourse-farms",
+   "one-green-world",
+   "peacefulheritage",
+   "pense-berry-farm",
+   "perfectplants",
+   "plantaddicts",
+   "raintree",
+   "scenic-hill",
+   "sooner-plant-farm",
+   "st-lawrence",
+   "stark-bros",
+   "treesdotcom",
+   "tyty"
+  ],
+  "held": [],
+  "notes": []
+ },
+ "history_log": [
+  "Sep 22: seeded from Double A Vineyards, Edible Landscaping, Raintree Nursery and Indiana Berry.",
+  "Sep 25: moved onto the shared multi-fruit dataset; added Food Forest Nursery, Stark Bro's, One Green World, Nourse Farms and Hartmann's; breeder credits re-checked (Niwot and Ohio's Treasure are grower patents, not university releases; Anne is a University of Maryland–led release).",
+  "Sep 26: rechecked all sellers (no status changes); added Food Forest Glencoe and Hartmann's Jewell listings; added St. Lawrence Nurseries, Krieger's/Berry Plants and Burpee as new sellers, including two new black raspberry varieties (Black Hawk, Allen).",
+  "Sep 27: rechecked all 12 sellers (no status changes on existing listings); Burpee added Bristol black raspberry; added Pense Berry Farm, Bob Wells Nursery and Berries Unlimited as new sellers.",
+  "Sep 28: rechecked all sellers with in-stock listings, no restocks or sell-outs found; added Gurney's Seed & Nursery (all specialty raspberries sold out, including new thornless Born Free black raspberry; Sweet Repeat is a Gurney's trade name for Niwot); Direct Native Plants checked, added to no-named-stock list (unnamed black raspberry only).",
+  "Sep 29: rechecked all sellers with in-stock listings plus One Green World and Hartmann's, no restocks or sell-outs found; added Ty Ty Nursery, Hand Picked Nursery and Scenic Hill Farm Nursery as new sellers.",
+  "Sep 30: rechecked all sellers with in-stock listings plus One Green World; One Green World restocked Bristol, Glencoe, Honey Queen and Cascade Gold; confirmed Ty Ty carries Bristol, Cumberland, Fall Gold and Brandywine in stock; Stark Bro's Royalty/Brandywine individually reconfirmed; added Perfect Plants Nursery, Peaceful Heritage Nursery and Trees.com as new sellers (all sold out); Brighter Blooms checked, added to no-named-stock list.",
+  "Oct 1: rechecked all sellers with in-stock listings; One Green World's Bristol, Cascade Gold, Glencoe and Honey Queen sold out again (one day after restocking); Food Forest's Cumberland/Royalty/Brandywine and Scenic Hill's Royalty individually reconfirmed in stock; Hartmann's Black Delicious price updated ($2.55/plant, wholesale); checked Daylily Nursery (Home Depot), Tennessee Wholesale Nursery and TN Nursery, all added to no-named-stock list (unnamed/undocumented cultivars only).",
+  "Oct 2: One Green World restocked Anne, Bristol, Cascade Gold, Glencoe, Honey Queen and Munger; St. Lawrence's Brandywine back in stock; Stark Bro's Double Gold price dropped to $17.99 (from) and gained a new Munger listing; added Nature Hills Nursery, Pixie's Gardens and Burnt Ridge Nursery as new sellers.",
+  "Oct 3: rechecked all sellers with in-stock listings plus most sold-out ones; no restocks or sell-outs found; Berries Unlimited added a new Glencoe purple raspberry listing (sold out); added Ison's Nursery & Vineyard and Greenwood Nursery as new sellers; confirmed Nourse Farms remains closed with all varieties sold out.",
+  "Oct 4: rechecked nearly all sellers; One Green World's Crimson Night restocked ($12.95); added MIgardener and Arbor Day Foundation Tree Nursery as new sellers (both sold out); added Johnny's Selected Seeds and BambooPlants.ca to the to-check list.",
+  "Oct 5: Full recheck of all 29 nurseries - no restocks/sell-outs; new listings at Isons (Royalty, sold out) and Nature Hills (Anne, backordered); Stark Bro's Double Gold now $21.99; Peaceful Heritage Niwot price confirmed at $21.99.",
+  "Oct 6: One Green World's Fall Gold restocked; new listings at Scenic Hill (Canby Thornless) and three new sellers (Holland Bulb Farms, Grow Organic, Wayside Gardens).",
+  "Oct 7: Jewel restocked at Arbor Day ($24.99). Added Spring Hill Nursery and McKay Nursery for Jewel. All other re-checked listings unchanged.",
+  "Oct 8: Checked all 32 active nurseries, no changes; added Johnny's Selected Seeds (Royalty, unconfirmed).",
+  "Oct 9: No changes — re-checked ~20 sellers, all stock and prices held steady; added Sooner Plant Farm (OK) for Jewel black raspberry.",
+  "Oct 10: Raintree's Anne sold out; Stark Bro's Crimson Night on sale at $19.99; added Superseeds, UFSeeds and Plant Addicts as new Jewel sources.",
+  "Oct 11: Jewel black raspberry restocked at One Green World ($12.95+, was sold out at $19.95); all other listings confirmed unchanged across 28 nurseries re-checked; overnight check: Back in stock at One Green World: Canby Thornless $12.95, Brandywine $12.95; Price changes at One Green World: Bristol $19.95 → $12.95",
+  "Oct 12: Back in stock at Raintree Nursery: Anne $25.99, Emerald Carpet $13.99",
+  "Oct 13: New listings at Stark Bro's Nurseries: Anne ($29.99); New listings at Spring Hill Nursery: Anne (sold out); New listings at Wayside Gardens: Royalty (sold out); New listings at Perfect Plants Nursery: Glencoe (sold out); No new sellers or varieties found; Added four listings at sellers already on file: Anne at Stark Bro's and Spring Hill, Royalty at Wayside Gardens, and Glencoe at Perfect Plants; Grimm's Gardens showed no raspberry listings on its site (it lists no raspberry products in its fruit category); Fedco Trees lists four in-scope varieties but no prices; Fedco Trees needs a manual price check",
+  "Oct 14: Price changes at Gurney's Seed & Nursery Co.: Anne $29.99 → $24.99",
+  "Oct 15: Back in stock at Grow Organic (Peaceful Valley Farm Supply): Anne $34.99; Sold out at Double A Vineyards: Glencoe; Sold out at Stark Bro's Nurseries: Anne",
+  "Oct 20: Sold out at Raintree Nursery: Anne, Emerald Carpet; Sold out at Burpee: Jewel; Price changes at Edible Landscaping: Glencoe $6 → $9; Price changes at Gurney's Seed & Nursery Co.: Anne $24.99 → $23.99",
+  "Oct 22: Back in stock at Stark Bro's Nurseries: Royalty $13.99; Back in stock at Gurney's Seed & Nursery Co.: Anne $23.99, Niwot $27.99, Born Free $34.99; Berry Plants raspberry page shows prices ($12.50) but no stock status; Statuses left unchanged",
+  "Oct 23: New listings at Fedco Trees: Shekinah 'Tahi' (unconfirmed); New listings at Blessings Grow Meadows: Shekinah 'Tahi' (sold out); Added Fedco Trees and Blessings Grow Meadows, each with Tahi black raspberry (Fedco's price unclear, Blessings sold out); Briggs Nursery and Seedtime had nothing usable in scope",
+  "Oct 26: Sold out at Raintree Nursery: Fall Gold",
+  "Oct 29: Back in stock at Greenwood Nursery: Cumberland $9.95; Back in stock at Spring Hill Nursery: Anne $14.99; Arbor Day Foundation Tree Nursery: Jewel now unconfirmed",
+  "Nov 2: Back in stock at Pense Berry Farm (Pense Nursery): Bristol $12, Anne $11, Double Gold $11; Sold out at Spring Hill Nursery: Anne; Nourse Farms: Bristol now unconfirmed, Jewel now unconfirmed, Mac Black now sold out, Niwot now unconfirmed, Shekinah 'Tahi' now unconfirmed, Royalty now unconfirmed, Double Gold now unconfirmed, Anne now unconfirmed; McKay Nursery Company: Jewel now unconfirmed",
+  "Nov 3: New listings at Willis Orchard Co.: Anne ($14.95), Jewel ($14.95), Cumberland (unconfirmed), Fall Gold (unconfirmed); New listings at Hirt's Gardens: Ohio's Treasure ($14.99); Found two new raspberry sellers with in-scope stock: Willis Orchard (GA; Anne, Jewel, Cumberland, Fall Gold) and Hirt's Gardens (OH; Ohio's Treasure); Patuxent Nursery, Roots to Fruits, Jung Seed, All U Need Garden Supply and Wilco had nothing usable; The older red-raspberry leads were cleared as out of scope",
+  "Nov 5: Back in stock at Gurney's Seed & Nursery Co.: Canby Thornless $17.99, Crimson Night $15.99; Back in stock at Willis Orchard Co.: Cumberland $9.95; Sold out at Greenwood Nursery: Cumberland",
+  "Nov 9: Back in stock at Nourse Farms: Bristol $6.52, Jewel $6.52, Niwot $7.73, Double Gold $4.70, Anne $3.47; Price changes at Hartmann's Plant Company: Pequot Lakes priced at $25.50; Arbor Day Foundation Tree Nursery: Jewel now sold out"
+ ],
+ "sources": {
+  "directories": [
+   [
+    "NARBA nursery list",
+    "https://www.raspberryblackberry.com/for-growers/nursery-list/"
+   ],
+   [
+    "NC State caneberry nursery list (PDF)",
+    "https://rubus.ces.ncsu.edu/wp-content/uploads/2019/09/2019-2020-Caneberry-Nursery-List.pdf"
+   ]
+  ],
+  "checked_no_named_stock": [
+   "Direct Native Plants (directnativeplants.com) - sells unnamed \"Black Raspberry\" (Rubus occidentalis) only, no specific cultivar name; $34.99/plant, in stock.",
+   "Brighter Blooms (brighterblooms.com) - sells unnamed \"Golden Raspberry\" only, no specific cultivar name; $23.99+ (1 qt), currently restocking soon.",
+   "Daylily Nursery (sold via Home Depot marketplace) - lists a \"Kiwi Golden Raspberry Plant\"; not a documented named gold raspberry cultivar, so left out of scope; $19.66, in stock.",
+   "Tennessee Wholesale Nursery (tennesseewholesalenursery.com) - sells unnamed \"Black Raspberry\" only, no cultivar name; $69.99/25 plants, ships Nov 2026.",
+   "TN Nursery (tnnursery.net) - sells unnamed \"Black Raspberry\" (Rubus occidentalis) only, no cultivar name; $21.99 (buy-1-get-1), dug Nov 15-Apr 15.",
+   "Tree Nursery Co (reach.dog/shop/tree-nursery-co) - sells unnamed \"Black Raspberry 2-3'\" (Rubus occidentalis) only, no cultivar name; $14.99 (reduced from $24.99), stock status and NJ shipping not shown.",
+   "Natorp's Nursery (plants.natorp.com) - sells Fall Gold Raspberry; curbside pickup only at their Ohio location, no online shipping to NJ confirmed.",
+   "Bath Garden Center (shop.bathgardencenter.com, Richmond VA) - no raspberry products found on the site; local garden-center storefront, online shipping to NJ unclear.",
+   "BambooPlants.ca (Canada) - sells Royalty purple raspberry, in stock, but no price shown and site reads as Canada-focused; US shipping to 08801 unconfirmed.",
+   "Watters Garden Center (wattersgardencenter.com, Prescott AZ) - sells Jewel Black Raspberry 2gal for $39.99 but is pickup-only, no shipping; not useful for NJ customers.",
+   "Briggs Nursery (briggsnursery.com) - lists Glencoe purple raspberry but is a wholesale/grower site with no retail price, stock or ordering shown; NJ shipping not stated.",
+   "Seedtime (store.seedtime.us) - resells The Farm on Central's Tahi black raspberry plug at $16, but the listing is a stale pre-order shipping March 2026; same stock tracked via Blessings Grow Meadows.",
+   "Patuxent Nursery (patuxentnursery.com, Bowie MD) - sells Jewel Black Raspberry in a 2 gal pot for $49.99, but the page doesn't say whether it ships or is pickup-only; NJ delivery unconfirmed.",
+   "Roots to Fruits Nursery (rootstofruitsnursery.com, Gays Mills WI) - only Polka (red everbearing) found, sold as a 3-pack ($25 bare root) with no published shipping rates; not tracked as a per-plant price.",
+   "Jung Seed (jungseed.com) - lists Jewel, Bristol and Double Gold, but its pages show conflicting prices and pack sizes (tissue-culture plugs, bulk tiers, no single-plant price) and no shipping rates; left untracked.",
+   "All U Need Garden Supply (alluneedgardensupply.com) - Ohio's Treasure potted plant $49.98 (marked down from $74.97), but no business location, plant size or shipping cost shown.",
+   "Wilco Farm Stores (farmstore.com, McMinnville OR) - Jewel bare-root cane page loads no product, price or shipping info; local farm-store chain."
+  ],
+  "dead": [],
+  "to_check": [
+   "Fedco Trees: Jewel, Anne and Royalty Purple raspberries listed (ship spring 2027), per-plant prices and stock not shown on the cane-fruit page; need their product pages.",
+   "St. Lawrence Nurseries: Thimbleberry listed, not on file",
+   "Pense Berry Farm / Nourse Farms / Gurneys / Berries Unlimited list further raspberries (Boyne, Caroline, Heritage, Encore, etc.), not on file",
+   "Raintree: raspberries 'Heritage', 'Boyne', 'Rosanna', 'Meeker' in stock, 'Glencoe', 'Nova', 'Joan J' sold out, not on file",
+   "Scenic Hill Farm: 'Anne' and 'Boyne' raspberries listed, not on file",
+   "Berry Plants: red raspberries (Prelude, Boyne, Killarney, Latham, Nova, Cascade Delight, Amity, Caroline, Heritage) listed, not on file"
+  ]
+ },
+ "nurseries": [
+  {
+   "id": "edible-landscaping",
+   "name": "Edible Landscaping",
+   "location": "Afton, VA",
+   "state": "VA",
+   "url": "https://ediblelandscaping.com/collections/raspberry",
+   "shipping": {
+    "type": "percent",
+    "confirmed": true,
+    "min": 15,
+    "tiers": [
+     [
+      25,
+      0.9
+     ],
+     [
+      50,
+      0.69
+     ],
+     [
+      125,
+      0.49
+     ],
+     [
+      400,
+      0.36
+     ],
+     [
+      1000,
+      0.34
+     ],
+     [
+      3000,
+      0.32
+     ]
+    ],
+    "source": "https://ediblelandscaping.com/pages/shipping-cost"
+   },
+   "note": "Published ground rate with a $15 minimum, so one small raspberry plant ships for $15."
+  },
+  {
+   "id": "double-a",
+   "name": "Double A Vineyards",
+   "location": "Fredonia, NY",
+   "state": "NY",
+   "url": "https://doubleavineyards.com/collections/raspberries",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 15,
+    "high": 25
+   }
+  },
+  {
+   "id": "raintree",
+   "name": "Raintree Nursery",
+   "location": "Morton, WA",
+   "state": "WA",
+   "url": "https://raintreenursery.com/collections/raspberries",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 15,
+    "high": 25
+   },
+   "note": "Orders placed now ship bare root in spring 2027."
+  },
+  {
+   "id": "food-forest",
+   "name": "Food Forest Nursery",
+   "location": "",
+   "state": "",
+   "url": "https://www.foodforestnursery.com/shop/berries/raspberries/",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 15,
+    "high": 25
+   },
+   "note": "UPS Ground; free shipping over $250. Spring 2027 ship date for zone 6b is Mar 22. A 20% sale price ($10.36 on $12.95 plants) showed on the category page Sep 25; bulk discounts 10–20% at 5+ plants.",
+   "excluded_states": [
+    "AK",
+    "DE",
+    "HI",
+    "ME",
+    "MA",
+    "MI",
+    "NJ",
+    "NC",
+    "RI",
+    "VT",
+    "WV"
+   ]
+  },
+  {
+   "id": "stark-bros",
+   "name": "Stark Bro's Nurseries",
+   "location": "Louisiana, MO",
+   "state": "MO",
+   "url": "https://www.starkbros.com/products/berry-plants/raspberry-plants",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 15.99,
+    "high": 17.99,
+    "source": "https://www.starkbros.com/about/order-and-shipping-policies",
+    "note": "No published rate table; product pages have shown $15.99–$17.99 shipping per order."
+   },
+   "note": "19 more raspberry items shown as out of stock without names."
+  },
+  {
+   "id": "one-green-world",
+   "name": "One Green World",
+   "location": "Molalla, OR",
+   "state": "OR",
+   "url": "https://onegreenworld.com/product-category/fruiting-trees-shrubs/raspberries/",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 20,
+    "high": 25,
+    "source": "https://onegreenworld.com/shipping-information/",
+    "note": "Shipping is “approximately $20–$25 depending on the destination state”, more for tall or heavy plants (UPS, from Portland OR)."
+   },
+   "note": "Published $25 flat rate to the East Coast. Every raspberry showed “email me when available” on Sep 25."
+  },
+  {
+   "id": "nourse-farms",
+   "name": "Nourse Farms",
+   "location": "South Deerfield, MA",
+   "state": "MA",
+   "url": "https://www.noursefarms.com/collections/raspberries",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 15,
+    "high": 25
+   },
+   "note": "Online ordering closed until October; listed prices are large commercial packs, so no per-plant price yet."
+  },
+  {
+   "id": "indiana-berry",
+   "name": "Indiana Berry & Plant Co.",
+   "location": "Plymouth, IN",
+   "state": "IN",
+   "url": "https://www.indianaberry.com/raspberries.html",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 15,
+    "high": 25
+   },
+   "note": "Sold out for the 2026 season; site reopens for spring 2027 orders in December 2026.",
+   "unreadable": {
+    "since": "2026-10-29",
+    "nights": 3,
+    "last": "2026-11-09",
+    "reason": "would not load"
+   }
+  },
+  {
+   "id": "hartmanns",
+   "name": "Hartmann's Plant Company",
+   "location": "Michigan",
+   "state": "MI",
+   "url": "https://hartmannsplantcompany.com/black-raspberries/",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 15,
+    "high": 25
+   },
+   "note": "Mostly wholesale; retail listings are multi-plant packs. Reports shipping delays."
+  },
+  {
+   "id": "st-lawrence",
+   "name": "St. Lawrence Nurseries",
+   "location": "Potsdam, NY",
+   "state": "NY",
+   "url": "https://www.slngrow.com/collections/berries",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 15,
+    "high": 25
+   },
+   "note": "Virus-indexed stock; ships in spring."
+  },
+  {
+   "id": "berryplants",
+   "name": "Krieger's Nursery (Berry Plants)",
+   "location": "Bridgman, MI",
+   "state": "MI",
+   "url": "https://berryplants.com/raspberries.php",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 15,
+    "high": 25
+   },
+   "note": "Free shipping on orders $150+; no published per-plant rate below that. Double Gold and Bristol ship spring-only."
+  },
+  {
+   "id": "burpee",
+   "name": "Burpee",
+   "location": "Warminster, PA",
+   "state": "PA",
+   "url": "https://www.burpee.com/fruit/raspberry-plants/",
+   "shipping": {
+    "type": "table",
+    "confirmed": true,
+    "table": [
+     [
+      10,
+      9.95
+     ],
+     [
+      20,
+      11.95
+     ],
+     [
+      30,
+      12.95
+     ],
+     [
+      40,
+      13.95
+     ],
+     [
+      50,
+      14.95
+     ],
+     [
+      75,
+      15.95
+     ],
+     [
+      100,
+      16.95
+     ],
+     [
+      150,
+      18.95
+     ],
+     [
+      999999,
+      19.95
+     ]
+    ],
+    "source": "https://www.burpee.com/shippingrates"
+   }
+  },
+  {
+   "id": "pense-berry-farm",
+   "name": "Pense Berry Farm (Pense Nursery)",
+   "location": "Mountainburg, AR",
+   "state": "AR",
+   "url": "https://penseberryfarm.com/collections/raspberry-plant-varieties",
+   "shipping": {
+    "type": "flat",
+    "detail": "$30 under $150, free at $150+",
+    "confirmed": true,
+    "source": "https://penseberryfarm.com/collections/raspberry-plant-varieties"
+   },
+   "note": "$30 flat charge on orders under the $150 free-shipping minimum."
+  },
+  {
+   "id": "bob-wells",
+   "name": "Bob Wells Nursery",
+   "location": "Mineola, TX",
+   "state": "TX",
+   "url": "https://bobwellsnursery.com/product-category/berries/raspberries/",
+   "shipping": {
+    "type": "flat",
+    "confirmed": true,
+    "amount": 24.95,
+    "source": "https://bobwellsnursery.com/shipping-info/"
+   },
+   "note": "All specialty raspberries showed out of stock Sep 27; category page listed no products, individual product pages confirmed sold out.",
+   "unreadable": {
+    "since": "2026-10-22",
+    "nights": 5,
+    "last": "2026-11-09",
+    "reason": "would not load"
+   }
+  },
+  {
+   "id": "berries-unlimited",
+   "name": "Berries Unlimited",
+   "location": "Fayetteville, AR",
+   "state": "AR",
+   "url": "https://www.berriesunlimited.com/raspberries.html/",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 15,
+    "high": 25
+   },
+   "note": "Shipping is weight-based per item; no flat/per-plant rate published. Jewel and Fall Gold are sold only inside multi-plant packages with no standalone single-plant price."
+  },
+  {
+   "id": "gurneys",
+   "name": "Gurney's Seed & Nursery Co.",
+   "location": "Lawrenceburg, IN",
+   "state": "IN",
+   "url": "https://www.gurneys.com/collections/raspberry-plants",
+   "shipping": {
+    "type": "table",
+    "confirmed": true,
+    "table": [
+     [
+      20,
+      6.99
+     ],
+     [
+      50,
+      10.99
+     ],
+     [
+      80,
+      16.99
+     ],
+     [
+      120,
+      22.99
+     ],
+     [
+      180,
+      28.99
+     ],
+     [
+      999999,
+      34.99
+     ]
+    ],
+    "source": "https://gurneys.com/shipping_handling_charges"
+   },
+   "note": "Sells several proprietary-named specialty raspberries (Sweet Repeat, Born Free); all specialty varieties found were sold out Sep 28."
+  },
+  {
+   "id": "tyty",
+   "name": "Ty Ty Nursery",
+   "location": "Ty Ty, GA",
+   "state": "GA",
+   "url": "https://www.tytyga.com/Raspberry-Plants-s/1872.htm",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 15,
+    "high": 25
+   },
+   "note": "Carries Black Hawk, Bristol, Cumberland, Brandywine and Fall Gold; only Black Hawk individually priced/checked so far. No published shipping rate found; call for a quote."
+  },
+  {
+   "id": "handpicked",
+   "name": "Hand Picked Nursery",
+   "location": "Benson, NC",
+   "state": "NC",
+   "url": "https://www.handpickednursery.com/collections/raspberry-blackberry",
+   "shipping": {
+    "type": "included",
+    "confirmed": true,
+    "source": "https://www.handpickednursery.com/pages/faqs"
+   },
+   "note": "Publishes free shipping on all plant orders."
+  },
+  {
+   "id": "scenic-hill",
+   "name": "Scenic Hill Farm Nursery",
+   "location": "Albany, OR",
+   "state": "OR",
+   "url": "https://scenichillfarmnursery.com/collections/potted-raspberry-plants",
+   "shipping": {
+    "type": "included",
+    "confirmed": false
+   },
+   "note": "Site advertises free shipping to most locations but warns of a freight surcharge to some remote areas; no detailed rate table found."
+  },
+  {
+   "id": "perfectplants",
+   "name": "Perfect Plants Nursery",
+   "location": "Florida",
+   "state": "FL",
+   "url": "https://myperfectplants.com/products/jewel-black-raspberry-plant",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 15,
+    "high": 25
+   },
+   "note": "Free shipping on orders over $199; no flat rate published below that."
+  },
+  {
+   "id": "peacefulheritage",
+   "name": "Peaceful Heritage Nursery",
+   "location": "Stanford, KY",
+   "state": "KY",
+   "url": "https://peacefulheritage.com/products/niwot-everbearing-black-raspberry-bundles",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 15,
+    "high": 25
+   },
+   "note": "Shipping calculated at checkout; cannot ship to CA, OR or WA."
+  },
+  {
+   "id": "treesdotcom",
+   "name": "Trees.com (Fast Growing Trees)",
+   "location": "",
+   "state": "",
+   "url": "https://www.trees.com/products/golden-raspberry",
+   "shipping": {
+    "type": "flat",
+    "confirmed": true,
+    "amount": 19.95,
+    "source": "https://www.trees.com/products/golden-raspberry"
+   },
+   "note": "Free shipping on orders over $99; $19.95 flat charge below that."
+  },
+  {
+   "id": "naturehills",
+   "name": "Nature Hills Nursery",
+   "location": "Omaha, NE",
+   "state": "NE",
+   "url": "https://naturehills.com/collections/raspberry-plants",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 15,
+    "high": 25
+   },
+   "note": "Free shipping on orders $199+; otherwise calculated at checkout, no flat per-plant rate published.",
+   "excluded_states": [
+    "AK",
+    "HI",
+    "ID",
+    "MT",
+    "OR",
+    "PR",
+    "VI",
+    "WA"
+   ]
+  },
+  {
+   "id": "pixiesgardens",
+   "name": "Pixie's Gardens",
+   "location": "",
+   "state": "",
+   "url": "https://www.pixiesgardens.com/products/black-raspberry-plants",
+   "shipping": {
+    "type": "table",
+    "confirmed": true,
+    "table": [
+     [
+      24.99,
+      20.99
+     ],
+     [
+      49.99,
+      30.99
+     ],
+     [
+      89.99,
+      36.99
+     ],
+     [
+      98.99,
+      46.99
+     ],
+     [
+      999999,
+      0
+     ]
+    ],
+    "source": "https://www.pixiesgardens.com/products/black-raspberry-plants"
+   },
+   "note": "Free shipping on orders $99+; western-state surcharge (10% + $5) noted for 13 states."
+  },
+  {
+   "id": "burntridge",
+   "name": "Burnt Ridge Nursery & Orchards",
+   "location": "Onalaska, WA",
+   "state": "WA",
+   "url": "https://www.burntridgenursery.com/Raspberry/products/50/",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 15,
+    "high": 25
+   },
+   "note": "Category page lists plants by name without per-item price or stock status.",
+   "unreadable": {
+    "since": "2026-10-15",
+    "nights": 5,
+    "last": "2026-11-09",
+    "reason": "no per-variety prices"
+   }
+  },
+  {
+   "id": "isons",
+   "name": "Ison's Nursery & Vineyard",
+   "location": "Brooks, GA",
+   "state": "GA",
+   "url": "https://www.isons.com/shop/berry-plants/raspberry/",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 15,
+    "high": 25
+   },
+   "note": "Raspberry plants ship Dec-Apr (colder states late Mar/Apr unless requested earlier); no per-plant shipping rate found."
+  },
+  {
+   "id": "greenwood",
+   "name": "Greenwood Nursery",
+   "location": "McMinnville, TN",
+   "state": "TN",
+   "url": "https://www.greenwoodnursery.com/products/cumberland-black-raspberry-plants",
+   "shipping": {
+    "type": "flat",
+    "confirmed": true,
+    "amount": 9.95,
+    "source": "https://www.greenwoodnursery.com/products/cumberland-black-raspberry-plants"
+   },
+   "note": "Published $9.95 shipping charge for orders $1-$20, which covers a single Cumberland plant at $9.95; only raspberry variety found on the site."
+  },
+  {
+   "id": "migardener",
+   "name": "MIgardener",
+   "location": "St. Clair, MI",
+   "state": "MI",
+   "url": "https://migardener.com/collections/dormant-plants/products/royalty-purple-raspberry",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 15,
+    "high": 25
+   },
+   "note": "Dormant plants ship on a scheduled zone timeframe; no flat per-plant shipping rate published. Buy 5+ raspberries for an automatic 10% discount."
+  },
+  {
+   "id": "arborday",
+   "name": "Arbor Day Foundation Tree Nursery",
+   "location": "Nebraska City, NE",
+   "state": "NE",
+   "url": "https://shop.arborday.org/jewel-black-raspberry",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 15,
+    "high": 25
+   },
+   "note": "Free shipping on orders $99+; no flat rate published below that. Member price $19.99 vs. regular $24.99. Cannot ship to several states/territories (AK, AZ, CA, HI and others).",
+   "excluded_states": [
+    "AK",
+    "AS",
+    "AZ",
+    "CA",
+    "FM",
+    "GU",
+    "HI",
+    "MH",
+    "MP",
+    "PR",
+    "PW",
+    "VI"
+   ]
+  },
+  {
+   "id": "hollandbulbfarms",
+   "name": "Holland Bulb Farms",
+   "url": "https://www.hollandbulbfarms.com/spring-planting-bulbs/fruit-plants/royalty-purple-raspberry-plant",
+   "shipping": {
+    "type": "estimate",
+    "low": 15,
+    "high": 25
+   }
+  },
+  {
+   "id": "groworganic",
+   "name": "Grow Organic (Peaceful Valley Farm Supply)",
+   "location": "Grass Valley, CA",
+   "state": "CA",
+   "url": "https://www.groworganic.com/products/organic-raspberry-anne-golden-ea",
+   "shipping": {
+    "type": "estimate",
+    "low": 15,
+    "high": 25
+   }
+  },
+  {
+   "id": "waysidegardens",
+   "name": "Wayside Gardens",
+   "location": "Hodges, SC",
+   "state": "SC",
+   "url": "https://www.waysidegardens.com/raspberry-anne-40651-pk-3.html",
+   "shipping": {
+    "type": "estimate",
+    "low": 15,
+    "high": 25
+   },
+   "unreadable": {
+    "since": "2026-11-02",
+    "nights": 3,
+    "last": "2026-11-09",
+    "reason": "would not load"
+   }
+  },
+  {
+   "id": "springhill",
+   "name": "Spring Hill Nursery",
+   "location": "Catawissa, MO",
+   "state": "MO",
+   "url": "https://springhillnursery.com/products/jewel-raspberry",
+   "note": "Free shipping on orders $199+; no flat rate published below that.",
+   "shipping": {
+    "type": "estimate",
+    "low": 15,
+    "high": 25
+   }
+  },
+  {
+   "id": "mckay-nursery",
+   "name": "McKay Nursery Company",
+   "location": "Waterloo, WI",
+   "state": "WI",
+   "url": "https://mckaynursery.com/jewel-raspberry",
+   "note": "Free FedEx shipping on orders $199+; shipping cost under that not shown without entering a zip at checkout.",
+   "shipping": {
+    "type": "estimate",
+    "low": 15,
+    "high": 25
+   }
+  },
+  {
+   "id": "johnnys-seeds",
+   "name": "Johnny's Selected Seeds",
+   "location": "Winslow, ME",
+   "state": "ME",
+   "url": "https://www.johnnyseeds.com/fruits/raspberry/royalty-purple-raspberry-plants-5037.html",
+   "shipping": {
+    "type": "estimate",
+    "low": 15,
+    "high": 25
+   },
+   "unreadable": {
+    "since": "2026-10-20",
+    "nights": 7,
+    "last": "2026-11-09",
+    "reason": "would not load"
+   }
+  },
+  {
+   "id": "sooner-plant-farm",
+   "name": "Sooner Plant Farm",
+   "location": "Oklahoma",
+   "state": "OK",
+   "url": "https://soonerplantfarm.com/plant/raspberry-jewel-black",
+   "shipping": {
+    "type": "estimate",
+    "low": 15,
+    "high": 25
+   }
+  },
+  {
+   "id": "superseeds",
+   "name": "Superseeds (Pinetree Garden Seeds)",
+   "location": "",
+   "state": "",
+   "url": "https://www.superseeds.com/collections/live-plants-bare-roots-and-tubers-for-spring-planting/products/black-raspberry-jewel",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 15,
+    "high": 25
+   },
+   "note": "Doesn't ship to AK, HI, APO, PR, Canada or other foreign countries; NJ is fine."
+  },
+  {
+   "id": "ufseeds",
+   "name": "UFSeeds.com",
+   "location": "",
+   "state": "",
+   "url": "https://www.ufseeds.com/product/jewel-raspberry-plants/RAJE.html",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 15,
+    "high": 25
+   }
+  },
+  {
+   "id": "plantaddicts",
+   "name": "Plant Addicts",
+   "location": "",
+   "state": "",
+   "url": "https://plantaddicts.com/jewel-black-raspberry-bush",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 15,
+    "high": 25
+   },
+   "excluded_states": [
+    "AZ",
+    "CA",
+    "ID",
+    "MT",
+    "NV",
+    "OR",
+    "UT",
+    "WA"
+   ]
+  },
+  {
+   "id": "fedco",
+   "name": "Fedco Trees",
+   "location": "Clinton, ME",
+   "state": "ME",
+   "url": "https://web.fedcoseeds.com/trees/cane-fruit",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 15,
+    "high": 25
+   },
+   "note": "Ships in spring 2027 (from March). Fedco's restrictions page lists only Rosa for NJ; soil-shipped Rubus (black raspberries, Royalty Purple) can't go to AK, AL, AR, AZ, CA, CO, HI, ID, MS, MT, ND, NM, NV, OK, OR, SD, TX, UT, WA. Also lists Jewel, Anne and Royalty Purple, with prices not yet read."
+  },
+  {
+   "id": "blessings-grow-meadows",
+   "name": "Blessings Grow Meadows",
+   "location": "Metter, GA",
+   "state": "GA",
+   "url": "https://blessingsgrowmeadows.com/products/tahi-thornless-black-raspberry",
+   "shipping": {
+    "type": "flat",
+    "confirmed": true,
+    "amount": 8.99,
+    "detail": "$8.99 under $75, free over $75",
+    "source": "https://blessingsgrowmeadows.com/products/tahi-thornless-black-raspberry"
+   },
+   "note": "Plants ship from March once freezing danger has passed."
+  },
+  {
+   "id": "willis-orchard",
+   "name": "Willis Orchard Co.",
+   "location": "Cartersville, GA",
+   "state": "GA",
+   "url": "https://www.willisorchards.com/category/raspberry-plants",
+   "shipping": {
+    "type": "flat",
+    "detail": "$24.95 flat on orders under $99.80",
+    "confirmed": true,
+    "source": "https://willisorchards.com/faqs"
+   },
+   "note": "Ships dormant plants Dec 1, 2026 - Apr 1, 2027. FAQ names only California as restricted; NJ not mentioned. Shipping rate for larger orders is a percent of the subtotal."
+  },
+  {
+   "id": "hirts",
+   "name": "Hirt's Gardens",
+   "location": "Wadsworth, OH",
+   "state": "OH",
+   "url": "https://hirts.com/ohio-treasure-everbearing-black-raspberry-4-pot-extremely-hardy-prolific",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 15,
+    "high": 25
+   },
+   "note": "Shipping is calculated at checkout (USPS, 2-5 days); no published rate. Its restrictions page lists NJ only for currants and gooseberries, not raspberries."
+  }
+ ],
+ "varieties": [
+  {
+   "id": "anne",
+   "fruit": "raspberry",
+   "name": "Anne",
+   "color": "gold",
+   "aliases": [
+    "Anne Gold",
+    "Anne Golden",
+    "Anne Yellow"
+   ],
+   "summary": "Fall-bearing golden raspberry with mild, sweet apricot-like flavor.",
+   "description": "A fall-bearing (primocane) golden raspberry from a cooperative breeding program led by the University of Maryland with Rutgers, Virginia Tech and the University of Wisconsin–River Falls; patented 1998. Large conical berries with a mild, sweet flavor carrying apricot and banana notes and less tartness than red types.",
+   "breeder": {
+    "name": "University of Maryland & partners",
+    "kind": "university"
+   },
+   "awards": [],
+   "first_seen": "2026-09-22",
+   "notes": []
+  },
+  {
+   "id": "double-gold",
+   "fruit": "raspberry",
+   "name": "Double Gold",
+   "color": "gold",
+   "aliases": [
+    "Double Gold Yellow"
+   ],
+   "summary": "Cornell everbearing gold raspberry; champagne-to-peach colored fruit, two crops a year.",
+   "description": "Released by Cornell University (Courtney Weber) in 2012. An everbearing raspberry giving summer and fall crops of golden-champagne to peachy-coral berries with mild, honey-like sweetness and low acidity.",
+   "breeder": {
+    "name": "Cornell University",
+    "kind": "university"
+   },
+   "awards": [],
+   "first_seen": "2026-09-22",
+   "notes": []
+  },
+  {
+   "id": "fall-gold",
+   "fruit": "raspberry",
+   "name": "Fall Gold",
+   "color": "gold",
+   "aliases": [],
+   "summary": "Older everbearing golden raspberry; firm, sweet berries in summer and fall.",
+   "description": "An older everbearing golden raspberry that can crop in both summer and fall, with big, firm, sweet golden berries. Widely sold; breeding history not captured here yet.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "cascade-gold",
+   "fruit": "raspberry",
+   "name": "Cascade Gold",
+   "color": "gold",
+   "aliases": [],
+   "summary": "Golden raspberry from the Pacific Northwest 'Cascade' series.",
+   "description": "A golden raspberry in the Pacific Northwest 'Cascade' line. Limited detail gathered so far; watched because it's rarely offered.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "honey-queen",
+   "fruit": "raspberry",
+   "name": "Honey Queen",
+   "color": "gold",
+   "aliases": [],
+   "summary": "Honey-colored raspberry sold by One Green World; limited public detail.",
+   "description": "A honey-colored (red-gold) raspberry offered by One Green World. Limited independent documentation gathered so far.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "bristol",
+   "fruit": "raspberry",
+   "name": "Bristol",
+   "color": "black",
+   "aliases": [
+    "Bristol Black"
+   ],
+   "summary": "Classic 1934 black raspberry; early, glossy, firm fruit with rich blackcap flavor.",
+   "description": "A black raspberry from the New York State Agricultural Experiment Station at Geneva (Cornell), introduced 1934. Early-ripening, glossy, firm fruit with a rich, classic blackcap flavor that holds up well frozen; long one of the most widely grown black raspberries.",
+   "breeder": {
+    "name": "Cornell (NY Ag. Experiment Station)",
+    "kind": "university"
+   },
+   "awards": [],
+   "first_seen": "2026-09-22",
+   "notes": []
+  },
+  {
+   "id": "jewel",
+   "fruit": "raspberry",
+   "name": "Jewel",
+   "color": "black",
+   "aliases": [
+    "Jewel Black",
+    "Jewell"
+   ],
+   "summary": "Cornell black raspberry; the most widely planted blackcap, good anthracnose resistance.",
+   "description": "A Cornell-bred black raspberry (1970s). Large, firm, glossy fruit with rich, intensely sweet flavor and a hint of tartness; summer-bearing with strong anthracnose resistance. The most widely planted black raspberry commercially.",
+   "breeder": {
+    "name": "Cornell University",
+    "kind": "university"
+   },
+   "awards": [],
+   "first_seen": "2026-09-22",
+   "notes": []
+  },
+  {
+   "id": "niwot",
+   "fruit": "raspberry",
+   "name": "Niwot",
+   "color": "black",
+   "aliases": [
+    "Niwot Black",
+    "Sweet Repeat"
+   ],
+   "summary": "Primocane-fruiting black raspberry: two harvests a season.",
+   "description": "A black raspberry patented by grower Peter Tallman, notable as a primocane-fruiting blackcap that gives two harvests a season (summer and fall) instead of fruiting only on second-year canes. Large, shiny fruit with a milder raspberry flavor; zones 4–8.",
+   "breeder": {
+    "name": "Peter Tallman",
+    "kind": "breeder"
+   },
+   "awards": [],
+   "first_seen": "2026-09-22",
+   "notes": []
+  },
+  {
+   "id": "ohios-treasure",
+   "fruit": "raspberry",
+   "name": "Ohio's Treasure",
+   "color": "black",
+   "aliases": [
+    "Ohio's Treasure Black"
+   ],
+   "summary": "Everbearing black raspberry; two crops a year, mid-August to mid-October.",
+   "description": "A patented everbearing black raspberry (inventor Benjamin Dale Stokes) that crops on first-year canes from mid-August into October, with a possible early summer crop on overwintered canes. Large firm black fruit; zones 3–8.",
+   "breeder": {
+    "name": "Benjamin Stokes",
+    "kind": "breeder"
+   },
+   "awards": [],
+   "first_seen": "2026-09-22",
+   "notes": []
+  },
+  {
+   "id": "mac-black",
+   "fruit": "raspberry",
+   "name": "Mac Black",
+   "color": "black",
+   "aliases": [
+    "MacBlack"
+   ],
+   "summary": "Late-season black raspberry used to extend the blackcap harvest.",
+   "description": "A late-ripening black raspberry recommended by Nourse Farms for extending the season in U-pick and fresh-market plantings. Breeding history not captured here yet.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "munger",
+   "fruit": "raspberry",
+   "name": "Munger",
+   "color": "black",
+   "aliases": [],
+   "summary": "Old black raspberry cultivar long grown in the Pacific Northwest.",
+   "description": "An older black raspberry cultivar long grown commercially in the Pacific Northwest. Offered by One Green World; limited detail gathered so far.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "cumberland",
+   "fruit": "raspberry",
+   "name": "Cumberland",
+   "color": "black",
+   "aliases": [
+    "Cumberland Black"
+   ],
+   "summary": "Heirloom black raspberry; sweet, firm, reliable.",
+   "description": "An heirloom black raspberry grown for well over a century, valued for sweet, firm berries and reliability. Offered bare root by Food Forest Nursery.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "black-delicious",
+   "fruit": "raspberry",
+   "name": "Black Delicious",
+   "color": "black",
+   "aliases": [],
+   "summary": "Black raspberry listed by Hartmann's; limited public detail.",
+   "description": "A black raspberry offered by Hartmann's Plant Company, so far only as a wholesale listing. Limited independent documentation.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "pequot-lakes",
+   "fruit": "raspberry",
+   "name": "Pequot Lakes",
+   "color": "black",
+   "aliases": [],
+   "summary": "Black raspberry listed by Hartmann's; limited public detail.",
+   "description": "A black raspberry offered by Hartmann's Plant Company, currently out of stock. Limited independent documentation.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "shekinah-tahi",
+   "fruit": "raspberry",
+   "name": "Shekinah 'Tahi'",
+   "color": "black",
+   "aliases": [
+    "Shekinah 'Tahi' Black",
+    "Shekinah Tahi",
+    "Tahi"
+   ],
+   "summary": "Marketed as the first fully spineless black raspberry.",
+   "description": "Marketed by Raintree Nursery and Nourse Farms as the first completely spineless black raspberry. Genuinely unusual breeding rather than a rebrand; breeder not documented in what's been gathered so far.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-22",
+   "notes": []
+  },
+  {
+   "id": "glencoe",
+   "fruit": "raspberry",
+   "name": "Glencoe",
+   "color": "purple",
+   "aliases": [
+    "Glencoe Purple",
+    "Glencoe Purple Thornless"
+   ],
+   "summary": "Thornless purple raspberry (red × black); cold-hardy, large firm berries.",
+   "description": "A purple raspberry (red × black hybrid) notable for being thornless. Cold-hardy with large, firm berries good fresh or for jam.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-22",
+   "notes": []
+  },
+  {
+   "id": "royalty",
+   "fruit": "raspberry",
+   "name": "Royalty",
+   "color": "purple",
+   "aliases": [
+    "Royalty Purple"
+   ],
+   "summary": "Cornell purple raspberry (1982); very high yields, aphid resistant.",
+   "description": "A purple raspberry released by Cornell's New York State Agricultural Experiment Station (1982). Large purple fruit with black-raspberry undertones at full ripeness, very high yields and outstanding aphid resistance; excellent for jams.",
+   "breeder": {
+    "name": "Cornell (NY Ag. Experiment Station)",
+    "kind": "university"
+   },
+   "awards": [],
+   "first_seen": "2026-09-22",
+   "notes": []
+  },
+  {
+   "id": "brandywine",
+   "fruit": "raspberry",
+   "name": "Brandywine",
+   "color": "purple",
+   "aliases": [
+    "Brandywine Purple"
+   ],
+   "summary": "Cornell purple raspberry; tart, intensely flavored, prized for jam.",
+   "description": "A purple raspberry from Cornell's Geneva program. Large, intensely flavored reddish-purple fruit that turns bright red when cooked; a classic for jam, jelly and wine. Vigorous 5–6 ft canes need trellising.",
+   "breeder": {
+    "name": "Cornell (NY Ag. Experiment Station)",
+    "kind": "university"
+   },
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "purple-dream",
+   "fruit": "raspberry",
+   "name": "Purple Dream",
+   "color": "purple",
+   "aliases": [],
+   "summary": "Purple raspberry listed by Hartmann's; limited public detail.",
+   "description": "A purple raspberry offered by Hartmann's Plant Company, currently out of stock. Limited independent documentation.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "crimson-night",
+   "fruit": "raspberry",
+   "name": "Crimson Night",
+   "color": "red",
+   "aliases": [],
+   "summary": "Cornell dark-foliage raspberry; deep red fruit on dark purple canes.",
+   "description": "Released by Cornell University (Courtney Weber) in 2012 alongside Double Gold. An everbearing red raspberry grown as much for its dark crimson fruit and dark purple canes and foliage as for the harvest.",
+   "breeder": {
+    "name": "Cornell University",
+    "kind": "university"
+   },
+   "awards": [],
+   "first_seen": "2026-09-22",
+   "notes": []
+  },
+  {
+   "id": "english-thornless",
+   "fruit": "raspberry",
+   "name": "English Thornless",
+   "color": "red",
+   "aliases": [],
+   "summary": "Thornless red raspberry; easy picking.",
+   "description": "A thornless red raspberry offered by Edible Landscaping. Included for its thornless canes rather than its color.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "canby-thornless",
+   "fruit": "raspberry",
+   "name": "Canby Thornless",
+   "color": "red",
+   "aliases": [],
+   "summary": "Nearly thornless summer red raspberry from the Pacific Northwest.",
+   "description": "A nearly thornless summer-bearing red raspberry. Included for its thornless canes rather than its color.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "polka",
+   "fruit": "raspberry",
+   "name": "Polka",
+   "color": "red",
+   "aliases": [],
+   "summary": "Polish-bred primocane raspberry, notable for very early fall ripening.",
+   "description": "A Polish-bred primocane (fall-bearing) raspberry, carried over from the original log for its very early fall ripening.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-22",
+   "notes": []
+  },
+  {
+   "id": "emerald-carpet",
+   "fruit": "raspberry",
+   "name": "Emerald Carpet",
+   "color": "red",
+   "aliases": [],
+   "summary": "Creeping, ground-cover raspberry relative with small edible fruit.",
+   "description": "A low, creeping ground-cover bramble with small edible fruit, grown as an evergreen carpet. A novelty rather than a production berry.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "black-hawk",
+   "fruit": "raspberry",
+   "name": "Black Hawk",
+   "color": "black",
+   "aliases": [],
+   "summary": "Vigorous, heat- and drought-tolerant black raspberry with big, firm berries.",
+   "description": "A black raspberry noted for vigorous, extra-hardy plants that keep producing in hot, dry weather. Big, juicy, sweet, firm black berries that ripen in mid-July in zone 6; breeding history not documented in sources gathered so far.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-26",
+   "notes": []
+  },
+  {
+   "id": "allen",
+   "fruit": "raspberry",
+   "name": "Allen",
+   "color": "black",
+   "aliases": [],
+   "summary": "Black raspberry bred from Bristol x Cumberland; large glossy aromatic fruit.",
+   "description": "A black raspberry bred from a Bristol x Cumberland cross, combining Bristol's fruit quality and cold hardiness with Cumberland's productivity. Large, firm, glossy black berries with rich aromatic sweetness, ripening in July on vigorous 4-5 ft plants.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-26",
+   "notes": []
+  },
+  {
+   "id": "born-free",
+   "fruit": "raspberry",
+   "name": "Born Free",
+   "color": "black",
+   "aliases": [
+    "Born Free Thornless Black Raspberry"
+   ],
+   "summary": "Thornless black raspberry with deep purple, self-fertile fruit.",
+   "description": "A thornless black raspberry sold by Gurney's Seed & Nursery, forming vase-shaped 4-7 ft canes with deep purple fruit ripening mid-June to mid-July. Self-fertile and reported free of significant pest or disease issues; breeder not documented in sources gathered so far.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-28",
+   "notes": []
+  }
+ ],
+ "listings": [
+  {
+   "id": "edible-landscaping--double-gold",
+   "variety": "double-gold",
+   "nursery": "edible-landscaping",
+   "status": "in_stock",
+   "price": 6.0,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://ediblelandscaping.com/collections/raspberry",
+   "first_seen": "2026-09-22",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 6.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "edible-landscaping--glencoe",
+   "variety": "glencoe",
+   "nursery": "edible-landscaping",
+   "status": "in_stock",
+   "price": 9.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://ediblelandscaping.com/collections/raspberry",
+   "first_seen": "2026-09-22",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 6.0,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-20",
+     "price": 9.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "edible-landscaping--jewel",
+   "variety": "jewel",
+   "nursery": "edible-landscaping",
+   "status": "in_stock",
+   "price": 6.0,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://ediblelandscaping.com/collections/raspberry",
+   "first_seen": "2026-09-22",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 6.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "edible-landscaping--ohios-treasure",
+   "variety": "ohios-treasure",
+   "nursery": "edible-landscaping",
+   "status": "in_stock",
+   "price": 6.0,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://ediblelandscaping.com/collections/raspberry",
+   "first_seen": "2026-09-22",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 6.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "edible-landscaping--english-thornless",
+   "variety": "english-thornless",
+   "nursery": "edible-landscaping",
+   "status": "in_stock",
+   "price": 6.0,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://ediblelandscaping.com/collections/raspberry",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 6.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "edible-landscaping--crimson-night",
+   "variety": "crimson-night",
+   "nursery": "edible-landscaping",
+   "status": "sold_out",
+   "price": 6.0,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://ediblelandscaping.com/collections/raspberry",
+   "first_seen": "2026-09-22",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 6.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "edible-landscaping--polka",
+   "variety": "polka",
+   "nursery": "edible-landscaping",
+   "status": "sold_out",
+   "price": 6.0,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://ediblelandscaping.com/collections/raspberry",
+   "first_seen": "2026-09-22",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 6.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "edible-landscaping--royalty",
+   "variety": "royalty",
+   "nursery": "edible-landscaping",
+   "status": "sold_out",
+   "price": 6.0,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://ediblelandscaping.com/collections/raspberry",
+   "first_seen": "2026-09-22",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 6.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "double-a--anne",
+   "variety": "anne",
+   "nursery": "double-a",
+   "status": "in_stock",
+   "price": 5.5,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://doubleavineyards.com/collections/raspberries",
+   "first_seen": "2026-09-22",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 5.5,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "Anne Gold"
+  },
+  {
+   "id": "double-a--glencoe",
+   "variety": "glencoe",
+   "nursery": "double-a",
+   "status": "sold_out",
+   "price": 5.5,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://doubleavineyards.com/collections/raspberries",
+   "first_seen": "2026-09-22",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 5.5,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-15",
+     "price": 5.5,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "double-a--jewel",
+   "variety": "jewel",
+   "nursery": "double-a",
+   "status": "in_stock",
+   "price": 7.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://doubleavineyards.com/collections/raspberries",
+   "first_seen": "2026-09-22",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 7.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "double-a--niwot",
+   "variety": "niwot",
+   "nursery": "double-a",
+   "status": "in_stock",
+   "price": 7.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://doubleavineyards.com/collections/raspberries",
+   "first_seen": "2026-09-22",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 7.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "double-a--bristol",
+   "variety": "bristol",
+   "nursery": "double-a",
+   "status": "in_stock",
+   "price": 7.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://doubleavineyards.com/collections/raspberries",
+   "first_seen": "2026-09-22",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 7.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "raintree--shekinah-tahi",
+   "variety": "shekinah-tahi",
+   "nursery": "raintree",
+   "status": "in_stock",
+   "price": 26.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/collections/black-raspberry-plants",
+   "first_seen": "2026-09-22",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 26.99,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Ships spring 2027"
+  },
+  {
+   "id": "raintree--anne",
+   "variety": "anne",
+   "nursery": "raintree",
+   "status": "sold_out",
+   "price": 25.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/collections/raspberries",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Sold out as of Oct 10."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 25.99,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-10",
+     "price": 25.99,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-12",
+     "price": 25.99,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-20",
+     "price": 25.99,
+     "status": "sold_out"
+    }
+   ],
+   "ships": "Ships spring 2027",
+   "sold_as": "Anne Golden"
+  },
+  {
+   "id": "raintree--double-gold",
+   "variety": "double-gold",
+   "nursery": "raintree",
+   "status": "in_stock",
+   "price": 25.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/collections/raspberries",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 25.99,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Ships spring 2027",
+   "sold_as": "Double Gold Yellow"
+  },
+  {
+   "id": "raintree--fall-gold",
+   "variety": "fall-gold",
+   "nursery": "raintree",
+   "status": "sold_out",
+   "price": 24.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/collections/raspberries",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 24.99,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-26",
+     "price": 24.99,
+     "status": "sold_out"
+    }
+   ],
+   "ships": "Ships spring 2027"
+  },
+  {
+   "id": "raintree--jewel",
+   "variety": "jewel",
+   "nursery": "raintree",
+   "status": "sold_out",
+   "price": 24.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/collections/raspberries",
+   "first_seen": "2026-09-22",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 24.99,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "raintree--emerald-carpet",
+   "variety": "emerald-carpet",
+   "nursery": "raintree",
+   "status": "sold_out",
+   "price": 13.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/collections/raspberries",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "4-inch pot."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 13.99,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-12",
+     "price": 13.99,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-20",
+     "price": 13.99,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "food-forest--cumberland",
+   "variety": "cumberland",
+   "nursery": "food-forest",
+   "status": "no_ship",
+   "price": 14.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.foodforestnursery.com/product/cumberland-black-raspberry/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 14.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Ships ~Mar 22, 2027 (zone 6b)"
+  },
+  {
+   "id": "food-forest--royalty",
+   "variety": "royalty",
+   "nursery": "food-forest",
+   "status": "no_ship",
+   "price": 14.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.foodforestnursery.com/product/royalty-purple-raspberry/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 14.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Ships ~Mar 22, 2027 (zone 6b)"
+  },
+  {
+   "id": "food-forest--brandywine",
+   "variety": "brandywine",
+   "nursery": "food-forest",
+   "status": "no_ship",
+   "price": 14.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.foodforestnursery.com/product/brandywine-raspberry/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 14.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Ships ~Mar 22, 2027 (zone 6b)"
+  },
+  {
+   "id": "food-forest--anne",
+   "variety": "anne",
+   "nursery": "food-forest",
+   "status": "no_ship",
+   "price": 12.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.foodforestnursery.com/product/anne-raspberry/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 12.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Ships ~Mar 22, 2027 (zone 6b)"
+  },
+  {
+   "id": "food-forest--double-gold",
+   "variety": "double-gold",
+   "nursery": "food-forest",
+   "status": "no_ship",
+   "price": 12.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.foodforestnursery.com/product/double-gold-raspberry/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 12.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Ships ~Mar 22, 2027 (zone 6b)"
+  },
+  {
+   "id": "food-forest--jewel",
+   "variety": "jewel",
+   "nursery": "food-forest",
+   "status": "no_ship",
+   "price": 14.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.foodforestnursery.com/product/jewel-black-raspberry/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 14.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Ships ~Mar 22, 2027 (zone 6b)"
+  },
+  {
+   "id": "food-forest--bristol",
+   "variety": "bristol",
+   "nursery": "food-forest",
+   "status": "no_ship",
+   "price": 14.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.foodforestnursery.com/product/bristol-black-raspberry/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 14.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Ships ~Mar 22, 2027 (zone 6b)"
+  },
+  {
+   "id": "food-forest--niwot",
+   "variety": "niwot",
+   "nursery": "food-forest",
+   "status": "sold_out",
+   "price": 14.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.foodforestnursery.com/product/niwot-black-raspberry/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Restock expected with spring 2027 inventory in June."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 14.95,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "stark-bros--bristol",
+   "variety": "bristol",
+   "nursery": "stark-bros",
+   "status": "in_stock",
+   "price": 27.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.starkbros.com/products/berry-plants/raspberry-plants",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 27.99,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "stark-bros--crimson-night",
+   "variety": "crimson-night",
+   "nursery": "stark-bros",
+   "status": "in_stock",
+   "price": 19.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.starkbros.com/products/berry-plants/raspberry-plants",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "On sale at $19.99 as of Oct 10."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 21.99,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-10",
+     "price": 19.99,
+     "status": "in_stock"
+    }
+   ],
+   "on_sale": true
+  },
+  {
+   "id": "stark-bros--double-gold",
+   "variety": "double-gold",
+   "nursery": "stark-bros",
+   "status": "in_stock",
+   "price": 21.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.starkbros.com/products/berry-plants/raspberry-plants",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 21.99,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-02",
+     "price": 17.99,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-05",
+     "price": 21.99,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "stark-bros--royalty",
+   "variety": "royalty",
+   "nursery": "stark-bros",
+   "status": "in_stock",
+   "price": 13.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.starkbros.com/products/berry-plants/raspberry-plants/royalty-purple-raspberry",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "$13.99 per package when ordering 2+; bare-root, ships when climate suitable"
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": null,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-22",
+     "price": 13.99,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "package of 3 bare-root"
+  },
+  {
+   "id": "stark-bros--brandywine",
+   "variety": "brandywine",
+   "nursery": "stark-bros",
+   "status": "sold_out",
+   "price": null,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://www.starkbros.com/products/berry-plants/raspberry-plants",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Discontinued: “We are no longer offering this product.”"
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": null,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--anne",
+   "variety": "anne",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 12.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product-category/fruiting-trees-shrubs/raspberries/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 12.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-02",
+     "price": 12.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--bristol",
+   "variety": "bristol",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 12.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product-category/fruiting-trees-shrubs/raspberries/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 14.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-09-30",
+     "price": 12.95,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-01",
+     "price": 12.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-02",
+     "price": 19.95,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-11",
+     "price": 12.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--cascade-gold",
+   "variety": "cascade-gold",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 12.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product-category/fruiting-trees-shrubs/raspberries/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 12.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-09-30",
+     "price": 12.95,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-01",
+     "price": 12.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-02",
+     "price": 12.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--canby-thornless",
+   "variety": "canby-thornless",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 12.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product-category/fruiting-trees-shrubs/raspberries/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 12.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-11",
+     "price": 12.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--crimson-night",
+   "variety": "crimson-night",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 12.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product-category/fruiting-trees-shrubs/raspberries/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 12.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-04",
+     "price": 12.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--fall-gold",
+   "variety": "fall-gold",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 12.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product-category/fruiting-trees-shrubs/raspberries/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Back in stock as of Oct 6, 2026."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 12.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-06",
+     "price": 12.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--glencoe",
+   "variety": "glencoe",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 12.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product-category/fruiting-trees-shrubs/raspberries/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 12.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-09-30",
+     "price": 12.95,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-01",
+     "price": 12.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-02",
+     "price": 12.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--honey-queen",
+   "variety": "honey-queen",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 14.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product-category/fruiting-trees-shrubs/raspberries/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 14.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-09-30",
+     "price": 14.95,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-01",
+     "price": 14.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-02",
+     "price": 14.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--jewel",
+   "variety": "jewel",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 12.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product-category/fruiting-trees-shrubs/raspberries/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Back in stock (was sold out at $19.95); product page shows Add to cart, $12.95-$19.95 by size."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 19.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-11",
+     "price": 12.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--munger",
+   "variety": "munger",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 12.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product-category/fruiting-trees-shrubs/raspberries/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 12.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-02",
+     "price": 12.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--ohios-treasure",
+   "variety": "ohios-treasure",
+   "nursery": "one-green-world",
+   "status": "sold_out",
+   "price": 12.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product-category/fruiting-trees-shrubs/raspberries/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 12.95,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "nourse-farms--bristol",
+   "variety": "bristol",
+   "nursery": "nourse-farms",
+   "status": "in_stock",
+   "price": 6.52,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.noursefarms.com/collections/raspberries",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Online ordering open; minimum order quantities apply"
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": null,
+     "status": "season_closed"
+    },
+    {
+     "date": "2026-11-02",
+     "price": null,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-11-09",
+     "price": 6.52,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "nourse-farms--jewel",
+   "variety": "jewel",
+   "nursery": "nourse-farms",
+   "status": "in_stock",
+   "price": 6.52,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.noursefarms.com/collections/raspberries",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Online ordering open; minimum order quantities apply"
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": null,
+     "status": "season_closed"
+    },
+    {
+     "date": "2026-11-02",
+     "price": null,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-11-09",
+     "price": 6.52,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "nourse-farms--mac-black",
+   "variety": "mac-black",
+   "nursery": "nourse-farms",
+   "status": "sold_out",
+   "price": null,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://www.noursefarms.com/collections/raspberries",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Online ordering open; minimum order quantities apply"
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": null,
+     "status": "season_closed"
+    },
+    {
+     "date": "2026-11-02",
+     "price": null,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "nourse-farms--niwot",
+   "variety": "niwot",
+   "nursery": "nourse-farms",
+   "status": "in_stock",
+   "price": 7.73,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.noursefarms.com/collections/raspberries",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Online ordering open; minimum order quantities apply"
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": null,
+     "status": "season_closed"
+    },
+    {
+     "date": "2026-11-02",
+     "price": null,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-11-09",
+     "price": 7.73,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "nourse-farms--shekinah-tahi",
+   "variety": "shekinah-tahi",
+   "nursery": "nourse-farms",
+   "status": "unconfirmed",
+   "price": null,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://www.noursefarms.com/collections/raspberries",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Online ordering open; minimum order quantities apply"
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": null,
+     "status": "season_closed"
+    },
+    {
+     "date": "2026-11-02",
+     "price": null,
+     "status": "unconfirmed"
+    }
+   ]
+  },
+  {
+   "id": "nourse-farms--royalty",
+   "variety": "royalty",
+   "nursery": "nourse-farms",
+   "status": "unconfirmed",
+   "price": null,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://www.noursefarms.com/collections/raspberries",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Online ordering open; minimum order quantities apply"
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": null,
+     "status": "season_closed"
+    },
+    {
+     "date": "2026-11-02",
+     "price": null,
+     "status": "unconfirmed"
+    }
+   ]
+  },
+  {
+   "id": "nourse-farms--double-gold",
+   "variety": "double-gold",
+   "nursery": "nourse-farms",
+   "status": "in_stock",
+   "price": 4.7,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.noursefarms.com/collections/raspberries",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Online ordering open; minimum order quantities apply"
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": null,
+     "status": "season_closed"
+    },
+    {
+     "date": "2026-11-02",
+     "price": null,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-11-09",
+     "price": 4.7,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "nourse-farms--anne",
+   "variety": "anne",
+   "nursery": "nourse-farms",
+   "status": "in_stock",
+   "price": 3.47,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.noursefarms.com/collections/raspberries",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Online ordering open; minimum order quantities apply"
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": null,
+     "status": "season_closed"
+    },
+    {
+     "date": "2026-11-02",
+     "price": null,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-11-09",
+     "price": 3.47,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "indiana-berry--bristol",
+   "variety": "bristol",
+   "nursery": "indiana-berry",
+   "status": "season_closed",
+   "price": null,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://www.indianaberry.com/raspberries.html",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-10-20",
+   "notes": [
+    "Sold out for 2026; spring 2027 orders open in December."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": null,
+     "status": "season_closed"
+    }
+   ]
+  },
+  {
+   "id": "indiana-berry--jewel",
+   "variety": "jewel",
+   "nursery": "indiana-berry",
+   "status": "season_closed",
+   "price": null,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://www.indianaberry.com/raspberries.html",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-10-20",
+   "notes": [
+    "Sold out for 2026; spring 2027 orders open in December."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": null,
+     "status": "season_closed"
+    }
+   ]
+  },
+  {
+   "id": "indiana-berry--brandywine",
+   "variety": "brandywine",
+   "nursery": "indiana-berry",
+   "status": "season_closed",
+   "price": null,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://www.indianaberry.com/raspberries.html",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-10-20",
+   "notes": [
+    "Sold out for 2026; spring 2027 orders open in December."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": null,
+     "status": "season_closed"
+    }
+   ]
+  },
+  {
+   "id": "indiana-berry--royalty",
+   "variety": "royalty",
+   "nursery": "indiana-berry",
+   "status": "season_closed",
+   "price": null,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://www.indianaberry.com/raspberries.html",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-10-20",
+   "notes": [
+    "Sold out for 2026; spring 2027 orders open in December."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": null,
+     "status": "season_closed"
+    }
+   ]
+  },
+  {
+   "id": "indiana-berry--glencoe",
+   "variety": "glencoe",
+   "nursery": "indiana-berry",
+   "status": "season_closed",
+   "price": null,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://www.indianaberry.com/raspberries.html",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-10-20",
+   "notes": [
+    "Sold out for 2026; spring 2027 orders open in December."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": null,
+     "status": "season_closed"
+    }
+   ]
+  },
+  {
+   "id": "indiana-berry--anne",
+   "variety": "anne",
+   "nursery": "indiana-berry",
+   "status": "season_closed",
+   "price": null,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://www.indianaberry.com/raspberries.html",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-10-20",
+   "notes": [
+    "Sold out for 2026; spring 2027 orders open in December."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": null,
+     "status": "season_closed"
+    }
+   ]
+  },
+  {
+   "id": "indiana-berry--double-gold",
+   "variety": "double-gold",
+   "nursery": "indiana-berry",
+   "status": "season_closed",
+   "price": null,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://www.indianaberry.com/raspberries.html",
+   "first_seen": "2026-09-22",
+   "last_checked": "2026-10-20",
+   "notes": [
+    "Sold out for 2026; spring 2027 orders open in December."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": null,
+     "status": "season_closed"
+    }
+   ]
+  },
+  {
+   "id": "indiana-berry--fall-gold",
+   "variety": "fall-gold",
+   "nursery": "indiana-berry",
+   "status": "season_closed",
+   "price": null,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://www.indianaberry.com/raspberries.html",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-10-20",
+   "notes": [
+    "Sold out for 2026; spring 2027 orders open in December."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": null,
+     "status": "season_closed"
+    }
+   ]
+  },
+  {
+   "id": "hartmanns--ohios-treasure",
+   "variety": "ohios-treasure",
+   "nursery": "hartmanns",
+   "status": "in_stock",
+   "price": 25.5,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://hartmannsplantcompany.com/retail/ohios-treasure-everbearing-black-raspberry/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Price is for a 6-plant pack of 3.25-inch pots ($4.25 a plant)."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 25.5,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "hartmanns--purple-dream",
+   "variety": "purple-dream",
+   "nursery": "hartmanns",
+   "status": "sold_out",
+   "price": 3.25,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://hartmannsplantcompany.com/purple-raspberries/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Wholesale listing."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 3.25,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "hartmanns--pequot-lakes",
+   "variety": "pequot-lakes",
+   "nursery": "hartmanns",
+   "status": "sold_out",
+   "price": 25.5,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://hartmannsplantcompany.com/black-raspberries/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": null,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-11-09",
+     "price": 25.5,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "hartmanns--black-delicious",
+   "variety": "black-delicious",
+   "nursery": "hartmanns",
+   "status": "unconfirmed",
+   "price": 2.55,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://hartmannsplantcompany.com/black-raspberries/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Wholesale-only listing; shown in stock at $2.55/plant. Pricing vs. the 6-pack figures elsewhere on the site remains ambiguous."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": null,
+     "status": "unconfirmed"
+    }
+   ]
+  },
+  {
+   "id": "food-forest--glencoe",
+   "variety": "glencoe",
+   "nursery": "food-forest",
+   "status": "no_ship",
+   "price": 14.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.foodforestnursery.com/product/glencoe-raspberry/",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 14.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Ships ~Mar 22, 2027 (zone 6b)"
+  },
+  {
+   "id": "hartmanns--jewel",
+   "variety": "jewel",
+   "nursery": "hartmanns",
+   "status": "in_stock",
+   "price": 25.5,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://hartmannsplantcompany.com/retail/jewell-black-raspberry/",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Price is for a 6-plant pack of 3.25-inch pots ($4.25 a plant)."
+   ],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 25.5,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "Jewell Black Raspberry"
+  },
+  {
+   "id": "st-lawrence--brandywine",
+   "variety": "brandywine",
+   "nursery": "st-lawrence",
+   "status": "in_stock",
+   "price": 8.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "/products/brandywine-purple-raspberry",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Shipped Spring 2027."
+   ],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 8.0,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-02",
+     "price": 8.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Spring 2027"
+  },
+  {
+   "id": "berryplants--anne",
+   "variety": "anne",
+   "nursery": "berryplants",
+   "status": "in_stock",
+   "price": 12.5,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://berryplants.com/raspberries.php",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 12.5,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "berryplants--double-gold",
+   "variety": "double-gold",
+   "nursery": "berryplants",
+   "status": "in_stock",
+   "price": 12.5,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://berryplants.com/raspberries.php",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Page says SHIPS SPRING ONLY; taking orders Fall 2026/Spring 2027"
+   ],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 12.5,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "spring only"
+  },
+  {
+   "id": "berryplants--fall-gold",
+   "variety": "fall-gold",
+   "nursery": "berryplants",
+   "status": "in_stock",
+   "price": 12.5,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://berryplants.com/raspberries.php",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 12.5,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "berryplants--royalty",
+   "variety": "royalty",
+   "nursery": "berryplants",
+   "status": "in_stock",
+   "price": 12.5,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://berryplants.com/raspberries.php",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 12.5,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "berryplants--brandywine",
+   "variety": "brandywine",
+   "nursery": "berryplants",
+   "status": "in_stock",
+   "price": 12.5,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://berryplants.com/raspberries.php",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 12.5,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "berryplants--jewel",
+   "variety": "jewel",
+   "nursery": "berryplants",
+   "status": "in_stock",
+   "price": 12.5,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://berryplants.com/raspberries.php",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 12.5,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "berryplants--black-hawk",
+   "variety": "black-hawk",
+   "nursery": "berryplants",
+   "status": "in_stock",
+   "price": 12.5,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://berryplants.com/raspberries.php",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 12.5,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "berryplants--allen",
+   "variety": "allen",
+   "nursery": "berryplants",
+   "status": "in_stock",
+   "price": 12.5,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://berryplants.com/raspberries.php",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 12.5,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "berryplants--bristol",
+   "variety": "bristol",
+   "nursery": "berryplants",
+   "status": "in_stock",
+   "price": 12.5,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://berryplants.com/raspberries.php",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Page says SHIPS SPRING ONLY; taking orders Fall 2026/Spring 2027"
+   ],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 12.5,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "spring only"
+  },
+  {
+   "id": "berryplants--cumberland",
+   "variety": "cumberland",
+   "nursery": "berryplants",
+   "status": "in_stock",
+   "price": 12.5,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://berryplants.com/raspberries.php",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 12.5,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "burpee--glencoe",
+   "variety": "glencoe",
+   "nursery": "burpee",
+   "status": "in_stock",
+   "price": 17.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.burpee.com/fruit/raspberry-plants/",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 17.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "burpee--jewel",
+   "variety": "jewel",
+   "nursery": "burpee",
+   "status": "sold_out",
+   "price": 13.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://www.burpee.com/fruit/raspberry-plants/",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 13.95,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-20",
+     "price": 13.95,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "burpee--royalty",
+   "variety": "royalty",
+   "nursery": "burpee",
+   "status": "in_stock",
+   "price": 13.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://www.burpee.com/fruit/raspberry-plants/",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 13.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "burpee--double-gold",
+   "variety": "double-gold",
+   "nursery": "burpee",
+   "status": "in_stock",
+   "price": 15.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.burpee.com/fruit/raspberry-plants/",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 15.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "burpee--niwot",
+   "variety": "niwot",
+   "nursery": "burpee",
+   "status": "sold_out",
+   "price": 15.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.burpee.com/fruit/raspberry-plants/",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 15.95,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "burpee--fall-gold",
+   "variety": "fall-gold",
+   "nursery": "burpee",
+   "status": "sold_out",
+   "price": 25.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.burpee.com/fruit/raspberry-plants/",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 25.95,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "burpee--shekinah-tahi",
+   "variety": "shekinah-tahi",
+   "nursery": "burpee",
+   "status": "in_stock",
+   "price": 15.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.burpee.com/fruit/raspberry-plants/",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 15.95,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "Tahi Raspberry"
+  },
+  {
+   "id": "burpee--crimson-night",
+   "variety": "crimson-night",
+   "nursery": "burpee",
+   "status": "in_stock",
+   "price": 15.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.burpee.com/fruit/raspberry-plants/",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 15.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "burpee--bristol",
+   "variety": "bristol",
+   "nursery": "burpee",
+   "status": "in_stock",
+   "price": 15.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.burpee.com/fruit/raspberry-plants/",
+   "first_seen": "2026-09-27",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-27",
+     "price": 15.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "pense-berry-farm--bristol",
+   "variety": "bristol",
+   "nursery": "pense-berry-farm",
+   "status": "in_stock",
+   "price": 12.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://penseberryfarm.com/collections/raspberry-plant-varieties",
+   "first_seen": "2026-09-27",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Sold out; ship dates Mid-Nov to Jun 1."
+   ],
+   "history": [
+    {
+     "date": "2026-09-27",
+     "price": 12.0,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-11-02",
+     "price": 12.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Mid-November to June 1",
+   "was_price": null
+  },
+  {
+   "id": "pense-berry-farm--anne",
+   "variety": "anne",
+   "nursery": "pense-berry-farm",
+   "status": "in_stock",
+   "price": 11.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://penseberryfarm.com/collections/raspberry-plant-varieties",
+   "first_seen": "2026-09-27",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Sold out; ship dates Mid-Nov to Jun 1."
+   ],
+   "history": [
+    {
+     "date": "2026-09-27",
+     "price": 11.0,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-11-02",
+     "price": 11.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Mid-November to June 1",
+   "was_price": null
+  },
+  {
+   "id": "pense-berry-farm--double-gold",
+   "variety": "double-gold",
+   "nursery": "pense-berry-farm",
+   "status": "in_stock",
+   "price": 11.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://penseberryfarm.com/collections/raspberry-plant-varieties",
+   "first_seen": "2026-09-27",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Sold out; ship dates Mid-Nov to Jun 1."
+   ],
+   "history": [
+    {
+     "date": "2026-09-27",
+     "price": 11.0,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-11-02",
+     "price": 11.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Mid-November to June 1",
+   "was_price": null
+  },
+  {
+   "id": "bob-wells--black-hawk",
+   "variety": "black-hawk",
+   "nursery": "bob-wells",
+   "status": "sold_out",
+   "price": null,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://bobwellsnursery.com/product/black-hawk-raspberry/",
+   "first_seen": "2026-09-27",
+   "last_checked": "2026-10-15",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-27",
+     "price": null,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "bob-wells--cumberland",
+   "variety": "cumberland",
+   "nursery": "bob-wells",
+   "status": "sold_out",
+   "price": null,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://bobwellsnursery.com/product/cumberland-black-raspberry-plant/",
+   "first_seen": "2026-09-27",
+   "last_checked": "2026-10-15",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-27",
+     "price": null,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "bob-wells--double-gold",
+   "variety": "double-gold",
+   "nursery": "bob-wells",
+   "status": "sold_out",
+   "price": null,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://bobwellsnursery.com/product/double-gold-raspberry-plant/",
+   "first_seen": "2026-09-27",
+   "last_checked": "2026-10-15",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-27",
+     "price": null,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "bob-wells--fall-gold",
+   "variety": "fall-gold",
+   "nursery": "bob-wells",
+   "status": "sold_out",
+   "price": null,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://bobwellsnursery.com/product/fall-gold-raspberry/",
+   "first_seen": "2026-09-27",
+   "last_checked": "2026-10-15",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-27",
+     "price": null,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "bob-wells--anne",
+   "variety": "anne",
+   "nursery": "bob-wells",
+   "status": "sold_out",
+   "price": null,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://bobwellsnursery.com/product/golden-anne-raspberry-plant/",
+   "first_seen": "2026-09-27",
+   "last_checked": "2026-10-15",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-27",
+     "price": null,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "berries-unlimited--shekinah-tahi",
+   "variety": "shekinah-tahi",
+   "nursery": "berries-unlimited",
+   "status": "in_stock",
+   "price": 28.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.berriesunlimited.com/raspberries.html/",
+   "first_seen": "2026-09-27",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-27",
+     "price": 28.99,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "Tahi"
+  },
+  {
+   "id": "berries-unlimited--crimson-night",
+   "variety": "crimson-night",
+   "nursery": "berries-unlimited",
+   "status": "in_stock",
+   "price": 21.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.berriesunlimited.com/raspberries.html/",
+   "first_seen": "2026-09-27",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-27",
+     "price": 21.99,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "gurneys--anne",
+   "variety": "anne",
+   "nursery": "gurneys",
+   "status": "in_stock",
+   "price": 23.99,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://www.gurneys.com/collections/raspberry-plants",
+   "first_seen": "2026-09-28",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-28",
+     "price": 29.99,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-14",
+     "price": 24.99,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-20",
+     "price": 23.99,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-22",
+     "price": 23.99,
+     "status": "in_stock"
+    }
+   ],
+   "was_price": 29.99,
+   "ships": "fall"
+  },
+  {
+   "id": "gurneys--niwot",
+   "variety": "niwot",
+   "nursery": "gurneys",
+   "status": "in_stock",
+   "price": 27.99,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://www.gurneys.com/collections/raspberry-plants",
+   "first_seen": "2026-09-28",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-28",
+     "price": 27.99,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-22",
+     "price": 27.99,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "Sweet Repeat Black Raspberry",
+   "ships": "spring"
+  },
+  {
+   "id": "gurneys--born-free",
+   "variety": "born-free",
+   "nursery": "gurneys",
+   "status": "in_stock",
+   "price": 34.99,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://www.gurneys.com/collections/raspberry-plants",
+   "first_seen": "2026-09-28",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-28",
+     "price": 34.99,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-22",
+     "price": 34.99,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "spring"
+  },
+  {
+   "id": "gurneys--canby-thornless",
+   "variety": "canby-thornless",
+   "nursery": "gurneys",
+   "status": "in_stock",
+   "price": 17.99,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://www.gurneys.com/collections/raspberry-plants",
+   "first_seen": "2026-09-28",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-28",
+     "price": 17.99,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-11-05",
+     "price": 17.99,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "gurneys--crimson-night",
+   "variety": "crimson-night",
+   "nursery": "gurneys",
+   "status": "in_stock",
+   "price": 15.99,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://www.gurneys.com/collections/raspberry-plants",
+   "first_seen": "2026-09-28",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-28",
+     "price": 15.99,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-11-05",
+     "price": 15.99,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "gurneys--jewel",
+   "variety": "jewel",
+   "nursery": "gurneys",
+   "status": "sold_out",
+   "price": 12.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.gurneys.com/collections/raspberry-plants",
+   "first_seen": "2026-09-28",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-28",
+     "price": 12.99,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "tyty--black-hawk",
+   "variety": "black-hawk",
+   "nursery": "tyty",
+   "status": "in_stock",
+   "price": 18.75,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://www.tytyga.com/Black-Hawk-Raspberry-p/berras-blk-bk-hawk.htm",
+   "first_seen": "2026-09-29",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "2-year-old vine $18.75; 3-year fruiting-size plant $26.75. Ships fall/winter, projected Dec 14, 2026."
+   ],
+   "history": [
+    {
+     "date": "2026-09-29",
+     "price": 18.75,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Projected 12-14-26 fall shipment"
+  },
+  {
+   "id": "handpicked--bristol",
+   "variety": "bristol",
+   "nursery": "handpicked",
+   "status": "in_stock",
+   "price": 19.25,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://www.handpickednursery.com/collections/raspberry-blackberry",
+   "first_seen": "2026-09-29",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-29",
+     "price": 19.25,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "handpicked--jewel",
+   "variety": "jewel",
+   "nursery": "handpicked",
+   "status": "in_stock",
+   "price": 17.99,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://www.handpickednursery.com/collections/raspberry-blackberry",
+   "first_seen": "2026-09-29",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-29",
+     "price": 17.99,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "handpicked--shekinah-tahi",
+   "variety": "shekinah-tahi",
+   "nursery": "handpicked",
+   "status": "in_stock",
+   "price": 19.25,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://www.handpickednursery.com/collections/raspberry-blackberry",
+   "first_seen": "2026-09-29",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "sold_as": "Tahi Black Raspberry",
+   "history": [
+    {
+     "date": "2026-09-29",
+     "price": 19.25,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "handpicked--anne",
+   "variety": "anne",
+   "nursery": "handpicked",
+   "status": "in_stock",
+   "price": 18.25,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://www.handpickednursery.com/collections/raspberry-blackberry",
+   "first_seen": "2026-09-29",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-29",
+     "price": 18.25,
+     "status": "in_stock"
+    }
+   ],
+   "was_price": 19.95,
+   "on_sale": true
+  },
+  {
+   "id": "handpicked--double-gold",
+   "variety": "double-gold",
+   "nursery": "handpicked",
+   "status": "in_stock",
+   "price": 18.25,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://www.handpickednursery.com/collections/raspberry-blackberry",
+   "first_seen": "2026-09-29",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-29",
+     "price": 18.25,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "scenic-hill--bristol",
+   "variety": "bristol",
+   "nursery": "scenic-hill",
+   "status": "in_stock",
+   "price": 24.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://scenichillfarmnursery.com/collections/potted-raspberry-plants",
+   "first_seen": "2026-09-29",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Listed jointly as “Bristol/Munger Black Raspberry” — shared SKU and price for both cultivars."
+   ],
+   "history": [
+    {
+     "date": "2026-09-29",
+     "price": 24.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "scenic-hill--munger",
+   "variety": "munger",
+   "nursery": "scenic-hill",
+   "status": "in_stock",
+   "price": 24.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://scenichillfarmnursery.com/collections/potted-raspberry-plants",
+   "first_seen": "2026-09-29",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Listed jointly as “Bristol/Munger Black Raspberry” — shared SKU and price for both cultivars."
+   ],
+   "history": [
+    {
+     "date": "2026-09-29",
+     "price": 24.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "scenic-hill--jewel",
+   "variety": "jewel",
+   "nursery": "scenic-hill",
+   "status": "in_stock",
+   "price": 24.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://scenichillfarmnursery.com/collections/potted-raspberry-plants",
+   "first_seen": "2026-09-29",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-29",
+     "price": 24.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "scenic-hill--double-gold",
+   "variety": "double-gold",
+   "nursery": "scenic-hill",
+   "status": "in_stock",
+   "price": 26.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://scenichillfarmnursery.com/collections/potted-raspberry-plants",
+   "first_seen": "2026-09-29",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-29",
+     "price": 26.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "scenic-hill--fall-gold",
+   "variety": "fall-gold",
+   "nursery": "scenic-hill",
+   "status": "in_stock",
+   "price": 24.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://scenichillfarmnursery.com/collections/potted-raspberry-plants",
+   "first_seen": "2026-09-29",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-29",
+     "price": 24.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "scenic-hill--honey-queen",
+   "variety": "honey-queen",
+   "nursery": "scenic-hill",
+   "status": "in_stock",
+   "price": 24.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://scenichillfarmnursery.com/collections/potted-raspberry-plants",
+   "first_seen": "2026-09-29",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-29",
+     "price": 24.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "scenic-hill--cascade-gold",
+   "variety": "cascade-gold",
+   "nursery": "scenic-hill",
+   "status": "in_stock",
+   "price": 26.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://scenichillfarmnursery.com/collections/potted-raspberry-plants",
+   "first_seen": "2026-09-29",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-29",
+     "price": 26.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "scenic-hill--glencoe",
+   "variety": "glencoe",
+   "nursery": "scenic-hill",
+   "status": "sold_out",
+   "price": null,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://scenichillfarmnursery.com/collections/potted-raspberry-plants",
+   "first_seen": "2026-09-29",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-29",
+     "price": null,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "scenic-hill--royalty",
+   "variety": "royalty",
+   "nursery": "scenic-hill",
+   "status": "in_stock",
+   "price": 24.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://scenichillfarmnursery.com/products/potted-royalty-purple-raspberry-plants-sweet-great-flavor-productive",
+   "first_seen": "2026-09-29",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "6-8 month starter plant $24.95 (sale); 2-year potted plant $32.95."
+   ],
+   "history": [
+    {
+     "date": "2026-09-29",
+     "price": 24.95,
+     "status": "in_stock"
+    }
+   ],
+   "on_sale": false,
+   "was_price": null
+  },
+  {
+   "id": "tyty--bristol",
+   "variety": "bristol",
+   "nursery": "tyty",
+   "status": "in_stock",
+   "price": 18.75,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://www.tytyga.com/Bristol-Raspberry-p/berras-blk-bristol.htm",
+   "first_seen": "2026-09-30",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "2-year-old vine $18.75; 3-year fruiting-size plant $26.75. Ships fall/winter, projected Dec 14, 2026."
+   ],
+   "history": [
+    {
+     "date": "2026-09-30",
+     "price": 18.75,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Projected 12-14-26 fall shipment"
+  },
+  {
+   "id": "tyty--cumberland",
+   "variety": "cumberland",
+   "nursery": "tyty",
+   "status": "in_stock",
+   "price": 18.75,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://www.tytyga.com/Cumberland-Raspberry-p/berras-blk-cumber.htm",
+   "first_seen": "2026-09-30",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "2-year-old vine $18.75; 3-year fruiting-size plant $26.75. Ships fall/winter, projected Dec 14, 2026."
+   ],
+   "history": [
+    {
+     "date": "2026-09-30",
+     "price": 18.75,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Projected 12-14-26 fall shipment"
+  },
+  {
+   "id": "tyty--fall-gold",
+   "variety": "fall-gold",
+   "nursery": "tyty",
+   "status": "in_stock",
+   "price": 18.75,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://www.tytyga.com/Fall-Gold-Raspberry-p/berras-yel-fall-gld.htm",
+   "first_seen": "2026-09-30",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "2-year-old vine $18.75; 3-year fruiting-size plant $26.75. Ships fall/winter, projected Dec 14, 2026."
+   ],
+   "history": [
+    {
+     "date": "2026-09-30",
+     "price": 18.75,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Projected 12-14-26 fall shipment"
+  },
+  {
+   "id": "tyty--brandywine",
+   "variety": "brandywine",
+   "nursery": "tyty",
+   "status": "in_stock",
+   "price": 18.75,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://www.tytyga.com/Brandywine-Raspberry-p/berras-pur-brandy.htm",
+   "first_seen": "2026-09-30",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "2-year-old vine $18.75; 3-year fruiting-size plant $26.75. Ships fall/winter, projected Dec 14, 2026."
+   ],
+   "history": [
+    {
+     "date": "2026-09-30",
+     "price": 18.75,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "projected 12-14-26"
+  },
+  {
+   "id": "perfectplants--jewel",
+   "variety": "jewel",
+   "nursery": "perfectplants",
+   "status": "sold_out",
+   "price": 29.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://myperfectplants.com/products/jewel-black-raspberry-plant",
+   "first_seen": "2026-09-30",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "“Inventory on the way.”"
+   ],
+   "history": [
+    {
+     "date": "2026-09-30",
+     "price": 29.95,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "peacefulheritage--niwot",
+   "variety": "niwot",
+   "nursery": "peacefulheritage",
+   "status": "sold_out",
+   "price": 21.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://peacefulheritage.com/products/niwot-everbearing-black-raspberry-bundles",
+   "first_seen": "2026-09-30",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Listed price ($21.99) is for a 2-plant bundle; no standalone single-plant price published."
+   ],
+   "history": [
+    {
+     "date": "2026-09-30",
+     "price": null,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-05",
+     "price": 21.99,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "treesdotcom--fall-gold",
+   "variety": "fall-gold",
+   "nursery": "treesdotcom",
+   "status": "sold_out",
+   "price": 27.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.trees.com/products/golden-raspberry",
+   "first_seen": "2026-09-30",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Sold out.",
+    "Site shows \"Restocking soon\" as of Oct 5."
+   ],
+   "history": [
+    {
+     "date": "2026-09-30",
+     "price": 27.95,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "stark-bros--munger",
+   "variety": "munger",
+   "nursery": "stark-bros",
+   "status": "sold_out",
+   "price": null,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.starkbros.com/products/berry-plants/raspberry-plants",
+   "first_seen": "2026-10-02",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Not shown in the in-stock lineup Oct 6; grouped with ~21 out-of-stock items on the site."
+   ],
+   "history": [
+    {
+     "date": "2026-10-02",
+     "price": 24.99,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-06",
+     "price": null,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "naturehills--jewel",
+   "variety": "jewel",
+   "nursery": "naturehills",
+   "status": "in_stock",
+   "price": 39.08,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://naturehills.com/products/raspberry-jewel",
+   "first_seen": "2026-10-02",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "#1 container size."
+   ],
+   "history": [
+    {
+     "date": "2026-10-02",
+     "price": 39.08,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "pixiesgardens--jewel",
+   "variety": "jewel",
+   "nursery": "pixiesgardens",
+   "status": "sold_out",
+   "price": 49.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.pixiesgardens.com/products/black-raspberry-plants",
+   "first_seen": "2026-10-02",
+   "last_checked": "2026-11-02",
+   "notes": [
+    "1-gallon single-plant price; all sizes sold out."
+   ],
+   "history": [
+    {
+     "date": "2026-10-02",
+     "price": 49.99,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "burntridge--anne",
+   "variety": "anne",
+   "nursery": "burntridge",
+   "status": "unconfirmed",
+   "price": null,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://www.burntridgenursery.com/Raspberry/products/50/",
+   "first_seen": "2026-10-02",
+   "last_checked": "2026-10-11",
+   "notes": [
+    "Listed as \"Anne Everbearing Yellow Raspberry\" with no price or stock status shown on the category page."
+   ],
+   "history": [
+    {
+     "date": "2026-10-02",
+     "price": null,
+     "status": "unconfirmed"
+    }
+   ]
+  },
+  {
+   "id": "berries-unlimited--glencoe",
+   "variety": "glencoe",
+   "nursery": "berries-unlimited",
+   "status": "sold_out",
+   "price": 21.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.berriesunlimited.com/glencoe-purple-raspberry/",
+   "first_seen": "2026-10-03",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-03",
+     "price": 21.99,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "isons--jewel",
+   "variety": "jewel",
+   "nursery": "isons",
+   "status": "in_stock",
+   "price": 9.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.isons.com/shop/berry-plants/raspberry/jewel-raspberry-plant/",
+   "first_seen": "2026-10-03",
+   "last_checked": "2026-11-05",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-03",
+     "price": 9.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Ships Dec-Apr"
+  },
+  {
+   "id": "isons--double-gold",
+   "variety": "double-gold",
+   "nursery": "isons",
+   "status": "in_stock",
+   "price": 8.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.isons.com/shop/berry-plants/raspberry/double-gold-raspberry-plant/",
+   "first_seen": "2026-10-03",
+   "last_checked": "2026-11-05",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-03",
+     "price": 8.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Ships Dec-Apr"
+  },
+  {
+   "id": "greenwood--cumberland",
+   "variety": "cumberland",
+   "nursery": "greenwood",
+   "status": "sold_out",
+   "price": 9.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.greenwoodnursery.com/products/cumberland-black-raspberry-plants",
+   "first_seen": "2026-10-03",
+   "last_checked": "2026-11-05",
+   "notes": [
+    "Page shows Sold out; estimated to ship in November."
+   ],
+   "history": [
+    {
+     "date": "2026-10-03",
+     "price": 9.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-29",
+     "price": 9.95,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-11-05",
+     "price": 9.95,
+     "status": "sold_out"
+    }
+   ],
+   "ships": "Estimated to ship in November"
+  },
+  {
+   "id": "migardener--royalty",
+   "variety": "royalty",
+   "nursery": "migardener",
+   "status": "sold_out",
+   "price": 6.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://migardener.com/collections/dormant-plants/products/royalty-purple-raspberry",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 6.99,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "arborday--jewel",
+   "variety": "jewel",
+   "nursery": "arborday",
+   "status": "sold_out",
+   "price": 24.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://shop.arborday.org/jewel-black-raspberry",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": "Page shows back-in-stock signup; likely out of stock",
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 24.99,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-07",
+     "price": 24.99,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-29",
+     "price": 24.99,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-11-09",
+     "price": 24.99,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "isons--royalty",
+   "variety": "royalty",
+   "nursery": "isons",
+   "status": "sold_out",
+   "price": null,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://isons.com/?p=141525",
+   "first_seen": "2026-10-05",
+   "last_checked": "2026-11-05",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-05",
+     "price": null,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "naturehills--anne",
+   "variety": "anne",
+   "nursery": "naturehills",
+   "status": "sold_out",
+   "price": null,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://naturehills.com/products/anne-raspberry",
+   "first_seen": "2026-10-05",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Listed as backordered, ships when back in stock."
+   ],
+   "history": [
+    {
+     "date": "2026-10-05",
+     "price": null,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--brandywine",
+   "variety": "brandywine",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 12.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product-category/fruiting-trees-shrubs/raspberries/",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 12.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-11",
+     "price": 12.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "scenic-hill--canby-thornless",
+   "variety": "canby-thornless",
+   "nursery": "scenic-hill",
+   "status": "in_stock",
+   "price": 24.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://scenichillfarmnursery.com/collections/potted-raspberry-plants",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 24.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "hollandbulbfarms--royalty",
+   "variety": "royalty",
+   "nursery": "hollandbulbfarms",
+   "status": "in_stock",
+   "price": 16.76,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.hollandbulbfarms.com/spring-planting-bulbs/fruit-plants/royalty-purple-raspberry-plant",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Spring pre-order, ships spring."
+   ],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 16.76,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Spring",
+   "was_price": 23.95,
+   "on_sale": true
+  },
+  {
+   "id": "groworganic--anne",
+   "variety": "anne",
+   "nursery": "groworganic",
+   "status": "in_stock",
+   "price": 34.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.groworganic.com/products/organic-raspberry-anne-golden-ea",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Product page shows Add to cart (pre-order), $34.99"
+   ],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 34.99,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-15",
+     "price": 34.99,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "pre-order, ships after Jan 15, 2027"
+  },
+  {
+   "id": "waysidegardens--anne",
+   "variety": "anne",
+   "nursery": "waysidegardens",
+   "status": "sold_out",
+   "price": 17.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://www.waysidegardens.com/raspberry-anne-40651-pk-3.html",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-10-26",
+   "notes": [
+    "Sold only in packs of 3+; price shown is per-plant in a 3-pack."
+   ],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 17.95,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "springhill--jewel",
+   "variety": "jewel",
+   "nursery": "springhill",
+   "status": "sold_out",
+   "price": 19.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://springhillnursery.com/products/jewel-raspberry",
+   "first_seen": "2026-10-07",
+   "last_checked": "2026-11-02",
+   "notes": [
+    "Sold out; pre-order shown, \"ships in spring.\" Not on restricted-state list (AE, AK, GU, HI, PR)."
+   ],
+   "history": [
+    {
+     "date": "2026-10-07",
+     "price": 19.99,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "mckay-nursery--jewel",
+   "variety": "jewel",
+   "nursery": "mckay-nursery",
+   "status": "unconfirmed",
+   "price": 39.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://mckaynursery.com/jewel-raspberry",
+   "first_seen": "2026-10-07",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Page says in stock but also 'no longer shipping this fall season'; shows from $13.99"
+   ],
+   "history": [
+    {
+     "date": "2026-10-07",
+     "price": 39.99,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-11-02",
+     "price": 39.99,
+     "status": "unconfirmed"
+    }
+   ],
+   "ships": "Spring (small fruits ship only in spring)"
+  },
+  {
+   "id": "johnnys-seeds--royalty",
+   "variety": "royalty",
+   "nursery": "johnnys-seeds",
+   "status": "unconfirmed",
+   "price": null,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://www.johnnyseeds.com/fruits/raspberry/royalty-purple-raspberry-plants-5037.html",
+   "first_seen": "2026-10-08",
+   "last_checked": "2026-10-11",
+   "notes": [
+    "Listed for sale; price and stock status not shown on the product page as fetched Oct 8, 2026."
+   ],
+   "history": [
+    {
+     "date": "2026-10-08",
+     "price": null,
+     "status": "unconfirmed"
+    }
+   ]
+  },
+  {
+   "id": "sooner-plant-farm--jewel",
+   "variety": "jewel",
+   "nursery": "sooner-plant-farm",
+   "status": "in_stock",
+   "price": 45.0,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://soonerplantfarm.com/plant/raspberry-jewel-black",
+   "first_seen": "2026-10-09",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Jumbo gallon $45 (in stock), 3 gallon $85 (in stock); Eco gallon size ($45) sold out."
+   ],
+   "history": [
+    {
+     "date": "2026-10-09",
+     "price": 45.0,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "jumbo gallon pot"
+  },
+  {
+   "id": "superseeds--jewel",
+   "variety": "jewel",
+   "nursery": "superseeds",
+   "status": "sold_out",
+   "price": 36.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://www.superseeds.com/collections/live-plants-bare-roots-and-tubers-for-spring-planting/products/black-raspberry-jewel",
+   "first_seen": "2026-10-10",
+   "last_checked": "2026-11-05",
+   "notes": [
+    "Price is for 3 plants. Sold out; next ships mid-March through end of April 2026."
+   ],
+   "history": [
+    {
+     "date": "2026-10-10",
+     "price": 36.95,
+     "status": "sold_out"
+    }
+   ],
+   "sold_as": "3-plant order"
+  },
+  {
+   "id": "ufseeds--jewel",
+   "variety": "jewel",
+   "nursery": "ufseeds",
+   "status": "unconfirmed",
+   "price": 12.1,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.ufseeds.com/product/jewel-raspberry-plants/RAJE.html",
+   "first_seen": "2026-10-10",
+   "last_checked": "2026-11-02",
+   "notes": [
+    "Listed but the product page shows no stock indicator."
+   ],
+   "history": [
+    {
+     "date": "2026-10-10",
+     "price": 12.1,
+     "status": "unconfirmed"
+    }
+   ]
+  },
+  {
+   "id": "plantaddicts--jewel",
+   "variety": "jewel",
+   "nursery": "plantaddicts",
+   "status": "in_stock",
+   "price": 59.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://plantaddicts.com/jewel-black-raspberry-bush",
+   "first_seen": "2026-10-10",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "#2 pot size. Ships lower 48 except AZ, CA, ID, MT, NV, OR, UT, WA."
+   ],
+   "history": [
+    {
+     "date": "2026-10-10",
+     "price": 59.99,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "#2 pot"
+  },
+  {
+   "id": "stark-bros--anne",
+   "variety": "anne",
+   "nursery": "stark-bros",
+   "status": "sold_out",
+   "price": 29.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.starkbros.com/products/berry-plants/raspberry-plants/anne-yellow-raspberry",
+   "first_seen": "2026-10-13",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Product page: out of stock, email me"
+   ],
+   "history": [
+    {
+     "date": "2026-10-13",
+     "price": 29.99,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-15",
+     "price": 29.99,
+     "status": "sold_out"
+    }
+   ],
+   "sold_as": "1-gallon potted plant"
+  },
+  {
+   "id": "springhill--anne",
+   "variety": "anne",
+   "nursery": "springhill",
+   "status": "sold_out",
+   "price": 14.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://springhillnursery.com/products/anne-raspberry",
+   "first_seen": "2026-10-13",
+   "last_checked": "2026-11-02",
+   "notes": [
+    "Sold out; pre-order, ships in spring. Not shippable to AE, AK, GU, HI, PR."
+   ],
+   "history": [
+    {
+     "date": "2026-10-13",
+     "price": 14.99,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-29",
+     "price": 14.99,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-11-02",
+     "price": 14.99,
+     "status": "sold_out"
+    }
+   ],
+   "ships": "Pre-order, ships in spring"
+  },
+  {
+   "id": "waysidegardens--royalty",
+   "variety": "royalty",
+   "nursery": "waysidegardens",
+   "status": "sold_out",
+   "price": 35.95,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://www.waysidegardens.com/products/rubus-royalty-raspberry-27609-pk-3",
+   "first_seen": "2026-10-13",
+   "last_checked": "2026-10-26",
+   "notes": [
+    "Sold out; sale price shown."
+   ],
+   "history": [
+    {
+     "date": "2026-10-13",
+     "price": 35.95,
+     "status": "sold_out"
+    }
+   ],
+   "sold_as": "bare root; pack size not stated (SKU suggests a 3-pack)"
+  },
+  {
+   "id": "perfectplants--glencoe",
+   "variety": "glencoe",
+   "nursery": "perfectplants",
+   "status": "sold_out",
+   "price": 34.99,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://myperfectplants.com/product/glencoe-purple-thornless-raspberry-bush/",
+   "first_seen": "2026-10-13",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Both sizes show Sold Out, though the page also carries an \"in stock\" badge; 3-gallon price looked inconsistent."
+   ],
+   "history": [
+    {
+     "date": "2026-10-13",
+     "price": 34.99,
+     "status": "sold_out"
+    }
+   ],
+   "sold_as": "1-gallon (sale price; regular $59.95)"
+  },
+  {
+   "id": "fedco--shekinah-tahi",
+   "variety": "shekinah-tahi",
+   "nursery": "fedco",
+   "status": "unconfirmed",
+   "price": null,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://web.fedcoseeds.com/trees/cane-fruit",
+   "first_seen": "2026-10-23",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Ships in spring. Two Fedco lots with differing price and stock; no per-plant price confirmed."
+   ],
+   "history": [
+    {
+     "date": "2026-10-23",
+     "price": null,
+     "status": "unconfirmed"
+    }
+   ],
+   "sold_as": "plugs; one Fedco lot listed 5 for $39.50 (item 7456), another $38 and sold out (item 7493)"
+  },
+  {
+   "id": "blessings-grow-meadows--shekinah-tahi",
+   "variety": "shekinah-tahi",
+   "nursery": "blessings-grow-meadows",
+   "status": "sold_out",
+   "price": 16.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://blessingsgrowmeadows.com/products/tahi-thornless-black-raspberry",
+   "first_seen": "2026-10-23",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Sold out as of Oct 23; shipping would begin in March."
+   ],
+   "history": [
+    {
+     "date": "2026-10-23",
+     "price": 16.0,
+     "status": "sold_out"
+    }
+   ],
+   "sold_as": "plug plant; also 3, 10 and 25 packs, all unavailable"
+  },
+  {
+   "id": "willis-orchard--anne",
+   "variety": "anne",
+   "nursery": "willis-orchard",
+   "status": "in_stock",
+   "price": 14.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.willisorchards.com/product/anne-yellow-raspberry-plant",
+   "first_seen": "2026-11-03",
+   "last_checked": "2026-11-05",
+   "notes": [
+    "Also 10 plants for $129.95."
+   ],
+   "history": [
+    {
+     "date": "2026-11-03",
+     "price": 14.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Dec 1, 2026 - Apr 1, 2027",
+   "sold_as": "2-year transplant, fruiting size"
+  },
+  {
+   "id": "willis-orchard--jewel",
+   "variety": "jewel",
+   "nursery": "willis-orchard",
+   "status": "in_stock",
+   "price": 14.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.willisorchards.com/product/jewel-black-raspberry-plant",
+   "first_seen": "2026-11-03",
+   "last_checked": "2026-11-05",
+   "notes": [
+    "Also 10 plants for $129.95."
+   ],
+   "history": [
+    {
+     "date": "2026-11-03",
+     "price": 14.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Dec 1, 2026 - Apr 1, 2027",
+   "sold_as": "2-year plant, pruned to about 18 in."
+  },
+  {
+   "id": "willis-orchard--cumberland",
+   "variety": "cumberland",
+   "nursery": "willis-orchard",
+   "status": "in_stock",
+   "price": 9.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://www.willisorchards.com/product/cumberland-black-raspberry-plant",
+   "first_seen": "2026-11-03",
+   "last_checked": "2026-11-05",
+   "notes": [
+    "Price from the category page ('starting at'); product page not opened, so size and stock not confirmed."
+   ],
+   "history": [
+    {
+     "date": "2026-11-03",
+     "price": 9.95,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-11-05",
+     "price": 9.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "12/01/2026-04/01/2027"
+  },
+  {
+   "id": "willis-orchard--fall-gold",
+   "variety": "fall-gold",
+   "nursery": "willis-orchard",
+   "status": "unconfirmed",
+   "price": 14.95,
+   "price_from": true,
+   "price_confirmed": false,
+   "url": "https://www.willisorchards.com/product/fall-gold-raspberry-plant",
+   "first_seen": "2026-11-03",
+   "last_checked": "2026-11-05",
+   "notes": [
+    "Price from the category page ('starting at'); product page not opened, so size and stock not confirmed."
+   ],
+   "history": [
+    {
+     "date": "2026-11-03",
+     "price": 14.95,
+     "status": "unconfirmed"
+    }
+   ]
+  },
+  {
+   "id": "hirts--ohios-treasure",
+   "variety": "ohios-treasure",
+   "nursery": "hirts",
+   "status": "in_stock",
+   "price": 14.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://hirts.com/ohio-treasure-everbearing-black-raspberry-4-pot-extremely-hardy-prolific",
+   "first_seen": "2026-11-03",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Page shows 302 available; the $17.99 MSRP is struck through but not treated as a sale."
+   ],
+   "history": [
+    {
+     "date": "2026-11-03",
+     "price": 14.99,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "3.25-inch pot"
+  }
+ ]
+}

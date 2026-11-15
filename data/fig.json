@@ -1,0 +1,2692 @@
+{
+ "fruit": "fig",
+ "updated": "2026-11-09",
+ "scope": "Named fig (Ficus carica) cultivars that gardeners grow in zone 6b/7a: in the ground with winter protection (most figs die back and regrow from the roots there), or in pots brought into a garage or cellar for winter. Cultivars sellers describe as cold hardy are tagged. Unnamed seedlings and the ornamental climbing fig (Ficus pumila) are left out. Prices are for one plant of the size noted (usually a 1-gallon pot).",
+ "last_run": {
+  "date": "2026-11-09",
+  "summary": "Back in stock at Raintree Nursery: Chicago Hardy $30.99, Brown Turkey $27.99, Sultane $32.99.",
+  "gaps": [
+   "isons: would not load",
+   "gurneys: would not load"
+  ],
+  "checked": [
+   "arbor-day",
+   "edible-landscaping",
+   "one-green-world",
+   "peaceful-heritage",
+   "perfect-plants",
+   "raintree",
+   "roots-to-fruits",
+   "scenic-hill-farm",
+   "stark-bros"
+  ],
+  "held": [
+   "arbor-day--hardy-chicago: price 59.99 -> 114.99 is a 92% move"
+  ],
+  "notes": []
+ },
+ "history_log": [
+  "Oct 11: Figs added — 23 varieties, 6 nurseries; overnight check: no changes at the 2 nurseries checked",
+  "Oct 12: Sold out at Raintree Nursery: Petite Negri; New listings at One Green World: Brooklyn Dark ($29.95), Black Bethlehem ($29.95), Gene's Vashon ($29.95), Hunt (unconfirmed); New listings at Arbor Day Foundation: Chicago Hardy (unconfirmed); Added Arbor Day Foundation (Chicago Hardy, $59.99) and four One Green World figs: Brooklyn Dark, Black Bethlehem, Gene's Vashon and Hunt; Burnt Ridge and Nature Hills pages showed no usable price or stock, so nothing was listed from them",
+  "Oct 13: no changes at the 1 nurseries checked",
+  "Oct 14: no changes at the 5 nurseries checked",
+  "Oct 15: Sold out at Raintree Nursery: Desert King; Sold out at Peaceful Heritage Nursery: Chicago Hardy",
+  "Oct 20: Back in stock at Peaceful Heritage Nursery: Chicago Hardy $54.99",
+  "Oct 22: Back in stock at One Green World: Hunt $29.95; Sold out at One Green World: Gene's Vashon; Price changes at Roots to Fruits Nursery: Chicago Hardy $29 → $25; New listings at One Green World: Gabe's Gold ($39.95), Blanche d'Argenteuil ($39.95), Atreano ($29.95), Jack Lily ($29.95), Black Spanish ($24.95), Domenico Tauro ($29.95); New listings at Ison's Nursery & Vineyard: Celeste ($24.95), LSU Purple ($24.95); New listings at Epic Gardening: Chicago Hardy (unconfirmed); New sellers: Ison's Nursery (Celeste and LSU Purple bare-root, $24.95) and Epic Gardening (Chicago Hardy 1-gal, stock unconfirmed); New varieties at One Green World: Gabe's Gold, Blanche d'Argenteuil, Atreano, Jack Lily, Black Spanish and Domenico Tauro; Greenwood Nursery (pint plant only) and Trees.com (no sizes) had nothing usable",
+  "Oct 26: no changes at the 6 nurseries checked",
+  "Oct 29: no changes at the 3 nurseries checked",
+  "Nov 2: Back in stock at Raintree Nursery: Petite Negri $30.99; Sold out at Raintree Nursery: Chicago Hardy, Brown Turkey, Sultane; New listings at Scenic Hill Farm Nursery: Chicago Hardy ($32.95), Desert King ($32.95), Lattarula ($32.95), Little Ruby ($32.95), LSU Purple ($32.95), Olympian ($32.95), Marseilles ($32.95); New listings at Gurney's: Chicago Hardy ($49.99), Fignomenal ($34.99), Violette de Bordeaux (sold out), Peter's Honey (sold out); New listings at Perfect Plants Nursery: Chicago Hardy ($27.99), LSU Purple (sold out), Celeste (sold out), Olympian (sold out), Fignomenal (sold out), Brown Turkey (sold out), Lattarula (sold out), LSU Gold (sold out) and 2 more; New listings at Peaceful Heritage Nursery: Celeste ($54.99), Olympian ($54.99), Violette de Bordeaux ($54.99), Green Ischia ($54.99); Epic Gardening: Chicago Hardy now sold out; Found three new fig sellers: Scenic Hill Farm Nursery (7 varieties, shipping included), Gurney's and Perfect Plants Nursery (new varieties GE Neri, LSU Gold and Black Mission), and added four more Peaceful Heritage figs; Logee's, Willis Orchard, Simply Trees, Kremp and Wildcat Ridge had nothing usable in scope",
+  "Nov 5: Sold out at Raintree Nursery: Petite Negri",
+  "Nov 9: Back in stock at Raintree Nursery: Chicago Hardy $30.99, Brown Turkey $27.99, Sultane $32.99"
+ ],
+ "sources": {
+  "directories": [
+   "https://www.ourfigs.com/ (variety database and grower forum)"
+  ],
+  "checked_no_named_stock": [
+   "Ornamental climbing fig (Ficus pumila) left out at One Green World.",
+   "Burnt Ridge Nursery: lists Brunswick, Desert King, Hardy Chicago, LSU Purple, Italian Honey and Olympian but the page shows no prices or stock.",
+   "Nature Hills: five named figs (Violette de Bordeaux, Brown Turkey, Chicago Hardy, Olympian, Fignomenal) at about $62–$103, no sizes or NJ shipping stated; not added.",
+   "Greenwood Nursery (McMinnville, TN): Chicago Hardy only as a $12.95 pint plant, sold out on a pre-order page; not a full-size plant, not added.",
+   "Trees.com / Fast Growing Trees: 16 named figs but no pot sizes or NJ shipping rules shown, prices ($35–$108) not comparable; not added.",
+   "Logee's (Danielson, CT): Chicago Hardy, Hartford Hardy, Violette de Bordeaux and Olympian at $26 but as 4-inch pots; not tracked as full plants.",
+   "Willis Orchard Company (Cartersville, GA): 12 named figs shown with 'starting at' prices ($19.95-$29.95) but no sizes or stock per variety; not added.",
+   "Simply Trees (Winnsboro, TX): only Brown Turkey seen, as a 3-gallon at $135; not comparable, not added.",
+   "Kremp Florist (Willow Grove, PA): about 250 named figs listed as 'in stock' but no prices or NJ shipping terms; not added.",
+   "Wildcat Ridge Farm (NC): lists Brown Turkey, Celeste, Kadota, Desert King and others but no prices or shipping on the page; sells through its own site."
+  ],
+  "dead": [],
+  "to_check": [
+   "Roots to Fruits: 'LSU Fig' (which LSU cultivar?)",
+   "One Green World: check hardy figs individually (Brooklyn Dark, Gene's Vashon, Hunt, Black Bethlehem, Grantham's Royal and others)",
+   "Edible Landscaping: GE Neri and Texas BA-1 (sold out Oct 11)",
+   "One Green World: many named figs listed (e.g. Sconosciuto, Blanche d'Argenteuil, Gabe's Gold, Saint-Germain, Princessa, White Genoa), not on file.",
+   "Stark Bro's: 'Olympian' and 'Italian Honey' figs listed in stock, not on file",
+   "Edible Landscaping: 'GE Neri' and 'Texas BA-1' figs listed (sold out), not on file",
+   "Roots to Fruits: 'LSU' fig listed, not on file",
+   "Peaceful Heritage: Battaglia Green and LSU Everbearing figs listed (LSU Everbearing Medium available), not on file",
+   "One Green World figs listed, not on file: Sconosciuto, Blanche d'Argenteuil, Gabe's Gold, Saint Germain, Princessa, Luv, Pastilliere, San Biagio, Bass' Favorite, Calderona (on-file figs not seen in search; unchecked)",
+   "Stark Bro's: 'Italian Honey' and 'Olympian' figs listed, not on file",
+   "Stark Bro's: Olympian fig listed at $68.99, not on file",
+   "Peaceful Heritage: also lists LSU Improved Celeste, LSU Scott's Black, Florea, Italian Letizia, White Triana, Campaniere, Gino's Black, Kessariani, Kadota-type and many other figs (Medium 1-2 ft $54.99, in stock), not on file",
+   "Scenic Hill Farm: Texas Everbearing, Oregon Prolific and Stella figs listed, not on file; Brown Turkey, Conadria and Celeste availability not stated",
+   "One Green World: Sconosciuto, Princessa, Luv, Saint Germain, Madeira Island Black and others listed, not on file",
+   "Peaceful Heritage: Battaglia Green and LSU Everbearing figs listed, not on file",
+   "Roots to Fruits: 'LSU Fig' listed, not on file",
+   "One Green World: 'Sconosciuto', 'Princessa', 'Luv', 'Saint Germain', 'Calderona', 'San Biagio', 'Pastilliere', 'Bass Favorite', 'Madeira Island Black' figs listed, not on file",
+   "Roots to Fruits: 'LSU' fig listed (1G container only), not on file"
+  ]
+ },
+ "nurseries": [
+  {
+   "id": "raintree",
+   "name": "Raintree Nursery",
+   "location": "Morton, WA",
+   "state": "WA",
+   "url": "https://raintreenursery.com/collections/figs",
+   "shipping": {
+    "type": "percent",
+    "confirmed": true,
+    "min": 39.99,
+    "tiers": [
+     [
+      1000000000.0,
+      0.25
+     ]
+    ],
+    "source": "https://raintreenursery.com/pages/shipping-policy"
+   },
+   "note": "Figs in 1-gallon pots."
+  },
+  {
+   "id": "stark-bros",
+   "name": "Stark Bro's Nurseries",
+   "location": "Louisiana, MO",
+   "state": "MO",
+   "url": "https://www.starkbros.com/products/fruit-trees/fig-trees",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 15.99,
+    "high": 17.99,
+    "source": "https://www.starkbros.com/about/order-and-shipping-policies",
+    "note": "No published rate table; product pages have shown $15.99–$17.99 shipping per order."
+   },
+   "note": "Reports 8 more fig items out of stock without naming them. Ships at planting time for your zone."
+  },
+  {
+   "id": "edible-landscaping",
+   "name": "Edible Landscaping",
+   "location": "Afton, VA",
+   "state": "VA",
+   "url": "https://ediblelandscaping.com/collections/fig",
+   "shipping": {
+    "type": "percent",
+    "confirmed": true,
+    "min": 15,
+    "tiers": [
+     [
+      25,
+      0.9
+     ],
+     [
+      50,
+      0.69
+     ],
+     [
+      125,
+      0.49
+     ],
+     [
+      400,
+      0.36
+     ],
+     [
+      1000,
+      0.34
+     ],
+     [
+      3000,
+      0.32
+     ]
+    ],
+    "source": "https://ediblelandscaping.com/pages/shipping-cost"
+   },
+   "note": "Prices tracked for the 1-gallon size; most figs also come as 2–4 inch plugs ($7–12) and larger pots."
+  },
+  {
+   "id": "roots-to-fruits",
+   "name": "Roots to Fruits Nursery",
+   "location": "Gays Mills, WI",
+   "state": "WI",
+   "url": "https://rootstofruitsnursery.com/collections/figs",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 25,
+    "high": 40
+   },
+   "note": "Prices tracked for the 1-gallon container size (bare-root sizes sold out on Oct 11)."
+  },
+  {
+   "id": "peaceful-heritage",
+   "name": "Peaceful Heritage Nursery",
+   "location": "Stanford, KY",
+   "state": "KY",
+   "url": "https://peacefulheritage.com/products/chicago-hardy-fig-naturally-grown",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 30,
+    "high": 45,
+    "note": ""
+   }
+  },
+  {
+   "id": "one-green-world",
+   "name": "One Green World",
+   "location": "Molalla, OR",
+   "state": "OR",
+   "url": "https://onegreenworld.com/product-category/fruiting-plants/fig/",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 20,
+    "high": 25,
+    "source": "https://onegreenworld.com/shipping-information/",
+    "note": "Shipping is “approximately $20–$25 depending on the destination state”, more for tall or heavy plants (UPS, from Portland OR)."
+   },
+   "note": "Sells about 146 figs; the category page shows “Email me when available” on every item, so only product pages checked individually are listed so far."
+  },
+  {
+   "id": "arbor-day",
+   "name": "Arbor Day Foundation",
+   "location": "Lincoln, NE",
+   "state": "NE",
+   "url": "https://shop.arborday.org/chicago-hardy-fig",
+   "shipping": {
+    "type": "estimate",
+    "low": 15,
+    "high": 30
+   },
+   "note": "Free shipping on orders over $99; shipping cost to NJ not shown on the product page. Sells only Chicago Hardy among figs found so far.",
+   "excluded_states": [
+    "AK",
+    "AS",
+    "AZ",
+    "CA",
+    "FM",
+    "GU",
+    "HI",
+    "MH",
+    "MP",
+    "PR",
+    "PW",
+    "TX",
+    "VI"
+   ]
+  },
+  {
+   "id": "isons",
+   "name": "Ison's Nursery & Vineyard",
+   "location": "Brooks, GA",
+   "state": "GA",
+   "url": "https://www.isons.com/shop/fruit-trees/figs-trees/",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 16.95,
+    "high": 19.95,
+    "source": "https://www.isons.com/faq/",
+    "note": "Published flat fees by order total ($16.95 for $16–50, $18.95 for $50–75, $19.95 for $75–99; 22% at $100+). NJ not listed as excluded; not confirmed with seller."
+   },
+   "note": "Bare-root figs only; ships January–April.",
+   "unreadable": {
+    "since": "2026-11-09",
+    "nights": 1,
+    "last": "2026-11-09",
+    "reason": "would not load"
+   }
+  },
+  {
+   "id": "epic-gardening",
+   "name": "Epic Gardening",
+   "location": "Austin, TX",
+   "state": "TX",
+   "url": "https://www.epicgardening.com/collections/fig",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 15,
+    "high": 30
+   },
+   "excluded_states": [
+    "AZ",
+    "CA",
+    "OR"
+   ],
+   "note": "Free shipping over $79; cost under that not published. Chicago Hardy won't ship to AZ, CA or OR. Other named figs on the collection page show sold out."
+  },
+  {
+   "id": "scenic-hill-farm",
+   "name": "Scenic Hill Farm Nursery",
+   "location": "Albany, OR",
+   "state": "OR",
+   "url": "https://scenichillfarmnursery.com/products/fig-texas-ever-bearing-fig-tree-12-20-inches-tall-large-nearly-seedless-figs-copy",
+   "shipping": {
+    "type": "included",
+    "confirmed": true,
+    "source": "https://scenichillfarmnursery.com/products/fig-texas-ever-bearing-fig-tree-12-20-inches-tall-large-nearly-seedless-figs-copy",
+    "note": "Page says UPS shipping is included in the tree price (1 tree $32.95; mix and match); surcharge only for AK, HI, territories or remote areas. Orders held if above 89°F or below 20°F."
+   },
+   "note": "Pot size is not stated on the page. Some varieties are marked 'Fall 2026' or 'Summer 2026' for availability."
+  },
+  {
+   "id": "gurneys",
+   "name": "Gurney's",
+   "url": "https://www.gurneys.com/collections/fig-trees",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 15,
+    "high": 30,
+    "note": "Product page mentions an overweight surcharge and USPS/FedEx but gives no rates."
+   },
+   "note": "Sells figs in options such as Bareroot, Premium and Jumbo; the page does not say which are potted. Hardy Chicago page lists NJ as not excluded (excluded: AK, AZ, CA, ID, MT, NV, OR, UT, WA, HI and territories).",
+   "unreadable": {
+    "since": "2026-11-09",
+    "nights": 1,
+    "last": "2026-11-09",
+    "reason": "would not load"
+   }
+  },
+  {
+   "id": "perfect-plants",
+   "name": "Perfect Plants Nursery",
+   "url": "https://myperfectplants.com/collections/fig-trees",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 15,
+    "high": 30,
+    "note": "Free shipping on orders over $199; rates for smaller orders are shown only at checkout. Page does not list excluded states."
+   },
+   "note": "Family-owned farm operating since 1980 (location not stated on the pages read). Figs sold as 1-gallon and 3-gallon; the 1-gallon price is tracked."
+  }
+ ],
+ "varieties": [
+  {
+   "id": "hardy-chicago",
+   "fruit": "fig",
+   "name": "Chicago Hardy",
+   "color": "dark",
+   "tags": [
+    "Cold hardy"
+   ],
+   "aliases": [
+    "Hardy Chicago"
+   ],
+   "summary": "The standard cold-climate fig: dies back in hard winters and still fruits on new growth.",
+   "description": "Medium purple-brown figs with a strawberry-red interior. Widely grown in the Northeast and Midwest because it reliably regrows from the roots after a hard winter and bears on new wood the same summer. Sellers rate it to zone 6 in the ground, colder with winter protection.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-11",
+   "notes": []
+  },
+  {
+   "id": "celeste",
+   "fruit": "fig",
+   "name": "Celeste",
+   "color": "brown",
+   "tags": [
+    "Cold hardy"
+   ],
+   "aliases": [
+    "Celestial",
+    "Sugar Fig"
+   ],
+   "summary": "Small, very sweet violet-brown 'sugar fig' with a closed eye.",
+   "description": "A Southern heirloom producing small violet-brown figs with very sweet amber-pink flesh; the closed eye helps keep out insects and rain. Hardier than most figs once established and often grown in zone 6–7 with winter protection. Ripens mid-summer.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-11",
+   "notes": []
+  },
+  {
+   "id": "brown-turkey",
+   "fruit": "fig",
+   "name": "Brown Turkey",
+   "color": "brown",
+   "tags": [
+    "Cold hardy"
+   ],
+   "aliases": [
+    "English Brown Turkey"
+   ],
+   "summary": "Common, dependable brown fig that bears a breba and a main crop.",
+   "description": "Medium to large copper-brown figs with pinkish amber flesh and a mild, sweet flavor. A vigorous, productive tree that regrows readily after winter dieback, which makes it a common choice for northern gardens with some protection. Fruit quality varies somewhat among the strains sold under this name.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-11",
+   "notes": []
+  },
+  {
+   "id": "olympian",
+   "fruit": "fig",
+   "name": "Olympian",
+   "color": "dark",
+   "tags": [
+    "Cold hardy"
+   ],
+   "aliases": [
+    "Olympia"
+   ],
+   "summary": "Large purple-brown fig selected in the Pacific Northwest for cold tolerance.",
+   "description": "Selected in Olympia, Washington, and grown for its cold tolerance and late leaf-out, which helps it avoid spring frost damage. Bears large purple-brown figs with sweet red-amber flesh. A good candidate for a sheltered spot in zone 6–7.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-11",
+   "notes": []
+  },
+  {
+   "id": "marseilles",
+   "fruit": "fig",
+   "name": "Marseilles",
+   "color": "green",
+   "tags": [],
+   "aliases": [
+    "White Marseilles",
+    "Marseilles White"
+   ],
+   "summary": "Small to medium pale green-yellow fig with white, honey-sweet flesh.",
+   "description": "An old white fig with pale green to yellowish skin and nearly white, very sweet flesh. Often grouped with Lattarula and other hardy white figs grown in cooler climates. Ripens mid-season.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-11",
+   "notes": []
+  },
+  {
+   "id": "petite-negri",
+   "fruit": "fig",
+   "name": "Petite Negri",
+   "color": "dark",
+   "tags": [
+    "Compact"
+   ],
+   "aliases": [],
+   "summary": "Compact, early dark fig suited to pots and short seasons.",
+   "description": "A naturally small, compact tree that fruits young, making it a favorite for containers that come indoors for winter. Bears small to medium dark purple figs with red flesh, usually with an early breba crop. Ripens early enough for northern summers.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-11",
+   "notes": []
+  },
+  {
+   "id": "lsu-purple",
+   "fruit": "fig",
+   "name": "LSU Purple",
+   "color": "dark",
+   "tags": [],
+   "aliases": [],
+   "summary": "Productive purple fig from Louisiana State University's fig program.",
+   "description": "Medium dark purple figs with sweet, light strawberry flesh, often bearing more than one crop a year in long seasons. Valued for productivity and resistance to leaf disease. Needs a protected spot or container culture in zone 6b.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-11",
+   "notes": []
+  },
+  {
+   "id": "violette-de-bordeaux",
+   "fruit": "fig",
+   "name": "Violette de Bordeaux",
+   "color": "dark",
+   "tags": [
+    "Compact"
+   ],
+   "aliases": [
+    "Negronne",
+    "Violette de Bordeaux Negronne"
+   ],
+   "summary": "Small, intensely flavored near-black fig from France; compact tree.",
+   "description": "A French heirloom with small blackish-purple figs and deep red, jammy, rich flesh. The tree stays compact, so it works well in a pot, and it fruits on new wood after dieback. Often counted among the best-flavored dark figs.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-11",
+   "notes": []
+  },
+  {
+   "id": "green-ischia",
+   "fruit": "fig",
+   "name": "Green Ischia",
+   "color": "green",
+   "tags": [],
+   "aliases": [
+    "Verte",
+    "Green Ischia (Verte)"
+   ],
+   "summary": "Green-skinned fig with strawberry-red flesh, from the island of Ischia.",
+   "description": "Bears medium figs with green to yellow-green skin and bright strawberry-red, sweet flesh, so birds tend to leave them alone. Productive and moderately hardy; best with winter protection in zone 6b.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-11",
+   "notes": []
+  },
+  {
+   "id": "conadria",
+   "fruit": "fig",
+   "name": "Conadria",
+   "color": "green",
+   "tags": [],
+   "aliases": [],
+   "summary": "Light green fig with white to pink flesh, bred in California.",
+   "description": "A California-bred fig with thin light green skin and white to pinkish, mildly sweet flesh, resistant to splitting and souring. A vigorous tree that fruits on new wood. Best in a sheltered spot or container in zone 6b.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-11",
+   "notes": []
+  },
+  {
+   "id": "orourke",
+   "fruit": "fig",
+   "name": "O'Rourke",
+   "color": "brown",
+   "tags": [],
+   "aliases": [],
+   "summary": "Light brown fig with amber flesh from the Louisiana fig program.",
+   "description": "Medium light brown to bronze figs with sweet amber flesh and a tight eye. An early-ripening, productive variety from Louisiana's fig breeding program. Needs protection or container culture in zone 6b.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-11",
+   "notes": []
+  },
+  {
+   "id": "panache",
+   "fruit": "fig",
+   "name": "Panache",
+   "color": "green",
+   "tags": [
+    "Striped"
+   ],
+   "aliases": [
+    "Tiger Fig",
+    "Striped Tiger"
+   ],
+   "summary": "Striking green-and-yellow striped 'Tiger' fig with red flesh.",
+   "description": "An ornamental and edible fig with green-and-yellow striped skin and deep red, berry-like flesh. Needs a long, warm season to ripen well, so it is best in a pot or a hot, protected spot in zone 6b.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-11",
+   "notes": []
+  },
+  {
+   "id": "brunswick",
+   "fruit": "fig",
+   "name": "Brunswick",
+   "color": "brown",
+   "tags": [
+    "Cold hardy"
+   ],
+   "aliases": [
+    "Magnolia"
+   ],
+   "summary": "Large bronze-skinned fig with amber flesh; an old hardy variety.",
+   "description": "An old variety, also sold as Magnolia, with large bronze to light brown figs and amber-pink flesh. Known for regrowing from the roots after cold winters. Good fresh and excellent for preserves.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-11",
+   "notes": []
+  },
+  {
+   "id": "desert-king",
+   "fruit": "fig",
+   "name": "Desert King",
+   "color": "green",
+   "tags": [],
+   "aliases": [
+    "King"
+   ],
+   "summary": "Green fig that sets a big early breba crop without pollination.",
+   "description": "Bears a large breba crop of green figs with strawberry-red flesh on last year's wood, ripening in early summer. Does well in cool-summer climates, but because its main crop is on old wood, winter dieback costs the year's crop in zone 6b unless the tree is protected.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-11",
+   "notes": []
+  },
+  {
+   "id": "lattarula",
+   "fruit": "fig",
+   "name": "Lattarula",
+   "color": "green",
+   "tags": [
+    "Cold hardy"
+   ],
+   "aliases": [
+    "Italian Honey",
+    "Italian Honey Fig",
+    "Italian White Honey"
+   ],
+   "summary": "Italian white 'honey fig' with sweet amber flesh; cold tolerant.",
+   "description": "An Italian heirloom with yellow-green skin and very sweet amber flesh, often sold as Italian Honey Fig. Reliable in cooler summers and regrows after winter dieback, which makes it a common choice for northern gardens.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-11",
+   "notes": []
+  },
+  {
+   "id": "little-ruby",
+   "fruit": "fig",
+   "name": "Little Ruby",
+   "color": "dark",
+   "tags": [
+    "Compact"
+   ],
+   "aliases": [],
+   "summary": "Dwarf fig for containers with dark skin and ruby-red flesh.",
+   "description": "A compact, slow-growing fig that suits pots that come indoors in winter. Bears medium figs with dark purple-brown skin and ruby-red, sweet flesh. A good choice where in-ground figs are marginal.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-11",
+   "notes": []
+  },
+  {
+   "id": "dauphine",
+   "fruit": "fig",
+   "name": "Dauphine",
+   "color": "dark",
+   "tags": [],
+   "aliases": [],
+   "summary": "French fig with a large breba crop of purple fruit.",
+   "description": "A French variety with large purple-violet figs and sweet pink-red flesh, known for an especially large early breba crop. Main-crop figs follow later in summer in warm years.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-11",
+   "notes": []
+  },
+  {
+   "id": "madeleine-des-deux-saisons",
+   "fruit": "fig",
+   "name": "Madeleine des Deux Saisons",
+   "color": "green",
+   "tags": [],
+   "aliases": [
+    "Madeleine des deux saisons"
+   ],
+   "summary": "French white fig that bears in two seasons.",
+   "description": "A French white fig whose name means 'Madeleine of the two seasons' for its breba and main crops. Bears pale green-yellow figs with sweet, honeyed flesh, and does well in cooler climates.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-11",
+   "notes": []
+  },
+  {
+   "id": "sultane",
+   "fruit": "fig",
+   "name": "Sultane",
+   "color": "dark",
+   "tags": [],
+   "aliases": [],
+   "summary": "Dark purple French fig with deep red flesh.",
+   "description": "A French variety bearing medium to large dark purple figs with deep red, rich flesh. Grown for its flavor and productivity in cooler summers.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-11",
+   "notes": []
+  },
+  {
+   "id": "peters-honey",
+   "fruit": "fig",
+   "name": "Peter's Honey",
+   "color": "yellow",
+   "tags": [],
+   "aliases": [],
+   "summary": "Bright yellow-green fig with very sweet amber flesh.",
+   "description": "An Italian variety brought to Oregon, with glossy greenish-yellow skin and dark amber, very sweet flesh. Needs warmth to ripen well, so it is best in a sunny, sheltered spot or a pot in zone 6b.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-11",
+   "notes": []
+  },
+  {
+   "id": "pastilliere",
+   "fruit": "fig",
+   "name": "Pastilliere",
+   "color": "dark",
+   "tags": [
+    "Compact"
+   ],
+   "aliases": [
+    "Pastillere"
+   ],
+   "summary": "Small, early dark fig from France; compact and productive.",
+   "description": "A French fig bearing small dark purple figs with red flesh, ripening early. Compact and productive, which suits containers and short seasons.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-11",
+   "notes": []
+  },
+  {
+   "id": "nordland",
+   "fruit": "fig",
+   "name": "Nordland",
+   "color": "dark",
+   "tags": [
+    "Cold hardy"
+   ],
+   "aliases": [],
+   "summary": "Cold-tolerant fig said to survive about 10°F.",
+   "description": "Sold by Raintree as a cold-tolerant selection said to survive temperatures near 10°F. Bears purple-brown figs with sweet flesh on a tree that suits cool northern summers.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-11",
+   "notes": []
+  },
+  {
+   "id": "fignomenal",
+   "fruit": "fig",
+   "name": "Fignomenal",
+   "color": "brown",
+   "tags": [
+    "Compact"
+   ],
+   "aliases": [],
+   "summary": "Very dwarf patio fig that stays under 3 feet; made for pots.",
+   "description": "A patented dwarf fig that stays small enough for a pot on a patio or windowsill. Bears medium brown-purple figs over a long season. Overwinters indoors or in a garage in zone 6b.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-11",
+   "notes": []
+  },
+  {
+   "id": "brooklyn-dark",
+   "fruit": "fig",
+   "name": "Brooklyn Dark",
+   "color": "dark",
+   "tags": [],
+   "aliases": [],
+   "summary": "East Coast selection with brown-black skin and red, melon-honey flavored flesh.",
+   "description": "An East Coast selection from Trees of Joy Nursery. Brown-to-black figs with red flesh and a rich melon-honey flavor, with a breba crop in July–August and a main crop in October. Self-fruitful; the seller rates it to about 0–5°F and says it is valued in the Northeast.",
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "first_seen": "2026-10-12"
+  },
+  {
+   "id": "black-bethlehem",
+   "fruit": "fig",
+   "name": "Black Bethlehem",
+   "color": "dark",
+   "tags": [],
+   "aliases": [],
+   "summary": "Purple-black fig from Bethlehem, PA with an intense strawberry flavor.",
+   "description": "Discovered growing in Bethlehem, PA and re-discovered on the East Coast. Purple-black skin, red flesh and strawberry-like flavor, ripening August through October. One Green World describes it as similar to Chicago Hardy in flavor, production and cold tolerance, and self-fertile.",
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "first_seen": "2026-10-12"
+  },
+  {
+   "id": "genes-vashon",
+   "fruit": "fig",
+   "name": "Gene's Vashon",
+   "color": "green",
+   "tags": [],
+   "aliases": [
+    "Vashon Violet"
+   ],
+   "summary": "Puget Sound fig with green skin ripening purple and sweet amber-red flesh.",
+   "description": "Grown on cool Vashon Island in Puget Sound, where it ripens breba figs reliably; the seller notes it may be a renamed Brown Turkey variant. Sweet fruit with green-to-purple skin and amber-to-red flesh, long-necked, main crop from September. Self-fertile and rated hardy to at least 0°F.",
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "first_seen": "2026-10-12"
+  },
+  {
+   "id": "hunt",
+   "fruit": "fig",
+   "name": "Hunt",
+   "color": "brown",
+   "tags": [],
+   "aliases": [],
+   "summary": "Old Georgia fig with violet-brown skin and light red flesh.",
+   "description": "Bred in Georgia in the 1920s. Violet-brown skin with light red flesh. One Green World rates it to USDA zone 6 and calls it one of the most cold-hardy figs for Southeastern growers.",
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "first_seen": "2026-10-12"
+  },
+  {
+   "id": "gabes-gold",
+   "name": "Gabe's Gold",
+   "color": "yellow",
+   "tags": [],
+   "aliases": [
+    "SG1"
+   ],
+   "summary": "Yellow-skinned, berry-sweet fig found wild in Southern California's San Gabriel Mountains.",
+   "description": "Selected from a wild fig found in a drainage in the San Gabriel Mountains north of Azusa, California. Small, very sweet figs have yellow skin and light red flesh with a light berry flavor. Self-fruitful tree that bears 1–2 years after planting and ripens in September–October; rated to about 0–5°F (zone 7b) by One Green World.",
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "fruit": "fig",
+   "first_seen": "2026-10-22"
+  },
+  {
+   "id": "blanche-dargenteuil",
+   "name": "Blanche d'Argenteuil",
+   "color": "green",
+   "tags": [],
+   "aliases": [],
+   "summary": "French fig with a breba and main crop of sweet, floral yellow-green fruit.",
+   "description": "A fig from the suburbs of Paris, France. Fruit has yellow-green skin and amber-to-red flesh with a sweet, delicate floral flavor. Bears a breba crop and a main crop from July through October and handles rain well; rated to about 0–5°F (zone 7b) by One Green World.",
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "fruit": "fig",
+   "first_seen": "2026-10-22"
+  },
+  {
+   "id": "atreano",
+   "name": "Atreano",
+   "color": "green",
+   "tags": [],
+   "aliases": [],
+   "summary": "Light green-skinned fig with dark amber flesh that ripens in late summer.",
+   "description": "Fruit has light green skin and dark amber flesh with a sweet, flavorful taste. Ripens from late July to early August with a yield of 10–15 lbs or more per plant. One Green World rates it to about 0–5°F (zone 7); origin not stated.",
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "fruit": "fig",
+   "first_seen": "2026-10-22"
+  },
+  {
+   "id": "jack-lily",
+   "name": "Jack Lily",
+   "color": "yellow",
+   "tags": [],
+   "aliases": [],
+   "summary": "LSU-bred honey-type fig that resists splitting in wet autumns.",
+   "description": "An early-to-mid-season honey fig from Louisiana State University's fig breeding program. Yellow-skinned fruit has amber-red to pink flesh with a strawberry-jam sweetness and resists splitting in wet weather. Self-fertile, ripening late August through October; rated to about 0–5°F (zone 7b) by One Green World.",
+   "breeder": {
+    "name": "Louisiana State University fig breeding program",
+    "kind": "university"
+   },
+   "awards": [],
+   "notes": [],
+   "fruit": "fig",
+   "first_seen": "2026-10-22"
+  },
+  {
+   "id": "black-spanish",
+   "name": "Black Spanish",
+   "color": "dark",
+   "tags": [
+    "Compact"
+   ],
+   "aliases": [],
+   "summary": "Naturally dwarf, dark mahogany fig suited to containers.",
+   "description": "Grown for many years in Oregon. Dark mahogany skin with pink, strawberry-flavored flesh; very sweet, juicy and firm, good fresh, preserved or dried. A naturally dwarf tree (8–10 ft) that suits container culture and can bear two crops a year, ripening late July to early August; rated to zone 7 by One Green World.",
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "fruit": "fig",
+   "first_seen": "2026-10-22"
+  },
+  {
+   "id": "domenico-tauro",
+   "name": "Domenico Tauro",
+   "color": "brown",
+   "tags": [],
+   "aliases": [],
+   "summary": "Italian fig with a large early breba crop, suited to short seasons.",
+   "description": "An Italian variety with large, sweet figs that have purplish-brown skin and blush-pink flesh. Produces a large early breba crop and is described as suited to short-season growers. Rated to about 0–5°F (zone 7) by One Green World.",
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "fruit": "fig",
+   "first_seen": "2026-10-22"
+  },
+  {
+   "id": "ge-neri",
+   "name": "GE Neri",
+   "aliases": [],
+   "color": "dark",
+   "tags": [],
+   "summary": "Rare Italian fig with dark skin and sweet, jammy red flesh.",
+   "description": "Described by Perfect Plants Nursery as a rare Italian cultivar with dark skin and sweet, reddish, berry-tinged flesh in roughly tennis-ball-sized figs. Self-pollinating and suited to containers, reaching about 6-10 ft tall. The seller rates it for USDA zones 7-9, so zone 6b needs winter protection or an indoor overwintered pot.",
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "fruit": "fig",
+   "first_seen": "2026-11-02"
+  },
+  {
+   "id": "lsu-gold",
+   "name": "LSU Gold",
+   "aliases": [],
+   "color": "yellow",
+   "tags": [],
+   "summary": "Yellow-gold fig from Louisiana State University with honey-sweet flesh.",
+   "description": "Medium to large figs with yellow-gold skin and amber flesh, tasting sweet and honey-like with berry notes. Vigorous, self-pollinating plant of about 8-10 ft that does well in containers and gives an early-summer and a late-summer-to-fall crop. Rated for zones 7-10 in the ground; colder areas grow it in pots brought indoors for winter.",
+   "breeder": {
+    "name": "Louisiana State University fig breeding program",
+    "kind": "university"
+   },
+   "awards": [],
+   "notes": [],
+   "fruit": "fig",
+   "first_seen": "2026-11-02"
+  },
+  {
+   "id": "black-mission",
+   "name": "Black Mission",
+   "aliases": [],
+   "color": "dark",
+   "tags": [],
+   "summary": "Classic dark purple-black fig with strawberry-colored, jammy flesh.",
+   "description": "Pear-shaped figs with dark purple-black skin and strawberry-colored flesh that turns rich and jammy when ripe; Perfect Plants says it originates in Spain. Main harvest runs late summer to early fall, with a possible small early crop in warm areas. The seller rates it for zones 7-10 with limited cold hardiness, so it suits a pot overwintered indoors at zone 6b.",
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "fruit": "fig",
+   "first_seen": "2026-11-02"
+  }
+ ],
+ "listings": [
+  {
+   "id": "raintree--hardy-chicago",
+   "variety": "hardy-chicago",
+   "nursery": "raintree",
+   "status": "in_stock",
+   "price": 30.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/collections/figs/products/hardy-chicago-fig-gal-pot",
+   "first_seen": "2026-10-11",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-11",
+     "price": 30.99,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-11-02",
+     "price": 30.99,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-11-09",
+     "price": 30.99,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "1-gal pot",
+   "sold_as": "Hardy Chicago"
+  },
+  {
+   "id": "raintree--little-ruby",
+   "variety": "little-ruby",
+   "nursery": "raintree",
+   "status": "in_stock",
+   "price": 28.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/collections/figs/products/little-ruby-fig-gal-pot-spring",
+   "first_seen": "2026-10-11",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-11",
+     "price": 28.99,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "1-gal pot"
+  },
+  {
+   "id": "raintree--olympian",
+   "variety": "olympian",
+   "nursery": "raintree",
+   "status": "in_stock",
+   "price": 32.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/collections/figs/products/olympian-fig-gal-pot",
+   "first_seen": "2026-10-11",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-11",
+     "price": 32.99,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "1-gal pot"
+  },
+  {
+   "id": "raintree--brown-turkey",
+   "variety": "brown-turkey",
+   "nursery": "raintree",
+   "status": "in_stock",
+   "price": 27.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/collections/figs/products/brown-turkey-fig-gal-pot",
+   "first_seen": "2026-10-11",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-11",
+     "price": 27.99,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-11-02",
+     "price": 27.99,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-11-09",
+     "price": 27.99,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "1-gal pot"
+  },
+  {
+   "id": "raintree--dauphine",
+   "variety": "dauphine",
+   "nursery": "raintree",
+   "status": "in_stock",
+   "price": 30.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/collections/figs/products/dauphine-fig-gal-pot",
+   "first_seen": "2026-10-11",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-11",
+     "price": 30.99,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "1-gal pot"
+  },
+  {
+   "id": "raintree--desert-king",
+   "variety": "desert-king",
+   "nursery": "raintree",
+   "status": "sold_out",
+   "price": 30.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/collections/figs/products/desert-king-fig",
+   "first_seen": "2026-10-11",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-11",
+     "price": 30.99,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-15",
+     "price": 30.99,
+     "status": "sold_out"
+    }
+   ],
+   "ships": "1-gal pot"
+  },
+  {
+   "id": "raintree--lattarula",
+   "variety": "lattarula",
+   "nursery": "raintree",
+   "status": "in_stock",
+   "price": 30.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/collections/figs/products/lattarula-fig-1-quart-pot-1",
+   "first_seen": "2026-10-11",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-11",
+     "price": 30.99,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "quart pot"
+  },
+  {
+   "id": "raintree--madeleine-des-deux-saisons",
+   "variety": "madeleine-des-deux-saisons",
+   "nursery": "raintree",
+   "status": "in_stock",
+   "price": 30.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/collections/figs/products/madeleine-des-deux-saisons-fig-gal-pot",
+   "first_seen": "2026-10-11",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-11",
+     "price": 30.99,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "1-gal pot"
+  },
+  {
+   "id": "raintree--petite-negri",
+   "variety": "petite-negri",
+   "nursery": "raintree",
+   "status": "sold_out",
+   "price": 30.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/collections/figs/products/petite-negri-fig-gallon-pot",
+   "first_seen": "2026-10-11",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-11",
+     "price": 30.99,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-12",
+     "price": 30.99,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-11-02",
+     "price": 30.99,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-11-05",
+     "price": 30.99,
+     "status": "sold_out"
+    }
+   ],
+   "ships": "1-gal pot"
+  },
+  {
+   "id": "raintree--sultane",
+   "variety": "sultane",
+   "nursery": "raintree",
+   "status": "in_stock",
+   "price": 32.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/collections/figs/products/sultane-fig-gallon-pot",
+   "first_seen": "2026-10-11",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-11",
+     "price": 32.99,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-11-02",
+     "price": 32.99,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-11-09",
+     "price": 32.99,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "1-gal pot"
+  },
+  {
+   "id": "raintree--peters-honey",
+   "variety": "peters-honey",
+   "nursery": "raintree",
+   "status": "sold_out",
+   "price": 30.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/collections/figs/products/peters-honey-fig-gallon-pot",
+   "first_seen": "2026-10-11",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-11",
+     "price": 30.99,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "raintree--pastilliere",
+   "variety": "pastilliere",
+   "nursery": "raintree",
+   "status": "sold_out",
+   "price": 30.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/collections/figs/products/pastillere-fig-gal-pot",
+   "first_seen": "2026-10-11",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-11",
+     "price": 30.99,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "raintree--nordland",
+   "variety": "nordland",
+   "nursery": "raintree",
+   "status": "sold_out",
+   "price": 30.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/collections/figs/products/nordland-fig-gal-pot",
+   "first_seen": "2026-10-11",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-11",
+     "price": 30.99,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "raintree--violette-de-bordeaux",
+   "variety": "violette-de-bordeaux",
+   "nursery": "raintree",
+   "status": "sold_out",
+   "price": 28.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/collections/figs/products/violette-debordeaux-fig-negronne-gallon-pot",
+   "first_seen": "2026-10-11",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-11",
+     "price": 28.99,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "raintree--fignomenal",
+   "variety": "fignomenal",
+   "nursery": "raintree",
+   "status": "sold_out",
+   "price": 32.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/collections/figs/products/fig-fignominall",
+   "first_seen": "2026-10-11",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-11",
+     "price": 32.99,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "stark-bros--hardy-chicago",
+   "variety": "hardy-chicago",
+   "nursery": "stark-bros",
+   "status": "in_stock",
+   "price": 32.99,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://www.starkbros.com/products/fruit-trees/fig-trees/chicago-hardy-fig",
+   "first_seen": "2026-10-11",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Stark Bro's Nurseries: Also as EZ Start (8–12 in.) at $51.99."
+   ],
+   "history": [
+    {
+     "date": "2026-10-11",
+     "price": 32.99,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "1-gal pot; arrives at planting time for your zone",
+   "on_sale": true,
+   "was_price": 36.99
+  },
+  {
+   "id": "stark-bros--brown-turkey",
+   "variety": "brown-turkey",
+   "nursery": "stark-bros",
+   "status": "in_stock",
+   "price": 51.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.starkbros.com/products/fruit-trees/fig-trees/brown-turkey-fig",
+   "first_seen": "2026-10-11",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Stark Bro's Nurseries: sale price (regular $64.99)."
+   ],
+   "history": [
+    {
+     "date": "2026-10-11",
+     "price": 51.99,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "EZ Start pot, 1.5–3 ft; arrives at planting time for your zone",
+   "was_price": 64.99
+  },
+  {
+   "id": "stark-bros--celeste",
+   "variety": "celeste",
+   "nursery": "stark-bros",
+   "status": "in_stock",
+   "price": 51.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.starkbros.com/products/fruit-trees/fig-trees/celeste-fig",
+   "first_seen": "2026-10-11",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Stark Bro's Nurseries: sale price (regular $64.99)."
+   ],
+   "history": [
+    {
+     "date": "2026-10-11",
+     "price": 51.99,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "EZ Start pot, 1.5–3 ft; arrives at planting time for your zone",
+   "was_price": 64.99
+  },
+  {
+   "id": "edible-landscaping--hardy-chicago",
+   "variety": "hardy-chicago",
+   "nursery": "edible-landscaping",
+   "status": "in_stock",
+   "price": 34.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://ediblelandscaping.com/collections/fig/products/hardy-chicago-fig",
+   "first_seen": "2026-10-11",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Edible Landscaping: Quart $18 and 2-inch plug $7 also available."
+   ],
+   "history": [
+    {
+     "date": "2026-10-11",
+     "price": 34.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "1-gal pot; ships ~2 weeks after order"
+  },
+  {
+   "id": "edible-landscaping--celeste",
+   "variety": "celeste",
+   "nursery": "edible-landscaping",
+   "status": "in_stock",
+   "price": 34.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://ediblelandscaping.com/collections/fig/products/celeste-fig",
+   "first_seen": "2026-10-11",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Edible Landscaping: 4-inch $12, 3- and 5-gallon also available."
+   ],
+   "history": [
+    {
+     "date": "2026-10-11",
+     "price": 34.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "1-gal pot; ships ~2 weeks after order"
+  },
+  {
+   "id": "edible-landscaping--brown-turkey",
+   "variety": "brown-turkey",
+   "nursery": "edible-landscaping",
+   "status": "in_stock",
+   "price": 34.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://ediblelandscaping.com/collections/fig/products/english-brown-turkey-fig",
+   "first_seen": "2026-10-11",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Edible Landscaping: Sold as English Brown Turkey; 3-gallon $48 also available."
+   ],
+   "history": [
+    {
+     "date": "2026-10-11",
+     "price": 34.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "1-gal pot; ships ~2 weeks after order"
+  },
+  {
+   "id": "edible-landscaping--marseilles",
+   "variety": "marseilles",
+   "nursery": "edible-landscaping",
+   "status": "in_stock",
+   "price": 34.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://ediblelandscaping.com/collections/fig/products/marsielles-fig",
+   "first_seen": "2026-10-11",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Edible Landscaping: Quart $18 and 3-inch $10 also available; low stock."
+   ],
+   "history": [
+    {
+     "date": "2026-10-11",
+     "price": 34.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "1-gal pot; ships ~2 weeks after order"
+  },
+  {
+   "id": "edible-landscaping--petite-negri",
+   "variety": "petite-negri",
+   "nursery": "edible-landscaping",
+   "status": "in_stock",
+   "price": 34.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://ediblelandscaping.com/collections/fig/products/petite-negri-fig",
+   "first_seen": "2026-10-11",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Edible Landscaping: 4-inch $12 also available."
+   ],
+   "history": [
+    {
+     "date": "2026-10-11",
+     "price": 34.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "1-gal pot; ships ~2 weeks after order"
+  },
+  {
+   "id": "edible-landscaping--lsu-purple",
+   "variety": "lsu-purple",
+   "nursery": "edible-landscaping",
+   "status": "in_stock",
+   "price": 34.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://ediblelandscaping.com/collections/fig/products/lsu-purple-fig",
+   "first_seen": "2026-10-11",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Edible Landscaping: 2-gallon $40 also available."
+   ],
+   "history": [
+    {
+     "date": "2026-10-11",
+     "price": 34.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "1-gal pot; ships ~2 weeks after order"
+  },
+  {
+   "id": "edible-landscaping--green-ischia",
+   "variety": "green-ischia",
+   "nursery": "edible-landscaping",
+   "status": "in_stock",
+   "price": 34.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://ediblelandscaping.com/collections/fig/products/green-ischia-fig-aka-verte-fig",
+   "first_seen": "2026-10-11",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-11",
+     "price": 34.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "1-gal pot; ships ~2 weeks after order"
+  },
+  {
+   "id": "edible-landscaping--conadria",
+   "variety": "conadria",
+   "nursery": "edible-landscaping",
+   "status": "in_stock",
+   "price": 34.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://ediblelandscaping.com/collections/fig/products/conadria-fig",
+   "first_seen": "2026-10-11",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-11",
+     "price": 34.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "1-gal pot; ships ~2 weeks after order"
+  },
+  {
+   "id": "edible-landscaping--orourke",
+   "variety": "orourke",
+   "nursery": "edible-landscaping",
+   "status": "in_stock",
+   "price": 34.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://ediblelandscaping.com/collections/fig/products/orourke-fig",
+   "first_seen": "2026-10-11",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-11",
+     "price": 34.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "1-gal pot; ships ~2 weeks after order"
+  },
+  {
+   "id": "edible-landscaping--violette-de-bordeaux",
+   "variety": "violette-de-bordeaux",
+   "nursery": "edible-landscaping",
+   "status": "sold_out",
+   "price": 34.0,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://ediblelandscaping.com/collections/fig/products/violet-de-bordeaux-fig",
+   "first_seen": "2026-10-11",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-11",
+     "price": 34.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "edible-landscaping--olympian",
+   "variety": "olympian",
+   "nursery": "edible-landscaping",
+   "status": "sold_out",
+   "price": 34.0,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://ediblelandscaping.com/collections/fig/products/olympian-fig",
+   "first_seen": "2026-10-11",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-11",
+     "price": 34.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "edible-landscaping--panache",
+   "variety": "panache",
+   "nursery": "edible-landscaping",
+   "status": "sold_out",
+   "price": 34.0,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://ediblelandscaping.com/collections/fig/products/panache-fig",
+   "first_seen": "2026-10-11",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-11",
+     "price": 34.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "edible-landscaping--brunswick",
+   "variety": "brunswick",
+   "nursery": "edible-landscaping",
+   "status": "sold_out",
+   "price": 34.0,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://ediblelandscaping.com/collections/fig/products/brunswick-fig",
+   "first_seen": "2026-10-11",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-11",
+     "price": 34.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "roots-to-fruits--hardy-chicago",
+   "variety": "hardy-chicago",
+   "nursery": "roots-to-fruits",
+   "status": "in_stock",
+   "price": 25.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://rootstofruitsnursery.com/collections/figs/products/chicago-hardy-fig",
+   "first_seen": "2026-10-11",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Roots to Fruits Nursery: 3-gal $35 also available."
+   ],
+   "history": [
+    {
+     "date": "2026-10-11",
+     "price": 29.0,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-22",
+     "price": 25.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "1-gal container; fall 2026 or spring 2027"
+  },
+  {
+   "id": "roots-to-fruits--lattarula",
+   "variety": "lattarula",
+   "nursery": "roots-to-fruits",
+   "status": "in_stock",
+   "price": 25.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://rootstofruitsnursery.com/collections/figs/products/italian-honey-fig-tree",
+   "first_seen": "2026-10-11",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-11",
+     "price": 25.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "1-gal container; fall 2026 or spring 2027",
+   "sold_as": "1G container"
+  },
+  {
+   "id": "roots-to-fruits--desert-king",
+   "variety": "desert-king",
+   "nursery": "roots-to-fruits",
+   "status": "in_stock",
+   "price": 25.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://rootstofruitsnursery.com/collections/figs/products/desert-king-fig-tree",
+   "first_seen": "2026-10-11",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-11",
+     "price": 25.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "1-gal container; fall 2026 or spring 2027",
+   "sold_as": "1G container"
+  },
+  {
+   "id": "roots-to-fruits--little-ruby",
+   "variety": "little-ruby",
+   "nursery": "roots-to-fruits",
+   "status": "in_stock",
+   "price": 29.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://rootstofruitsnursery.com/collections/figs/products/little-ruby-fig-tree",
+   "first_seen": "2026-10-11",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-11",
+     "price": 29.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "1-gal container; fall 2026 or spring 2027",
+   "sold_as": "1G container"
+  },
+  {
+   "id": "roots-to-fruits--brown-turkey",
+   "variety": "brown-turkey",
+   "nursery": "roots-to-fruits",
+   "status": "in_stock",
+   "price": 29.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://rootstofruitsnursery.com/collections/figs/products/brown-turkey-fig-tree",
+   "first_seen": "2026-10-11",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-11",
+     "price": 29.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "1-gal container; fall 2026 or spring 2027",
+   "sold_as": "1G container"
+  },
+  {
+   "id": "roots-to-fruits--olympian",
+   "variety": "olympian",
+   "nursery": "roots-to-fruits",
+   "status": "in_stock",
+   "price": 35.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://rootstofruitsnursery.com/collections/figs/products/olympia-fig-tree",
+   "first_seen": "2026-10-11",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-11",
+     "price": 35.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "1-gal container; fall 2026 or spring 2027",
+   "sold_as": "1G container"
+  },
+  {
+   "id": "peaceful-heritage--hardy-chicago",
+   "variety": "hardy-chicago",
+   "nursery": "peaceful-heritage",
+   "status": "in_stock",
+   "price": 54.99,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://peacefulheritage.com/products/chicago-hardy-fig-naturally-grown",
+   "first_seen": "2026-10-11",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Product page shows sold out with restock alert; sizes Medium 1-2' and Large 2-4'"
+   ],
+   "history": [
+    {
+     "date": "2026-10-11",
+     "price": 54.99,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-15",
+     "price": 54.99,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-20",
+     "price": 54.99,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Medium 1–2 ft"
+  },
+  {
+   "id": "one-green-world--hardy-chicago",
+   "variety": "hardy-chicago",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 29.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/chicago-hardy-fig-tree/",
+   "first_seen": "2026-10-11",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "One Green World: Product page shows in stock even though the category page says “Email me when available”."
+   ],
+   "history": [
+    {
+     "date": "2026-10-11",
+     "price": 29.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "1-gal (9-in. deep pot); ships fall"
+  },
+  {
+   "id": "one-green-world--brooklyn-dark",
+   "variety": "brooklyn-dark",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 29.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/brooklyn-dark-fig-tree/",
+   "first_seen": "2026-10-12",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Product page shows Add to cart (plus a waitlist form)."
+   ],
+   "history": [
+    {
+     "date": "2026-10-12",
+     "price": 29.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "1-gal; ships fall"
+  },
+  {
+   "id": "one-green-world--black-bethlehem",
+   "variety": "black-bethlehem",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 29.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/black-bethlehem-fig-tree/",
+   "first_seen": "2026-10-12",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Page metadata says in stock; a waitlist form also appears."
+   ],
+   "history": [
+    {
+     "date": "2026-10-12",
+     "price": 29.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "1-gal; ships fall"
+  },
+  {
+   "id": "one-green-world--genes-vashon",
+   "variety": "genes-vashon",
+   "nursery": "one-green-world",
+   "status": "sold_out",
+   "price": 29.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/genes-vashon-fig/",
+   "first_seen": "2026-10-12",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "1-gal $29.95; 2-gal $39.95. Page metadata says in stock."
+   ],
+   "history": [
+    {
+     "date": "2026-10-12",
+     "price": 29.95,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-22",
+     "price": 29.95,
+     "status": "sold_out"
+    }
+   ],
+   "ships": "1-gal or 2-gal; ships fall"
+  },
+  {
+   "id": "one-green-world--hunt",
+   "variety": "hunt",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 29.95,
+   "price_from": true,
+   "price_confirmed": false,
+   "url": "https://onegreenworld.com/product/hunt-fig-tree/",
+   "first_seen": "2026-10-12",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Price from $29.95 (category page); product page shows Add to cart and a waitlist form but stock is unclear."
+   ],
+   "history": [
+    {
+     "date": "2026-10-12",
+     "price": 29.95,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-22",
+     "price": 29.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "1, 2 or 5 gal; ships fall"
+  },
+  {
+   "id": "arbor-day--hardy-chicago",
+   "variety": "hardy-chicago",
+   "nursery": "arbor-day",
+   "status": "unconfirmed",
+   "price": 59.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://shop.arborday.org/chicago-hardy-fig",
+   "first_seen": "2026-10-12",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Page shows Add to cart and a back-in-stock signup; stock not confirmed."
+   ],
+   "history": [
+    {
+     "date": "2026-10-12",
+     "price": 59.99,
+     "status": "unconfirmed"
+    }
+   ],
+   "ships": "1-gal (1–2 ft)"
+  },
+  {
+   "id": "one-green-world--gabes-gold",
+   "variety": "gabes-gold",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 39.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/gabes-gold-fig-tree/",
+   "first_seen": "2026-10-22",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-22",
+     "price": 39.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "1-gal pot; ships in fall",
+   "sold_as": "1-gallon plant"
+  },
+  {
+   "id": "one-green-world--blanche-dargenteuil",
+   "variety": "blanche-dargenteuil",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 39.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/blanche-dargenteuil-fig-tree/",
+   "first_seen": "2026-10-22",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-22",
+     "price": 39.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "1-gal pot; ships in fall",
+   "sold_as": "1-gallon plant"
+  },
+  {
+   "id": "one-green-world--atreano",
+   "variety": "atreano",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 29.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/atreano-fig/",
+   "first_seen": "2026-10-22",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-22",
+     "price": 29.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "1-gal pot; ships in fall",
+   "sold_as": "1-gallon plant"
+  },
+  {
+   "id": "one-green-world--jack-lily",
+   "variety": "jack-lily",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 29.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/jack-lily-fig-tree/",
+   "first_seen": "2026-10-22",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Product page shows Add to cart; category page shows 'Email me when available'."
+   ],
+   "history": [
+    {
+     "date": "2026-10-22",
+     "price": 29.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "1-gal pot; ships in fall",
+   "sold_as": "1-gallon plant"
+  },
+  {
+   "id": "one-green-world--black-spanish",
+   "variety": "black-spanish",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 24.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/black-spanish-fig/",
+   "first_seen": "2026-10-22",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-22",
+     "price": 24.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "1-gal pot; ships in fall",
+   "sold_as": "1-gallon plant"
+  },
+  {
+   "id": "one-green-world--domenico-tauro",
+   "variety": "domenico-tauro",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 29.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/domenico-tauro-fig-tree/",
+   "first_seen": "2026-10-22",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-22",
+     "price": 29.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "1-gal pot; ships in fall",
+   "sold_as": "1-gallon plant"
+  },
+  {
+   "id": "isons--celeste",
+   "variety": "celeste",
+   "nursery": "isons",
+   "status": "in_stock",
+   "price": 24.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.isons.com/shop/fruit-trees/figs-trees/celeste-fig-tree/",
+   "first_seen": "2026-10-22",
+   "last_checked": "2026-11-05",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-22",
+     "price": 24.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Bare-root; fig trees ship Jan–Apr (colder states late Mar/early Apr)",
+   "sold_as": "Bare-root tree, 2–3 ft or 3–4 ft"
+  },
+  {
+   "id": "isons--lsu-purple",
+   "variety": "lsu-purple",
+   "nursery": "isons",
+   "status": "in_stock",
+   "price": 24.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.isons.com/shop/fruit-trees/figs-trees/lsu-purple-fig-tree/",
+   "first_seen": "2026-10-22",
+   "last_checked": "2026-11-05",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-22",
+     "price": 24.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Bare-root; fig trees ship Jan–Apr (colder states late Mar/early Apr)",
+   "sold_as": "Bare-root tree, 2–3 ft or 3–4 ft"
+  },
+  {
+   "id": "epic-gardening--hardy-chicago",
+   "variety": "hardy-chicago",
+   "nursery": "epic-gardening",
+   "status": "sold_out",
+   "price": 74.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.epicgardening.com/collections/fig/products/chicago-hardy-fig-tree",
+   "first_seen": "2026-10-22",
+   "last_checked": "2026-11-02",
+   "notes": [
+    "Product page shows 1-gallon single available at $49.95, but the collection page and main price area read 'Sold out'; stock unconfirmed.",
+    "Larger sizes: 3-gal $99.95."
+   ],
+   "history": [
+    {
+     "date": "2026-10-22",
+     "price": 49.95,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-11-02",
+     "price": 74.95,
+     "status": "sold_out"
+    }
+   ],
+   "ships": "1-gal pot",
+   "sold_as": "Chicago Hardy, 1-gallon",
+   "was_price": null
+  },
+  {
+   "id": "scenic-hill-farm--hardy-chicago",
+   "variety": "hardy-chicago",
+   "nursery": "scenic-hill-farm",
+   "status": "in_stock",
+   "price": 32.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://scenichillfarmnursery.com/products/fig-texas-ever-bearing-fig-tree-12-20-inches-tall-large-nearly-seedless-figs-copy",
+   "first_seen": "2026-11-02",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Scenic Hill Farm Nursery: price includes shipping; mix-and-match multi-tree discounts."
+   ],
+   "history": [
+    {
+     "date": "2026-11-02",
+     "price": 32.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Marked 'Available now'",
+   "sold_as": "1 tree, shipping included; pot size not stated"
+  },
+  {
+   "id": "scenic-hill-farm--desert-king",
+   "variety": "desert-king",
+   "nursery": "scenic-hill-farm",
+   "status": "in_stock",
+   "price": 32.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://scenichillfarmnursery.com/products/fig-texas-ever-bearing-fig-tree-12-20-inches-tall-large-nearly-seedless-figs-copy",
+   "first_seen": "2026-11-02",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Scenic Hill Farm Nursery: price includes shipping; mix-and-match multi-tree discounts."
+   ],
+   "history": [
+    {
+     "date": "2026-11-02",
+     "price": 32.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Marked 'Available now'",
+   "sold_as": "1 tree, shipping included; pot size not stated"
+  },
+  {
+   "id": "scenic-hill-farm--lattarula",
+   "variety": "lattarula",
+   "nursery": "scenic-hill-farm",
+   "status": "in_stock",
+   "price": 32.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://scenichillfarmnursery.com/products/fig-texas-ever-bearing-fig-tree-12-20-inches-tall-large-nearly-seedless-figs-copy",
+   "first_seen": "2026-11-02",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Scenic Hill Farm Nursery: price includes shipping; mix-and-match multi-tree discounts."
+   ],
+   "history": [
+    {
+     "date": "2026-11-02",
+     "price": 32.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Marked 'Available now'",
+   "sold_as": "1 tree, shipping included; pot size not stated"
+  },
+  {
+   "id": "scenic-hill-farm--little-ruby",
+   "variety": "little-ruby",
+   "nursery": "scenic-hill-farm",
+   "status": "in_stock",
+   "price": 32.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://scenichillfarmnursery.com/products/fig-texas-ever-bearing-fig-tree-12-20-inches-tall-large-nearly-seedless-figs-copy",
+   "first_seen": "2026-11-02",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Scenic Hill Farm Nursery: price includes shipping; mix-and-match multi-tree discounts."
+   ],
+   "history": [
+    {
+     "date": "2026-11-02",
+     "price": 32.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Marked 'Available now'",
+   "sold_as": "1 tree, shipping included; pot size not stated"
+  },
+  {
+   "id": "scenic-hill-farm--lsu-purple",
+   "variety": "lsu-purple",
+   "nursery": "scenic-hill-farm",
+   "status": "in_stock",
+   "price": 32.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://scenichillfarmnursery.com/products/fig-texas-ever-bearing-fig-tree-12-20-inches-tall-large-nearly-seedless-figs-copy",
+   "first_seen": "2026-11-02",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Scenic Hill Farm Nursery: price includes shipping; mix-and-match multi-tree discounts."
+   ],
+   "history": [
+    {
+     "date": "2026-11-02",
+     "price": 32.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Marked 'Available now'",
+   "sold_as": "1 tree, shipping included; pot size not stated"
+  },
+  {
+   "id": "scenic-hill-farm--olympian",
+   "variety": "olympian",
+   "nursery": "scenic-hill-farm",
+   "status": "in_stock",
+   "price": 32.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://scenichillfarmnursery.com/products/fig-texas-ever-bearing-fig-tree-12-20-inches-tall-large-nearly-seedless-figs-copy",
+   "first_seen": "2026-11-02",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Scenic Hill Farm Nursery: price includes shipping; mix-and-match multi-tree discounts."
+   ],
+   "history": [
+    {
+     "date": "2026-11-02",
+     "price": 32.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Marked 'Available now'",
+   "sold_as": "1 tree, shipping included; pot size not stated"
+  },
+  {
+   "id": "scenic-hill-farm--marseilles",
+   "variety": "marseilles",
+   "nursery": "scenic-hill-farm",
+   "status": "in_stock",
+   "price": 32.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://scenichillfarmnursery.com/products/fig-texas-ever-bearing-fig-tree-12-20-inches-tall-large-nearly-seedless-figs-copy",
+   "first_seen": "2026-11-02",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Scenic Hill Farm Nursery: price includes shipping; mix-and-match multi-tree discounts."
+   ],
+   "history": [
+    {
+     "date": "2026-11-02",
+     "price": 32.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Marked 'Available now'",
+   "sold_as": "1 tree, shipping included; pot size not stated"
+  },
+  {
+   "id": "gurneys--hardy-chicago",
+   "variety": "hardy-chicago",
+   "nursery": "gurneys",
+   "status": "in_stock",
+   "price": 49.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.gurneys.com/products/hardy-chicago",
+   "first_seen": "2026-11-02",
+   "last_checked": "2026-11-05",
+   "notes": [
+    "Gurney's: other options (bareroot spring $29.99, premium $39.99) shown sold out."
+   ],
+   "history": [
+    {
+     "date": "2026-11-02",
+     "price": 49.99,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "Jumbo, year-round (the only option in stock; form not stated)"
+  },
+  {
+   "id": "gurneys--fignomenal",
+   "variety": "fignomenal",
+   "nursery": "gurneys",
+   "status": "in_stock",
+   "price": 34.99,
+   "price_from": true,
+   "price_confirmed": false,
+   "url": "https://www.gurneys.com/products/fignomenal-fig",
+   "first_seen": "2026-11-02",
+   "last_checked": "2026-11-05",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-11-02",
+     "price": 34.99,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Marked 'Shipping Now'",
+   "sold_as": "Size not stated"
+  },
+  {
+   "id": "gurneys--violette-de-bordeaux",
+   "variety": "violette-de-bordeaux",
+   "nursery": "gurneys",
+   "status": "sold_out",
+   "price": 44.99,
+   "price_from": true,
+   "price_confirmed": false,
+   "url": "https://www.gurneys.com/products/violette-de-bordeaux",
+   "first_seen": "2026-11-02",
+   "last_checked": "2026-11-05",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-11-02",
+     "price": 44.99,
+     "status": "sold_out"
+    }
+   ],
+   "sold_as": "Size not stated"
+  },
+  {
+   "id": "gurneys--peters-honey",
+   "variety": "peters-honey",
+   "nursery": "gurneys",
+   "status": "sold_out",
+   "price": 29.99,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://www.gurneys.com/products/peters-honey-fig",
+   "first_seen": "2026-11-02",
+   "last_checked": "2026-11-05",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-11-02",
+     "price": 29.99,
+     "status": "sold_out"
+    }
+   ],
+   "sold_as": "Size not stated"
+  },
+  {
+   "id": "perfect-plants--hardy-chicago",
+   "variety": "hardy-chicago",
+   "nursery": "perfect-plants",
+   "status": "in_stock",
+   "price": 27.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://myperfectplants.com/collections/fig-trees/products/chicago-hardy-fig-tree",
+   "first_seen": "2026-11-02",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-11-02",
+     "price": 27.99,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Ships in 2-3 business days",
+   "sold_as": "1 gallon (3-gallon sold out)",
+   "was_price": 29.99
+  },
+  {
+   "id": "perfect-plants--lsu-purple",
+   "variety": "lsu-purple",
+   "nursery": "perfect-plants",
+   "status": "sold_out",
+   "price": 26.99,
+   "price_from": true,
+   "price_confirmed": false,
+   "url": "https://myperfectplants.com/collections/fig-trees/products/lsu-purple-fig-tree",
+   "first_seen": "2026-11-02",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-11-02",
+     "price": 26.99,
+     "status": "sold_out"
+    }
+   ],
+   "sold_as": "Size not stated on collection page (1-gallon from-price)"
+  },
+  {
+   "id": "perfect-plants--celeste",
+   "variety": "celeste",
+   "nursery": "perfect-plants",
+   "status": "sold_out",
+   "price": 29.99,
+   "price_from": true,
+   "price_confirmed": false,
+   "url": "https://myperfectplants.com/collections/fig-trees/products/celeste-fig-tree",
+   "first_seen": "2026-11-02",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-11-02",
+     "price": 29.99,
+     "status": "sold_out"
+    }
+   ],
+   "sold_as": "Size not stated on collection page (1-gallon from-price)"
+  },
+  {
+   "id": "perfect-plants--olympian",
+   "variety": "olympian",
+   "nursery": "perfect-plants",
+   "status": "sold_out",
+   "price": 29.95,
+   "price_from": true,
+   "price_confirmed": false,
+   "url": "https://myperfectplants.com/collections/fig-trees/products/olympian-fig-tree",
+   "first_seen": "2026-11-02",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-11-02",
+     "price": 29.95,
+     "status": "sold_out"
+    }
+   ],
+   "sold_as": "Size not stated on collection page (1-gallon from-price)"
+  },
+  {
+   "id": "perfect-plants--fignomenal",
+   "variety": "fignomenal",
+   "nursery": "perfect-plants",
+   "status": "sold_out",
+   "price": 29.95,
+   "price_from": true,
+   "price_confirmed": false,
+   "url": "https://myperfectplants.com/collections/fig-trees/products/fignomenal-fig-tree",
+   "first_seen": "2026-11-02",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-11-02",
+     "price": 29.95,
+     "status": "sold_out"
+    }
+   ],
+   "sold_as": "Size not stated on collection page (1-gallon from-price)"
+  },
+  {
+   "id": "perfect-plants--brown-turkey",
+   "variety": "brown-turkey",
+   "nursery": "perfect-plants",
+   "status": "sold_out",
+   "price": 29.95,
+   "price_from": true,
+   "price_confirmed": false,
+   "url": "https://myperfectplants.com/collections/fig-trees/products/brown-turkey-fig-tree",
+   "first_seen": "2026-11-02",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-11-02",
+     "price": 29.95,
+     "status": "sold_out"
+    }
+   ],
+   "sold_as": "Size not stated on collection page (1-gallon from-price)"
+  },
+  {
+   "id": "perfect-plants--lattarula",
+   "variety": "lattarula",
+   "nursery": "perfect-plants",
+   "status": "sold_out",
+   "price": 29.95,
+   "price_from": true,
+   "price_confirmed": false,
+   "url": "https://myperfectplants.com/collections/fig-trees/products/italian-honey-fig-tree",
+   "first_seen": "2026-11-02",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-11-02",
+     "price": 29.95,
+     "status": "sold_out"
+    }
+   ],
+   "sold_as": "Size not stated on collection page (1-gallon from-price)"
+  },
+  {
+   "id": "perfect-plants--lsu-gold",
+   "variety": "lsu-gold",
+   "nursery": "perfect-plants",
+   "status": "sold_out",
+   "price": 29.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://myperfectplants.com/collections/fig-trees/products/lsu-gold-fig-tree",
+   "first_seen": "2026-11-02",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-11-02",
+     "price": 29.95,
+     "status": "sold_out"
+    }
+   ],
+   "sold_as": "1 gallon (marked down from $49.95)"
+  },
+  {
+   "id": "perfect-plants--black-mission",
+   "variety": "black-mission",
+   "nursery": "perfect-plants",
+   "status": "sold_out",
+   "price": 29.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://myperfectplants.com/collections/fig-trees/products/black-mission-fig-tree",
+   "first_seen": "2026-11-02",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-11-02",
+     "price": 29.99,
+     "status": "sold_out"
+    }
+   ],
+   "sold_as": "1 gallon (marked down from $49.95)"
+  },
+  {
+   "id": "perfect-plants--ge-neri",
+   "variety": "ge-neri",
+   "nursery": "perfect-plants",
+   "status": "sold_out",
+   "price": 39.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://myperfectplants.com/collections/fig-trees/products/ge-neri-fig-tree",
+   "first_seen": "2026-11-02",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Perfect Plants: 1-gallon option marked Sold Out although the page banner says 'In stock, ready to ship'."
+   ],
+   "history": [
+    {
+     "date": "2026-11-02",
+     "price": 39.95,
+     "status": "sold_out"
+    }
+   ],
+   "sold_as": "1 gallon"
+  },
+  {
+   "id": "peaceful-heritage--celeste",
+   "variety": "celeste",
+   "nursery": "peaceful-heritage",
+   "status": "in_stock",
+   "price": 54.99,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://peacefulheritage.com/products/celeste-fig-naturally-grown",
+   "first_seen": "2026-11-02",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-11-02",
+     "price": 54.99,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "Medium 1-2 ft (Large 2-4 ft $64.99)"
+  },
+  {
+   "id": "peaceful-heritage--olympian",
+   "variety": "olympian",
+   "nursery": "peaceful-heritage",
+   "status": "in_stock",
+   "price": 54.99,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://peacefulheritage.com/products/olympian-hardy-fig-naturally-grown",
+   "first_seen": "2026-11-02",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-11-02",
+     "price": 54.99,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "Medium 1-2 ft (Large 2-4 ft $64.99)"
+  },
+  {
+   "id": "peaceful-heritage--violette-de-bordeaux",
+   "variety": "violette-de-bordeaux",
+   "nursery": "peaceful-heritage",
+   "status": "in_stock",
+   "price": 54.99,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://peacefulheritage.com/products/violette-de-bordeaux-fig-naturally-grown",
+   "first_seen": "2026-11-02",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-11-02",
+     "price": 54.99,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "Medium 1-2 ft (Large 2-4 ft $64.99)"
+  },
+  {
+   "id": "peaceful-heritage--green-ischia",
+   "variety": "green-ischia",
+   "nursery": "peaceful-heritage",
+   "status": "in_stock",
+   "price": 54.99,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://peacefulheritage.com/products/strawberry-jam-fig-green-ischia-naturally-grown",
+   "first_seen": "2026-11-02",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-11-02",
+     "price": 54.99,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "Medium 1-2 ft (Large 2-4 ft $64.99)"
+  }
+ ]
+}

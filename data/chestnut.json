@@ -1,0 +1,1835 @@
+{
+ "fruit": "chestnut",
+ "updated": "2026-11-11",
+ "scope": "Named chestnut cultivars for zone 6b/7a sold as grafted, layered, tissue-culture or self-rooted trees, which come true to name: Chinese, Japanese, European, European × Japanese and complex hybrids, plus the Dunstan line, which is sold only as seedlings and tagged so. Seedlings grown from a named cultivar, unnamed seedlings, horse chestnut (Aesculus) and water chestnut are left out. Prices are for one grafted tree, the 2–4 ft size where a seller offers it. Every chestnut needs a second, pollen-producing tree nearby; pollen-sterile types are tagged.",
+ "last_run": {
+  "date": "2026-11-11",
+  "summary": "New listings at Spencer Creek Nursery: Colossal (sold out), Bouche de Bétizac (sold out), Gillet (sold out), Layeroka (sold out), Marron Comballe (sold out), Marrone di Val di Susa (sold out), Marrone di Chiusa Pesio (sold out), Marsol (sold out). Found Spencer Creek Nursery (Oregon), which sells grafted trees of many named chestnuts. Eight are tracked, all out of stock until new orders open. EBB Farms had only seedlings. Nolin River and England's Orchard still block automated reading. New seller Spencer Creek Nursery (OR) added with 8 grafted cultivars (all out of stock).",
+  "gaps": [
+   "Spencer Creek has about 18 more named cultivars (e.g. Bisalta #3, Bracalla, Marron du Var, Prolific, Whitten North/South, Nevada, Primato, Szego, Tanzawa, Torakuri, Tsukuba) whose grafted prices weren't readable tonight.",
+   "Nolin River and England's Orchard & Nursery block automated reading (robots), so not checked.",
+   "Stark Bro's Peach and Auburn Homestead chestnuts are out of stock with no price or grafted status, so not added."
+  ],
+  "checked": [],
+  "held": [],
+  "notes": [
+   "Found Spencer Creek Nursery (Oregon), which sells grafted trees of many named chestnuts",
+   "Eight are tracked, all out of stock until new orders open",
+   "EBB Farms had only seedlings",
+   "Nolin River and England's Orchard still block automated reading",
+   "New seller Spencer Creek Nursery (OR) added with 8 grafted cultivars (all out of stock)"
+  ]
+ },
+ "history_log": [
+  "Oct 22: New listings at Burnt Ridge Nursery: Belle Épine ($35), Bergantz ($35), Bisalta No. 2 ($35), Bouche de Bétizac ($35), Colossal ($35), Gillet ($35), Judia ($35), Layeroka ($25) and 19 more; New listings at Chestnut Hill Nursery: Dunstan ($35.95); New listings at Stark Bro's Nurseries: Dunstan (sold out), Sleeping Giant (sold out), Gideon (sold out), Mossbarger (sold out); New listings at One Green World: Nevada (sold out), Colossal (sold out); New listings at Raintree Nursery: Colossal (sold out); New listings at Nature Hills Nursery: Dunstan (sold out)",
+  "Oct 26: no changes at the 3 nurseries checked",
+  "Oct 29: no changes at the 1 nurseries checked",
+  "Oct 31: New listings at Willis Orchards: Colossal ($124.95); Found Willis Orchards (GA) with grafted Colossal at $124.95; Empire Chestnut Company and Barred Owl Brook Farm had nothing in scope (seedlings only)",
+  "Nov 2: no changes at the 2 nurseries checked",
+  "Nov 5: no changes at the 2 nurseries checked",
+  "Nov 9: no changes at the 5 nurseries checked",
+  "Nov 11: New listings at Spencer Creek Nursery: Colossal (sold out), Bouche de Bétizac (sold out), Gillet (sold out), Layeroka (sold out), Marron Comballe (sold out), Marrone di Val di Susa (sold out), Marrone di Chiusa Pesio (sold out), Marsol (sold out); Found Spencer Creek Nursery (Oregon), which sells grafted trees of many named chestnuts; Eight are tracked, all out of stock until new orders open; EBB Farms had only seedlings; Nolin River and England's Orchard still block automated reading; New seller Spencer Creek Nursery (OR) added with 8 grafted cultivars (all out of stock)"
+ ],
+ "sources": {
+  "directories": [
+   "https://portal.ct.gov/caes/fact-sheets/plant-pathology/sources-of-chestnut-trees (CT Agricultural Experiment Station nursery list, 2002 edition; dated)",
+   "https://www.canr.msu.edu/chestnuts/horticultural_care/michigan-cultivars (MSU chestnut cultivars)"
+  ],
+  "checked_no_named_stock": [
+   "Grimo Nut Nursery (Ontario): grafted Gideon, John Gordon, Lockwood and others, but says no chestnut trees can be shipped to the US.",
+   "Food Forest Nursery: Qing and Peach sold as own-root seedlings, not grafted; sold out until spring 2027 inventory in June.",
+   "GrowNutTrees.com: Peach and Dunstan seedlings only, both sold out.",
+   "Bower & Branch: Gideon treeling (#3 pot) $179.99, sold out and marked not available in our area.",
+   "Washington Chestnut Company (Everson, WA): French and Euro-Japanese cultivars by phone order only; its price page is dated 2013.",
+   "Burnt Ridge: seedlings grown from named cultivars (Colossal, Marigoule, Tanzawa and others) left out; only grafted or layered trees tracked.",
+   "Empire Chestnut Company: named cultivars (Gideon, Peach, Qing, Szego and others) sold only as seedlings, not grafted; no prices on page.",
+   "Barred Owl Brook Farm (NY): generic Castanea seedlings from $15, no named cultivars.",
+   "Raintree: grafted-chestnut collection empty on Oct 31.",
+   "EBB Farms (Falls of Rough, KY): named cultivars (Eaton, Qing, Sleeping Giant, Dunstan) listed as seedlings, not grafted."
+  ],
+  "dead": [],
+  "to_check": [
+   "Nolin River Nut Tree Nursery (Upton, KY): grafted chestnuts (Qing, Sleeping Giant and others); site blocked automated reading Oct 22",
+   "England's Orchard & Nursery (nuttrees.net): grafted chestnuts; site blocked automated reading Oct 22",
+   "Stark Bro's: 'Peach' and 'Auburn Homestead' chestnuts listed, not on file (no stock or price shown)",
+   "Burnt Ridge: 'Schlarbaum Chestnuts' (grafted small $25) listed, not on file (which selection?)",
+   "Chestnut Hill Nursery: per-size Dunstan prices and any grafted cultivars",
+   "Stark Bro's: Auburn Homestead, Chinese and Peach chestnuts listed (out of stock), not on file"
+  ]
+ },
+ "nurseries": [
+  {
+   "id": "burnt-ridge",
+   "name": "Burnt Ridge Nursery",
+   "location": "Onalaska, WA",
+   "state": "WA",
+   "url": "https://www.burntridgenursery.com/mobile/Chestnut-Trees/products/53/",
+   "shipping": {
+    "type": "table",
+    "table": [
+     [
+      30.0,
+      23.95
+     ],
+     [
+      50.0,
+      25.95
+     ],
+     [
+      80.0,
+      29.95
+     ],
+     [
+      100.0,
+      31.95
+     ]
+    ],
+    "over_pct": 0.27,
+    "confirmed": true,
+    "source": "https://www.burntridgenursery.com/text/Shipping_Chart_2026.pdf"
+   },
+   "note": "The biggest selection of grafted chestnuts found: about 30 named cultivars. Prices are for the grafted 2–4 ft size where offered, otherwise the smallest grafted (or layered) size. Orderable now for winter/spring shipment. Seedlings grown from named cultivars are also sold, but aren't true to name and aren't tracked.",
+   "unreadable": {
+    "since": "2026-11-09",
+    "nights": 1,
+    "last": "2026-11-09",
+    "reason": "no per-variety prices (category page lists no price/stock; product page shows sizes, availability Winter/Spring, no stock status)"
+   }
+  },
+  {
+   "id": "chestnut-hill",
+   "name": "Chestnut Hill Nursery",
+   "location": "Alachua, FL",
+   "state": "FL",
+   "url": "https://chestnuthilltreefarm.com/product-category/dunstan-chestnut-trees-buy-chestnut-trees-for-food-plots-orchards-landowners/",
+   "shipping": {
+    "type": "table",
+    "confirmed": true,
+    "table": [
+     [
+      100,
+      22.5
+     ]
+    ],
+    "over_pct": 0.225,
+    "source": "https://chestnuthilltreefarm.com/faqs/ordering-shipping/"
+   },
+   "note": "Home of the Dunstan chestnut. Sizes from a 1.5–3 ft treeband pot ($35.95) up to 3-gallon ($112.95); multi-tree kits and bulk packages also sold. Says new orders ship the week of November 2."
+  },
+  {
+   "id": "stark-bros",
+   "name": "Stark Bro's Nurseries",
+   "location": "Louisiana, MO",
+   "state": "MO",
+   "url": "https://www.starkbros.com/products/nut-trees/chestnut-trees",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 15.99,
+    "high": 17.99,
+    "source": "https://www.starkbros.com/about/order-and-shipping-policies",
+    "note": "No published rate table; product pages have shown $15.99–$17.99 shipping per order."
+   },
+   "note": "Every chestnut out of stock on Oct 22; prices are hidden while out of stock except Dunstan. Also lists Auburn Homestead and Peach (not tracked yet); Eaton and Qing are discontinued."
+  },
+  {
+   "id": "one-green-world",
+   "name": "One Green World",
+   "location": "Molalla, OR",
+   "state": "OR",
+   "url": "https://onegreenworld.com/?s=chestnut&post_type=product",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 20,
+    "high": 25,
+    "source": "https://onegreenworld.com/shipping-information/",
+    "note": "Shipping is “approximately $20–$25 depending on the destination state”, more for tall or heavy plants (UPS, from Portland OR)."
+   },
+   "note": "Bare-root chestnuts ship seasonally; all out of stock on Oct 22. Seedlings (Chinese, Layeroka, Colossal) aren't tracked."
+  },
+  {
+   "id": "raintree",
+   "name": "Raintree Nursery",
+   "location": "Morton, WA",
+   "state": "WA",
+   "url": "https://raintreenursery.com/collections/chestnut-trees",
+   "shipping": {
+    "type": "percent",
+    "confirmed": true,
+    "min": 39.99,
+    "tiers": [
+     [
+      1000000000.0,
+      0.25
+     ]
+    ],
+    "source": "https://raintreenursery.com/pages/shipping-policy"
+   },
+   "note": "Its grafted-chestnut collection was empty on Oct 22; Colossal is sold as a tissue-culture tree."
+  },
+  {
+   "id": "nature-hills",
+   "name": "Nature Hills Nursery",
+   "location": "Omaha, NE",
+   "state": "NE",
+   "url": "https://naturehills.com/collections/nut-trees/products/dunstan-chestnut-trees",
+   "shipping": {
+    "type": "table",
+    "confirmed": true,
+    "table": [
+     [
+      50,
+      9.99
+     ],
+     [
+      100,
+      14.99
+     ],
+     [
+      150,
+      16.99
+     ],
+     [
+      199,
+      24.99
+     ]
+    ],
+    "over_pct": 0
+   },
+   "excluded_states": [
+    "AK",
+    "CA",
+    "HI",
+    "ID",
+    "MT",
+    "OR",
+    "PR",
+    "VI"
+   ],
+   "note": "Pre-orders ship by zone in spring (zone 6–12 week of March 2)."
+  },
+  {
+   "id": "willis-orchards",
+   "name": "Willis Orchards",
+   "location": "Cartersville, GA",
+   "state": "GA",
+   "url": "https://willisorchards.com/category/chestnut-trees",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 20,
+    "high": 35
+   },
+   "excluded_states": [
+    "CA"
+   ],
+   "note": "Chestnuts marked 'Oversized' (fee table not read); ships Jan 15-Mar 15, 2027. Nevada listed as 'call for availability' with no price, so not tracked yet.",
+   "unreadable": {
+    "since": "2026-11-09",
+    "nights": 1,
+    "last": "2026-11-09",
+    "reason": "would not load"
+   }
+  },
+  {
+   "id": "spencer-creek",
+   "name": "Spencer Creek Nursery",
+   "location": "Oregon (Eugene area)",
+   "state": "OR",
+   "url": "https://spencercreeknursery.com/product-category/trees/chestnut/",
+   "shipping": {
+    "type": "estimate",
+    "low": 20,
+    "high": 35
+   },
+   "note": "Sells both seedlings and grafted trees of ~26 named chestnut cultivars; only the grafted options are tracked. All out of stock Nov 11 ('opening for new orders soon'). Ships by USPS Priority, mostly early spring; the shipping page doesn't list excluded states or a flat rate. Location inferred from a 541 phone number and Eugene link, not stated."
+  }
+ ],
+ "varieties": [
+  {
+   "id": "colossal",
+   "fruit": "chestnut",
+   "name": "Colossal",
+   "type": "eurojapanese",
+   "tags": [
+    "Euro-Japanese hybrid",
+    "Early",
+    "Pollen sterile"
+   ],
+   "aliases": [],
+   "summary": "The West Coast standard: very large, easy-peeling nuts, but it makes no pollen.",
+   "description": "A European × Japanese hybrid long planted in California and the Pacific Northwest. Bears very large nuts (about 14–25 per pound) that drop early, in September to early October, and peel easily. It is pollen sterile, so it needs a pollen-producing chestnut such as Nevada nearby to set nuts.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-22",
+   "notes": [],
+   "poor_pollinizer": true
+  },
+  {
+   "id": "nevada",
+   "fruit": "chestnut",
+   "name": "Nevada",
+   "type": "european",
+   "tags": [
+    "European"
+   ],
+   "aliases": [],
+   "summary": "The usual pollinator for Colossal; sweet, smaller nuts ripening late September.",
+   "description": "A European-type chestnut grown mainly as the pollen partner for Colossal, which it blooms with. Its own nuts are sweet and starchy and ripen in late September. Sellers rate it hardy to about zone 4–5.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-22",
+   "notes": []
+  },
+  {
+   "id": "bouche-de-betizac",
+   "fruit": "chestnut",
+   "name": "Bouche de Bétizac",
+   "type": "eurojapanese",
+   "tags": [
+    "Euro-Japanese hybrid",
+    "Early",
+    "Pollen sterile"
+   ],
+   "aliases": [
+    "Bouche de Betizac"
+   ],
+   "summary": "French hybrid with very large, early nuts; pollen sterile.",
+   "description": "A French European × Japanese hybrid grown commercially in Europe for its very large, glossy nuts that ripen early. Like Colossal it produces no pollen, so plant it with a pollen-producing variety.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-22",
+   "notes": [],
+   "poor_pollinizer": true
+  },
+  {
+   "id": "marigoule",
+   "fruit": "chestnut",
+   "name": "Marigoule",
+   "type": "eurojapanese",
+   "tags": [
+    "Euro-Japanese hybrid",
+    "Pollen producer"
+   ],
+   "aliases": [],
+   "summary": "French hybrid with large, sweet, easy-peeling nuts and good disease resistance.",
+   "description": "A French European × Japanese hybrid valued for large, sweet nuts that peel easily, ripening mid-season. A good pollen producer, and sellers describe it as resistant to chestnut blight and phytophthora root rot. A vigorous, upright tree with good timber form; zone 5–8.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-22",
+   "notes": []
+  },
+  {
+   "id": "precoce-migoule",
+   "fruit": "chestnut",
+   "name": "Précoce Migoule",
+   "type": "eurojapanese",
+   "tags": [
+    "Euro-Japanese hybrid",
+    "Early",
+    "Pollen producer"
+   ],
+   "aliases": [
+    "Precoce Migoule"
+   ],
+   "summary": "Early-ripening French hybrid with large nuts; produces pollen.",
+   "description": "A French European × Japanese hybrid related to Marigoule, selected for early ripening. Bears large nuts and produces pollen, so it can pair with the pollen-sterile early types.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-22",
+   "notes": []
+  },
+  {
+   "id": "belle-epine",
+   "fruit": "chestnut",
+   "name": "Belle Épine",
+   "type": "eurojapanese",
+   "tags": [
+    "Euro-Japanese hybrid",
+    "Pollen producer"
+   ],
+   "aliases": [
+    "Belle Epine"
+   ],
+   "summary": "Late-ripening French chestnut with large nuts; a pollen producer.",
+   "description": "A traditional French chestnut, sold in the US as a European × Japanese hybrid. Bears large nuts late in the season and produces pollen.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-22",
+   "notes": []
+  },
+  {
+   "id": "maraval",
+   "fruit": "chestnut",
+   "name": "Maraval",
+   "type": "eurojapanese",
+   "tags": [
+    "Euro-Japanese hybrid",
+    "Pollen producer"
+   ],
+   "aliases": [],
+   "summary": "Vigorous, upright French hybrid with large, late nuts.",
+   "description": "A French European × Japanese hybrid: a vigorous, upright tree bearing large nuts late in the season. A pollen producer. Usually sold layered (own-root) rather than grafted.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-22",
+   "notes": []
+  },
+  {
+   "id": "marsol",
+   "fruit": "chestnut",
+   "name": "Marsol",
+   "type": "eurojapanese",
+   "tags": [
+    "Euro-Japanese hybrid"
+   ],
+   "aliases": [],
+   "summary": "French European × Japanese hybrid with large nuts.",
+   "description": "A French European × Japanese hybrid with large nuts, also widely used in Europe as a rootstock for other chestnuts.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-22",
+   "notes": []
+  },
+  {
+   "id": "marrisard",
+   "fruit": "chestnut",
+   "name": "Marrisard",
+   "type": "eurojapanese",
+   "tags": [
+    "Euro-Japanese hybrid"
+   ],
+   "aliases": [],
+   "summary": "French European × Japanese hybrid.",
+   "description": "A French European × Japanese hybrid selection with large nuts, offered grafted in several sizes.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-22",
+   "notes": []
+  },
+  {
+   "id": "bergantz",
+   "fruit": "chestnut",
+   "name": "Bergantz",
+   "type": "eurojapanese",
+   "tags": [
+    "Euro-Japanese hybrid"
+   ],
+   "aliases": [],
+   "summary": "European × Japanese hybrid selection.",
+   "description": "A European × Japanese hybrid selection, offered grafted or as seedlings.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-22",
+   "notes": []
+  },
+  {
+   "id": "bisalta-2",
+   "fruit": "chestnut",
+   "name": "Bisalta No. 2",
+   "type": "eurojapanese",
+   "tags": [
+    "Euro-Japanese hybrid"
+   ],
+   "aliases": [
+    "Bisalta #2"
+   ],
+   "summary": "Italian-named European × Japanese hybrid.",
+   "description": "A European × Japanese hybrid from the Bisalta series, named for the mountain near Cuneo in Italy's chestnut country.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-22",
+   "notes": []
+  },
+  {
+   "id": "primato",
+   "fruit": "chestnut",
+   "name": "Primato",
+   "type": "eurojapanese",
+   "tags": [
+    "Euro-Japanese hybrid"
+   ],
+   "aliases": [],
+   "summary": "Italian European × Japanese hybrid.",
+   "description": "An Italian European × Japanese hybrid chestnut, offered grafted or as seedlings.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-22",
+   "notes": []
+  },
+  {
+   "id": "marron-comballe",
+   "fruit": "chestnut",
+   "name": "Marron Comballe",
+   "type": "european",
+   "tags": [
+    "European"
+   ],
+   "aliases": [
+    "Comballe"
+   ],
+   "summary": "Traditional French marron (European chestnut).",
+   "description": "A traditional French European chestnut sold as a marron, the name for large nuts with a single kernel that are prized for roasting and candying.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-22",
+   "notes": []
+  },
+  {
+   "id": "marron-di-chiusa-pesio",
+   "fruit": "chestnut",
+   "name": "Marrone di Chiusa Pesio",
+   "type": "european",
+   "tags": [
+    "European"
+   ],
+   "aliases": [
+    "Marron di Chiusa Pesio",
+    "Marron di Chuisa Pesio"
+   ],
+   "summary": "Italian marrone from Piedmont.",
+   "description": "An Italian European chestnut of the marrone type, named for Chiusa di Pesio in Piedmont. Grown for large, single-kernel nuts.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-22",
+   "notes": []
+  },
+  {
+   "id": "marron-di-val-di-susa",
+   "fruit": "chestnut",
+   "name": "Marrone di Val di Susa",
+   "type": "european",
+   "tags": [
+    "European"
+   ],
+   "aliases": [
+    "Marron di Val di Susa"
+   ],
+   "summary": "Italian marrone from Piedmont's Susa Valley.",
+   "description": "An Italian European chestnut of the marrone type from the Susa Valley in Piedmont, grown for large, single-kernel nuts.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-22",
+   "notes": []
+  },
+  {
+   "id": "marron-di-goujounac",
+   "fruit": "chestnut",
+   "name": "Marron de Goujounac",
+   "type": "european",
+   "tags": [
+    "European"
+   ],
+   "aliases": [
+    "Marron di Goujounac"
+   ],
+   "summary": "French European marron.",
+   "description": "A French European chestnut of the marron type, named for Goujounac in the Lot.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-22",
+   "notes": []
+  },
+  {
+   "id": "judia",
+   "fruit": "chestnut",
+   "name": "Judia",
+   "type": "european",
+   "tags": [
+    "European"
+   ],
+   "aliases": [],
+   "summary": "Portuguese European chestnut.",
+   "description": "A traditional Portuguese European chestnut cultivar, one of the main ones grown there for market.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-22",
+   "notes": []
+  },
+  {
+   "id": "tanzawa",
+   "fruit": "chestnut",
+   "name": "Tanzawa",
+   "type": "japanese",
+   "tags": [
+    "Japanese",
+    "Early"
+   ],
+   "aliases": [],
+   "summary": "Japanese chestnut with large, early nuts.",
+   "description": "A Japanese chestnut (Castanea crenata) cultivar bearing large nuts early in the season. Japanese chestnuts have big nuts but a bitterer, harder-to-peel skin than European or Chinese types.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-22",
+   "notes": []
+  },
+  {
+   "id": "tsukuba",
+   "fruit": "chestnut",
+   "name": "Tsukuba",
+   "type": "japanese",
+   "tags": [
+    "Japanese"
+   ],
+   "aliases": [],
+   "summary": "Japanese chestnut with large nuts; a leading cultivar in Japan.",
+   "description": "A Japanese chestnut (Castanea crenata) cultivar widely grown in Japan for its large nuts and steady crops.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-22",
+   "notes": []
+  },
+  {
+   "id": "okei",
+   "fruit": "chestnut",
+   "name": "Okei",
+   "type": "japanese",
+   "tags": [
+    "Japanese"
+   ],
+   "aliases": [],
+   "summary": "Japanese chestnut cultivar.",
+   "description": "A Japanese chestnut (Castanea crenata) cultivar with large nuts; also sold layered.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-22",
+   "notes": []
+  },
+  {
+   "id": "torakuri",
+   "fruit": "chestnut",
+   "name": "Torakuri",
+   "type": "japanese",
+   "tags": [
+    "Japanese"
+   ],
+   "aliases": [],
+   "summary": "Japanese-type chestnut with large nuts.",
+   "description": "A Japanese-type chestnut cultivar (Castanea crenata hybrid) offered grafted in several sizes.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-22",
+   "notes": []
+  },
+  {
+   "id": "silverleaf",
+   "fruit": "chestnut",
+   "name": "Silverleaf",
+   "type": "japanese",
+   "tags": [
+    "Japanese"
+   ],
+   "aliases": [
+    "Eurobella"
+   ],
+   "summary": "Japanese chestnut selection sold as Silverleaf or Eurobella.",
+   "description": "A Japanese chestnut (Castanea crenata) selection, sold as Silverleaf or Eurobella, offered grafted or as seedlings.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-22",
+   "notes": []
+  },
+  {
+   "id": "gillet",
+   "fruit": "chestnut",
+   "name": "Gillet",
+   "type": "japanese",
+   "tags": [
+    "Japanese"
+   ],
+   "aliases": [],
+   "summary": "Japanese-type hybrid selection.",
+   "description": "A Japanese chestnut (Castanea crenata) hybrid selection, offered grafted.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-22",
+   "notes": []
+  },
+  {
+   "id": "skioka",
+   "fruit": "chestnut",
+   "name": "Skioka",
+   "type": "hybrid",
+   "tags": [
+    "Complex hybrid"
+   ],
+   "aliases": [],
+   "summary": "Chinese × European hybrid.",
+   "description": "A Chinese × European hybrid, combining Chinese chestnut's blight tolerance with European nut size. Offered grafted or as seedlings.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-22",
+   "notes": []
+  },
+  {
+   "id": "layeroka",
+   "fruit": "chestnut",
+   "name": "Layeroka",
+   "type": "hybrid",
+   "tags": [
+    "Complex hybrid"
+   ],
+   "aliases": [],
+   "summary": "Chinese × European hybrid.",
+   "description": "A Chinese × European hybrid chestnut, offered grafted or as seedlings.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-22",
+   "notes": []
+  },
+  {
+   "id": "szego",
+   "fruit": "chestnut",
+   "name": "Szego",
+   "type": "hybrid",
+   "tags": [
+    "Complex hybrid"
+   ],
+   "aliases": [],
+   "summary": "Complex Japanese × Chinese × chinquapin hybrid.",
+   "description": "A complex hybrid of Japanese and Chinese chestnut with chinquapin (Castanea pumila) in its background, offered grafted.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-22",
+   "notes": []
+  },
+  {
+   "id": "sleeping-giant",
+   "fruit": "chestnut",
+   "name": "Sleeping Giant",
+   "type": "hybrid",
+   "tags": [
+    "Complex hybrid",
+    "Blight resistant"
+   ],
+   "aliases": [],
+   "summary": "Big, sweet nuts on a tall timber-form tree; hardy to zone 4.",
+   "description": "A hybrid of Chinese, Japanese and American chestnut, grown for big, sweet nuts on a tall, timber-form tree. Blight resistant and hardy in zones 4–8, but an unreliable pollen producer, so plant it with a good pollinator. Grafted trees bear in 3–5 years.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-22",
+   "notes": []
+  },
+  {
+   "id": "gideon",
+   "fruit": "chestnut",
+   "name": "Gideon",
+   "type": "chinese",
+   "tags": [
+    "Chinese",
+    "Blight resistant"
+   ],
+   "aliases": [],
+   "summary": "Chinese chestnut with medium-large, easy-peeling nuts; zone 4–8.",
+   "description": "A Chinese chestnut with medium to large nuts that ripen early to mid-season and peel easily. Often paired with Qing for pollination. Hardy in zones 4–8.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-22",
+   "notes": []
+  },
+  {
+   "id": "mossbarger",
+   "fruit": "chestnut",
+   "name": "Mossbarger",
+   "type": "hybrid",
+   "tags": [
+    "Complex hybrid",
+    "Blight resistant"
+   ],
+   "aliases": [],
+   "summary": "Kentucky Chinese × American hybrid known for consistently large crops.",
+   "description": "A Chinese × American hybrid from Kentucky, introduced in 1983 and selected for blight resistance. Bears large, sweet nuts early to mid-season. Zones 5–9.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-22",
+   "notes": []
+  },
+  {
+   "id": "dunstan",
+   "fruit": "chestnut",
+   "name": "Dunstan",
+   "type": "hybrid",
+   "tags": [
+    "Complex hybrid",
+    "Seedling strain",
+    "Blight resistant"
+   ],
+   "aliases": [
+    "Dunstan Chestnut",
+    "Dunstan Hybrid"
+   ],
+   "summary": "The best-known blight-resistant American × Chinese chestnut; sold as seedlings.",
+   "description": "A blight-resistant American × Chinese chestnut line, sold as seed-grown trees from the patented Dunstan parent trees rather than as a grafted clone, so individual trees vary. Widely planted in the eastern US for nuts and wildlife; plant at least two for pollination. Zones 5–9.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-22",
+   "notes": []
+  }
+ ],
+ "listings": [
+  {
+   "id": "burnt-ridge--belle-epine",
+   "variety": "belle-epine",
+   "nursery": "burnt-ridge",
+   "status": "in_stock",
+   "price": 35,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.burntridgenursery.com/mobile/BELLE-EPINE-CHESTNUT-Castanea-crenata-x-sativa/productinfo/NSCHBELL/",
+   "first_seen": "2026-10-22",
+   "last_checked": "2026-11-05",
+   "notes": [
+    "Orderable now for winter/spring shipment (not immediate ship)."
+   ],
+   "history": [
+    {
+     "date": "2026-10-22",
+     "price": 35,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "grafted 2–4 ft",
+   "ships": "winter/spring shipment"
+  },
+  {
+   "id": "burnt-ridge--bergantz",
+   "variety": "bergantz",
+   "nursery": "burnt-ridge",
+   "status": "in_stock",
+   "price": 35,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.burntridgenursery.com/mobile/BERGANTZ-CHESTNUT-Castanea-sativa-x-crenata/productinfo/NSCHBER/",
+   "first_seen": "2026-10-22",
+   "last_checked": "2026-11-05",
+   "notes": [
+    "Orderable now for winter/spring shipment (not immediate ship)."
+   ],
+   "history": [
+    {
+     "date": "2026-10-22",
+     "price": 35,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "grafted 2–4 ft",
+   "ships": "winter/spring shipment"
+  },
+  {
+   "id": "burnt-ridge--bisalta-2",
+   "variety": "bisalta-2",
+   "nursery": "burnt-ridge",
+   "status": "in_stock",
+   "price": 35,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.burntridgenursery.com/mobile/BISALTA-NO2-CHESTNUT-Castanea-sativa-x-crenata/productinfo/NSCHBIS%2D2/",
+   "first_seen": "2026-10-22",
+   "last_checked": "2026-11-05",
+   "notes": [
+    "Orderable now for winter/spring shipment (not immediate ship)."
+   ],
+   "history": [
+    {
+     "date": "2026-10-22",
+     "price": 35,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "grafted 2–4 ft",
+   "ships": "winter/spring shipment"
+  },
+  {
+   "id": "burnt-ridge--bouche-de-betizac",
+   "variety": "bouche-de-betizac",
+   "nursery": "burnt-ridge",
+   "status": "in_stock",
+   "price": 35,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.burntridgenursery.com/mobile/BOUCHE-DE-BETIZAC-CHESTNUT-Castanea-sativa-x-crenata/productinfo/NSCHBOU/",
+   "first_seen": "2026-10-22",
+   "last_checked": "2026-11-05",
+   "notes": [
+    "Orderable now for winter/spring shipment (not immediate ship)."
+   ],
+   "history": [
+    {
+     "date": "2026-10-22",
+     "price": 35,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "grafted 2–4 ft",
+   "ships": "winter/spring shipment"
+  },
+  {
+   "id": "burnt-ridge--colossal",
+   "variety": "colossal",
+   "nursery": "burnt-ridge",
+   "status": "in_stock",
+   "price": 35,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.burntridgenursery.com/mobile/COLOSSAL-CHESTNUT-Castanea-sativa-x-crenata/productinfo/NSCHCOL/",
+   "first_seen": "2026-10-22",
+   "last_checked": "2026-11-05",
+   "notes": [
+    "Orderable now for winter/spring shipment (not immediate ship)."
+   ],
+   "history": [
+    {
+     "date": "2026-10-22",
+     "price": 35,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "grafted 2–4 ft",
+   "ships": "winter/spring shipment"
+  },
+  {
+   "id": "burnt-ridge--gillet",
+   "variety": "gillet",
+   "nursery": "burnt-ridge",
+   "status": "in_stock",
+   "price": 35,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.burntridgenursery.com/mobile/GILLET-CHESTNUT-Castanea-crenata-hybrid/productinfo/NSCHGIL/",
+   "first_seen": "2026-10-22",
+   "last_checked": "2026-11-05",
+   "notes": [
+    "Orderable now for winter/spring shipment (not immediate ship)."
+   ],
+   "history": [
+    {
+     "date": "2026-10-22",
+     "price": 35,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "grafted 2–4 ft",
+   "ships": "winter/spring shipment"
+  },
+  {
+   "id": "burnt-ridge--judia",
+   "variety": "judia",
+   "nursery": "burnt-ridge",
+   "status": "in_stock",
+   "price": 35,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.burntridgenursery.com/mobile/JUDIA-CHESTNUT-Castanea-sativa/productinfo/NSCHJUD/",
+   "first_seen": "2026-10-22",
+   "last_checked": "2026-11-05",
+   "notes": [
+    "Orderable now for winter/spring shipment (not immediate ship)."
+   ],
+   "history": [
+    {
+     "date": "2026-10-22",
+     "price": 35,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "grafted 2–4 ft",
+   "ships": "winter/spring shipment"
+  },
+  {
+   "id": "burnt-ridge--layeroka",
+   "variety": "layeroka",
+   "nursery": "burnt-ridge",
+   "status": "in_stock",
+   "price": 25,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.burntridgenursery.com/mobile/LAYEROKA-CHESTNUT-Castanea-mollissima-x-sativa/productinfo/NSCHLAY/",
+   "first_seen": "2026-10-22",
+   "last_checked": "2026-11-05",
+   "notes": [
+    "Orderable now for winter/spring shipment (not immediate ship)."
+   ],
+   "history": [
+    {
+     "date": "2026-10-22",
+     "price": 25,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "grafted, small",
+   "ships": "winter/spring shipment"
+  },
+  {
+   "id": "burnt-ridge--maraval",
+   "variety": "maraval",
+   "nursery": "burnt-ridge",
+   "status": "in_stock",
+   "price": 40,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.burntridgenursery.com/mobile/MARAVAL-CHESTNUT-Castanea-sativa-x-crenata/productinfo/NSCHMARV/",
+   "first_seen": "2026-10-22",
+   "last_checked": "2026-11-05",
+   "notes": [
+    "Orderable now for winter/spring shipment (not immediate ship)."
+   ],
+   "history": [
+    {
+     "date": "2026-10-22",
+     "price": 40,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "layered (own-root)",
+   "ships": "winter/spring shipment"
+  },
+  {
+   "id": "burnt-ridge--marigoule",
+   "variety": "marigoule",
+   "nursery": "burnt-ridge",
+   "status": "in_stock",
+   "price": 35,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.burntridgenursery.com/mobile/MARIGOULE-CHESTNUT-Castanea-sativa-x-crenata/productinfo/NSCHMARI/",
+   "first_seen": "2026-10-22",
+   "last_checked": "2026-11-05",
+   "notes": [
+    "Orderable now for winter/spring shipment (not immediate ship)."
+   ],
+   "history": [
+    {
+     "date": "2026-10-22",
+     "price": 35,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "grafted 2–4 ft",
+   "ships": "winter/spring shipment"
+  },
+  {
+   "id": "burnt-ridge--marrisard",
+   "variety": "marrisard",
+   "nursery": "burnt-ridge",
+   "status": "in_stock",
+   "price": 35,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.burntridgenursery.com/mobile/MARRISARD-CHESTNUT-Castanea-sativa-x-crenata/productinfo/NSCHMAR/",
+   "first_seen": "2026-10-22",
+   "last_checked": "2026-11-05",
+   "notes": [
+    "Orderable now for winter/spring shipment (not immediate ship)."
+   ],
+   "history": [
+    {
+     "date": "2026-10-22",
+     "price": 35,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "grafted 2–4 ft",
+   "ships": "winter/spring shipment"
+  },
+  {
+   "id": "burnt-ridge--marron-comballe",
+   "variety": "marron-comballe",
+   "nursery": "burnt-ridge",
+   "status": "in_stock",
+   "price": 35,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.burntridgenursery.com/mobile/MARRON-COMBALLE-CHESTNUT-Castanea-sativa/productinfo/NSCHMCOM/",
+   "first_seen": "2026-10-22",
+   "last_checked": "2026-11-05",
+   "notes": [
+    "Orderable now for winter/spring shipment (not immediate ship)."
+   ],
+   "history": [
+    {
+     "date": "2026-10-22",
+     "price": 35,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "grafted 2–4 ft",
+   "ships": "winter/spring shipment"
+  },
+  {
+   "id": "burnt-ridge--marron-di-chiusa-pesio",
+   "variety": "marron-di-chiusa-pesio",
+   "nursery": "burnt-ridge",
+   "status": "in_stock",
+   "price": 25,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.burntridgenursery.com/mobile/MARRON-DI-CHUISA-PESIO-CHESTNUT-Castanea-sativa/productinfo/NSCHMCHU/",
+   "first_seen": "2026-10-22",
+   "last_checked": "2026-11-05",
+   "notes": [
+    "Orderable now for winter/spring shipment (not immediate ship)."
+   ],
+   "history": [
+    {
+     "date": "2026-10-22",
+     "price": 25,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "grafted, small",
+   "ships": "winter/spring shipment"
+  },
+  {
+   "id": "burnt-ridge--marron-di-val-di-susa",
+   "variety": "marron-di-val-di-susa",
+   "nursery": "burnt-ridge",
+   "status": "in_stock",
+   "price": 35,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.burntridgenursery.com/mobile/MARRON-DI-VAL-DI-SUSA-CHESTNUT-Castanea-sativa/productinfo/NSCHMARR/",
+   "first_seen": "2026-10-22",
+   "last_checked": "2026-11-05",
+   "notes": [
+    "Orderable now for winter/spring shipment (not immediate ship)."
+   ],
+   "history": [
+    {
+     "date": "2026-10-22",
+     "price": 35,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "grafted 2–4 ft",
+   "ships": "winter/spring shipment"
+  },
+  {
+   "id": "burnt-ridge--marron-di-goujounac",
+   "variety": "marron-di-goujounac",
+   "nursery": "burnt-ridge",
+   "status": "in_stock",
+   "price": 25,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.burntridgenursery.com/mobile/MARRON-DI-GOUJOUNAC-Castanea-sativa/productinfo/NSCHGOU/",
+   "first_seen": "2026-10-22",
+   "last_checked": "2026-11-05",
+   "notes": [
+    "Orderable now for winter/spring shipment (not immediate ship)."
+   ],
+   "history": [
+    {
+     "date": "2026-10-22",
+     "price": 25,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "grafted, small",
+   "ships": "winter/spring shipment"
+  },
+  {
+   "id": "burnt-ridge--marsol",
+   "variety": "marsol",
+   "nursery": "burnt-ridge",
+   "status": "in_stock",
+   "price": 35,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.burntridgenursery.com/mobile/MARSOL-CHESTNUT-Castanea-crenata-x-sativa/productinfo/NSCHMARS/",
+   "first_seen": "2026-10-22",
+   "last_checked": "2026-11-05",
+   "notes": [
+    "Orderable now for winter/spring shipment (not immediate ship)."
+   ],
+   "history": [
+    {
+     "date": "2026-10-22",
+     "price": 35,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "grafted 2–4 ft",
+   "ships": "winter/spring shipment"
+  },
+  {
+   "id": "burnt-ridge--nevada",
+   "variety": "nevada",
+   "nursery": "burnt-ridge",
+   "status": "in_stock",
+   "price": 35,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.burntridgenursery.com/mobile/NEVADA-CHESTNUT-Castanea-sativa/productinfo/NSCHNEV/",
+   "first_seen": "2026-10-22",
+   "last_checked": "2026-11-05",
+   "notes": [
+    "Orderable now for winter/spring shipment (not immediate ship)."
+   ],
+   "history": [
+    {
+     "date": "2026-10-22",
+     "price": 35,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "grafted 2–4 ft",
+   "ships": "winter/spring shipment"
+  },
+  {
+   "id": "burnt-ridge--okei",
+   "variety": "okei",
+   "nursery": "burnt-ridge",
+   "status": "in_stock",
+   "price": 35,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.burntridgenursery.com/mobile/OKEI-CHESTNUT-Castanea-crenata/productinfo/NSCHOKE/",
+   "first_seen": "2026-10-22",
+   "last_checked": "2026-11-05",
+   "notes": [
+    "Orderable now for winter/spring shipment (not immediate ship)."
+   ],
+   "history": [
+    {
+     "date": "2026-10-22",
+     "price": 35,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "grafted 2–4 ft",
+   "ships": "winter/spring shipment"
+  },
+  {
+   "id": "burnt-ridge--precoce-migoule",
+   "variety": "precoce-migoule",
+   "nursery": "burnt-ridge",
+   "status": "in_stock",
+   "price": 35,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.burntridgenursery.com/mobile/PRECOCE-MIGOULE-CHESTNUT-Castanea-sativa-x-crenata/productinfo/NSCHPRE/",
+   "first_seen": "2026-10-22",
+   "last_checked": "2026-11-05",
+   "notes": [
+    "Orderable now for winter/spring shipment (not immediate ship)."
+   ],
+   "history": [
+    {
+     "date": "2026-10-22",
+     "price": 35,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "grafted 2–4 ft",
+   "ships": "winter/spring shipment"
+  },
+  {
+   "id": "burnt-ridge--primato",
+   "variety": "primato",
+   "nursery": "burnt-ridge",
+   "status": "in_stock",
+   "price": 28,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.burntridgenursery.com/mobile/PRIMATO-CHESTNUT-Castanea-sativa-x-crenata/productinfo/NSCHPRI/",
+   "first_seen": "2026-10-22",
+   "last_checked": "2026-11-05",
+   "notes": [
+    "Orderable now for winter/spring shipment (not immediate ship)."
+   ],
+   "history": [
+    {
+     "date": "2026-10-22",
+     "price": 28,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "grafted, small",
+   "ships": "winter/spring shipment"
+  },
+  {
+   "id": "burnt-ridge--silverleaf",
+   "variety": "silverleaf",
+   "nursery": "burnt-ridge",
+   "status": "in_stock",
+   "price": 35,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.burntridgenursery.com/mobile/SILVERLEAF-CHESTNUT-Eurobella-Castanea-crenata/productinfo/NSCHSIL/",
+   "first_seen": "2026-10-22",
+   "last_checked": "2026-11-05",
+   "notes": [
+    "Orderable now for winter/spring shipment (not immediate ship)."
+   ],
+   "history": [
+    {
+     "date": "2026-10-22",
+     "price": 35,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "grafted 2–4 ft",
+   "ships": "winter/spring shipment"
+  },
+  {
+   "id": "burnt-ridge--skioka",
+   "variety": "skioka",
+   "nursery": "burnt-ridge",
+   "status": "in_stock",
+   "price": 25,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.burntridgenursery.com/mobile/SKIOKA-CHESTNUT-Castanea-mollissima-x-sativa/productinfo/NSCHSKI/",
+   "first_seen": "2026-10-22",
+   "last_checked": "2026-11-05",
+   "notes": [
+    "Orderable now for winter/spring shipment (not immediate ship)."
+   ],
+   "history": [
+    {
+     "date": "2026-10-22",
+     "price": 25,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "grafted, small",
+   "ships": "winter/spring shipment"
+  },
+  {
+   "id": "burnt-ridge--sleeping-giant",
+   "variety": "sleeping-giant",
+   "nursery": "burnt-ridge",
+   "status": "in_stock",
+   "price": 35,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.burntridgenursery.com/mobile/SLEEPING-GIANT-CHESTNUT-Chinese-x-American-x-Japanese/productinfo/NSCHSLE/",
+   "first_seen": "2026-10-22",
+   "last_checked": "2026-11-05",
+   "notes": [
+    "Orderable now for winter/spring shipment (not immediate ship)."
+   ],
+   "history": [
+    {
+     "date": "2026-10-22",
+     "price": 35,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "grafted 2–4 ft",
+   "ships": "winter/spring shipment"
+  },
+  {
+   "id": "burnt-ridge--szego",
+   "variety": "szego",
+   "nursery": "burnt-ridge",
+   "status": "in_stock",
+   "price": 35,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.burntridgenursery.com/mobile/SZEGO-CHESTNUT-C-crenata-x-mollissima-x-pumila/productinfo/NSCHSZE/",
+   "first_seen": "2026-10-22",
+   "last_checked": "2026-11-05",
+   "notes": [
+    "Orderable now for winter/spring shipment (not immediate ship)."
+   ],
+   "history": [
+    {
+     "date": "2026-10-22",
+     "price": 35,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "grafted 2–4 ft",
+   "ships": "winter/spring shipment"
+  },
+  {
+   "id": "burnt-ridge--tanzawa",
+   "variety": "tanzawa",
+   "nursery": "burnt-ridge",
+   "status": "in_stock",
+   "price": 35,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.burntridgenursery.com/mobile/TANZAWA-CHESTNUT-Castanea-crenata/productinfo/NSCHTAN/",
+   "first_seen": "2026-10-22",
+   "last_checked": "2026-11-05",
+   "notes": [
+    "Orderable now for winter/spring shipment (not immediate ship)."
+   ],
+   "history": [
+    {
+     "date": "2026-10-22",
+     "price": 35,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "grafted 2–4 ft",
+   "ships": "winter/spring shipment"
+  },
+  {
+   "id": "burnt-ridge--torakuri",
+   "variety": "torakuri",
+   "nursery": "burnt-ridge",
+   "status": "in_stock",
+   "price": 35,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.burntridgenursery.com/mobile/TORAKURI-CHESTNUT-C-crenata-x/productinfo/NSCHTOR/",
+   "first_seen": "2026-10-22",
+   "last_checked": "2026-11-05",
+   "notes": [
+    "Orderable now for winter/spring shipment (not immediate ship)."
+   ],
+   "history": [
+    {
+     "date": "2026-10-22",
+     "price": 35,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "grafted 2–4 ft",
+   "ships": "winter/spring shipment"
+  },
+  {
+   "id": "burnt-ridge--tsukuba",
+   "variety": "tsukuba",
+   "nursery": "burnt-ridge",
+   "status": "in_stock",
+   "price": 35,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.burntridgenursery.com/mobile/TSUKUBA-CHESTNUT-Castanea-crenata/productinfo/NSCHTSU/",
+   "first_seen": "2026-10-22",
+   "last_checked": "2026-11-05",
+   "notes": [
+    "Orderable now for winter/spring shipment (not immediate ship)."
+   ],
+   "history": [
+    {
+     "date": "2026-10-22",
+     "price": 35,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "grafted 2–4 ft",
+   "ships": "winter/spring shipment"
+  },
+  {
+   "id": "chestnut-hill--dunstan",
+   "variety": "dunstan",
+   "nursery": "chestnut-hill",
+   "status": "in_stock",
+   "price": 35.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://chestnuthilltreefarm.com/shop/dunstan-chestnut/",
+   "first_seen": "2026-10-22",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Seed-grown Dunstan trees, not grafted."
+   ],
+   "history": [
+    {
+     "date": "2026-10-22",
+     "price": 35.95,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "1.5–3 ft treeband pot (smallest; bare-root and 1–3 gal up to $112.95)",
+   "ships": "new orders ship week of Nov 2"
+  },
+  {
+   "id": "stark-bros--dunstan",
+   "variety": "dunstan",
+   "nursery": "stark-bros",
+   "status": "sold_out",
+   "price": 64.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.starkbros.com/products/nut-trees/chestnut-trees/dunstan-hybrid-chestnut",
+   "first_seen": "2026-10-22",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Seed-grown. Out of stock Oct 22."
+   ],
+   "history": [
+    {
+     "date": "2026-10-22",
+     "price": 64.99,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "stark-bros--sleeping-giant",
+   "variety": "sleeping-giant",
+   "nursery": "stark-bros",
+   "status": "sold_out",
+   "price": null,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://www.starkbros.com/products/nut-trees/chestnut-trees/sleeping-giant-chestnut",
+   "first_seen": "2026-10-22",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "No price shown while out of stock."
+   ],
+   "history": [
+    {
+     "date": "2026-10-22",
+     "price": null,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "stark-bros--gideon",
+   "variety": "gideon",
+   "nursery": "stark-bros",
+   "status": "sold_out",
+   "price": null,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://www.starkbros.com/products/nut-trees/chestnut-trees/gideon-chestnut",
+   "first_seen": "2026-10-22",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "No price shown while out of stock."
+   ],
+   "history": [
+    {
+     "date": "2026-10-22",
+     "price": null,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "stark-bros--mossbarger",
+   "variety": "mossbarger",
+   "nursery": "stark-bros",
+   "status": "sold_out",
+   "price": null,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://www.starkbros.com/products/nut-trees/chestnut-trees/mossbarger-chestnut",
+   "first_seen": "2026-10-22",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "No price shown while out of stock."
+   ],
+   "history": [
+    {
+     "date": "2026-10-22",
+     "price": null,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--nevada",
+   "variety": "nevada",
+   "nursery": "one-green-world",
+   "status": "sold_out",
+   "price": 59.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/nevada-chestnut/",
+   "first_seen": "2026-10-22",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-22",
+     "price": 59.95,
+     "status": "sold_out"
+    }
+   ],
+   "sold_as": "grafted, bare-root (on Colossal rootstock)",
+   "ships": "seasonal"
+  },
+  {
+   "id": "one-green-world--colossal",
+   "variety": "colossal",
+   "nursery": "one-green-world",
+   "status": "sold_out",
+   "price": 69.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/colossal-chestnut-tc-tree/",
+   "first_seen": "2026-10-22",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-22",
+     "price": 69.95,
+     "status": "sold_out"
+    }
+   ],
+   "sold_as": "tissue-culture tree, bare-root",
+   "ships": "seasonal"
+  },
+  {
+   "id": "raintree--colossal",
+   "variety": "colossal",
+   "nursery": "raintree",
+   "status": "sold_out",
+   "price": 49.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/products/colossal-chestnut",
+   "first_seen": "2026-10-22",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-22",
+     "price": 49.99,
+     "status": "sold_out"
+    }
+   ],
+   "sold_as": "2–3 ft tissue-culture tree"
+  },
+  {
+   "id": "nature-hills--dunstan",
+   "variety": "dunstan",
+   "nursery": "nature-hills",
+   "status": "sold_out",
+   "price": 149.75,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://naturehills.com/collections/nut-trees/products/dunstan-chestnut-trees",
+   "first_seen": "2026-10-22",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Size not shown; out of stock Oct 22."
+   ],
+   "history": [
+    {
+     "date": "2026-10-22",
+     "price": 149.75,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "willis-orchards--colossal",
+   "variety": "colossal",
+   "nursery": "willis-orchards",
+   "status": "in_stock",
+   "price": 124.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.willisorchards.com/product/colossal-chestnut-tree",
+   "first_seen": "2026-10-31",
+   "last_checked": "2026-10-31",
+   "notes": [
+    "5-6 ft size sold out."
+   ],
+   "history": [
+    {
+     "date": "2026-10-31",
+     "price": 124.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Jan 15 - Mar 15, 2027",
+   "sold_as": "grafted, about 7 ft fruiting size (3/4-1 in. caliper); limited supply"
+  },
+  {
+   "id": "spencer-creek--colossal",
+   "variety": "colossal",
+   "nursery": "spencer-creek",
+   "status": "sold_out",
+   "price": 50,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://spencercreeknursery.com/product/colossal-chestnut/",
+   "first_seen": "2026-11-11",
+   "last_checked": "2026-11-11",
+   "notes": [
+    "Out of stock Nov 11; site says new orders open soon. Seedling options aren't tracked."
+   ],
+   "history": [
+    {
+     "date": "2026-11-11",
+     "price": 50,
+     "status": "sold_out"
+    }
+   ],
+   "ships": "Early spring (late Feb on); West/South from November",
+   "sold_as": "grafted, 2-3 ft scion (about 3-4 ft with roots)"
+  },
+  {
+   "id": "spencer-creek--bouche-de-betizac",
+   "variety": "bouche-de-betizac",
+   "nursery": "spencer-creek",
+   "status": "sold_out",
+   "price": 40,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://spencercreeknursery.com/product/bdb-chestnut/",
+   "first_seen": "2026-11-11",
+   "last_checked": "2026-11-11",
+   "notes": [
+    "Out of stock Nov 11; site says new orders open soon. Seedling options aren't tracked."
+   ],
+   "history": [
+    {
+     "date": "2026-11-11",
+     "price": 40,
+     "status": "sold_out"
+    }
+   ],
+   "ships": "Early spring (late Feb on); West/South from November",
+   "sold_as": "grafted, 1-2 ft scion"
+  },
+  {
+   "id": "spencer-creek--gillet",
+   "variety": "gillet",
+   "nursery": "spencer-creek",
+   "status": "sold_out",
+   "price": 40,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://spencercreeknursery.com/product/gillet-chestnut/",
+   "first_seen": "2026-11-11",
+   "last_checked": "2026-11-11",
+   "notes": [
+    "Out of stock Nov 11; site says new orders open soon. Seedling options aren't tracked."
+   ],
+   "history": [
+    {
+     "date": "2026-11-11",
+     "price": 40,
+     "status": "sold_out"
+    }
+   ],
+   "ships": "Early spring (late Feb on); West/South from November",
+   "sold_as": "grafted, 1-2 ft scion"
+  },
+  {
+   "id": "spencer-creek--layeroka",
+   "variety": "layeroka",
+   "nursery": "spencer-creek",
+   "status": "sold_out",
+   "price": 40,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://spencercreeknursery.com/product/layeroka-chestnut/",
+   "first_seen": "2026-11-11",
+   "last_checked": "2026-11-11",
+   "notes": [
+    "Out of stock Nov 11; site says new orders open soon. Seedling options aren't tracked."
+   ],
+   "history": [
+    {
+     "date": "2026-11-11",
+     "price": 40,
+     "status": "sold_out"
+    }
+   ],
+   "ships": "Early spring (late Feb on); West/South from November",
+   "sold_as": "grafted"
+  },
+  {
+   "id": "spencer-creek--marron-comballe",
+   "variety": "marron-comballe",
+   "nursery": "spencer-creek",
+   "status": "sold_out",
+   "price": 40,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://spencercreeknursery.com/product/marron-comballe-chestnut/",
+   "first_seen": "2026-11-11",
+   "last_checked": "2026-11-11",
+   "notes": [
+    "Out of stock Nov 11; site says new orders open soon. Seedling options aren't tracked."
+   ],
+   "history": [
+    {
+     "date": "2026-11-11",
+     "price": 40,
+     "status": "sold_out"
+    }
+   ],
+   "ships": "Early spring (late Feb on); West/South from November",
+   "sold_as": "grafted"
+  },
+  {
+   "id": "spencer-creek--marron-di-val-di-susa",
+   "variety": "marron-di-val-di-susa",
+   "nursery": "spencer-creek",
+   "status": "sold_out",
+   "price": 40,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://spencercreeknursery.com/product/marrone-della-valle-di-susa-chestnut/",
+   "first_seen": "2026-11-11",
+   "last_checked": "2026-11-11",
+   "notes": [
+    "Out of stock Nov 11; site says new orders open soon. Seedling options aren't tracked."
+   ],
+   "history": [
+    {
+     "date": "2026-11-11",
+     "price": 40,
+     "status": "sold_out"
+    }
+   ],
+   "ships": "Early spring (late Feb on); West/South from November",
+   "sold_as": "grafted"
+  },
+  {
+   "id": "spencer-creek--marron-di-chiusa-pesio",
+   "variety": "marron-di-chiusa-pesio",
+   "nursery": "spencer-creek",
+   "status": "sold_out",
+   "price": 40,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://spencercreeknursery.com/product/marrone-di-chiusa-pesio-chestnut/",
+   "first_seen": "2026-11-11",
+   "last_checked": "2026-11-11",
+   "notes": [
+    "Out of stock Nov 11; site says new orders open soon. Seedling options aren't tracked."
+   ],
+   "history": [
+    {
+     "date": "2026-11-11",
+     "price": 40,
+     "status": "sold_out"
+    }
+   ],
+   "ships": "Early spring (late Feb on); West/South from November",
+   "sold_as": "grafted"
+  },
+  {
+   "id": "spencer-creek--marsol",
+   "variety": "marsol",
+   "nursery": "spencer-creek",
+   "status": "sold_out",
+   "price": 40,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://spencercreeknursery.com/product/marsol-chestnut/",
+   "first_seen": "2026-11-11",
+   "last_checked": "2026-11-11",
+   "notes": [
+    "Out of stock Nov 11; site says new orders open soon. Seedling options aren't tracked."
+   ],
+   "history": [
+    {
+     "date": "2026-11-11",
+     "price": 40,
+     "status": "sold_out"
+    }
+   ],
+   "ships": "Early spring (late Feb on); West/South from November",
+   "sold_as": "grafted, 1-2 ft scion"
+  }
+ ]
+}

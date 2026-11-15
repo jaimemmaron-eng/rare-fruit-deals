@@ -1,0 +1,5619 @@
+{
+ "fruit": "gooseberry",
+ "updated": "2026-11-09",
+ "scope": "Named gooseberry cultivars for zone 6b: American (Ribes hirtellum-type), European (R. uva-crispa) and American × European hybrids, plus gooseberry × currant hybrids (jostaberry and similar). Plain currants and unnamed species plants are left out. NJ allows gooseberries into Hunterdon County; only a few Sussex, Passaic and Morris County townships are closed to them.",
+ "last_run": {
+  "date": "2026-11-09",
+  "summary": "Back in stock at Raintree Nursery: Invicta $19.99. Sold out at Secret Orchard Nursery: Jostaberry (Josta).",
+  "gaps": [
+   "burnt-ridge: no per-variety prices",
+   "isons: would not load",
+   "gurneys: would not load",
+   "bob-wells: would not load",
+   "nourse: would not load"
+  ],
+  "checked": [
+   "buy-shrubs-and-trees",
+   "cornell-farms",
+   "double-a",
+   "edible-landscaping",
+   "elmore-roots",
+   "food-forest",
+   "grow-organic",
+   "hartmanns",
+   "migardener",
+   "montana-fruit-trees",
+   "nature-hills",
+   "northeast-edible",
+   "one-green-world",
+   "peaceful-heritage",
+   "plant-addicts",
+   "raintree",
+   "restoring-eden",
+   "scenic-hill",
+   "secret-orchard",
+   "silver-run",
+   "st-lawrence",
+   "stark-bros",
+   "twisted-tree",
+   "wanderlust",
+   "whitman"
+  ],
+  "held": [],
+  "notes": []
+ },
+ "history_log": [
+  "Sep 25: gooseberries added to Rare Fruit Deals; seeded from 15 sellers.",
+  "Sep 26: Stark Bro's Hinnonmaki Red and Pixwell sold out; added Food Forest Nursery and Twisted Tree Farm.",
+  "Sep 27: no restocks/sell-outs on rechecked sellers; added Northeast Edible Fruit Trees (NJ, 6 cultivars); Bob Wells Nursery and Floral Encounters moved to no-stock list.",
+  "Sep 28: no restocks/sell-outs on the 16 rechecked sellers; added Restoring Eden (WA, 16 cultivars incl. new variety Shefford); Burpee, BearFruit Nursery and Krieger's Wholesale Nursery moved to no-stock list.",
+  "Sep 29: no restocks/sell-outs on the 17 rechecked sellers; added Nature Hills Nursery (NE, Pixwell, sold out), Montana Fruit Trees (MT, 7 cultivars sold as bundles-of-2) and Pixie's Gardens (FL, Pixwell only, sold out).",
+  "Sep 30: no restocks/sell-outs on rechecked sellers; Stark Bro's also lists Invicta (sold out); added Peaceful Heritage Nursery (KY, 3 cultivars, all sold out); Fruitwood Nursery and Great Plains Nursery moved to no-stock list.",
+  "Oct 1: Raintree's Jahn's Prairie sold out again; added Bob Wells Nursery (TX, Oregon Champion, sold out) and Canopy Nursery (WI, 3 cultivars sold out, 25-plant bundle minimum); Berries Unlimited and Cloud Mountain Farm Center moved to no-stock list.",
+  "Oct 2: Edible Landscaping's Glenndale sold out; One Green World restocked Hinnonmaki Red, Hinnonmaki Yellow and Little Ben, added new varieties Red George and Siewka K1, and listed Shefford (all three new/added still on waitlist); added St. Lawrence Nurseries (NY, 3 cultivars now in stock, $12 each) and G. Madewell Nursery (no named stock).",
+  "Oct 3: no restocks/sell-outs on the 6 fully rechecked in-stock sellers; added five new One Green World listings (Oregon Champ Yellow, Pixwell Pink, Poorman, Sabine Pink, Welcome, all waitlisted) and two new sellers, Ison's Nursery (GA) and Plant Addicts (online), both with an unnamed Jostaberry in stock; R.H. Shumway's moved to no-stock list (won't ship to NJ).",
+  "Oct 4: no restocks/sell-outs on the 8 fully rechecked in-stock sellers; One Green World's extraction remained unreliable and was left unchanged; added two new sellers with sold-out named stock, Plant Detectives (NJ) and MIgardener (MI).",
+  "Oct 5: One Green World restocked Friend, Jewel, Selby & Shefford (Little Ben sold out); Raintree's Pixwell sold out.",
+  "Oct 6: Hartmann's confirmed in stock ($16); Peaceful Heritage restocked Hinnonmaki Red & Amish Red; One Green World sold out 4 varieties; added Silver Run Forest Farm; found Gurney's and Raintree Red Jostaberry listings; retired Rolling River Nursery as dead.",
+  "Oct 7: One Green World's last two in-stock gooseberries (Friend, Hinnonmaki Red) sold out; everything else held steady.",
+  "Oct 8: One Green World restocked 7 varieties (Hinnomaki Red, Hinnomaki Yellow, Friend, Jewel, Selby, Little Ben, Jostaberry) + new Orus 8 listing; all 29 nurseries re-checked, rest unchanged.",
+  "Oct 9: Shefford back in stock at One Green World; Stark Bro's & Nourse Farms gooseberries season-closed online (no results).",
+  "Oct 10: Pixwell restocked at One Green World; Grow Organic's Hinnonmaki Red back as pre-order; added Wanderlust Nursery and Secret Orchard Nursery.",
+  "Oct 11: No stock or price changes across 25 nurseries rechecked tonight. Added Elmore Roots (VT, pickup-only) with 5 named varieties; Edible Acres and Coon's Berry Farm checked, no named stock; overnight check: Price changes at One Green World: Jahn's Prairie $24.95 → $14.95, Jostine $29.95 → $15.95, Red Josta $14.95 → $15.95",
+  "Oct 12: no changes at the 7 nurseries checked",
+  "Oct 13: no changes at the 7 nurseries checked",
+  "Oct 14: no changes at the 9 nurseries checked",
+  "Oct 15: Back in stock at Northeast Edible Fruit Trees: Black Velvet $25, Captivator $25, Invicta $25, Tixia $25, Hinnonmaki Red $25, Hinnonmaki Yellow $25; Back in stock at Restoring Eden: Invicta $14.99, Jahn's Prairie $14.99, Orus 8 $14.99, Sabine $14.99, Selby $14.99, Shefford $22.99; Restoring Eden: Amish Red now sold out, Black Velvet now sold out, Friend now sold out, Hinnonmaki Red now sold out, Jeanne now sold out, Pixwell now sold out, Poorman now sold out, Welcome now sold out",
+  "Oct 16: New listings at Buy Shrubs and Trees: Hinnonmaki Red ($49.95), Hinnonmaki Yellow ($49.95), Oregon Champion ($49.95), Pixwell ($49.95); Found Buy Shrubs and Trees, a new seller with Hinnonmaki Red, Hinnonmaki Yellow, Oregon Champion and Pixwell potted at $49.95; Grimm's Gardens, Prairie Gardens (Alberta) and Urban Farmer had nothing trackable in scope",
+  "Oct 20: Sold out at Restoring Eden: Invicta, Orus 8, Sabine; Price changes at Restoring Eden: Captivator $14.99 → $11.99, Amish Red $14.99 → $11.99, Jahn's Prairie $14.99 → $11.99, Pixwell $14.99 → $11.99, Poorman $14.99 → $11.99, Selby $14.99 → $11.99, Shefford $22.99 → $18.39, Welcome $14.99 → $11.99; Montana Fruit Trees: Pixwell now sold out; Elmore Roots Nursery: Hinnonmaki Red now unconfirmed, Invicta now unconfirmed",
+  "Oct 22: Back in stock at Elmore Roots Nursery: Hinnonmaki Red $35, Invicta $35; Sold out at One Green World: Shefford; Price changes at Restoring Eden: Captivator $11.99 → $14.99, Amish Red $11.99 → $14.99, Invicta $11.99 → $14.99, Jahn's Prairie $11.99 → $14.99, Orus 8 $11.99 → $14.99, Pixwell $11.99 → $14.99, Poorman $11.99 → $14.99, Sabine $11.99 → $14.99 and 3 more",
+  "Oct 26: New listings at Twisted Tree Farm: Jostaberry (Josta) (sold out); Checked Valley Nursery (UT), which lists Hinnomaki Red and Pixwell but shows no stock or shipping info, so nothing in scope; Added Twisted Tree's sold-out Jostaberry; Lepaa Red at Whitman is already on file as Hinnonmaki Red, and Restoring Eden's Cape gooseberry is out of scope",
+  "Oct 29: Sold out at Raintree Nursery: Invicta",
+  "Nov 2: Back in stock at Secret Orchard Nursery: Jostaberry (Josta) $14.99",
+  "Nov 5: Price changes at Buy Shrubs and Trees: Hinnonmaki Red $49.95 → $29.95, Pixwell $49.95 → $29.95",
+  "Nov 6: New listings at Cornell Farms: Hinnonmaki Yellow ($24.99), Little Ben (sold out), Black Velvet (sold out), Jahn's Prairie (sold out), Selby (sold out), Jostaberry (Josta) (sold out); Found one new in-scope seller: Cornell Farms (Portland, OR), with Hinnonmaki Yellow in stock (1 gal, $24.99, low stock) and five other listings sold out; Platt Hill, Devil Mountain, Phoenix Perennials, Whiffletree, Portland Nursery and Vermont Edible Landscapes had nothing shippable or checkable; Whitman's 'Lepaa Red' lead is already an alias of Hinnonmaki Red; New seller Cornell Farms (OR) added with Hinnonmaki Yellow, Little Ben, Black Velvet, Jahn's Prairie, Selby, Josta",
+  "Nov 9: Back in stock at Raintree Nursery: Invicta $19.99; Sold out at Secret Orchard Nursery: Jostaberry (Josta)"
+ ],
+ "sources": {
+  "directories": [
+   [
+    "NJ Ribes rule (N.J.A.C. 2:20-2.2)",
+    "https://www.law.cornell.edu/regulations/new-jersey/N-J-A-C-2-20-2-2"
+   ],
+   [
+    "Raintree: Ribes rules by state",
+    "https://help.raintreenursery.com/hc/en-us/articles/11934237976333-Regulations-by-State-for-Ribes-spp"
+   ],
+   [
+    "cultivar.guide gooseberry list",
+    "https://cultivar.guide/gooseberry"
+   ]
+  ],
+  "checked_no_named_stock": [
+   "Indiana Berry & Plant (won't ship Ribes to NJ)",
+   "Honeyberry USA (won't ship Ribes to NJ)",
+   "Fedco Trees",
+   "Future Forest Plants (currants only)",
+   "Perfect Plants",
+   "Hidden Springs Nursery",
+   "Cummins Nursery",
+   "McKay Nursery (Pixwell sold out; no price)",
+   "Grandpa's Orchard (tree fruit only)",
+   "Sow True Seed (only a novelty ‘Hartman’s Yellow Gooseberry’ tomato, not a Ribes plant)",
+   "Floral Encounters, Hightstown NJ (sells gooseberry fruit/berries, not plants; 2026 season sold out)",
+   "Burpee (won't ship gooseberries to NJ; restricted-state list on Pixwell Gooseberry page)",
+   "BearFruit Nursery (won't ship gooseberries to NJ; NJ on its excluded-states list)",
+   "Krieger's Wholesale Nursery (wholesale-only, $200 minimum; berryplants.com retail redirect has no product listing)",
+   "Fruitwood Nursery, Orleans CA (sells only unnamed gooseberry cutting wood/rooted-cutting plugs, no named cultivars)",
+   "Great Plains Nursery, Weston NE (only unnamed Ribes missouriense species; also won't ship to NJ)",
+   "Berries Unlimited (won't ship Ribes to NJ; gooseberry package excludes NJ by name)",
+   "Cloud Mountain Farm Center, Everson WA (currants/gooseberries category shows no products; indexed product pages now 404)",
+   "G. Madewell Nursery (unnamed gooseberry only, no named cultivars)",
+   "R.H. Shumway's (jostaberry out of stock; explicitly won't ship to NJ among other states)",
+   "Pense Berry Farm, Clinton AR (penseberryfarm.com gooseberry/currant collection page shows wholesale bulk pricing, 6-plant minimum, 0 products listed for individual retail purchase)",
+   "Boston Mountain Nurseries (no working retail website found; listed on Cornell's berry nursery directory with only a defunct alcasoft.com link)",
+   "Daisy Farms, Michigan (daisyfarms.net now redirects to an unrelated sports-team site; nursery appears defunct)",
+   "Pitspone Farm (pitsponefarm.com returns a blank page; site appears defunct)",
+   "Weeks Berry Nursery, Oregon (wholesale berry-plant propagator supplying other nurseries, not a retail seller of named gooseberry cultivars)",
+   "McGinnis Berry Crops Ltd., BC Canada (wholesale plant propagator/breeder, not a retail nursery; also outside US shipping scope)",
+   "Berlin Seeds (only listed via a Dave's Garden Watchdog directory entry; no working retail website found)",
+   "Schlabach's Nursery (phone/voicemail contact only on Cornell's directory; no website to verify named gooseberry stock)",
+   "Turnbull Nursery, North Collins NY (turnbullgardencenter.com; no online shop/catalog, closed for the 2026 season, phone-only plant availability; gooseberries not mentioned on site)",
+   "Weston Nurseries, MA retail chain (westonnurseries.com; no online mail-order shop; plant database lists only an unnamed interspecific jostaberry hybrid, no named gooseberry cultivar for sale)",
+   "Green Canvas Farms, Englewood TN (greencanvasfarms.com; won't ship Ribes to NJ, among other states)",
+   "Edible Acres, Dundee NY (edibleacres.org; jostaberry only — 9 named jostaberry varieties 'being grown out,' inquiry-only with no individual stock/price; no named gooseberry cultivars; pickup/local only, no shipping stated)",
+   "Coon's Berry Farm, Carson City MI (coonsberryfarm.com per LocalHarvest; U-pick/farm-stand/wholesale berry grower; no online shop, no named gooseberry cultivar plants found for sale)",
+   "Grimm's Gardens (grimmsgardens.com; Pixwell Gooseberry 1-gallon page shows no price or cart button; business location not stated; only Pixwell found, so nothing trackable)",
+   "Prairie Gardens, Bon Accord, Alberta, Canada (prairiegardens.org; Pixwell and Josta Berry; Canadian nursery, outside US shipping scope)",
+   "Urban Farmer (ufseeds.com; Pixwell gooseberry plant $10.25 but no size or stock shown and no other gooseberries; not trackable)",
+   "Valley Nursery Garden Center, Uintah UT (valleynurseryutah.com; lists Hinnomaki Red and Pixwell at \"as low as\" $24, but no size, stock or shipping policy stated; garden center, not trackable)",
+   "Platt Hill Nursery, IL (plant-finder page lists Pixwell only; in-store garden center, no mail order or price)",
+   "Devil Mountain Wholesale Nursery, CA (Pixwell 1 gal/5 gal; trade-only, login-gated, delivers within California)",
+   "Phoenix Perennials, Richmond BC (Pixwell; ships within Canada only)",
+   "Whiffletree Farm & Nursery, Canada (Captivator 'coming soon'; cannot ship outside Canada)",
+   "Portland Nursery, OR (2026 variety list of 9 named gooseberries, but FAQ says 'We do not ship plants' and no e-commerce)",
+   "Vermont Edible Landscapes (site blocks automated reading via robots.txt; gooseberry stock unverified)"
+  ],
+  "dead": [
+   "Miller Nurseries (now part of Stark Bro's)",
+   "Rolling River Nursery, Mckinleyville CA — site unreachable again tonight (prior 521 errors, robots.txt blocks); grower community reports the original operation became Planting Justice, with former owners now running Fruitwood Nursery (already in checked_no_named_stock)."
+  ],
+  "to_check": [
+   "Whitman Farms: 'Lepaa Red' gooseberry listed, not on file"
+  ]
+ },
+ "nurseries": [
+  {
+   "id": "raintree",
+   "name": "Raintree Nursery",
+   "location": "Morton, WA",
+   "state": "WA",
+   "url": "https://raintreenursery.com/collections/gooseberries",
+   "shipping": {
+    "type": "percent",
+    "confirmed": true,
+    "min": 39.99,
+    "tiers": [
+     [
+      1000000000.0,
+      0.25
+     ]
+    ],
+    "source": "https://raintreenursery.com/pages/shipping-policy"
+   },
+   "note": "East-zone shipping is 25% of the order with a $39.99 minimum, so small orders cost the most per plant. Prices are for bare-root plants; 2-quart pots cost more. Publishes NJ Ribes rules on its help pages."
+  },
+  {
+   "id": "stark-bros",
+   "name": "Stark Bro's Nurseries",
+   "location": "Louisiana, MO",
+   "state": "MO",
+   "url": "https://www.starkbros.com/products/berry-plants/gooseberry-plants",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 15.99,
+    "high": 17.99,
+    "source": "https://www.starkbros.com/about/order-and-shipping-policies",
+    "note": "No published rate table; product pages have shown $15.99–$17.99 shipping per order."
+   },
+   "note": "Potted plants. Reports 2 more gooseberries out of stock without naming them."
+  },
+  {
+   "id": "edible-landscaping",
+   "name": "Edible Landscaping",
+   "location": "Afton, VA",
+   "state": "VA",
+   "url": "https://ediblelandscaping.com/collections/gooseberry",
+   "shipping": {
+    "type": "percent",
+    "confirmed": true,
+    "min": 15,
+    "tiers": [
+     [
+      25,
+      0.9
+     ],
+     [
+      50,
+      0.69
+     ],
+     [
+      125,
+      0.49
+     ],
+     [
+      400,
+      0.36
+     ],
+     [
+      1000,
+      0.34
+     ],
+     [
+      3000,
+      0.32
+     ]
+    ],
+    "source": "https://ediblelandscaping.com/pages/shipping-cost"
+   },
+   "note": "Lists sizes from a $7 2-inch pot to a $68 5-gallon; on Sep 25 only the 1-gallon ($34) was actually available, so that is the price shown."
+  },
+  {
+   "id": "scenic-hill",
+   "name": "Scenic Hill Farm Nursery",
+   "location": "Albany, OR",
+   "state": "OR",
+   "url": "https://scenichillfarmnursery.com/collections/potted-currant-and-gooseberry-plants",
+   "shipping": {
+    "type": "included",
+    "confirmed": true,
+    "source": "https://scenichillfarmnursery.com/collections/potted-currant-and-gooseberry-plants"
+   },
+   "note": "“All prices include shipping.” Potted plants shipped rooted in soil; add a ship date in the order notes."
+  },
+  {
+   "id": "double-a",
+   "name": "Double A Vineyards",
+   "location": "Fredonia, NY",
+   "state": "NY",
+   "url": "https://doubleavineyards.com/gooseberry-plants-for-sale",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 12,
+    "high": 25
+   },
+   "phone": "716-672-8493",
+   "note": "Shipping cost isn't published; “other restrictions may apply.”"
+  },
+  {
+   "id": "nourse",
+   "name": "Nourse Farms",
+   "location": "Whately, MA",
+   "state": "MA",
+   "url": "https://www.noursefarms.com/collections/gooseberry",
+   "shipping": {
+    "type": "table",
+    "confirmed": true,
+    "table": [
+     [
+      30,
+      12.0
+     ],
+     [
+      50,
+      16.95
+     ],
+     [
+      75,
+      20.5
+     ],
+     [
+      100,
+      24.95
+     ],
+     [
+      150,
+      28.25
+     ],
+     [
+      185,
+      29.0
+     ]
+    ],
+    "over_pct": 0.16,
+    "source": "https://www.noursefarms.com/pages/shipping"
+   },
+   "note": "Bare-root, spring shipping. All gooseberries sold out on Sep 25.",
+   "unreadable": {
+    "since": "2026-10-20",
+    "nights": 6,
+    "last": "2026-11-09",
+    "reason": "would not load"
+   }
+  },
+  {
+   "id": "one-green-world",
+   "name": "One Green World",
+   "location": "Molalla, OR",
+   "state": "OR",
+   "url": "https://onegreenworld.com/product-category/berries/gooseberry/",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 20,
+    "high": 25,
+    "source": "https://onegreenworld.com/shipping-information/",
+    "note": "Shipping is “approximately $20–$25 depending on the destination state”, more for tall or heavy plants (UPS, from Portland OR)."
+   },
+   "note": "Published $25 flat rate to the East Coast. Every gooseberry showed “Email me when available” on Sep 25."
+  },
+  {
+   "id": "jung",
+   "name": "Jung Seed",
+   "location": "Randolph, WI",
+   "state": "WI",
+   "url": "https://jungseed.com/collections/fruits-fruits-gooseberry",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 12,
+    "high": 25
+   },
+   "note": "All gooseberries out of stock Sep 25; also sells a multi-plant “Gooseberry Offer” ($57.95)."
+  },
+  {
+   "id": "gurneys",
+   "name": "Gurney's",
+   "location": "Greendale, IN",
+   "state": "IN",
+   "url": "https://www.gurneys.com/collections/gooseberry-plants",
+   "shipping": {
+    "type": "table",
+    "confirmed": true,
+    "table": [
+     [
+      20,
+      6.99
+     ],
+     [
+      50,
+      10.99
+     ],
+     [
+      80,
+      16.99
+     ],
+     [
+      180,
+      24.99
+     ]
+    ],
+    "over_pct": 0.15,
+    "source": "https://www.gurneys.com/pages/shipping_charges"
+   },
+   "excluded_states": [
+    "AE",
+    "AK",
+    "DE",
+    "GU",
+    "HI",
+    "MA",
+    "ME",
+    "MI",
+    "NC",
+    "NH",
+    "NJ",
+    "PR",
+    "RI",
+    "VA",
+    "VI",
+    "WV"
+   ],
+   "unreadable": {
+    "since": "2026-11-09",
+    "nights": 1,
+    "last": "2026-11-09",
+    "reason": "would not load"
+   }
+  },
+  {
+   "id": "hartmanns",
+   "name": "Hartmann's Plant Company",
+   "location": "Lacota, MI",
+   "state": "MI",
+   "url": "https://hartmannsplantcompany.com/retail/gooseberries",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 12,
+    "high": 25
+   },
+   "phone": "269-253-4281",
+   "note": "No stock flags or shipping rates shown online; also a $30 “Best” gooseberry collection."
+  },
+  {
+   "id": "whitman",
+   "name": "Whitman Farms",
+   "location": "Salem, OR",
+   "state": "OR",
+   "url": "https://www.whitmanfarms.com/category/all/edible-plants/gooseberries/",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 12,
+    "high": 25
+   },
+   "phone": "503-510-0486",
+   "note": "Gooseberry and currant specialist; bare-root plants ordered by phone or email (lucile@whitmanfarms.com), so stock isn't shown online."
+  },
+  {
+   "id": "burnt-ridge",
+   "name": "Burnt Ridge Nursery",
+   "location": "Onalaska, WA",
+   "state": "WA",
+   "url": "https://www.burntridgenursery.com/mobile/Gooseberry-Bushes/products/33/",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 12,
+    "high": 25
+   },
+   "note": "Won't ship gooseberries to NC or MA (NJ is fine). Prices and stock didn't load online.",
+   "unreadable": {
+    "since": "2026-10-15",
+    "nights": 6,
+    "last": "2026-11-09",
+    "reason": "no per-variety prices"
+   }
+  },
+  {
+   "id": "grow-organic",
+   "name": "Grow Organic (Peaceful Valley)",
+   "location": "Grass Valley, CA",
+   "state": "CA",
+   "url": "https://www.groworganic.com/products/hinnonmaki-red-gooseberry",
+   "shipping": {
+    "type": "flat",
+    "confirmed": true,
+    "amount": 19.99
+   },
+   "note": "$19.99 flat for 1–5 potted plants; free with 6+."
+  },
+  {
+   "id": "food-forest",
+   "name": "Food Forest Nursery",
+   "location": "Arkansas Ozarks, AR",
+   "state": "AR",
+   "url": "https://www.foodforestnursery.com/shop/berries/gooseberries/",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 12,
+    "high": 25
+   },
+   "note": "Bare-root plants. Publishes only “free shipping over $250”; no per-order rate found for smaller orders.",
+   "excluded_states": [
+    "AK",
+    "DE",
+    "HI",
+    "ME",
+    "MA",
+    "MI",
+    "NJ",
+    "NC",
+    "RI",
+    "VT",
+    "WV"
+   ]
+  },
+  {
+   "id": "twisted-tree",
+   "name": "Twisted Tree Farm",
+   "location": "Spencer, NY",
+   "state": "NY",
+   "url": "http://www.twisted-tree.net/trees/currants",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 12,
+    "high": 25
+   },
+   "note": "Small farm nursery; bare-root, shipped dormant in April. Does not ship to CA, OR or WA (NJ is fine); no per-order shipping rate published."
+  },
+  {
+   "id": "northeast-edible",
+   "name": "Northeast Edible Fruit Trees",
+   "location": "New Jersey",
+   "state": "NJ",
+   "url": "https://www.northeastediblenursery.com/product/gooseberry-plants/",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 12,
+    "high": 25
+   },
+   "note": "NJ-based nursery selling six named gooseberry cultivars at $25 each; no real-time stock indicator or published shipping rate found online, and exact town/shipping policy isn't listed on the site."
+  },
+  {
+   "id": "restoring-eden",
+   "name": "Restoring Eden",
+   "location": "SeaTac, WA",
+   "state": "WA",
+   "url": "https://restoringeden.co/product-category/berries/gooseberry/",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 12,
+    "high": 25
+   },
+   "phone": "253-202-5587",
+   "note": "Two WA locations (Enumclaw, SeaTac); ships nationwide in a 36\" box, 1-4 business days, or local pickup. No published per-order shipping rate found."
+  },
+  {
+   "id": "nature-hills",
+   "name": "Nature Hills Nursery",
+   "location": "Omaha, NE",
+   "state": "NE",
+   "url": "https://www.naturehills.com/gooseberry-pixwell",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 12,
+    "high": 25
+   },
+   "note": "Now carries Pixwell gooseberry (previously had none); also sells an ornamental Ribes speciosum ('Fuchsia Flowering Gooseberry') that is out of scope. Shipping page returned an error on fetch."
+  },
+  {
+   "id": "montana-fruit-trees",
+   "name": "Montana Fruit Trees",
+   "location": "MT",
+   "state": "MT",
+   "url": "https://www.montanafruittrees.com/products/pixwell-gooseberry",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 12,
+    "high": 25
+   },
+   "note": "Sells gooseberries only as bundles of 2 plants; prices shown are per bundle, not per single plant. Shipping page returned an error on fetch."
+  },
+  {
+   "id": "pixies-gardens",
+   "name": "Pixie's Gardens",
+   "location": "FL",
+   "state": "FL",
+   "url": "https://www.pixiesgardens.com/products/pixwell-gooseberry-for-sale",
+   "shipping": {
+    "type": "table",
+    "confirmed": true,
+    "table": [
+     [
+      24.99,
+      20.99
+     ],
+     [
+      49.99,
+      30.99
+     ],
+     [
+      89.99,
+      36.99
+     ],
+     [
+      98.99,
+      46.99
+     ]
+    ],
+    "over_pct": 0.0,
+    "source": "https://www.pixiesgardens.com/pages/shipping-policy"
+   },
+   "note": "Free shipping on orders $99+. Only Pixwell found; higher per-plant price ($89.99-$99.99) than other sellers."
+  },
+  {
+   "id": "peaceful-heritage",
+   "name": "Peaceful Heritage Nursery",
+   "location": "Stanford, KY",
+   "state": "KY",
+   "url": "https://peacefulheritage.com/collections/gooseberry-plants-for-sale",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 12,
+    "high": 25
+   },
+   "phone": "859-319-9228",
+   "note": "No published per-order shipping rate or state-restriction list found online. All three gooseberries sold out on Sep 30."
+  },
+  {
+   "id": "bob-wells",
+   "name": "Bob Wells Nursery",
+   "location": "Mineola, TX",
+   "state": "TX",
+   "url": "https://bobwellsnursery.com/product/oregon-champion-gooseberry/",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 12,
+    "high": 25
+   },
+   "note": "Now lists Oregon Champion Gooseberry (out of stock, no price shown). Site lists state shipping restrictions (AZ, CA, CO, FL, ID, MT, NV, NM, OR, UT, WA, WY) that do not include NJ.",
+   "unreadable": {
+    "since": "2026-10-22",
+    "nights": 5,
+    "last": "2026-11-09",
+    "reason": "would not load"
+   }
+  },
+  {
+   "id": "canopy",
+   "name": "Canopy Nursery",
+   "location": "Spring Green, WI",
+   "state": "WI",
+   "url": "https://www.canopynursery.com/products/gooseberry-bare-root",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 12,
+    "high": 25
+   },
+   "note": "Sells Jeanne, Captivator and Hinnonmaki Red gooseberry bare-root, but only in bundles of 25 plants at $8/plant; no single-plant option found. Ships bare-root March-May."
+  },
+  {
+   "id": "st-lawrence",
+   "name": "St. Lawrence Nurseries",
+   "location": "Potsdam, NY",
+   "state": "NY",
+   "url": "https://www.slngrow.com/collections/currants-gooseberries-1",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 12,
+    "high": 25
+   },
+   "note": "Now lists three named gooseberries (previously currants only); bare-root cold-hardy stock from northern NY."
+  },
+  {
+   "id": "isons",
+   "name": "Ison's Nursery & Vineyard",
+   "location": "Brooks, GA",
+   "state": "GA",
+   "url": "https://www.isons.com/shop/berry-plants/specialty-berry-plants/jostaberry/",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 12,
+    "high": 25
+   },
+   "note": "Sells an unnamed Jostaberry (no named cultivar); won't ship Jostaberry to NC, but NJ is fine. No per-order shipping rate published.",
+   "unreadable": {
+    "since": "2026-11-09",
+    "nights": 1,
+    "last": "2026-11-09",
+    "reason": "would not load"
+   }
+  },
+  {
+   "id": "plant-addicts",
+   "name": "Plant Addicts",
+   "location": "Omaha, NE",
+   "state": "NE",
+   "url": "https://plantaddicts.com/jostaberry",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 12,
+    "high": 25
+   },
+   "note": "Online nursery (ships from several US locations); sells an unnamed Jostaberry in a #3 pot. Won't ship to AZ, CA, ID, MT, NV, OR, UT, WA; NJ is fine. No confirmed single-plant shipping rate found.",
+   "excluded_states": [
+    "AZ",
+    "CA",
+    "ID",
+    "MT",
+    "NV",
+    "OR",
+    "UT",
+    "WA",
+    "AK",
+    "HI"
+   ]
+  },
+  {
+   "id": "plant-detectives",
+   "name": "Plant Detectives",
+   "location": "Chester, NJ",
+   "state": "NJ",
+   "url": "https://plantdetectives.com/products/pixwell-gooseberry",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 12,
+    "high": 25
+   },
+   "note": "NJ-based garden center/broker that ships nationwide; only Pixwell found among gooseberries, sold out. No published per-order shipping rate found online."
+  },
+  {
+   "id": "migardener",
+   "name": "MIgardener",
+   "location": "Michigan",
+   "state": "MI",
+   "url": "https://migardener.com/collections/gooseberry",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 12,
+    "high": 25
+   },
+   "note": "Only Hinnomaki Red gooseberry found, sold out. No published per-order shipping rate found online (only a seed-order free-shipping threshold)."
+  },
+  {
+   "id": "silver-run",
+   "name": "Silver Run Forest Farm",
+   "location": "Shenandoah Valley, VA",
+   "state": "VA",
+   "url": "https://silverrunforestfarm.org/nursery/gooseberry",
+   "shipping": {
+    "type": "estimate",
+    "low": 12,
+    "high": 25
+   }
+  },
+  {
+   "id": "wanderlust",
+   "name": "Wanderlust Nursery",
+   "location": "Seattle, WA",
+   "state": "WA",
+   "url": "https://wanderlustnursery.com/shop/products/p/jostaberry",
+   "shipping": {
+    "type": "estimate",
+    "low": 12,
+    "high": 25
+   }
+  },
+  {
+   "id": "secret-orchard",
+   "name": "Secret Orchard Nursery",
+   "location": "Boring, OR",
+   "state": "OR",
+   "url": "https://www.secretorchardfarms.com/products/jostaberry",
+   "shipping": {
+    "type": "estimate",
+    "low": 12,
+    "high": 25
+   }
+  },
+  {
+   "id": "elmore-roots",
+   "name": "Elmore Roots Nursery",
+   "location": "Elmore, VT",
+   "state": "VT",
+   "url": "https://elmoreroots.com/collections/currants-gooseberries",
+   "note": "Local delivery & pickup only; does not ship.",
+   "shipping": {
+    "type": "pickup"
+   }
+  },
+  {
+   "id": "buy-shrubs-and-trees",
+   "name": "Buy Shrubs and Trees",
+   "location": "",
+   "state": null,
+   "url": "https://www.buyshrubsandtrees.com/gooseberry-plant",
+   "note": "Potted gooseberries; no state restrictions published (phone 229-299-8116 to confirm NJ). Shipping set order by order.",
+   "shipping": {
+    "type": "estimate",
+    "low": 12,
+    "high": 25
+   }
+  },
+  {
+   "id": "cornell-farms",
+   "name": "Cornell Farms",
+   "location": "Portland, OR",
+   "state": "OR",
+   "url": "https://cornellfarms.com/search?q=gooseberry",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 12,
+    "high": 25
+   },
+   "phone": "503-292-9895",
+   "note": "Ships plants 'case by case' within the continental US by expedited 2-day flat fee per box (rate not published); orders for shipping go by email to sales@cornellfarms.com. No state exclusions found in policy text (shipping-zone map image unread). Gooseberries mostly sold in 1-5 gal pots."
+  }
+ ],
+ "varieties": [
+  {
+   "id": "hinnonmaki-red",
+   "fruit": "gooseberry",
+   "name": "Hinnonmaki Red",
+   "type": "hybrid",
+   "color": "red",
+   "tags": [
+    "Hybrid"
+   ],
+   "aliases": [
+    "Hinnomaki Red",
+    "Hinnonmäki Red",
+    "Lepaa Red",
+    "Lepaan Punainen"
+   ],
+   "summary": "Finnish red gooseberry; sweet-tart, mildew resistant, the most widely sold.",
+   "description": "A Finnish cultivar (Lepaan Punainen) of European × American parentage. Medium-large dark red berries, sweet flesh under a tart skin, good fresh; a thorny, mid-size bush resistant to powdery mildew, ripening early to mid-season.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "hinnonmaki-yellow",
+   "fruit": "gooseberry",
+   "name": "Hinnonmaki Yellow",
+   "type": "hybrid",
+   "color": "yellow",
+   "tags": [
+    "Hybrid"
+   ],
+   "aliases": [
+    "Hinnomaki Yellow"
+   ],
+   "summary": "Finnish yellow-green gooseberry with an aromatic, apricot-like flavor.",
+   "description": "A Finnish cultivar whose green berries turn yellow in sun, prized for aromatic flavor. Compact, thorny bush with some resistance to mildew and leaf spot; mid-season.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "invicta",
+   "fruit": "gooseberry",
+   "name": "Invicta",
+   "type": "european",
+   "color": "green",
+   "tags": [
+    "European"
+   ],
+   "aliases": [
+    "Invicta White"
+   ],
+   "summary": "English green gooseberry; heavy crops, mildew resistant, RHS AGM.",
+   "description": "Bred at East Malling Research Station, England, from Resistenta × Whinham's Industry. Large green berries for cooking or fresh eating, very heavy crops; vigorous, spreading and very thorny, with resistance to American gooseberry mildew; early to mid-season.",
+   "breeder": {
+    "name": "East Malling Research Station",
+    "kind": "university"
+   },
+   "awards": [
+    "RHS Award of Garden Merit"
+   ],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "pixwell",
+   "fruit": "gooseberry",
+   "name": "Pixwell",
+   "type": "american",
+   "color": "pink",
+   "tags": [
+    "American",
+    "Few thorns"
+   ],
+   "aliases": [],
+   "summary": "North Dakota classic; pink-purple pie berry, few thorns, very hardy.",
+   "description": "Released in 1932 by the North Dakota Agricultural Experiment Station from Oregon Champion × Ribes missouriense. Medium berries ripen green to pink and purple-red, tart and good for pies; nearly thornless, very hardy and mildew resistant; mid to late season.",
+   "breeder": {
+    "name": "North Dakota Agricultural Experiment Station",
+    "kind": "university"
+   },
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "poorman",
+   "fruit": "gooseberry",
+   "name": "Poorman",
+   "type": "american",
+   "color": "red",
+   "tags": [
+    "American"
+   ],
+   "aliases": [],
+   "summary": "Utah heirloom (c. 1890); sweet red berries good fresh.",
+   "description": "An American gooseberry from Brigham City, Utah (about 1890), from Houghton × Downing. Medium-large red berries sweet enough to eat fresh; vigorous, productive, thorny bush with good mildew resistance; mid-season.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "captivator",
+   "fruit": "gooseberry",
+   "name": "Captivator",
+   "type": "hybrid",
+   "color": "red",
+   "tags": [
+    "Hybrid",
+    "Few thorns"
+   ],
+   "aliases": [],
+   "summary": "Canadian nearly thornless gooseberry; pink-red teardrop berries.",
+   "description": "Bred in Ottawa, Canada (released 1950s) from American × European parents. Teardrop berries ripen from pale green to burgundy-red, mildly sweet; nearly thornless with good mildew resistance; early to mid-season.",
+   "breeder": {
+    "name": "Agriculture Canada, Ottawa",
+    "kind": "university"
+   },
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "tixia",
+   "fruit": "gooseberry",
+   "name": "Tixia",
+   "type": "hybrid",
+   "color": "red",
+   "tags": [
+    "Hybrid",
+    "Few thorns"
+   ],
+   "aliases": [
+    "Tixia®"
+   ],
+   "summary": "Swiss nearly thornless red; upright bush that's easy to pick.",
+   "description": "A Swiss gooseberry (about 1990) from Invicta × a mildew-resistant selection. Large red berries on semi-thornless, upright shoots that make picking easy; mildew resistant.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "black-velvet",
+   "fruit": "gooseberry",
+   "name": "Black Velvet",
+   "type": "hybrid",
+   "color": "black",
+   "tags": [
+    "Hybrid"
+   ],
+   "aliases": [],
+   "summary": "Late, dark purple berries with a grape-like flavor.",
+   "description": "A dark purple to near-black hybrid derived in part from the coastal black gooseberry (Ribes divaricatum). Small to medium berries with a sweet, grape- or blueberry-like flavor; upright, thorny, hardy bush; late-ripening.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "jeanne",
+   "fruit": "gooseberry",
+   "name": "Jeanne",
+   "type": "hybrid",
+   "color": "red",
+   "tags": [
+    "Hybrid"
+   ],
+   "aliases": [],
+   "summary": "USDA release (2006); sweet late red, resists mildew and rust.",
+   "description": "Introduced in 2006 by the USDA-ARS National Clonal Germplasm Repository in Corvallis, Oregon. Large, thin-skinned dark red dessert berries on a compact bush that blooms and ripens late; reported resistant to powdery mildew, white pine blister rust and leaf spot.",
+   "breeder": {
+    "name": "USDA-ARS, Corvallis",
+    "kind": "university"
+   },
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "jahns-prairie",
+   "fruit": "gooseberry",
+   "name": "Jahn's Prairie",
+   "type": "american",
+   "color": "pink",
+   "tags": [
+    "American",
+    "Few thorns"
+   ],
+   "aliases": [
+    "Jahns Prairie"
+   ],
+   "summary": "Alberta prairie selection; very hardy, few thorns, shade tolerant.",
+   "description": "A selection of the Canadian gooseberry (Ribes oxyacanthoides) found in Alberta around 1984. Pinkish-red berries on a compact bush with few thorns, hardy to about −40°F and able to fruit in part shade; mid-season, disease resistant.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "amish-red",
+   "fruit": "gooseberry",
+   "name": "Amish Red",
+   "type": "american",
+   "color": "red",
+   "tags": [
+    "American"
+   ],
+   "aliases": [
+    "Amish"
+   ],
+   "summary": "American heirloom; productive, mildew-free red berries.",
+   "description": "An American heirloom of unrecorded origin, associated with Amish growers. Medium red berries on a large, productive bush that resists mildew; mid-season.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "glenndale",
+   "fruit": "gooseberry",
+   "name": "Glenndale",
+   "type": "american",
+   "color": "black",
+   "tags": [
+    "American"
+   ],
+   "aliases": [
+    "Glendale"
+   ],
+   "summary": "USDA 1932 release for hot summers; small dark purple berries.",
+   "description": "Bred by the USDA at Glenn Dale, Maryland and released in 1932 from Ribes missouriense × European gooseberry, aimed at hot southern summers. Small dark red-purple berries on a tall, fountain-shaped, vigorous bush.",
+   "breeder": {
+    "name": "USDA (Glenn Dale, MD)",
+    "kind": "university"
+   },
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "welcome",
+   "fruit": "gooseberry",
+   "name": "Welcome",
+   "type": "american",
+   "color": "red",
+   "tags": [
+    "American",
+    "Few thorns"
+   ],
+   "aliases": [],
+   "summary": "Minnesota 1957 release; few thorns, resists mildew and rust.",
+   "description": "An American gooseberry released in Minnesota in 1957. Medium pink-red, tart berries on a bush with few thorns and resistance to mildew and white pine blister rust; early to mid-season.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "sabine",
+   "fruit": "gooseberry",
+   "name": "Sabine",
+   "type": "hybrid",
+   "color": "pink",
+   "tags": [
+    "Hybrid",
+    "Few thorns"
+   ],
+   "aliases": [],
+   "summary": "Ottawa-bred, few thorns; pinkish berries.",
+   "description": "A gooseberry from the Ottawa, Canada program (Spinefree × Clark). Pinkish to burgundy berries on a hardy bush with few thorns, resistant to mildew and white pine blister rust.",
+   "breeder": {
+    "name": "Agriculture Canada, Ottawa",
+    "kind": "university"
+   },
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "whitesmith",
+   "fruit": "gooseberry",
+   "name": "Whitesmith",
+   "type": "european",
+   "color": "white",
+   "tags": [
+    "European"
+   ],
+   "aliases": [],
+   "summary": "English heirloom (c. 1824); pale green-white dessert berry.",
+   "description": "An English dessert gooseberry introduced about 1824. Medium, oval, pale green to whitish berries with good flavor on a dense upright bush; resists white pine blister rust but is prone to mildew.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "leepared",
+   "fruit": "gooseberry",
+   "name": "Leepared",
+   "type": "hybrid",
+   "color": "red",
+   "tags": [
+    "Hybrid"
+   ],
+   "aliases": [],
+   "summary": "Heavy-bearing Finnish red gooseberry.",
+   "description": "A heavy-bearing Finnish red gooseberry sold by Raintree. The name may be a variant spelling of Lepaa Red (Hinnonmaki Red); tracked separately because Raintree sells both.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "little-ben",
+   "fruit": "gooseberry",
+   "name": "Little Ben",
+   "type": "hybrid",
+   "color": "red",
+   "tags": [
+    "Hybrid"
+   ],
+   "aliases": [],
+   "summary": "Compact, very productive red gooseberry.",
+   "description": "A compact gooseberry sold for its heavy crops and ornamental habit. Limited independent detail gathered so far.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "selby",
+   "fruit": "gooseberry",
+   "name": "Selby",
+   "type": "american",
+   "color": "red",
+   "tags": [
+    "American"
+   ],
+   "aliases": [],
+   "summary": "Named gooseberry sold by One Green World.",
+   "description": "A named gooseberry sold by One Green World. Limited independent detail gathered so far.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "friend",
+   "fruit": "gooseberry",
+   "name": "Friend",
+   "type": "hybrid",
+   "color": "red",
+   "tags": [
+    "Hybrid",
+    "Few thorns"
+   ],
+   "aliases": [
+    "Friend Red",
+    "Friend Red Thornless",
+    "Druzhba"
+   ],
+   "summary": "Ukrainian burgundy gooseberry sold as nearly thornless.",
+   "description": "A Ukrainian hybrid with burgundy berries, sold as Friend Red™ Thornless. Nearly spineless canes; can be prone to leaf spot.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "jewel",
+   "fruit": "gooseberry",
+   "name": "Jewel",
+   "type": "hybrid",
+   "color": "red",
+   "tags": [
+    "Hybrid"
+   ],
+   "aliases": [
+    "Jewel™"
+   ],
+   "summary": "Polish dwarf gooseberry with burgundy fruit.",
+   "description": "A dwarf gooseberry of Polish origin with burgundy berries. Limited independent detail gathered so far.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "oregon-champion",
+   "fruit": "gooseberry",
+   "name": "Oregon Champion",
+   "type": "american",
+   "color": "green",
+   "tags": [
+    "American"
+   ],
+   "aliases": [],
+   "summary": "Oregon 1876 heirloom; green-yellow berries.",
+   "description": "Raised by O. Dickinson in Salem, Oregon in 1876 from Crown Bob × Houghton. Medium green berries that turn sweeter and yellow-green when fully ripe; thorny, about 5 ft, somewhat mildew prone.",
+   "breeder": {
+    "name": "O. Dickinson",
+    "kind": "breeder"
+   },
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "red-jacket",
+   "fruit": "gooseberry",
+   "name": "Red Jacket",
+   "type": "hybrid",
+   "color": "red",
+   "tags": [
+    "Hybrid"
+   ],
+   "aliases": [
+    "Comanche"
+   ],
+   "summary": "Late green berries with a red blush; vigorous bush.",
+   "description": "An older gooseberry also sold as ‘Comanche’. Green berries blushed red, ripening late on a vigorous, upright bush with some disease resistance.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "whinhams-industry",
+   "fruit": "gooseberry",
+   "name": "Whinham's Industry",
+   "type": "european",
+   "color": "red",
+   "tags": [
+    "European"
+   ],
+   "aliases": [
+    "Whinhams Industry"
+   ],
+   "summary": "English heirloom dark red dessert berry; RHS AGM.",
+   "description": "A British heirloom with large, sweet, dark red berries for dessert or cooking. Vigorous and upright, tolerant of part shade and clay, but susceptible to American gooseberry mildew; late season.",
+   "breeder": null,
+   "awards": [
+    "RHS Award of Garden Merit"
+   ],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "leveller",
+   "fruit": "gooseberry",
+   "name": "Leveller",
+   "type": "european",
+   "color": "yellow",
+   "tags": [
+    "European"
+   ],
+   "aliases": [],
+   "summary": "Classic English yellow dessert berry (c. 1851); RHS AGM.",
+   "description": "An English dessert gooseberry dating to about 1851. Very large golden-green berries with excellent flavor, mid-season; needs fertile soil and is hard to grow well in hot, humid summers.",
+   "breeder": null,
+   "awards": [
+    "RHS Award of Garden Merit"
+   ],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "orus-8",
+   "fruit": "gooseberry",
+   "name": "Orus 8",
+   "type": "hybrid",
+   "color": "black",
+   "tags": [
+    "Gooseberry × currant"
+   ],
+   "aliases": [
+    "Orus-8"
+   ],
+   "summary": "Gooseberry × black currant hybrid; near-black berries, rust resistant.",
+   "description": "A gooseberry × black currant hybrid. Very vigorous, healthy bush with heavy crops of medium, almost black berries; rust resistant.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "josta",
+   "fruit": "gooseberry",
+   "name": "Jostaberry (Josta)",
+   "type": "hybrid",
+   "color": "black",
+   "tags": [
+    "Gooseberry × currant",
+    "Few thorns"
+   ],
+   "aliases": [
+    "Jostaberry",
+    "Black Josta",
+    "Black Jostaberry",
+    "Josta Berry Black"
+   ],
+   "summary": "German black currant × gooseberry hybrid; thornless, vigorous.",
+   "description": "A black currant × gooseberry hybrid developed in Germany, completed by Rudolf Bauer at the Erwin Baur Institute. Near-black berries between a gooseberry and a currant in size, tasting of both; large, thornless, mildew- and rust-resistant bush.",
+   "breeder": {
+    "name": "Erwin Baur Institute (Rudolf Bauer)",
+    "kind": "university"
+   },
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "red-josta",
+   "fruit": "gooseberry",
+   "name": "Red Josta",
+   "type": "hybrid",
+   "color": "red",
+   "tags": [
+    "Gooseberry × currant"
+   ],
+   "aliases": [
+    "Red Jostaberry",
+    "Josta Berry Red"
+   ],
+   "summary": "Red-fruited jostaberry.",
+   "description": "A red-fruited jostaberry-type hybrid. Limited independent detail gathered so far.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "jostine",
+   "fruit": "gooseberry",
+   "name": "Jostine",
+   "type": "hybrid",
+   "color": "black",
+   "tags": [
+    "Gooseberry × currant",
+    "Few thorns"
+   ],
+   "aliases": [
+    "Jostine Jostaberry"
+   ],
+   "summary": "Thornless jostaberry selection.",
+   "description": "A thornless jostaberry-type black currant × gooseberry selection. Limited independent detail gathered so far.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "giant-josta",
+   "fruit": "gooseberry",
+   "name": "Giant Jostaberry",
+   "type": "hybrid",
+   "color": "black",
+   "tags": [
+    "Gooseberry × currant"
+   ],
+   "aliases": [],
+   "summary": "Large-fruited, rust-resistant jostaberry.",
+   "description": "A large-fruited black currant × gooseberry hybrid sold by Raintree as rust resistant. Limited independent detail gathered so far.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "shefford",
+   "fruit": "gooseberry",
+   "name": "Shefford",
+   "type": "hybrid",
+   "color": "yellow",
+   "tags": [
+    "Hybrid",
+    "Few thorns"
+   ],
+   "aliases": [],
+   "summary": "Thornless European x American cross; large golden-yellow, sweet berries.",
+   "description": "A gooseberry of Canadian origin held at the USDA National Clonal Germplasm Repository in Corvallis, Oregon, from a European x North American cross. Large golden-yellow berries, sweet and crisp; thornless, disease-resistant bush reaching 3-5 ft; ripens June-July.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-28",
+   "notes": []
+  },
+  {
+   "id": "red-george",
+   "fruit": "gooseberry",
+   "name": "Red George",
+   "type": "european",
+   "color": "red",
+   "tags": [
+    "European"
+   ],
+   "aliases": [
+    "Red George™"
+   ],
+   "summary": "Ukrainian gooseberry with very dark red, sweet fruit on a compact bush.",
+   "description": "A Ukrainian gooseberry sold by One Green World. Very dark red, sweet berries, roughly 4-5 lbs per plant annually, ripening in July; compact bush reaching 2-3 ft.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-02",
+   "notes": []
+  },
+  {
+   "id": "siewka-k1",
+   "fruit": "gooseberry",
+   "name": "Siewka K1",
+   "type": "hybrid",
+   "color": "red",
+   "tags": [
+    "Hybrid"
+   ],
+   "aliases": [],
+   "summary": "Polish gooseberry; purplish-red, sweet berries on a compact, disease-resistant bush.",
+   "description": "A Polish gooseberry cultivar sold by One Green World, among its European x American (R. uva-crispa x R. hirtellum) hybrid offerings. Purplish-red, sweet berries on a compact 2-3 ft bush; disease resistant, bearing within 1-2 years, ripening June-July.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-02",
+   "notes": []
+  }
+ ],
+ "listings": [
+  {
+   "id": "raintree--glenndale",
+   "variety": "glenndale",
+   "nursery": "raintree",
+   "status": "in_stock",
+   "price": 24.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/products/glenndale-gooseberry",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 24.99,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Bare-root; ships in the bare-root season"
+  },
+  {
+   "id": "raintree--leepared",
+   "variety": "leepared",
+   "nursery": "raintree",
+   "status": "in_stock",
+   "price": 19.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/products/leepared-gooseberry",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 19.99,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Bare-root; ships in the bare-root season"
+  },
+  {
+   "id": "raintree--poorman",
+   "variety": "poorman",
+   "nursery": "raintree",
+   "status": "in_stock",
+   "price": 19.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/products/poorman-gooseberry",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 19.99,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Bare-root; ships in the bare-root season"
+  },
+  {
+   "id": "raintree--sabine",
+   "variety": "sabine",
+   "nursery": "raintree",
+   "status": "in_stock",
+   "price": 24.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/products/sabine-gooseberry",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 24.99,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Bare-root; ships in the bare-root season"
+  },
+  {
+   "id": "raintree--pixwell",
+   "variety": "pixwell",
+   "nursery": "raintree",
+   "status": "sold_out",
+   "price": 24.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/products/pixwell-gooseberry",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Sold out since Oct 5."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 24.99,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-05",
+     "price": 24.99,
+     "status": "sold_out"
+    }
+   ],
+   "ships": "Bare-root; ships in the bare-root season"
+  },
+  {
+   "id": "raintree--jeanne",
+   "variety": "jeanne",
+   "nursery": "raintree",
+   "status": "in_stock",
+   "price": 19.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/products/jeanne-gooseberry",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 19.99,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Bare-root; ships in the bare-root season"
+  },
+  {
+   "id": "raintree--jahns-prairie",
+   "variety": "jahns-prairie",
+   "nursery": "raintree",
+   "status": "sold_out",
+   "price": 19.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/products/jahns-prairie-gooseberry",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 19.99,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-01",
+     "price": 19.99,
+     "status": "sold_out"
+    }
+   ],
+   "ships": "Bare-root; ships in the bare-root season"
+  },
+  {
+   "id": "raintree--black-velvet",
+   "variety": "black-velvet",
+   "nursery": "raintree",
+   "status": "in_stock",
+   "price": 19.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/products/black-velvet-gooseberry",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 19.99,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Bare-root; ships in the bare-root season"
+  },
+  {
+   "id": "raintree--invicta",
+   "variety": "invicta",
+   "nursery": "raintree",
+   "status": "in_stock",
+   "price": 19.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/products/invicta-gooseberry",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 19.99,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-29",
+     "price": 19.99,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-11-09",
+     "price": 19.99,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Bare-root; ships in the bare-root season"
+  },
+  {
+   "id": "raintree--orus-8",
+   "variety": "orus-8",
+   "nursery": "raintree",
+   "status": "in_stock",
+   "price": 24.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/products/orus-8-goose-x-currant",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 24.99,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Bare-root; ships in the bare-root season"
+  },
+  {
+   "id": "raintree--little-ben",
+   "variety": "little-ben",
+   "nursery": "raintree",
+   "status": "in_stock",
+   "price": 29.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/products/little-ben-currant",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "1-gallon pot."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 29.99,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "raintree--hinnonmaki-yellow",
+   "variety": "hinnonmaki-yellow",
+   "nursery": "raintree",
+   "status": "sold_out",
+   "price": 19.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/products/hinnomaki-yellow-gooseberry",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 19.99,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "raintree--tixia",
+   "variety": "tixia",
+   "nursery": "raintree",
+   "status": "sold_out",
+   "price": 24.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/products/tixia-gooseberry",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 24.99,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "raintree--welcome",
+   "variety": "welcome",
+   "nursery": "raintree",
+   "status": "sold_out",
+   "price": 29.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/products/welcome-gooseberry",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 29.99,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "raintree--whitesmith",
+   "variety": "whitesmith",
+   "nursery": "raintree",
+   "status": "sold_out",
+   "price": 19.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/products/whitesmith-gooseberry",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 19.99,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "raintree--captivator",
+   "variety": "captivator",
+   "nursery": "raintree",
+   "status": "sold_out",
+   "price": 24.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/products/captivator-gooseberry",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 24.99,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "raintree--hinnonmaki-red",
+   "variety": "hinnonmaki-red",
+   "nursery": "raintree",
+   "status": "sold_out",
+   "price": 19.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/products/hinnomaki-red-gooseberry",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 19.99,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "raintree--giant-josta",
+   "variety": "giant-josta",
+   "nursery": "raintree",
+   "status": "sold_out",
+   "price": 24.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/products/giant-jostaberry",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 24.99,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "raintree--josta",
+   "variety": "josta",
+   "nursery": "raintree",
+   "status": "sold_out",
+   "price": 29.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/products/jostaberry",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 29.99,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "stark-bros--hinnonmaki-red",
+   "variety": "hinnonmaki-red",
+   "nursery": "stark-bros",
+   "status": "season_closed",
+   "price": 25.99,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://www.starkbros.com/products/berry-plants/gooseberry-plants/hinnonmaki-red-gooseberry",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Gooseberry search returns no results; site says most gooseberry varieties are available only during the spring ordering season."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 25.99,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-09-26",
+     "price": 25.99,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-09",
+     "price": 25.99,
+     "status": "season_closed"
+    }
+   ]
+  },
+  {
+   "id": "stark-bros--pixwell",
+   "variety": "pixwell",
+   "nursery": "stark-bros",
+   "status": "season_closed",
+   "price": 25.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.starkbros.com/products/berry-plants/gooseberry-plants/pixwell-gooseberry",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Gooseberry search returns no results; site says most gooseberry varieties are available only during the spring ordering season."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 25.99,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-09-26",
+     "price": 25.99,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-09",
+     "price": 25.99,
+     "status": "season_closed"
+    }
+   ]
+  },
+  {
+   "id": "edible-landscaping--hinnonmaki-red",
+   "variety": "hinnonmaki-red",
+   "nursery": "edible-landscaping",
+   "status": "in_stock",
+   "price": 34.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://ediblelandscaping.com/products/hinnomaki-red-gooseberry",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Only the 1-gallon size available Sep 25."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 34.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "edible-landscaping--jahns-prairie",
+   "variety": "jahns-prairie",
+   "nursery": "edible-landscaping",
+   "status": "in_stock",
+   "price": 34.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://ediblelandscaping.com/products/jahns-prairie-gooseberry",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Only the 1-gallon size available Sep 25."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 34.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "edible-landscaping--jeanne",
+   "variety": "jeanne",
+   "nursery": "edible-landscaping",
+   "status": "in_stock",
+   "price": 34.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://ediblelandscaping.com/products/jeanne-gooseberry",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Only the 1-gallon size available Sep 25."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 34.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "edible-landscaping--josta",
+   "variety": "josta",
+   "nursery": "edible-landscaping",
+   "status": "sold_out",
+   "price": 7.0,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://ediblelandscaping.com/products/black-josta",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 7.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "edible-landscaping--black-velvet",
+   "variety": "black-velvet",
+   "nursery": "edible-landscaping",
+   "status": "sold_out",
+   "price": 7.0,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://ediblelandscaping.com/products/black-velvet-gooseberry",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 7.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "edible-landscaping--glenndale",
+   "variety": "glenndale",
+   "nursery": "edible-landscaping",
+   "status": "sold_out",
+   "price": 7.0,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://ediblelandscaping.com/products/glenndale-gooseberry",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Sold out since Oct 2."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 7.0,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-02",
+     "price": 7.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "edible-landscaping--invicta",
+   "variety": "invicta",
+   "nursery": "edible-landscaping",
+   "status": "sold_out",
+   "price": 7.0,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://ediblelandscaping.com/products/invicta-gooseberry",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 7.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "edible-landscaping--red-josta",
+   "variety": "red-josta",
+   "nursery": "edible-landscaping",
+   "status": "sold_out",
+   "price": 7.0,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://ediblelandscaping.com/products/red-josta",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 7.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "scenic-hill--pixwell",
+   "variety": "pixwell",
+   "nursery": "scenic-hill",
+   "status": "in_stock",
+   "price": 28.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://scenichillfarmnursery.com/collections/potted-currant-and-gooseberry-plants",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 28.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "scenic-hill--josta",
+   "variety": "josta",
+   "nursery": "scenic-hill",
+   "status": "in_stock",
+   "price": 28.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://scenichillfarmnursery.com/collections/potted-currant-and-gooseberry-plants",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 28.95,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "Jostaberry"
+  },
+  {
+   "id": "scenic-hill--jostine",
+   "variety": "jostine",
+   "nursery": "scenic-hill",
+   "status": "in_stock",
+   "price": 28.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://scenichillfarmnursery.com/collections/potted-currant-and-gooseberry-plants",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 28.95,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "Jostine (Thornless)"
+  },
+  {
+   "id": "scenic-hill--red-josta",
+   "variety": "red-josta",
+   "nursery": "scenic-hill",
+   "status": "in_stock",
+   "price": 28.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://scenichillfarmnursery.com/collections/potted-currant-and-gooseberry-plants",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 28.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "scenic-hill--black-velvet",
+   "variety": "black-velvet",
+   "nursery": "scenic-hill",
+   "status": "sold_out",
+   "price": null,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://scenichillfarmnursery.com/collections/potted-currant-and-gooseberry-plants",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": null,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "scenic-hill--captivator",
+   "variety": "captivator",
+   "nursery": "scenic-hill",
+   "status": "sold_out",
+   "price": null,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://scenichillfarmnursery.com/collections/potted-currant-and-gooseberry-plants",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": null,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "scenic-hill--oregon-champion",
+   "variety": "oregon-champion",
+   "nursery": "scenic-hill",
+   "status": "sold_out",
+   "price": null,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://scenichillfarmnursery.com/collections/potted-currant-and-gooseberry-plants",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": null,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "scenic-hill--poorman",
+   "variety": "poorman",
+   "nursery": "scenic-hill",
+   "status": "sold_out",
+   "price": null,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://scenichillfarmnursery.com/collections/potted-currant-and-gooseberry-plants",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": null,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "scenic-hill--welcome",
+   "variety": "welcome",
+   "nursery": "scenic-hill",
+   "status": "sold_out",
+   "price": null,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://scenichillfarmnursery.com/collections/potted-currant-and-gooseberry-plants",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": null,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "double-a--hinnonmaki-red",
+   "variety": "hinnonmaki-red",
+   "nursery": "double-a",
+   "status": "in_stock",
+   "price": 10.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://doubleavineyards.com/gooseberry-plants-for-sale",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Product page says it cannot ship to NJ (also DE, MA, ME, NC, NH, NJ, RI, VA, WV)."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 10.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "nourse--hinnonmaki-red",
+   "variety": "hinnonmaki-red",
+   "nursery": "nourse",
+   "status": "season_closed",
+   "price": 13.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.noursefarms.com/products/hinnomaki-red-gooseberry",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-10-15",
+   "notes": [
+    "Online ordering shows no gooseberry products; site says ordering is closed until fall/spring season. Call (413) 665-2658 to inquire."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 13.0,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-09",
+     "price": 13.0,
+     "status": "season_closed"
+    }
+   ]
+  },
+  {
+   "id": "nourse--invicta",
+   "variety": "invicta",
+   "nursery": "nourse",
+   "status": "season_closed",
+   "price": 17.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.noursefarms.com/products/invicta-gooseberry",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-10-15",
+   "notes": [
+    "Online ordering shows no gooseberry products; site says ordering is closed until fall/spring season. Call (413) 665-2658 to inquire."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 17.0,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-09",
+     "price": 17.0,
+     "status": "season_closed"
+    }
+   ]
+  },
+  {
+   "id": "nourse--tixia",
+   "variety": "tixia",
+   "nursery": "nourse",
+   "status": "season_closed",
+   "price": 17.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.noursefarms.com/products/tixia%C2%AE-gooseberry",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-10-15",
+   "notes": [
+    "Online ordering shows no gooseberry products; site says ordering is closed until fall/spring season. Call (413) 665-2658 to inquire."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 17.0,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-09",
+     "price": 17.0,
+     "status": "season_closed"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--jahns-prairie",
+   "variety": "jahns-prairie",
+   "nursery": "one-green-world",
+   "status": "sold_out",
+   "price": 14.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/jahns-prairie-gooseberry/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Email-me-when-available list open."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 24.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-11",
+     "price": 14.95,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--little-ben",
+   "variety": "little-ben",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 17.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/little-ben-gooseberry/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Restocked by Oct 8; og:availability instock."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 19.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-02",
+     "price": 17.95,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-05",
+     "price": 17.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-08",
+     "price": 17.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--selby",
+   "variety": "selby",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 24.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/selby-gooseberry/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Restocked by Oct 8; og:availability instock."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 24.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-05",
+     "price": 24.95,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-06",
+     "price": 24.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-08",
+     "price": 24.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--amish-red",
+   "variety": "amish-red",
+   "nursery": "one-green-world",
+   "status": "sold_out",
+   "price": 14.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/amish-gooseberry/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Email-me-when-available list open."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 14.95,
+     "status": "sold_out"
+    }
+   ],
+   "sold_as": "Amish"
+  },
+  {
+   "id": "one-green-world--black-velvet",
+   "variety": "black-velvet",
+   "nursery": "one-green-world",
+   "status": "sold_out",
+   "price": 14.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/black-velvet-gooseberry/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Email-me-when-available list open."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 14.95,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--captivator",
+   "variety": "captivator",
+   "nursery": "one-green-world",
+   "status": "sold_out",
+   "price": 24.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/captivator-gooseberry/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Still sold out (waitlist); price range now $24.95-$29.95, up from $19.95 base."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 19.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-10",
+     "price": 24.95,
+     "status": "sold_out"
+    }
+   ],
+   "sold_as": "Captivator Red"
+  },
+  {
+   "id": "one-green-world--friend",
+   "variety": "friend",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 14.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/friend-red-thornless-gooseberry/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Restocked by Oct 8; og:availability instock."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 24.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-05",
+     "price": 14.95,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-07",
+     "price": 14.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-08",
+     "price": 14.95,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "Friend Red™ Thornless"
+  },
+  {
+   "id": "one-green-world--hinnonmaki-red",
+   "variety": "hinnonmaki-red",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 14.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/hinnomaki-red-gooseberry/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Restocked by Oct 8; og:availability instock."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 24.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-02",
+     "price": 14.95,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-07",
+     "price": 14.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-08",
+     "price": 14.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--hinnonmaki-yellow",
+   "variety": "hinnonmaki-yellow",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 24.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/hinnomaki-yellow-gooseberry/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Restocked by Oct 8; og:availability instock."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 24.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-02",
+     "price": 24.95,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-06",
+     "price": 24.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-08",
+     "price": 24.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--invicta",
+   "variety": "invicta",
+   "nursery": "one-green-world",
+   "status": "sold_out",
+   "price": 14.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/invicta-white-gooseberry/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Email-me-when-available list open."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 14.95,
+     "status": "sold_out"
+    }
+   ],
+   "sold_as": "Invicta White"
+  },
+  {
+   "id": "one-green-world--jeanne",
+   "variety": "jeanne",
+   "nursery": "one-green-world",
+   "status": "sold_out",
+   "price": 24.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/jeanne-gooseberry/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Email-me-when-available list open."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 24.95,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--jewel",
+   "variety": "jewel",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 24.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/jewel-gooseberry/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Restocked by Oct 8; og:availability instock."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 24.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-05",
+     "price": 24.95,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-06",
+     "price": 24.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-08",
+     "price": 24.95,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "Jewel™"
+  },
+  {
+   "id": "one-green-world--josta",
+   "variety": "josta",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 19.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/black-jostaberry/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Restocked by Oct 8; og:availability instock."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 24.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-08",
+     "price": 19.95,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "Black Jostaberry"
+  },
+  {
+   "id": "one-green-world--jostine",
+   "variety": "jostine",
+   "nursery": "one-green-world",
+   "status": "sold_out",
+   "price": 15.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/jostine-jostaberry/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Email-me-when-available list open."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 29.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-11",
+     "price": 15.95,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--red-josta",
+   "variety": "red-josta",
+   "nursery": "one-green-world",
+   "status": "sold_out",
+   "price": 15.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/red-jostaberry/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Email-me-when-available list open."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 14.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-11",
+     "price": 15.95,
+     "status": "sold_out"
+    }
+   ],
+   "sold_as": "Red Jostaberry"
+  },
+  {
+   "id": "jung--tixia",
+   "variety": "tixia",
+   "nursery": "jung",
+   "status": "sold_out",
+   "price": 19.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://jungseed.com/collections/fruits-fruits-gooseberry",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-05",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 19.95,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "jung--pixwell",
+   "variety": "pixwell",
+   "nursery": "jung",
+   "status": "sold_out",
+   "price": 15.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://jungseed.com/collections/fruits-fruits-gooseberry",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-05",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 15.95,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "jung--invicta",
+   "variety": "invicta",
+   "nursery": "jung",
+   "status": "sold_out",
+   "price": 16.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://jungseed.com/collections/fruits-fruits-gooseberry",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-05",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 16.95,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "jung--hinnonmaki-red",
+   "variety": "hinnonmaki-red",
+   "nursery": "jung",
+   "status": "sold_out",
+   "price": 15.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://jungseed.com/collections/fruits-fruits-gooseberry",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-05",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 15.95,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "gurneys--pixwell",
+   "variety": "pixwell",
+   "nursery": "gurneys",
+   "status": "sold_out",
+   "price": 16.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.gurneys.com/collections/gooseberry-plants",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-02",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 16.99,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "hartmanns--jeanne",
+   "variety": "jeanne",
+   "nursery": "hartmanns",
+   "status": "in_stock",
+   "price": 16.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://hartmannsplantcompany.com/retail/jeanne-gooseberry/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Confirmed in stock, $16, Oct 6."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 16.0,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-06",
+     "price": 16.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "hartmanns--black-velvet",
+   "variety": "black-velvet",
+   "nursery": "hartmanns",
+   "status": "in_stock",
+   "price": 16.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://hartmannsplantcompany.com/retail/black-velvet-gooseberry/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Confirmed in stock, $16, Oct 6."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 16.0,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-06",
+     "price": 16.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "hartmanns--jahns-prairie",
+   "variety": "jahns-prairie",
+   "nursery": "hartmanns",
+   "status": "in_stock",
+   "price": 16.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://hartmannsplantcompany.com/retail/jahns-prairie-gooseberry/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Confirmed in stock, $16, Oct 6."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 16.0,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-06",
+     "price": 16.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "whitman--whinhams-industry",
+   "variety": "whinhams-industry",
+   "nursery": "whitman",
+   "status": "unconfirmed",
+   "price": 9.5,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.whitmanfarms.com/category/all/edible-plants/gooseberries/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Bare-root; order by phone or email, stock not shown online."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 9.5,
+     "status": "unconfirmed"
+    }
+   ],
+   "sold_as": "Whinhams Industry"
+  },
+  {
+   "id": "whitman--welcome",
+   "variety": "welcome",
+   "nursery": "whitman",
+   "status": "unconfirmed",
+   "price": 9.5,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.whitmanfarms.com/category/all/edible-plants/gooseberries/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Bare-root; order by phone or email, stock not shown online."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 9.5,
+     "status": "unconfirmed"
+    }
+   ]
+  },
+  {
+   "id": "whitman--glenndale",
+   "variety": "glenndale",
+   "nursery": "whitman",
+   "status": "unconfirmed",
+   "price": 9.5,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.whitmanfarms.com/category/all/edible-plants/gooseberries/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Bare-root; order by phone or email, stock not shown online."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 9.5,
+     "status": "unconfirmed"
+    }
+   ],
+   "sold_as": "Glendale"
+  },
+  {
+   "id": "whitman--red-jacket",
+   "variety": "red-jacket",
+   "nursery": "whitman",
+   "status": "unconfirmed",
+   "price": 9.5,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.whitmanfarms.com/category/all/edible-plants/gooseberries/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Bare-root; order by phone or email, stock not shown online."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 9.5,
+     "status": "unconfirmed"
+    }
+   ]
+  },
+  {
+   "id": "whitman--poorman",
+   "variety": "poorman",
+   "nursery": "whitman",
+   "status": "unconfirmed",
+   "price": 9.5,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.whitmanfarms.com/category/all/edible-plants/gooseberries/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Bare-root; order by phone or email, stock not shown online."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 9.5,
+     "status": "unconfirmed"
+    }
+   ]
+  },
+  {
+   "id": "whitman--orus-8",
+   "variety": "orus-8",
+   "nursery": "whitman",
+   "status": "unconfirmed",
+   "price": 9.5,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.whitmanfarms.com/category/all/edible-plants/gooseberries/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Bare-root; order by phone or email, stock not shown online."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 9.5,
+     "status": "unconfirmed"
+    }
+   ]
+  },
+  {
+   "id": "whitman--amish-red",
+   "variety": "amish-red",
+   "nursery": "whitman",
+   "status": "unconfirmed",
+   "price": 9.5,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.whitmanfarms.com/category/all/edible-plants/gooseberries/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Bare-root; order by phone or email, stock not shown online."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 9.5,
+     "status": "unconfirmed"
+    }
+   ]
+  },
+  {
+   "id": "whitman--leveller",
+   "variety": "leveller",
+   "nursery": "whitman",
+   "status": "unconfirmed",
+   "price": 9.5,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.whitmanfarms.com/category/all/edible-plants/gooseberries/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Bare-root; order by phone or email, stock not shown online."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 9.5,
+     "status": "unconfirmed"
+    }
+   ]
+  },
+  {
+   "id": "whitman--hinnonmaki-red",
+   "variety": "hinnonmaki-red",
+   "nursery": "whitman",
+   "status": "unconfirmed",
+   "price": 9.5,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.whitmanfarms.com/category/all/edible-plants/gooseberries/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Bare-root; order by phone or email, stock not shown online."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 9.5,
+     "status": "unconfirmed"
+    }
+   ],
+   "sold_as": "Lepaa Red"
+  },
+  {
+   "id": "whitman--jeanne",
+   "variety": "jeanne",
+   "nursery": "whitman",
+   "status": "unconfirmed",
+   "price": 9.5,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.whitmanfarms.com/category/all/edible-plants/gooseberries/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Bare-root; order by phone or email, stock not shown online."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 9.5,
+     "status": "unconfirmed"
+    }
+   ]
+  },
+  {
+   "id": "burnt-ridge--jeanne",
+   "variety": "jeanne",
+   "nursery": "burnt-ridge",
+   "status": "unconfirmed",
+   "price": null,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://www.burntridgenursery.com/mobile/Gooseberry-Bushes/products/33/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-10-09",
+   "notes": [
+    "Price and stock didn't load online."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": null,
+     "status": "unconfirmed"
+    }
+   ]
+  },
+  {
+   "id": "burnt-ridge--welcome",
+   "variety": "welcome",
+   "nursery": "burnt-ridge",
+   "status": "unconfirmed",
+   "price": null,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://www.burntridgenursery.com/mobile/Gooseberry-Bushes/products/33/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-10-09",
+   "notes": [
+    "Price and stock didn't load online."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": null,
+     "status": "unconfirmed"
+    }
+   ]
+  },
+  {
+   "id": "grow-organic--hinnonmaki-red",
+   "variety": "hinnonmaki-red",
+   "nursery": "grow-organic",
+   "status": "in_stock",
+   "price": 34.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.groworganic.com/products/hinnonmaki-red-gooseberry",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Listed as \"Pre-Order Today!\" with a working Add to Cart button, no sold-out notice."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 34.99,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-10",
+     "price": 34.99,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "pre-order, ships after Jan 15, 2027"
+  },
+  {
+   "id": "stark-bros--josta",
+   "variety": "josta",
+   "nursery": "stark-bros",
+   "status": "season_closed",
+   "price": null,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://www.starkbros.com/products/berry-plants/hybrid-berry-plants/jostaberry",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Gooseberry search returns no results; site says most gooseberry varieties are available only during the spring ordering season."
+   ],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": null,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-09",
+     "price": null,
+     "status": "season_closed"
+    }
+   ]
+  },
+  {
+   "id": "food-forest--josta",
+   "variety": "josta",
+   "nursery": "food-forest",
+   "status": "no_ship",
+   "price": 14.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.foodforestnursery.com/product/Jostaberry/",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Food Forest's product page says gooseberries can't be shipped to NJ (or AK, DE, HI, ME, MA, MI, NC, RI, VT, WV)."
+   ],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 14.95,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-05",
+     "price": 14.95,
+     "status": "no_ship"
+    }
+   ]
+  },
+  {
+   "id": "food-forest--pixwell",
+   "variety": "pixwell",
+   "nursery": "food-forest",
+   "status": "no_ship",
+   "price": 19.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.foodforestnursery.com/product/pixwell-gooseberry/",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Food Forest's product page says gooseberries can't be shipped to NJ (or AK, DE, HI, ME, MA, MI, NC, RI, VT, WV)."
+   ],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 19.95,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-05",
+     "price": 19.95,
+     "status": "no_ship"
+    }
+   ]
+  },
+  {
+   "id": "food-forest--captivator",
+   "variety": "captivator",
+   "nursery": "food-forest",
+   "status": "no_ship",
+   "price": 19.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.foodforestnursery.com/product/captivator-gooseberry/",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Food Forest's product page says gooseberries can't be shipped to NJ (or AK, DE, HI, ME, MA, MI, NC, RI, VT, WV)."
+   ],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 19.95,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-05",
+     "price": 19.95,
+     "status": "no_ship"
+    }
+   ]
+  },
+  {
+   "id": "food-forest--hinnonmaki-red",
+   "variety": "hinnonmaki-red",
+   "nursery": "food-forest",
+   "status": "no_ship",
+   "price": 19.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.foodforestnursery.com/product/hinnomaki-red-gooseberry/",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Food Forest's product page says gooseberries can't be shipped to NJ (or AK, DE, HI, ME, MA, MI, NC, RI, VT, WV)."
+   ],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 19.95,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-05",
+     "price": 19.95,
+     "status": "no_ship"
+    }
+   ]
+  },
+  {
+   "id": "food-forest--jeanne",
+   "variety": "jeanne",
+   "nursery": "food-forest",
+   "status": "sold_out",
+   "price": 19.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.foodforestnursery.com/product/jeanne-gooseberry/",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Spring 2027 inventory drops in June."
+   ],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 19.95,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "twisted-tree--black-velvet",
+   "variety": "black-velvet",
+   "nursery": "twisted-tree",
+   "status": "sold_out",
+   "price": 15.0,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "http://www.twisted-tree.net/trees/currants",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Listed “from $15”; all gooseberries sold out Sep 26."
+   ],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 15.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "twisted-tree--jahns-prairie",
+   "variety": "jahns-prairie",
+   "nursery": "twisted-tree",
+   "status": "sold_out",
+   "price": 15.0,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "http://www.twisted-tree.net/trees/currants",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Listed “from $15”; all gooseberries sold out Sep 26."
+   ],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 15.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "twisted-tree--poorman",
+   "variety": "poorman",
+   "nursery": "twisted-tree",
+   "status": "sold_out",
+   "price": 15.0,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "http://www.twisted-tree.net/trees/currants",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Listed “from $15”; all gooseberries sold out Sep 26."
+   ],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 15.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "twisted-tree--amish-red",
+   "variety": "amish-red",
+   "nursery": "twisted-tree",
+   "status": "sold_out",
+   "price": 15.0,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "http://www.twisted-tree.net/trees/currants",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Listed “from $15”; all gooseberries sold out Sep 26."
+   ],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 15.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "twisted-tree--hinnonmaki-yellow",
+   "variety": "hinnonmaki-yellow",
+   "nursery": "twisted-tree",
+   "status": "sold_out",
+   "price": 15.0,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "http://www.twisted-tree.net/trees/currants",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Listed “from $15”; all gooseberries sold out Sep 26."
+   ],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 15.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "twisted-tree--captivator",
+   "variety": "captivator",
+   "nursery": "twisted-tree",
+   "status": "sold_out",
+   "price": 15.0,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "http://www.twisted-tree.net/trees/currants",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Listed “from $15”; all gooseberries sold out Sep 26."
+   ],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 15.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "twisted-tree--jeanne",
+   "variety": "jeanne",
+   "nursery": "twisted-tree",
+   "status": "sold_out",
+   "price": 15.0,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "http://www.twisted-tree.net/trees/currants",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Listed “from $15”; all gooseberries sold out Sep 26."
+   ],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 15.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "northeast-edible--black-velvet",
+   "variety": "black-velvet",
+   "nursery": "northeast-edible",
+   "status": "in_stock",
+   "price": 25.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.northeastediblenursery.com/product/gooseberry-plants/",
+   "first_seen": "2026-09-27",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Add to cart shown on shared product page; ships spring/fall (Nov)"
+   ],
+   "history": [
+    {
+     "date": "2026-09-27",
+     "price": 25.0,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-15",
+     "price": 25.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Spring mid-Mar to early May; later orders ship fall (Nov)"
+  },
+  {
+   "id": "northeast-edible--captivator",
+   "variety": "captivator",
+   "nursery": "northeast-edible",
+   "status": "in_stock",
+   "price": 25.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.northeastediblenursery.com/product/gooseberry-plants/",
+   "first_seen": "2026-09-27",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Add to cart shown on shared product page; ships spring/fall (Nov)"
+   ],
+   "history": [
+    {
+     "date": "2026-09-27",
+     "price": 25.0,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-15",
+     "price": 25.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "northeast-edible--invicta",
+   "variety": "invicta",
+   "nursery": "northeast-edible",
+   "status": "in_stock",
+   "price": 25.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.northeastediblenursery.com/product/gooseberry-plants/",
+   "first_seen": "2026-09-27",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Add to cart shown on shared product page; ships spring/fall (Nov)"
+   ],
+   "history": [
+    {
+     "date": "2026-09-27",
+     "price": 25.0,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-15",
+     "price": 25.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "northeast-edible--tixia",
+   "variety": "tixia",
+   "nursery": "northeast-edible",
+   "status": "in_stock",
+   "price": 25.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.northeastediblenursery.com/product/gooseberry-plants/",
+   "first_seen": "2026-09-27",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Add to cart shown on shared product page; ships spring/fall (Nov)"
+   ],
+   "history": [
+    {
+     "date": "2026-09-27",
+     "price": 25.0,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-15",
+     "price": 25.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "northeast-edible--hinnonmaki-red",
+   "variety": "hinnonmaki-red",
+   "nursery": "northeast-edible",
+   "status": "in_stock",
+   "price": 25.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.northeastediblenursery.com/product/gooseberry-plants/",
+   "first_seen": "2026-09-27",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Add to cart shown on shared product page; ships spring/fall (Nov)"
+   ],
+   "history": [
+    {
+     "date": "2026-09-27",
+     "price": 25.0,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-15",
+     "price": 25.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "northeast-edible--hinnonmaki-yellow",
+   "variety": "hinnonmaki-yellow",
+   "nursery": "northeast-edible",
+   "status": "in_stock",
+   "price": 25.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.northeastediblenursery.com/product/gooseberry-plants/",
+   "first_seen": "2026-09-27",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Add to cart shown on shared product page; ships spring/fall (Nov)"
+   ],
+   "history": [
+    {
+     "date": "2026-09-27",
+     "price": 25.0,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-15",
+     "price": 25.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "restoring-eden--captivator",
+   "variety": "captivator",
+   "nursery": "restoring-eden",
+   "status": "sold_out",
+   "price": 14.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://restoringeden.co/product/gooseberry-captivator/",
+   "first_seen": "2026-09-28",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-28",
+     "price": 14.99,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-20",
+     "price": 11.99,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-22",
+     "price": 14.99,
+     "status": "sold_out"
+    }
+   ],
+   "was_price": null
+  },
+  {
+   "id": "restoring-eden--hinnonmaki-yellow",
+   "variety": "hinnonmaki-yellow",
+   "nursery": "restoring-eden",
+   "status": "sold_out",
+   "price": 22.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://restoringeden.co/product/gooseberry-hinnomaki-yellow/",
+   "first_seen": "2026-09-28",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-28",
+     "price": 22.99,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "restoring-eden--amish-red",
+   "variety": "amish-red",
+   "nursery": "restoring-eden",
+   "status": "sold_out",
+   "price": 14.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://restoringeden.co/product/gooseberry-amish-red/",
+   "first_seen": "2026-09-28",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "WC store API is_in_stock false"
+   ],
+   "history": [
+    {
+     "date": "2026-09-28",
+     "price": 14.99,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-15",
+     "price": 14.99,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-20",
+     "price": 11.99,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-22",
+     "price": 14.99,
+     "status": "sold_out"
+    }
+   ],
+   "was_price": null
+  },
+  {
+   "id": "restoring-eden--black-velvet",
+   "variety": "black-velvet",
+   "nursery": "restoring-eden",
+   "status": "sold_out",
+   "price": 14.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://restoringeden.co/product/gooseberry-black-velvet/",
+   "first_seen": "2026-09-28",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "WC store API is_in_stock false"
+   ],
+   "history": [
+    {
+     "date": "2026-09-28",
+     "price": 14.99,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-15",
+     "price": 14.99,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "restoring-eden--friend",
+   "variety": "friend",
+   "nursery": "restoring-eden",
+   "status": "sold_out",
+   "price": 22.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://restoringeden.co/product/gooseberry-friend/",
+   "first_seen": "2026-09-28",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "WC store API is_in_stock false"
+   ],
+   "history": [
+    {
+     "date": "2026-09-28",
+     "price": 22.99,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-15",
+     "price": 22.99,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "restoring-eden--hinnonmaki-red",
+   "variety": "hinnonmaki-red",
+   "nursery": "restoring-eden",
+   "status": "sold_out",
+   "price": 14.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://restoringeden.co/product/gooseberry-hinnonmaki-red/",
+   "first_seen": "2026-09-28",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "WC store API is_in_stock false"
+   ],
+   "history": [
+    {
+     "date": "2026-09-28",
+     "price": 14.99,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-15",
+     "price": 14.99,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "restoring-eden--invicta",
+   "variety": "invicta",
+   "nursery": "restoring-eden",
+   "status": "sold_out",
+   "price": 14.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://restoringeden.co/product/gooseberry-invicta/",
+   "first_seen": "2026-09-28",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "WC store API is_in_stock true"
+   ],
+   "history": [
+    {
+     "date": "2026-09-28",
+     "price": 14.99,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-15",
+     "price": 14.99,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-20",
+     "price": 11.99,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-22",
+     "price": 14.99,
+     "status": "sold_out"
+    }
+   ],
+   "was_price": null
+  },
+  {
+   "id": "restoring-eden--jahns-prairie",
+   "variety": "jahns-prairie",
+   "nursery": "restoring-eden",
+   "status": "in_stock",
+   "price": 14.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://restoringeden.co/product/gooseberry-jahns-prairie/",
+   "first_seen": "2026-09-28",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "WC store API is_in_stock true"
+   ],
+   "history": [
+    {
+     "date": "2026-09-28",
+     "price": 14.99,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-15",
+     "price": 14.99,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-20",
+     "price": 11.99,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-22",
+     "price": 14.99,
+     "status": "in_stock"
+    }
+   ],
+   "was_price": null,
+   "on_sale": false
+  },
+  {
+   "id": "restoring-eden--jeanne",
+   "variety": "jeanne",
+   "nursery": "restoring-eden",
+   "status": "sold_out",
+   "price": 14.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://restoringeden.co/product/gooseberry-jeanne/",
+   "first_seen": "2026-09-28",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "WC store API is_in_stock false"
+   ],
+   "history": [
+    {
+     "date": "2026-09-28",
+     "price": 14.99,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-15",
+     "price": 14.99,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "restoring-eden--orus-8",
+   "variety": "orus-8",
+   "nursery": "restoring-eden",
+   "status": "sold_out",
+   "price": 14.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://restoringeden.co/product/gooseberry-orus-8/",
+   "first_seen": "2026-09-28",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "WC store API is_in_stock true"
+   ],
+   "history": [
+    {
+     "date": "2026-09-28",
+     "price": 14.99,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-15",
+     "price": 14.99,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-20",
+     "price": 11.99,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-22",
+     "price": 14.99,
+     "status": "sold_out"
+    }
+   ],
+   "was_price": null
+  },
+  {
+   "id": "restoring-eden--pixwell",
+   "variety": "pixwell",
+   "nursery": "restoring-eden",
+   "status": "sold_out",
+   "price": 14.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://restoringeden.co/product/gooseberry-pixwell/",
+   "first_seen": "2026-09-28",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "WC store API is_in_stock false"
+   ],
+   "history": [
+    {
+     "date": "2026-09-28",
+     "price": 14.99,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-15",
+     "price": 14.99,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-20",
+     "price": 11.99,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-22",
+     "price": 14.99,
+     "status": "sold_out"
+    }
+   ],
+   "was_price": null
+  },
+  {
+   "id": "restoring-eden--poorman",
+   "variety": "poorman",
+   "nursery": "restoring-eden",
+   "status": "sold_out",
+   "price": 14.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://restoringeden.co/product/gooseberry-poorman/",
+   "first_seen": "2026-09-28",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "WC store API is_in_stock false"
+   ],
+   "history": [
+    {
+     "date": "2026-09-28",
+     "price": 14.99,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-15",
+     "price": 14.99,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-20",
+     "price": 11.99,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-22",
+     "price": 14.99,
+     "status": "sold_out"
+    }
+   ],
+   "was_price": null
+  },
+  {
+   "id": "restoring-eden--sabine",
+   "variety": "sabine",
+   "nursery": "restoring-eden",
+   "status": "sold_out",
+   "price": 14.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://restoringeden.co/product/gooseberry-sabine/",
+   "first_seen": "2026-09-28",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "WC store API is_in_stock true"
+   ],
+   "history": [
+    {
+     "date": "2026-09-28",
+     "price": 14.99,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-15",
+     "price": 14.99,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-20",
+     "price": 11.99,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-22",
+     "price": 14.99,
+     "status": "sold_out"
+    }
+   ],
+   "was_price": null
+  },
+  {
+   "id": "restoring-eden--selby",
+   "variety": "selby",
+   "nursery": "restoring-eden",
+   "status": "in_stock",
+   "price": 14.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://restoringeden.co/product/gooseberry-selby/",
+   "first_seen": "2026-09-28",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "WC store API is_in_stock true"
+   ],
+   "history": [
+    {
+     "date": "2026-09-28",
+     "price": 14.99,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-15",
+     "price": 14.99,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-20",
+     "price": 11.99,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-22",
+     "price": 14.99,
+     "status": "in_stock"
+    }
+   ],
+   "was_price": null,
+   "on_sale": false
+  },
+  {
+   "id": "restoring-eden--shefford",
+   "variety": "shefford",
+   "nursery": "restoring-eden",
+   "status": "in_stock",
+   "price": 22.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://restoringeden.co/product/gooseberry-shefford/",
+   "first_seen": "2026-09-28",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "WC store API is_in_stock true"
+   ],
+   "history": [
+    {
+     "date": "2026-09-28",
+     "price": 22.99,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-15",
+     "price": 22.99,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-20",
+     "price": 18.39,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-22",
+     "price": 22.99,
+     "status": "in_stock"
+    }
+   ],
+   "was_price": null,
+   "on_sale": false
+  },
+  {
+   "id": "restoring-eden--welcome",
+   "variety": "welcome",
+   "nursery": "restoring-eden",
+   "status": "sold_out",
+   "price": 14.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://restoringeden.co/product/gooseberry-welcome/",
+   "first_seen": "2026-09-28",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "WC store API is_in_stock false"
+   ],
+   "history": [
+    {
+     "date": "2026-09-28",
+     "price": 14.99,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-15",
+     "price": 14.99,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-20",
+     "price": 11.99,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-22",
+     "price": 14.99,
+     "status": "sold_out"
+    }
+   ],
+   "was_price": null
+  },
+  {
+   "id": "nature-hills--pixwell",
+   "variety": "pixwell",
+   "nursery": "nature-hills",
+   "status": "sold_out",
+   "price": null,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://www.naturehills.com/gooseberry-pixwell",
+   "first_seen": "2026-09-29",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Price not shown while sold out."
+   ],
+   "history": [
+    {
+     "date": "2026-09-29",
+     "price": null,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "montana-fruit-trees--pixwell",
+   "variety": "pixwell",
+   "nursery": "montana-fruit-trees",
+   "status": "sold_out",
+   "price": 69.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.montanafruittrees.com/products/pixwell-gooseberry",
+   "first_seen": "2026-09-29",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Sold out for spring 2027."
+   ],
+   "history": [
+    {
+     "date": "2026-09-29",
+     "price": 69.99,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-20",
+     "price": 69.99,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "montana-fruit-trees--black-velvet",
+   "variety": "black-velvet",
+   "nursery": "montana-fruit-trees",
+   "status": "unconfirmed",
+   "price": null,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://www.montanafruittrees.com/products/pixwell-gooseberry",
+   "first_seen": "2026-09-29",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Sold as a bundle of 2 plants; price and stock not confirmed."
+   ],
+   "history": [
+    {
+     "date": "2026-09-29",
+     "price": null,
+     "status": "unconfirmed"
+    }
+   ]
+  },
+  {
+   "id": "montana-fruit-trees--captivator",
+   "variety": "captivator",
+   "nursery": "montana-fruit-trees",
+   "status": "unconfirmed",
+   "price": null,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://www.montanafruittrees.com/products/pixwell-gooseberry",
+   "first_seen": "2026-09-29",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Sold as a bundle of 2 plants; price and stock not confirmed."
+   ],
+   "history": [
+    {
+     "date": "2026-09-29",
+     "price": null,
+     "status": "unconfirmed"
+    }
+   ]
+  },
+  {
+   "id": "montana-fruit-trees--hinnonmaki-red",
+   "variety": "hinnonmaki-red",
+   "nursery": "montana-fruit-trees",
+   "status": "unconfirmed",
+   "price": null,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://www.montanafruittrees.com/products/pixwell-gooseberry",
+   "first_seen": "2026-09-29",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Sold as a bundle of 2 plants; price and stock not confirmed."
+   ],
+   "history": [
+    {
+     "date": "2026-09-29",
+     "price": null,
+     "status": "unconfirmed"
+    }
+   ]
+  },
+  {
+   "id": "montana-fruit-trees--invicta",
+   "variety": "invicta",
+   "nursery": "montana-fruit-trees",
+   "status": "unconfirmed",
+   "price": null,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://www.montanafruittrees.com/products/pixwell-gooseberry",
+   "first_seen": "2026-09-29",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Sold as a bundle of 2 plants; price and stock not confirmed."
+   ],
+   "history": [
+    {
+     "date": "2026-09-29",
+     "price": null,
+     "status": "unconfirmed"
+    }
+   ]
+  },
+  {
+   "id": "montana-fruit-trees--jahns-prairie",
+   "variety": "jahns-prairie",
+   "nursery": "montana-fruit-trees",
+   "status": "unconfirmed",
+   "price": null,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://www.montanafruittrees.com/products/pixwell-gooseberry",
+   "first_seen": "2026-09-29",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Sold as a bundle of 2 plants; price and stock not confirmed."
+   ],
+   "history": [
+    {
+     "date": "2026-09-29",
+     "price": null,
+     "status": "unconfirmed"
+    }
+   ]
+  },
+  {
+   "id": "montana-fruit-trees--jeanne",
+   "variety": "jeanne",
+   "nursery": "montana-fruit-trees",
+   "status": "unconfirmed",
+   "price": null,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://www.montanafruittrees.com/products/pixwell-gooseberry",
+   "first_seen": "2026-09-29",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Sold as a bundle of 2 plants; price and stock not confirmed."
+   ],
+   "history": [
+    {
+     "date": "2026-09-29",
+     "price": null,
+     "status": "unconfirmed"
+    }
+   ]
+  },
+  {
+   "id": "pixies-gardens--pixwell",
+   "variety": "pixwell",
+   "nursery": "pixies-gardens",
+   "status": "sold_out",
+   "price": 89.99,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://www.pixiesgardens.com/products/pixwell-gooseberry-for-sale",
+   "first_seen": "2026-09-29",
+   "last_checked": "2026-11-02",
+   "notes": [
+    "2-gallon $89.99, 3-gallon $99.99; all sizes sold out."
+   ],
+   "history": [
+    {
+     "date": "2026-09-29",
+     "price": 89.99,
+     "status": "sold_out"
+    }
+   ],
+   "was_price": null
+  },
+  {
+   "id": "stark-bros--invicta",
+   "variety": "invicta",
+   "nursery": "stark-bros",
+   "status": "season_closed",
+   "price": 25.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.starkbros.com/products/berry-plants/gooseberry-plants/invicta-gooseberry",
+   "first_seen": "2026-09-30",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Gooseberry search returns no results; site says most gooseberry varieties are available only during the spring ordering season."
+   ],
+   "history": [
+    {
+     "date": "2026-09-30",
+     "price": 25.99,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-09",
+     "price": 25.99,
+     "status": "season_closed"
+    }
+   ]
+  },
+  {
+   "id": "peaceful-heritage--captivator",
+   "variety": "captivator",
+   "nursery": "peaceful-heritage",
+   "status": "sold_out",
+   "price": 34.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://peacefulheritage.com/collections/gooseberry-plants-for-sale",
+   "first_seen": "2026-09-30",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-30",
+     "price": 34.99,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "peaceful-heritage--hinnonmaki-red",
+   "variety": "hinnonmaki-red",
+   "nursery": "peaceful-heritage",
+   "status": "in_stock",
+   "price": 34.99,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://peacefulheritage.com/collections/gooseberry-plants-for-sale",
+   "first_seen": "2026-09-30",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Back in stock Oct 6, from $34.99."
+   ],
+   "history": [
+    {
+     "date": "2026-09-30",
+     "price": 34.99,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-06",
+     "price": 34.99,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "peaceful-heritage--amish-red",
+   "variety": "amish-red",
+   "nursery": "peaceful-heritage",
+   "status": "in_stock",
+   "price": 34.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://peacefulheritage.com/collections/gooseberry-plants-for-sale",
+   "first_seen": "2026-09-30",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Back in stock Oct 6, $34.99."
+   ],
+   "history": [
+    {
+     "date": "2026-09-30",
+     "price": 34.99,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-06",
+     "price": 34.99,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "bob-wells--oregon-champion",
+   "variety": "oregon-champion",
+   "nursery": "bob-wells",
+   "status": "sold_out",
+   "price": null,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://bobwellsnursery.com/product/oregon-champion-gooseberry/",
+   "first_seen": "2026-10-01",
+   "last_checked": "2026-10-15",
+   "notes": [
+    "No price shown while out of stock."
+   ],
+   "history": [
+    {
+     "date": "2026-10-01",
+     "price": null,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "canopy--jeanne",
+   "variety": "jeanne",
+   "nursery": "canopy",
+   "status": "sold_out",
+   "price": 8.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.canopynursery.com/products/gooseberry-bare-root",
+   "first_seen": "2026-10-01",
+   "last_checked": "2026-11-02",
+   "notes": [
+    "Sold only in bundles of 25 plants, not as a single plant."
+   ],
+   "history": [
+    {
+     "date": "2026-10-01",
+     "price": 8.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "canopy--captivator",
+   "variety": "captivator",
+   "nursery": "canopy",
+   "status": "sold_out",
+   "price": 8.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.canopynursery.com/products/gooseberry-bare-root",
+   "first_seen": "2026-10-01",
+   "last_checked": "2026-11-02",
+   "notes": [
+    "Sold only in bundles of 25 plants, not as a single plant."
+   ],
+   "history": [
+    {
+     "date": "2026-10-01",
+     "price": 8.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "canopy--hinnonmaki-red",
+   "variety": "hinnonmaki-red",
+   "nursery": "canopy",
+   "status": "sold_out",
+   "price": 8.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.canopynursery.com/products/gooseberry-bare-root",
+   "first_seen": "2026-10-01",
+   "last_checked": "2026-11-02",
+   "notes": [
+    "Sold only in bundles of 25 plants, not as a single plant."
+   ],
+   "history": [
+    {
+     "date": "2026-10-01",
+     "price": 8.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--shefford",
+   "variety": "shefford",
+   "nursery": "one-green-world",
+   "status": "sold_out",
+   "price": 24.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/shefford-gooseberry/",
+   "first_seen": "2026-10-02",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Back in stock as of Oct 9, 2026."
+   ],
+   "history": [
+    {
+     "date": "2026-10-02",
+     "price": 24.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-05",
+     "price": 24.95,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-06",
+     "price": 24.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-09",
+     "price": 24.95,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-22",
+     "price": 24.95,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--red-george",
+   "variety": "red-george",
+   "nursery": "one-green-world",
+   "status": "sold_out",
+   "price": 24.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/red-george-gooseberry/",
+   "first_seen": "2026-10-02",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Still sold out; price range now $24.95-$29.95, up from $19.95."
+   ],
+   "history": [
+    {
+     "date": "2026-10-02",
+     "price": 19.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-08",
+     "price": 24.95,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--siewka-k1",
+   "variety": "siewka-k1",
+   "nursery": "one-green-world",
+   "status": "sold_out",
+   "price": 24.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/siewka-k1-gooseberry/",
+   "first_seen": "2026-10-02",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Email-me-when-available list open."
+   ],
+   "history": [
+    {
+     "date": "2026-10-02",
+     "price": 24.95,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "st-lawrence--black-velvet",
+   "variety": "black-velvet",
+   "nursery": "st-lawrence",
+   "status": "in_stock",
+   "price": 12.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.slngrow.com/products/black-velvet-gooseberry",
+   "first_seen": "2026-10-02",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-02",
+     "price": 12.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "st-lawrence--captivator",
+   "variety": "captivator",
+   "nursery": "st-lawrence",
+   "status": "in_stock",
+   "price": 12.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.slngrow.com/products/captivator-gooseberry",
+   "first_seen": "2026-10-02",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-02",
+     "price": 12.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "st-lawrence--jahns-prairie",
+   "variety": "jahns-prairie",
+   "nursery": "st-lawrence",
+   "status": "in_stock",
+   "price": 12.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.slngrow.com/products/jahn-s-prairie-gooseberry",
+   "first_seen": "2026-10-02",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Corrected product URL (old slug 404s); in stock $12."
+   ],
+   "history": [
+    {
+     "date": "2026-10-02",
+     "price": 12.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "isons--josta",
+   "variety": "josta",
+   "nursery": "isons",
+   "status": "in_stock",
+   "price": 15.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.isons.com/shop/berry-plants/specialty-berry-plants/jostaberry/",
+   "first_seen": "2026-10-03",
+   "last_checked": "2026-11-05",
+   "notes": [
+    "Sold as unnamed Jostaberry, not a named cultivar."
+   ],
+   "history": [
+    {
+     "date": "2026-10-03",
+     "price": 15.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "plant-addicts--josta",
+   "variety": "josta",
+   "nursery": "plant-addicts",
+   "status": "in_stock",
+   "price": 78.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://plantaddicts.com/jostaberry",
+   "first_seen": "2026-10-03",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Sold as unnamed Jostaberry; #3 pot (3-gallon), much higher price than other sellers."
+   ],
+   "history": [
+    {
+     "date": "2026-10-03",
+     "price": 78.99,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "#3 pot"
+  },
+  {
+   "id": "one-green-world--oregon-champion",
+   "variety": "oregon-champion",
+   "nursery": "one-green-world",
+   "status": "sold_out",
+   "price": 14.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/oregon-champ-gooseberry/",
+   "first_seen": "2026-10-03",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Email-me-when-available list open."
+   ],
+   "history": [
+    {
+     "date": "2026-10-03",
+     "price": 14.95,
+     "status": "sold_out"
+    }
+   ],
+   "sold_as": "Oregon Champ Yellow"
+  },
+  {
+   "id": "one-green-world--pixwell",
+   "variety": "pixwell",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 14.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/pixwell-pink-gooseberry/",
+   "first_seen": "2026-10-03",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Restocked as of Oct 10; $14.95-$19.95 by size."
+   ],
+   "history": [
+    {
+     "date": "2026-10-03",
+     "price": 14.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-10",
+     "price": 14.95,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "Pixwell Pink"
+  },
+  {
+   "id": "one-green-world--poorman",
+   "variety": "poorman",
+   "nursery": "one-green-world",
+   "status": "sold_out",
+   "price": 14.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/poorman-gooseberry/",
+   "first_seen": "2026-10-03",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Email-me-when-available list open."
+   ],
+   "history": [
+    {
+     "date": "2026-10-03",
+     "price": 14.95,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--sabine",
+   "variety": "sabine",
+   "nursery": "one-green-world",
+   "status": "sold_out",
+   "price": 14.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/sabine-pink-gooseberry/",
+   "first_seen": "2026-10-03",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Email-me-when-available list open."
+   ],
+   "history": [
+    {
+     "date": "2026-10-03",
+     "price": 14.95,
+     "status": "sold_out"
+    }
+   ],
+   "sold_as": "Sabine Pink"
+  },
+  {
+   "id": "one-green-world--welcome",
+   "variety": "welcome",
+   "nursery": "one-green-world",
+   "status": "sold_out",
+   "price": 14.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/welcome-gooseberry/",
+   "first_seen": "2026-10-03",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Email-me-when-available list open."
+   ],
+   "history": [
+    {
+     "date": "2026-10-03",
+     "price": 14.95,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "plant-detectives--pixwell",
+   "variety": "pixwell",
+   "nursery": "plant-detectives",
+   "status": "sold_out",
+   "price": 35.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://plantdetectives.com/products/pixwell-gooseberry",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-05",
+   "notes": [
+    "2-gallon pot size."
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 35.99,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "migardener--hinnonmaki-red",
+   "variety": "hinnonmaki-red",
+   "nursery": "migardener",
+   "status": "sold_out",
+   "price": 18.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://migardener.com/collections/gooseberry/products/hinnomaki-red-gooseberry",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 18.99,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "silver-run--hinnonmaki-red",
+   "variety": "hinnonmaki-red",
+   "nursery": "silver-run",
+   "status": "sold_out",
+   "price": 15.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://silverrunforestfarm.org/nursery/gooseberry",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 15.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "silver-run--invicta",
+   "variety": "invicta",
+   "nursery": "silver-run",
+   "status": "sold_out",
+   "price": 15.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://silverrunforestfarm.org/nursery/gooseberry",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 15.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "silver-run--jahns-prairie",
+   "variety": "jahns-prairie",
+   "nursery": "silver-run",
+   "status": "sold_out",
+   "price": 15.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://silverrunforestfarm.org/nursery/gooseberry",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Listed as 'Jahns Prairie Red'."
+   ],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 15.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "gurneys--josta",
+   "variety": "josta",
+   "nursery": "gurneys",
+   "status": "no_ship",
+   "price": 19.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.gurneys.com/products/jostaberry",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-02",
+   "notes": [
+    "Sold out and, separately, excludes NJ from its ship list (AE AK DE GU HI MA ME MI NC NH NJ PR RI VA WV)."
+   ],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 19.99,
+     "status": "no_ship"
+    }
+   ]
+  },
+  {
+   "id": "raintree--red-josta",
+   "variety": "red-josta",
+   "nursery": "raintree",
+   "status": "sold_out",
+   "price": 24.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/collections/jostaberry/products/red-jostaberry",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 24.99,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--orus-8",
+   "variety": "orus-8",
+   "nursery": "one-green-world",
+   "status": "sold_out",
+   "price": 14.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/orus-8-gooseberry/",
+   "first_seen": "2026-10-08",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-08",
+     "price": 14.95,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "wanderlust--josta",
+   "variety": "josta",
+   "nursery": "wanderlust",
+   "status": "in_stock",
+   "price": 25.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://wanderlustnursery.com/shop/products/p/jostaberry",
+   "first_seen": "2026-10-10",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-10",
+     "price": 25.0,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "1-gallon pot"
+  },
+  {
+   "id": "secret-orchard--josta",
+   "variety": "josta",
+   "nursery": "secret-orchard",
+   "status": "sold_out",
+   "price": 14.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.secretorchardfarms.com/products/jostaberry",
+   "first_seen": "2026-10-10",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-10",
+     "price": 14.99,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-11-02",
+     "price": 14.99,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-11-09",
+     "price": 14.99,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "elmore-roots--hinnonmaki-red",
+   "variety": "hinnonmaki-red",
+   "nursery": "elmore-roots",
+   "status": "in_stock",
+   "price": 35.0,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://elmoreroots.com/collections/currants-gooseberries",
+   "first_seen": "2026-10-11",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Medium $75 in stock; Small sold out"
+   ],
+   "history": [
+    {
+     "date": "2026-10-11",
+     "price": 35.0,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-20",
+     "price": 35.0,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-22",
+     "price": 35.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "elmore-roots--invicta",
+   "variety": "invicta",
+   "nursery": "elmore-roots",
+   "status": "in_stock",
+   "price": 35.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://elmoreroots.com/collections/currants-gooseberries",
+   "first_seen": "2026-10-11",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Not found in site catalog on Oct 20."
+   ],
+   "history": [
+    {
+     "date": "2026-10-11",
+     "price": 35.0,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-20",
+     "price": 35.0,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-22",
+     "price": 35.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "elmore-roots--hinnonmaki-yellow",
+   "variety": "hinnonmaki-yellow",
+   "nursery": "elmore-roots",
+   "status": "in_stock",
+   "price": 35.0,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://elmoreroots.com/collections/currants-gooseberries",
+   "first_seen": "2026-10-11",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Listed, not marked sold out, Oct 11."
+   ],
+   "history": [
+    {
+     "date": "2026-10-11",
+     "price": 35.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "elmore-roots--pixwell",
+   "variety": "pixwell",
+   "nursery": "elmore-roots",
+   "status": "in_stock",
+   "price": 35.0,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://elmoreroots.com/collections/currants-gooseberries",
+   "first_seen": "2026-10-11",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Listed as Pixwell Purple Gooseberry, not marked sold out, Oct 11."
+   ],
+   "history": [
+    {
+     "date": "2026-10-11",
+     "price": 35.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "elmore-roots--jahns-prairie",
+   "variety": "jahns-prairie",
+   "nursery": "elmore-roots",
+   "status": "in_stock",
+   "price": 35.0,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://elmoreroots.com/collections/currants-gooseberries",
+   "first_seen": "2026-10-11",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Listed as Jahns Praire Gooseberry (sic), not marked sold out, Oct 11."
+   ],
+   "history": [
+    {
+     "date": "2026-10-11",
+     "price": 35.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "buy-shrubs-and-trees--hinnonmaki-red",
+   "variety": "hinnonmaki-red",
+   "nursery": "buy-shrubs-and-trees",
+   "status": "in_stock",
+   "price": 29.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://www.buyshrubsandtrees.com/product-page/hinnomaki-red-gooseberry",
+   "first_seen": "2026-10-16",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Page metadata shows InStock; size dropdown shows no options, so $49.95 is the listed starting price"
+   ],
+   "history": [
+    {
+     "date": "2026-10-16",
+     "price": 49.95,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-11-05",
+     "price": 29.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Ships potted; potted plants ship year-round",
+   "sold_as": "potted plant (size options not shown on page)"
+  },
+  {
+   "id": "buy-shrubs-and-trees--hinnonmaki-yellow",
+   "variety": "hinnonmaki-yellow",
+   "nursery": "buy-shrubs-and-trees",
+   "status": "in_stock",
+   "price": 49.95,
+   "price_from": true,
+   "price_confirmed": false,
+   "url": "https://www.buyshrubsandtrees.com/product-page/hinnomaki-yellow-gooseberry",
+   "first_seen": "2026-10-16",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Page metadata shows InStock; size dropdown shows no options, so $49.95 is the listed starting price"
+   ],
+   "history": [
+    {
+     "date": "2026-10-16",
+     "price": 49.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Ships potted; potted plants ship year-round",
+   "sold_as": "potted plant (size options not shown on page)"
+  },
+  {
+   "id": "buy-shrubs-and-trees--oregon-champion",
+   "variety": "oregon-champion",
+   "nursery": "buy-shrubs-and-trees",
+   "status": "in_stock",
+   "price": 49.95,
+   "price_from": true,
+   "price_confirmed": false,
+   "url": "https://www.buyshrubsandtrees.com/product-page/oregon-champion-gooseberry",
+   "first_seen": "2026-10-16",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Page metadata shows InStock; size dropdown shows no options, so $49.95 is the listed starting price"
+   ],
+   "history": [
+    {
+     "date": "2026-10-16",
+     "price": 49.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Ships potted; potted plants ship year-round",
+   "sold_as": "potted plant (size options not shown on page)"
+  },
+  {
+   "id": "buy-shrubs-and-trees--pixwell",
+   "variety": "pixwell",
+   "nursery": "buy-shrubs-and-trees",
+   "status": "in_stock",
+   "price": 29.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://www.buyshrubsandtrees.com/product-page/gooseberry-pixwell",
+   "first_seen": "2026-10-16",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Page metadata shows InStock; size dropdown shows no options, so $49.95 is the listed starting price"
+   ],
+   "history": [
+    {
+     "date": "2026-10-16",
+     "price": 49.95,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-11-05",
+     "price": 29.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Ships potted; potted plants ship year-round",
+   "sold_as": "potted plant (size options not shown on page)"
+  },
+  {
+   "id": "twisted-tree--josta",
+   "variety": "josta",
+   "nursery": "twisted-tree",
+   "status": "sold_out",
+   "price": 15.0,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "http://www.twisted-tree.net/trees/currants",
+   "first_seen": "2026-10-26",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Listed “from $15”; all gooseberries and jostaberry sold out."
+   ],
+   "history": [
+    {
+     "date": "2026-10-26",
+     "price": 15.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "cornell-farms--hinnonmaki-yellow",
+   "variety": "hinnonmaki-yellow",
+   "nursery": "cornell-farms",
+   "status": "in_stock",
+   "price": 24.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://cornellfarms.com/products/gooseberry-hinnomaki-yellow-1gal",
+   "first_seen": "2026-11-06",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Product page: Low stock - 2 items left",
+    "Shipping is case by case; email sales@cornellfarms.com"
+   ],
+   "history": [
+    {
+     "date": "2026-11-06",
+     "price": 24.99,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "1 gal pot"
+  },
+  {
+   "id": "cornell-farms--little-ben",
+   "variety": "little-ben",
+   "nursery": "cornell-farms",
+   "status": "sold_out",
+   "price": 18.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://cornellfarms.com/products/copy-of-gooseberry-little-ben-qrt",
+   "first_seen": "2026-11-06",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Search listing shows Sold Out; 2 gal ($39.99) also sold out"
+   ],
+   "history": [
+    {
+     "date": "2026-11-06",
+     "price": 18.99,
+     "status": "sold_out"
+    }
+   ],
+   "sold_as": "1 gal pot"
+  },
+  {
+   "id": "cornell-farms--black-velvet",
+   "variety": "black-velvet",
+   "nursery": "cornell-farms",
+   "status": "sold_out",
+   "price": 19.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://cornellfarms.com/products/gooseberry-black-velvet-2-gal",
+   "first_seen": "2026-11-06",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Search listing shows Sold Out"
+   ],
+   "history": [
+    {
+     "date": "2026-11-06",
+     "price": 19.99,
+     "status": "sold_out"
+    }
+   ],
+   "sold_as": "2 gal pot"
+  },
+  {
+   "id": "cornell-farms--jahns-prairie",
+   "variety": "jahns-prairie",
+   "nursery": "cornell-farms",
+   "status": "sold_out",
+   "price": 39.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://cornellfarms.com/products/gooseberry-jahns-prairie-pink-2-5-gal",
+   "first_seen": "2026-11-06",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Search listing shows Sold Out"
+   ],
+   "history": [
+    {
+     "date": "2026-11-06",
+     "price": 39.99,
+     "status": "sold_out"
+    }
+   ],
+   "sold_as": "3 gal pot"
+  },
+  {
+   "id": "cornell-farms--selby",
+   "variety": "selby",
+   "nursery": "cornell-farms",
+   "status": "sold_out",
+   "price": 44.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://cornellfarms.com/products/gooseberry-selby-gal-purple",
+   "first_seen": "2026-11-06",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Search listing shows Sold Out"
+   ],
+   "history": [
+    {
+     "date": "2026-11-06",
+     "price": 44.99,
+     "status": "sold_out"
+    }
+   ],
+   "sold_as": "2 gal pot"
+  },
+  {
+   "id": "cornell-farms--josta",
+   "variety": "josta",
+   "nursery": "cornell-farms",
+   "status": "sold_out",
+   "price": 24.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://cornellfarms.com/products/currant-jostaberry-1gal",
+   "first_seen": "2026-11-06",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Search listing shows Sold Out; 2 gal ($19.99) also sold out"
+   ],
+   "history": [
+    {
+     "date": "2026-11-06",
+     "price": 24.99,
+     "status": "sold_out"
+    }
+   ],
+   "sold_as": "1 gal pot"
+  }
+ ]
+}

@@ -1,0 +1,5830 @@
+{
+ "fruit": "persimmon",
+ "updated": "2026-11-09",
+ "scope": "Named, grafted persimmons for zone 6b: American persimmon (Diospyros virginiana) cultivars, American × Asian hybrids, and Asian (D. kaki) cultivars only when a seller rates them hardy to zone 6. Most Asian types (Fuyu, Jiro, Hachiya, Giombo, Tamopan and similar) are rated zone 7+ and are left out; so are ungrafted seedlings.",
+ "last_run": {
+  "date": "2026-11-09",
+  "summary": "Back in stock at Restoring Eden: Szukis $39.99. Sold out at Edible Landscaping: Prok.",
+  "gaps": [
+   "burnt-ridge: no per-variety prices",
+   "future-forest: no per-variety prices",
+   "cricket-hill-garden: would not load"
+  ],
+  "checked": [
+   "advanced-nursery-growers",
+   "arbor-day-foundation",
+   "bamboo-plants-ca",
+   "beautiful-beginnings",
+   "blue-hill",
+   "bower-and-branch",
+   "buy-potted-plants",
+   "chestnut-hill",
+   "edible-landscaping",
+   "englands-orchard",
+   "farm-connection",
+   "food-forest-nursery",
+   "hidden-springs",
+   "interwoven-permaculture",
+   "logees",
+   "madison-citrus",
+   "nature-hills",
+   "one-green-world",
+   "perfect-plants",
+   "plant-me-green",
+   "raintree",
+   "restoring-eden",
+   "rock-bridge-trees",
+   "roots-to-fruits",
+   "stark-bros",
+   "trees-com",
+   "trees-of-antiquity"
+  ],
+  "held": [
+   "arbor-day-foundation--saijo: price 44.99 -> 124.99 is a 178% move"
+  ],
+  "notes": []
+ },
+ "history_log": [
+  "Sep 15: hybrid persimmons first tracked alongside Asian pears (Madison Citrus, One Green World, Stark Bro's).",
+  "Sep 25: moved onto Rare Fruit Deals with American and zone-6 Asian types; seeded from 11 sellers.",
+  "Sep 26: rechecked all 11 sellers (no stock changes; Hidden Springs Rosseyanka now priced at $25 preorder); added Chestnut Hill Nursery, Cricket Hill Garden and Brambleberry Farm; logged Just Fruits and Exotics and Trees of Joy as no named stock.",
+  "Sep 27: rechecked all in-stock sellers plus several sold-out ones (Saijo at Stark Bro's now sold out); added Interwoven Permaculture (Barbara's Blush, Kasandra, Zima Khurma, MP-3); logged Grandpa's Orchard as no named stock.",
+  "Sep 28: rechecked 13 in-stock/recent sellers with no price or stock changes; added Morse Nursery (Morse, September/A33, August, plus existing Deer Magnet, Deer Candy, Meader, all sold out); logged Wildtree as ungrafted-seedling-only.",
+  "Sep 29: rechecked all 14 in-stock/recent sellers with no price or stock changes; checked and excluded Raintree's Oriole and Cardinal (Asian, zone 7/unrated); added Food Forest Nursery (Nikita's Gift, Meader, both in stock) and The Farm Connection (Nikita's Gift, Early Golden, both sold out); logged Mountain Gentry and Mehrabyan Nursery as no named stock.",
+  "Sep 30: rechecked 15 in-stock/recent sellers, no restocks or sell-outs; Cricket Hill Garden's nine “Coming Soon” listings now read “Sold Out” (status updated); rechecked England's Orchard and added prices for Wonderful, 100-46, Rosseyanka, Deer Magnet, and excluded Huk Kam/Ama-Yotsumizo/San Pedro for undocumented hardiness; added Grimo Nut Nursery, Direct Native Plants and Nature Hills as no named zone-6 stock.",
+  "Oct 1: rechecked 17 in-stock/recent sellers, no price or stock changes among existing listings; added Cricket Hill Garden's 'H118/Early Jewel' (sold out); added Burnt Ridge Nursery, Plant Me Green and Buy Potted Plants as new sellers.",
+  "Oct 2: rechecked 19 in-stock/recent sellers, no price or stock changes; added Advanced Nursery Growers (Nikita's Gift in stock, Deer Magnet sold out) and Roots to Fruits Nursery (Deer Magnet sold out); logged Mad Cat Farm as scionwood-only.",
+  "Oct 3: rechecked 22 in-stock/recent sellers plus several sold-out ones, no restocks or sell-outs; corrected England's Orchard pricing ($65-$95 tiers) and its numbered selection to '100-45'; added Cricket Hill Garden's sold-out Steiermark (Asian, zone 6); logged Grow Organic and Greenwood Nursery as no named zone-6 stock; resolved Needmore Trees (seed-grown only).",
+  "Oct 4: rechecked ~23 in-stock/recent sellers; One Green World's Nikita's Gift restocked ($34.95-$44.95, was sold out/waitlist); corrected England's Orchard pricing back to its published $25/$35/$45 tiers (reversing the Oct 3 $65-$95 figures, which two re-checks today show was a misread); added Broken Arrow Nursery and Trees.com (both Meader, sold out) and Bower & Branch (Garretson, sold out); logged Arts Nursery (Vancouver) as Canadian/local-pickup-only.",
+  "Oct 5: Advanced Nursery Growers' Deer Magnet restocked ($49); Interwoven Permaculture's four varieties now read sold out online (moved from unconfirmed); corrected Stark Bro's Saijo price ($199.99) and Rock Bridge Trees' JT-02 price ($69 start); logged Fruitwood Nursery and Coldstream Farm as no named zone-6 stock.",
+  "Oct 6: Future Forest dropped 15 varieties from its live selector (now sold out pending confirmation); added Logee's Plants (Nikita's Gift in stock, $55), Trees of Antiquity and Arbor Day Foundation Shop (Saijo).",
+  "Oct 7: Rechecked 24 nurseries, no restocks or sell-outs; added a sold-out Nikita's Gift listing at Perfect Plants. One Green World and Future Forest Plants couldn't be verified.",
+  "Oct 8: One Green World restocked 6 American persimmon varieties; Trees of Antiquity Saijo now orderable (2027 ship); added Bamboo Plants (Canada, sold out).",
+  "Oct 9: One Green World restocked JT-02 ($49.95) and Saijo ($44.95); added Nature Hills Nursery, Homestead Gardens, and a Perfect Plants Saijo listing (all sold out).",
+  "Oct 10: Re-checked 16 in-stock nurseries; all prices and statuses confirmed unchanged. No restocks, sell-outs, or new sellers tonight.",
+  "Oct 11: Quiet night — stock and prices held steady across all 32 nurseries; added pre-order/ship-window notes for Trees of Antiquity, Bower & Branch, Farm Connection and Hidden Springs; overnight check: no changes at the 5 nurseries checked",
+  "Oct 12: Sold out at One Green World: JT-02 (Mikkusu)",
+  "Oct 13: no changes at the 5 nurseries checked",
+  "Oct 14: no changes at the 12 nurseries checked",
+  "Oct 15: Back in stock at England's Orchard & Nursery: Rosseyanka $35, Kasandra $30; Sold out at Chestnut Hill Nursery: Yates; Sold out at Trees of Antiquity: Saijo; New listings at Future Forest Plants: Downingtown Center ($40), Josephine ($40), Korp ($40), McKenzie Middle ($40), NC-10 ($40), Rich Tooie ($40), TY Gateway ($40); New listings at Beautiful Beginnings Nursery: Celebrity (U20A) ($54.99), Mohler ($54.99), Early Jewel (sold out), DEC Goliath (sold out), Valeene Beauty (sold out); Stark Bro's Nurseries: Yates now unconfirmed; Advanced Nursery Growers: Deer Magnet now unconfirmed; Found Beautiful Beginnings Nursery (KY) with Celebrity, Mohler and three sold-out types, and added seven Future Forest Plants American cultivars (Downingtown Center, Josephine, Korp, McKenzie Middle, NC-10, Rich Tooie, TY Gateway); Great Escape Farms (no shipping), Living Soil Tree Farm (seedlings only) and Whiffletree (US shipping unconfirmed) had nothing in scope; New seller Beautiful Beginnings Nursery (Celebrity, Mohler, Early Jewel, DEC Goliath, Valeene Beauty)",
+  "Oct 20: Back in stock at Advanced Nursery Growers: Deer Magnet $49; Back in stock at Trees of Antiquity: Saijo $69.95; Price changes at Cricket Hill Garden: Claypool $50 → $58, Prok $48 → $58, Yates $48 → $58, Zhima Khurma (NB-02) $50 → $58, Valeene Beauty $52 → $58",
+  "Oct 22: Back in stock at Perfect Plants: Nikita's Gift $84.95; Sold out at Raintree Nursery: Saijo; Sold out at One Green World: Prairie Star; Sold out at Blue Hill Wildlife Nursery: Meader, Prok; Sold out at Cricket Hill Garden: Claypool, Dollywood; The Farm Connection: Nikita's Gift now unconfirmed, Early Golden now unconfirmed",
+  "Oct 25: New listings at Blue Hill Wildlife Nursery: Tin Cup ($39.95), Szukis ($39.95), Yates (sold out); Found no new in-scope sellers: Yellowbud Farm (seedling bundles) and the Maryland State Forest Nursery (unnamed seedlings) had nothing in scope; Added Tin Cup as a new variety at Blue Hill Wildlife Nursery, plus Blue Hill's Szukis and Yates listings",
+  "Oct 26: Back in stock at One Green World: Prairie Star $34.95",
+  "Oct 29: England's persimmon page now shows American persimmons at $65 (small) to $95 (XL), higher than the prices on file; Marked in stock where sizes are listed",
+  "Nov 2: Back in stock at The Farm Connection: Nikita's Gift $49.95, Early Golden $46.95",
+  "Nov 5: Back in stock at Blue Hill Wildlife Nursery: Meader $39.95; Price changes at Burnt Ridge Nursery & Orchards: Deer Magnet $52.25 → $52.50; New listings at Advanced Nursery Growers: Nikita's Gift (sold out); New listings at Restoring Eden: Nikita's Gift ($39.99), Early Golden ($39.99), Meader ($39.99), Prairie Gem ($39.99), Prairie Star ($39.99), Prairie Sun (sold out), Szukis (unconfirmed); Found a new seller, Restoring Eden (WA), with six grafted American and hybrid persimmons at $39.99 (1-gallon); Izel Plants, Foraged, Elmore Roots (does not ship), iGreenThumb and Gurney's had nothing in scope; Added Restoring Eden (WA) with Nikita's Gift, Early Golden, Meader, Prairie Gem, Prairie Star, Prairie Sun (sold out) and Szukis",
+  "Nov 9: Back in stock at Restoring Eden: Szukis $39.99; Sold out at Edible Landscaping: Prok"
+ ],
+ "sources": {
+  "directories": [
+   [
+    "England's Orchard persimmon catalog",
+    "http://www.nuttrees.net/persimmon.html"
+   ],
+   [
+    "Threefold Farm: Asian persimmons for zone 6b/7a",
+    "https://threefold.farm/blog/asian-persimmons-for-zone-6b-and-7a"
+   ]
+  ],
+  "checked_no_named_stock": [
+   [
+    "Just Fruits and Exotics",
+    "https://justfruitsandexotics.com/product/prok-persimmon-tree/"
+   ],
+   [
+    "Trees of Joy",
+    "https://treesofjoy.com/product-category/other-fruit-trees/persimmon/"
+   ],
+   [
+    "Grandpa's Orchard",
+    "https://www.grandpasorchard.com/"
+   ],
+   [
+    "Wildtree",
+    "https://www.wildtree.co/product/american-persimmon/"
+   ],
+   [
+    "Mountain Gentry",
+    "https://mountaingentry.com/"
+   ],
+   [
+    "Mehrabyan Nursery",
+    "https://www.mehrabyannursery.com/shop/persimmon-trees/american-persimmon-tree/"
+   ],
+   [
+    "Grimo Nut Nursery",
+    "https://www.grimonut.com/index.php?p=Products&category=american-persimmon"
+   ],
+   [
+    "Direct Native Plants",
+    "https://directnativeplants.com/product/persimmon/"
+   ],
+   [
+    "Nature Hills Nursery",
+    "https://naturehills.com/collections/persimmon-trees"
+   ],
+   [
+    "Mad Cat Farm",
+    "https://www.madcatfarm.com/persimmon-scion"
+   ],
+   [
+    "Grow Organic (Peaceful Valley)",
+    "https://www.groworganic.com/fruit-nut-trees/bareroot-trees/persimmon-trees.html"
+   ],
+   [
+    "Greenwood Nursery",
+    "https://www.greenwoodnursery.com/products/persimmon-tree"
+   ],
+   [
+    "Needmore Trees",
+    "https://needmoretrees.com/store"
+   ],
+   [
+    "Arts Nursery (Vancouver, BC)",
+    "https://artsnursery.com/product/prairie-gem-american-persimmon"
+   ],
+   [
+    "Fruitwood Nursery",
+    "https://www.fruitwoodnursery.com/fruit-tree-scion-and-cuttings-wood/american-persimmon-diosporos-virginiana/rosseyanka-detail"
+   ],
+   [
+    "Coldstream Farm",
+    "https://www.coldstreamfarm.net/product-category/deciduous-trees/persimmon/"
+   ],
+   [
+    "Threefold Farm (blog)",
+    "https://threefold.farm/blog/asian-persimmons-for-zone-6b-and-7a - research/extension blog on zone 6b/7a Asian persimmon hardiness; no plants for sale"
+   ],
+   [
+    "Great Escape Farms",
+    "https://greatescapefarms.com/grafted-persimmons/ - lists grafted persimmons at $45 but states it does not ship plants (Maryland/West Virginia pickup only)"
+   ],
+   [
+    "Living Soil Tree Farm",
+    "https://livingsoiltreefarm.com/products/american-persimmon - Virginia; only seedlings (Hershey selection seed, mix), sold out"
+   ],
+   [
+    "Whiffletree Farm and Nursery (Ontario, Canada)",
+    "https://whiffletreefarmandnursery.ca/product/hybrid-persimmon-kassandra - Kasandra page shows no price, stock or US shipping terms; could not confirm it ships to the US"
+   ],
+   [
+    "Yellowbud Farm",
+    "https://www.yellowbud.farm/shop/p/henry-hickory-seedling-k63yb - American persimmon seedlings sold in bundles of 10+ (from $200), not named grafted trees"
+   ],
+   [
+    "Maryland State Forest Nursery",
+    "https://nursery.dnr.maryland.gov/product-p/persimmon.htm - unnamed 1-year seedlings, 25 minimum, sold out"
+   ],
+   [
+    "Izel Plants",
+    "https://www.izelplants.com/fk/diospyros-virginiana-common-persimmon/ - species page only (D. virginiana, 2-pack 1-gal), no named cultivars"
+   ],
+   [
+    "Foraged (Grow Your Own Food Nursery)",
+    "https://www.foraged.com/products/american-persimmon-diospyros-virginiana-common-persimmon-bare-root-live-seedling - unnamed bare-root seedling"
+   ],
+   [
+    "Elmore Roots (Vermont)",
+    "https://elmoreroots.com/products/meader-persimmon - Meader only, but the site does not ship (local delivery and pickup only)"
+   ],
+   [
+    "iGreenThumb",
+    "https://igreenthumb.com/products/nikita-s-gift-hybrid-persimmon-tree-soft-persimmon-variety-grafted-plant-ship-in-dirted-pot - Nikita's Gift $159, sold out; no shipping terms found"
+   ],
+   [
+    "Gurney's",
+    "https://www.gurneys.com/products/american_persimmon_ - unnamed 'American' persimmon, not grafted per page, spring ship, sold out"
+   ]
+  ],
+  "dead": [],
+  "to_check": [
+   "One Green World: Tamopan, Robin, Raven, Phoenix, Oriole Asian persimmons listed, not on file. Future Forest Plants: grafted American persimmons (e.g. Downingtown Center, Josephine, Korp, NC-10) listed, not on file.",
+   "Edible Landscaping: 'Ichi Ki Kei Jiro', 'Tam Kam', 'Hana Fuyu' persimmons in stock, not on file",
+   "Stark Bro's: 'Tanenashi' persimmon listed from $79.99, not on file",
+   "Raintree: persimmons Izu, Jiro, Hachiya, Chocolate, CoffeeCake in stock; Oriole, Cardinal listed sold out; not on file",
+   "Stark Bro's: 'Tanenashi' persimmon listed in stock, not on file",
+   "Edible Landscaping: Nikita's Gift, Hachiya, Tam Kam, Hana Fuyu, Jiro, Giombo, Tecumseh, Izu persimmons listed, some not on file",
+   "England's Orchard: Celebrity, Deer Candy, Early Jewel, Barbra's Blush, Meader, Early Golden persimmons listed, not on file",
+   "Chestnut Hill: Fuyu, Gionbo, Ichi-Ki-Kei-Jiro persimmon listed, not on file",
+   "Future Forest Plants: 'McKenzie Corner' persimmon in variety dropdown, not on file",
+   "One Green World persimmons listed, not on file: Tamopan, Robin, Raven, Phoenix, Oriole, Sweet Fuyu, Miss Kim, Maru, Jiro",
+   "Raintree: Izu, Jiro, Hachiya, Chocolate, CoffeeCake, Oriole, Cardinal persimmons listed, not on file",
+   "Stark Bro's: 'Tanenashi' Asian persimmon listed, not on file",
+   "One Green World: Asian persimmons (Jiro, Hachiya, Fuyu types, Chocolate, Cardinal, etc.) listed, not on file",
+   "Edible Landscaping: 'Jiro', 'Tecumseh', 'Izu', 'Miss Kim', 'Fire Crystal', 'Coffeecake' persimmons listed, not on file",
+   "Raintree: 'Izu', 'Hachiya', 'Chocolate', 'Coffeecake', 'Jiro Fuyu', 'Oriole', 'Cardinal' persimmons listed, not on file",
+   "Stark Bro's: Tanenashi Asian persimmon (from $79.99) and Nikita's Gift (79.99, out of stock) listed, not on file",
+   "Future Forest Plants: McKenzie Corner, Keener, Buhrman, Lambert, Beardstown, Giboshi, Kuro Kuma, Fuyu Giant, Zirochka persimmons listed, not on file",
+   "Chestnut Hill: 'Fuyu' persimmon listed, not on file",
+   "Chestnut Hill: 'Gionbo' and 'Ichi-Ki-Kei-Jiro' persimmon listed (sold out), not on file",
+   "England's Orchard: 'Barbra's Blush', 'J-59 Claypool', 'Zima khurma', 'Sestronka' persimmons listed, not on file",
+   "Interwoven Permaculture: 'Tam Kam' and 'Gwang Yang' kaki persimmon listed, not on file",
+   "England's Orchard: Kasandra, Rosseyanka listed in Asian hybrids; Nikita's Gift not listed on page",
+   "Edible Landscaping: Hana Fuyu, TamKam, Hachiya, Jiro persimmons listed, not on file",
+   "England's Orchard: 'Celebrity','Deer Candy','Early Jewel','Barbra's Blush','J-59 Claypool','Zima khurma','Mikkusu kaki','Korea Kaki','Picudo' persimmon listed, not on file",
+   "Roots to Fruits: Prok, Meader, Early Golden, Deer Candy and Rosseyanka persimmons listed, not on file",
+   "One Green World: Tamopan, Robin, Raven, Phoenix, Oriole, Maru, Jiro, Sweet Fuyu, Miss Kim persimmons listed, not on file",
+   "Madison Citrus: many persimmons listed (Vaniglia, Tecumseh, Lampadino, Korean, Jo Choo, etc.), not on file",
+   "England's Orchard: Deer Candy, Celebrity, Early Jewel and others listed, not on file",
+   "Roots to Fruits: Rosseyanka, Prok, Meader, Early Golden, Deer Candy persimmons listed, not on file",
+   "Chestnut Hill: Fuyu and American seedling persimmon listed, not on file",
+   "Interwoven Permaculture: Tam Kam, Gwang Yang listed, not on file",
+   "Elmore Roots: Meader persimmon listed, not on file",
+   "One Green World: 'Tamopan', 'Sweet Fuyu', 'Robin', 'Raven', 'Phoenix', 'Oriole', 'Miss Kim', 'Maru', 'Jiro' persimmons listed, not on file",
+   "Edible Landscaping: Hychia/Hachiya, Ichi-Ki-Kei-Jiro, Tam Kam, Maekawa Jiro, Hana Fuyu, Wase Fuyu, Jiro persimmons listed, not on file",
+   "Restoring Eden: Calliope, Cardinal, Oriole, Phoenix, Robin persimmons listed, not on file",
+   "Raintree: persimmons 'Izu', 'Hachiya', 'Chocolate', 'Coffeecake' listed in stock, 'Oriole', 'Cardinal', 'Jiro Fuyu' sold out, not on file",
+   "Stark Bro's: 'Tanenashi' ($79.99) and 'Ichi-Ki-Kei-Jiro' ($199.99) persimmons listed, not on file",
+   "Roots to Fruits: Rosseyanka, Prok, Meader, Early Golden and Deer Candy persimmons listed (5-6' bare root $47), not on file"
+  ]
+ },
+ "nurseries": [
+  {
+   "id": "edible-landscaping",
+   "name": "Edible Landscaping",
+   "location": "Afton, VA",
+   "state": "VA",
+   "url": "https://ediblelandscaping.com/collections/persimmon",
+   "shipping": {
+    "type": "percent",
+    "confirmed": true,
+    "min": 15,
+    "tiers": [
+     [
+      25,
+      0.9
+     ],
+     [
+      50,
+      0.69
+     ],
+     [
+      125,
+      0.49
+     ],
+     [
+      400,
+      0.36
+     ],
+     [
+      1000,
+      0.34
+     ],
+     [
+      3000,
+      0.32
+     ]
+    ],
+    "source": "https://ediblelandscaping.com/pages/shipping-cost"
+   },
+   "note": "“From” prices are the quart-pot size; 1-, 3- and 5-gallon trees cost more."
+  },
+  {
+   "id": "stark-bros",
+   "name": "Stark Bro's Nurseries",
+   "location": "Louisiana, MO",
+   "state": "MO",
+   "url": "https://www.starkbros.com/products/fruit-trees/persimmon-trees",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 15.99,
+    "high": 17.99,
+    "source": "https://www.starkbros.com/about/order-and-shipping-policies",
+    "note": "No published rate table; product pages have shown $15.99–$17.99 shipping per order."
+   },
+   "note": "Reports 8 more persimmon items out of stock without naming them."
+  },
+  {
+   "id": "raintree",
+   "name": "Raintree Nursery",
+   "location": "Morton, WA",
+   "state": "WA",
+   "url": "https://raintreenursery.com/collections/persimmon-trees",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 20,
+    "high": 35
+   }
+  },
+  {
+   "id": "one-green-world",
+   "name": "One Green World",
+   "location": "Molalla, OR",
+   "state": "OR",
+   "url": "https://onegreenworld.com/product-category/fruiting-trees-shrubs/persimmon/",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 20,
+    "high": 25,
+    "source": "https://onegreenworld.com/shipping-information/",
+    "note": "Shipping is “approximately $20–$25 depending on the destination state”, more for tall or heavy plants (UPS, from Portland OR)."
+   },
+   "note": "Published $25 flat rate to the East Coast. Every persimmon showed “Join Waitlist” on Sep 25. Also sells an unnamed male American persimmon."
+  },
+  {
+   "id": "madison-citrus",
+   "name": "Madison Citrus Nursery",
+   "location": "Ships all US except AZ, CA, FL, HI, LA, TX",
+   "state": "",
+   "url": "https://madisoncitrusnursery.com/products/rosseyanka-persimmon-tree-for-sale",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 20,
+    "high": 35
+   },
+   "note": "One-gallon grafted trees (18–30 in). UPS Ground, ships Mondays and Tuesdays."
+  },
+  {
+   "id": "blue-hill",
+   "name": "Blue Hill Wildlife Nursery",
+   "location": "Selinsgrove, PA",
+   "state": "PA",
+   "distance": "~3 hrs drive",
+   "url": "https://bluehillwildlifenursery.com/product-category/persimmon-trees-for-sale/",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 20,
+    "high": 35
+   },
+   "note": "Grafted bare-root trees; order now and pick a spring 2027 ship date at checkout. Sales windows open in August and December. Also sells ungrafted American seedlings ($8+)."
+  },
+  {
+   "id": "future-forest",
+   "name": "Future Forest Plants",
+   "location": "Southeastern & south-central PA",
+   "state": "PA",
+   "url": "https://www.futureforestplants.com/shop/p/persimmon-varieties",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 20,
+    "high": 35
+   },
+   "note": "One $40 listing covers ~50 grafted varieties (14-inch tree pots, 1–2 ft); confirm your variety is available at checkout. Also offers Autumn 2, Beardstown #2/#4, Buhrman, Downingtown Center, Josephine, Keener, McKenzie Corner/Middle, NC-10, H-120, H-94a, J-53a, K-44, Lambert, DEC Money Maker, Rich Tooie, TY Gateway, Etter #1–9, SFES, Kitch, Uzbekistani, 14-10 UKR, Fuyu Giant, Giboshi, Kuro Kuma and Zirochka.",
+   "unreadable": {
+    "since": "2026-10-26",
+    "nights": 5,
+    "last": "2026-11-09",
+    "reason": "no per-variety prices"
+   }
+  },
+  {
+   "id": "englands-orchard",
+   "name": "England's Orchard & Nursery",
+   "location": "Kentucky",
+   "state": "KY",
+   "url": "http://www.nuttrees.net/persimmon.html",
+   "shipping": {
+    "type": "pickup",
+    "confirmed": true
+   },
+   "note": "Container-grown trees; confirmed local pickup only, no online store. General astringent American tiers: small (12-24\") $25, medium (2-3') $35, large (3-5') $45. Asian/hybrid cultivars priced separately: Nikitskaya Bordovaya (Nikita's Gift) $30, Kasandra medium $40 / large $50."
+  },
+  {
+   "id": "rock-bridge-trees",
+   "name": "Rock Bridge Trees",
+   "location": "Tennessee",
+   "state": "TN",
+   "url": "https://rockbridgetrees.com/product/jt-02-mikkusu-persimmon/",
+   "shipping": {
+    "type": "included",
+    "confirmed": true
+   },
+   "note": "Shipping included; buy 2+ trees and save $20 each. Phone 615-841-3664."
+  },
+  {
+   "id": "perfect-plants",
+   "name": "Perfect Plants",
+   "location": "Florida",
+   "state": "FL",
+   "url": "https://myperfectplants.com/products/great-wall-persimmon-tree",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 20,
+    "high": 35
+   },
+   "note": "Free shipping over $199."
+  },
+  {
+   "id": "hidden-springs",
+   "name": "Hidden Springs Nursery",
+   "location": "Cookeville, TN",
+   "state": "TN",
+   "url": "https://hiddenspringsnursery.com/shop",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 20,
+    "high": 35
+   },
+   "note": "Persimmons sold out until November 2026; Rosseyanka pre-orders open."
+  },
+  {
+   "id": "cricket-hill-garden",
+   "name": "Cricket Hill Garden",
+   "location": "Thomaston, CT",
+   "state": "CT",
+   "url": "https://www.treepeony.com/collections/persimmon",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 20,
+    "high": 35
+   },
+   "note": "Ships fruit trees; grafted persimmons mostly listed “Coming Soon” for the season, two ready now.",
+   "unreadable": {
+    "since": "2026-11-09",
+    "nights": 1,
+    "last": "2026-11-09",
+    "reason": "would not load"
+   }
+  },
+  {
+   "id": "chestnut-hill",
+   "name": "Chestnut Hill Nursery",
+   "location": "Alachua, FL",
+   "state": "FL",
+   "url": "https://chestnuthilltreefarm.com/product-category/fruit-berries/persimmon-trees/",
+   "shipping": {
+    "type": "table",
+    "confirmed": true,
+    "table": [
+     [
+      100,
+      22.5
+     ]
+    ],
+    "over_pct": 0.225,
+    "source": "https://chestnuthilltreefarm.com/faqs/ordering-shipping/"
+   },
+   "note": "American/hybrid and zone-7+ Asian types sold side by side; only zone-6-hardy types tracked here."
+  },
+  {
+   "id": "brambleberry-farm",
+   "name": "Brambleberry Farm",
+   "location": "Paoli, IN",
+   "state": "IN",
+   "url": "https://www.brambleberrypermaculture.com/category/trees/less-common-fruits-trees/persimmon/",
+   "shipping": {
+    "type": "pickup",
+    "confirmed": true,
+    "source": "https://www.brambleberrypermaculture.com/category/trees/less-common-fruits-trees/persimmon/"
+   },
+   "note": "Pickup-only nursery; “we do not ship plants.” Stock varies day to day — call ahead to confirm a variety."
+  },
+  {
+   "id": "interwoven-permaculture",
+   "name": "Interwoven Permaculture",
+   "location": "Golconda, IL",
+   "state": "IL",
+   "url": "https://interwovenpermaculture.com/grafted-persimmon",
+   "shipping": {
+    "type": "flat",
+    "confirmed": true,
+    "amount": 25,
+    "source": "https://interwovenpermaculture.com/grafted-persimmon"
+   },
+   "note": "American/hybrid types sold alongside zone-7+ Asian kaki types (Tam Kam, Gwang Yang); only zone-6-hardy types tracked here. Trees grafted spring 2024, 13.5-in pots, 1-2 ft. Online stock status not shown; confirm at checkout."
+  },
+  {
+   "id": "morse-nursery",
+   "name": "Morse Nursery",
+   "location": "West Lafayette, IN",
+   "state": "IN",
+   "url": "https://morsenursery.com/collections/persimmon",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 20,
+    "high": 35
+   },
+   "note": "Sells grafted wildlife/orchard persimmons; ships via FedEx (no published flat rate found). All persimmon listings sold out Sep 28, taking fall orders for spring 2027 shipping."
+  },
+  {
+   "id": "food-forest-nursery",
+   "name": "Food Forest Nursery",
+   "location": "Arkansas Ozarks, AR",
+   "state": "AR",
+   "url": "https://www.foodforestnursery.com/",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 20,
+    "high": 35
+   },
+   "note": "Bare-root grafted trees ship via UPS Ground; exact shipping cost shown at checkout by ZIP. Cannot ship to CA. Bulk discounts at 3+, 10+, 20+ trees.",
+   "excluded_states": [
+    "AK",
+    "DE",
+    "HI",
+    "ME",
+    "MA",
+    "MI",
+    "NJ",
+    "NC",
+    "RI",
+    "VT",
+    "WV"
+   ]
+  },
+  {
+   "id": "farm-connection",
+   "name": "The Farm Connection",
+   "location": "North Carolina",
+   "state": "NC",
+   "url": "https://tfcnursery.com/",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 20,
+    "high": 35
+   },
+   "note": "Ships potted/bare-root plants to 24 eastern & midwestern states including NJ. Persimmons sold as bare root; grafting not explicitly stated on product pages."
+  },
+  {
+   "id": "burnt-ridge",
+   "name": "Burnt Ridge Nursery & Orchards",
+   "location": "Onalaska, WA",
+   "state": "WA",
+   "url": "https://www.burntridgenursery.com/Persimmon-Trees/departments/159/",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 20,
+    "high": 35
+   },
+   "note": "Ships nationwide except CA for persimmons (some items also restricted from AZ).",
+   "unreadable": {
+    "since": "2026-11-09",
+    "nights": 1,
+    "last": "2026-11-09",
+    "reason": "no per-variety prices"
+   }
+  },
+  {
+   "id": "plant-me-green",
+   "name": "Plant Me Green",
+   "location": "Multiple US locations (OR, TN, FL)",
+   "state": "",
+   "url": "https://plantmegreen.com/collections/persimmon-trees",
+   "shipping": {
+    "type": "flat",
+    "confirmed": true,
+    "amount": 15.0,
+    "source": "https://plantmegreen.com/products/persimmon-trees-astringent-rosseyaka"
+   },
+   "note": "$15 flat rate via FedEx Home Delivery; free over $100. Cannot ship to AK, HI, PR; CA/AZ limited to approved items."
+  },
+  {
+   "id": "buy-potted-plants",
+   "name": "Buy Potted Plants",
+   "location": "Ashburn, GA",
+   "state": "GA",
+   "url": "https://www.buypottedplants.com/product-page/deer-candy-persimmon",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 20,
+    "high": 35
+   },
+   "note": "Sells wildlife-plot persimmons rated USDA zones 5-9."
+  },
+  {
+   "id": "advanced-nursery-growers",
+   "name": "Advanced Nursery Growers",
+   "location": "DeFuniak Springs, FL",
+   "state": "FL",
+   "url": "https://www.advancednurserygrowers.com/collections/persimmon-trees",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 20,
+    "high": 35
+   },
+   "note": "Ships only small (3-gallon or smaller) plants, and only after phone confirmation; otherwise local pickup in DeFuniak Springs. Phone 850-391-2228."
+  },
+  {
+   "id": "roots-to-fruits",
+   "name": "Roots to Fruits Nursery",
+   "location": "Gays Mills, WI",
+   "state": "WI",
+   "url": "https://rootstofruitsnursery.com/collections/persimmons-1",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 20,
+    "high": 35
+   },
+   "note": "Bare-root trees ship in the main spring season; container trees are local-delivery/WI-only. Phone 608-735-6000 for a shipping quote."
+  },
+  {
+   "id": "broken-arrow-nursery",
+   "name": "Broken Arrow Nursery",
+   "location": "Hamden, CT",
+   "state": "CT",
+   "url": "https://www.brokenarrownursery.com/diospyros-virginiana-meader-meader-american-persimmon.html",
+   "shipping": {
+    "type": "percent",
+    "confirmed": true,
+    "min": 30,
+    "tiers": [
+     [
+      999999,
+      0.3
+     ]
+    ],
+    "source": "https://www.brokenarrownursery.com/shipping-terms"
+   },
+   "note": "30% flat shipping fee in the Northeast ($30 min for orders under $100). Cannot ship to AK, AZ, CA, CO, FL, HI, ID, MT, NV, OR, UT, WA. Fall shipping only (Sep-Nov)."
+  },
+  {
+   "id": "trees-com",
+   "name": "Trees.com",
+   "location": "Tampa, FL (online retailer, formerly Fast Growing Trees)",
+   "state": "FL",
+   "url": "https://www.trees.com/products/American-Persimmon-Tree",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 20,
+    "high": 35
+   },
+   "note": "Large online tree retailer (rebranded from FastGrowingTrees.com)."
+  },
+  {
+   "id": "bower-and-branch",
+   "name": "Bower & Branch",
+   "location": "Ships nationwide (regional growers)",
+   "state": "",
+   "url": "https://bowerandbranch.com/products/garretson-common-persimmon-treeling",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 20,
+    "high": 35
+   },
+   "note": "Shipping calculated at checkout by ZIP; no published flat rate. Availability shown is ZIP-dependent."
+  },
+  {
+   "id": "logees",
+   "name": "Logee's Plants",
+   "location": "Danielson, CT",
+   "state": "CT",
+   "url": "https://www.logees.com/products/persimmon-tree-nikitas-gift-tg",
+   "note": "Does not ship to CA.",
+   "shipping": {
+    "type": "estimate",
+    "low": 20,
+    "high": 35
+   }
+  },
+  {
+   "id": "trees-of-antiquity",
+   "name": "Trees of Antiquity",
+   "location": "Paso Robles, CA",
+   "state": "CA",
+   "url": "https://treesofantiquity.com/products/saijo-persimmon",
+   "note": "Ships bareroot Jan-May by zone.",
+   "shipping": {
+    "type": "estimate",
+    "low": 20,
+    "high": 35
+   }
+  },
+  {
+   "id": "arbor-day-foundation",
+   "name": "Arbor Day Foundation Shop",
+   "location": "Nebraska City, NE",
+   "state": "NE",
+   "url": "https://shop.arborday.org/saijo-persimmon-2",
+   "shipping": {
+    "type": "estimate",
+    "low": 20,
+    "high": 35
+   },
+   "excluded_states": [
+    "AK",
+    "AS",
+    "AZ",
+    "CA",
+    "FM",
+    "GU",
+    "HI",
+    "MH",
+    "MP",
+    "PR",
+    "PW",
+    "TX",
+    "VI",
+    "WA"
+   ]
+  },
+  {
+   "id": "bamboo-plants-ca",
+   "name": "Bamboo Plants",
+   "location": "Ontario, Canada",
+   "state": "ON (Canada)",
+   "url": "https://bambooplants.ca/product/persimmon-tree-nikita-s-gift/",
+   "note": "Canadian seller; US/cross-border shipping to 08801 not confirmed on site.",
+   "shipping": {
+    "type": "estimate",
+    "low": 25,
+    "high": 45
+   }
+  },
+  {
+   "id": "nature-hills",
+   "name": "Nature Hills Nursery",
+   "location": "Omaha, NE",
+   "state": "NE",
+   "url": "https://naturehills.com/products/saijo-persimmon-tree",
+   "shipping": {
+    "type": "estimate",
+    "low": 20,
+    "high": 35
+   }
+  },
+  {
+   "id": "homestead-gardens",
+   "name": "Homestead Gardens",
+   "location": "Davidsonville, MD",
+   "state": "MD",
+   "url": "https://shop.homesteadgardens.com/products/persimmon--saijo--7g%7CL39%7CC281%7C281035.html",
+   "shipping": {
+    "type": "pickup"
+   },
+   "note": "Garden center with Davidsonville and Severna Park, MD locations; site shows in-store quantity only, no shipping mentioned."
+  },
+  {
+   "id": "beautiful-beginnings",
+   "name": "Beautiful Beginnings Nursery",
+   "location": "Kentucky",
+   "state": "KY",
+   "url": "https://beautifulbeginningsnursery.com/product/mohler-american-persimmon/",
+   "shipping": {
+    "type": "estimate",
+    "low": 20,
+    "high": 35
+   },
+   "note": "Mail-order grafted American persimmons; shipping policy not published on the pages read, so the shipping figure is an estimate."
+  },
+  {
+   "id": "restoring-eden",
+   "name": "Restoring Eden",
+   "location": "SeaTac, WA",
+   "state": "WA",
+   "url": "https://restoringeden.co/product-category/fruit-trees/persimmon/",
+   "shipping": {
+    "type": "flat",
+    "confirmed": true,
+    "amount": 25.5,
+    "source": "https://restoringeden.co/shipping-information/"
+   },
+   "note": "1-gallon grafted trees; shipping table lists $25.50 for the first 1-gallon plant in the Northeast, +$6.50 each extra; ships to the lower 48; ships in 1-4 business days from Washington."
+  }
+ ],
+ "varieties": [
+  {
+   "id": "nikitas-gift",
+   "fruit": "persimmon",
+   "name": "Nikita's Gift",
+   "type": "hybrid",
+   "tags": [
+    "Hybrid"
+   ],
+   "aliases": [
+    "Nikitskaya Bordovaya",
+    "Nikita #4"
+   ],
+   "summary": "Cold-hardy American × Asian hybrid; sweet, reddish-orange fruit, hardy to about −10°F.",
+   "description": "A Diospyros virginiana × kaki hybrid from the Nikita Botanical Garden in Yalta, Crimea, sold as Nikitskaya Bordovaya. Sweet, flavorful reddish-orange fruit eaten soft, on a compact self-fertile tree (10–12 ft) with orange-yellow fall color; sellers rate it hardy to about −10°F.",
+   "breeder": {
+    "name": "Nikita Botanical Garden (Yalta)",
+    "kind": "university"
+   },
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "rosseyanka",
+   "fruit": "persimmon",
+   "name": "Rosseyanka",
+   "type": "hybrid",
+   "tags": [
+    "Hybrid"
+   ],
+   "aliases": [],
+   "summary": "Russian hybrid; large, nearly seedless golden fruit, zone 5 hardy.",
+   "description": "A Russian D. virginiana × kaki hybrid from the Nikita Botanical Garden in Yalta. Large (2–3 in), nearly seedless golden-orange fruit that is sweet when soft and ripens late; England's Orchard reports trees surviving temperatures in the −20s °F.",
+   "breeder": {
+    "name": "Nikita Botanical Garden (Yalta)",
+    "kind": "university"
+   },
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "jt-02",
+   "fruit": "persimmon",
+   "name": "JT-02 (Mikkusu)",
+   "type": "hybrid",
+   "tags": [
+    "Hybrid"
+   ],
+   "aliases": [
+    "Mikkusu",
+    "Mikkusa",
+    "JT-02 Mikkusu"
+   ],
+   "summary": "Josephine × Taishu hybrid; orange fruit that hangs into late November.",
+   "description": "A hybrid from a cross of the American ‘Josephine’ and the Asian ‘Taishu’. Rich orange fruit ripening late October into November that can hang on the tree until Thanksgiving, on a compact tree.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "kasandra",
+   "fruit": "persimmon",
+   "name": "Kasandra",
+   "type": "hybrid",
+   "tags": [
+    "Hybrid"
+   ],
+   "aliases": [],
+   "summary": "Great Wall × hybrid backcross by David Lavergne; brix 21, hardy to −11°F.",
+   "description": "Hybridized by David Lavergne from ‘Great Wall’ crossed with an F2 male of a Rosseyanka hybrid backcrossed to American persimmon. 2.5–3 in fruit measuring 21 brix, mid-season; England's Orchard reports it cold-hardy to −11°F with no freeze damage (zones 5b–6).",
+   "breeder": {
+    "name": "David Lavergne",
+    "kind": "breeder"
+   },
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "sosnovskaya",
+   "fruit": "persimmon",
+   "name": "Sosnovskaya",
+   "type": "hybrid",
+   "tags": [
+    "Hybrid"
+   ],
+   "aliases": [],
+   "summary": "Eastern European American × Asian hybrid.",
+   "description": "An American × Asian hybrid of Eastern European origin offered by Future Forest Plants. Limited independent detail gathered so far.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "chuchupaka",
+   "fruit": "persimmon",
+   "name": "Chuchupaka",
+   "type": "hybrid",
+   "tags": [
+    "Hybrid"
+   ],
+   "aliases": [],
+   "summary": "Eastern European American × Asian hybrid.",
+   "description": "An American × Asian hybrid of Eastern European origin offered by Future Forest Plants. Limited independent detail gathered so far.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "journey",
+   "fruit": "persimmon",
+   "name": "Journey",
+   "type": "hybrid",
+   "tags": [
+    "Hybrid"
+   ],
+   "aliases": [],
+   "summary": "American × Asian hybrid offered by Future Forest Plants.",
+   "description": "An American × Asian hybrid persimmon offered by Future Forest Plants. Limited independent detail gathered so far.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "zhima-khurma",
+   "fruit": "persimmon",
+   "name": "Zhima Khurma (NB-02)",
+   "type": "hybrid",
+   "tags": [
+    "Hybrid"
+   ],
+   "aliases": [
+    "NB-02"
+   ],
+   "summary": "Hybrid selection NB-02; limited public detail.",
+   "description": "A hybrid persimmon sold as NB-02 ‘Zhima Khurma’ by Future Forest Plants. Limited independent detail gathered so far.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "saijo",
+   "fruit": "persimmon",
+   "name": "Saijo",
+   "type": "asian",
+   "tags": [
+    "Asian",
+    "Zone 6"
+   ],
+   "aliases": [],
+   "summary": "Small, very sweet Asian persimmon rated to zone 6.",
+   "description": "A Japanese Diospyros kaki rated hardy to zone 6 by Edible Landscaping. Small, yellow-orange, conical fruit with an elegant sweet flavor when soft, few seeds and reliable annual crops; resists cracking.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "great-wall",
+   "fruit": "persimmon",
+   "name": "Great Wall",
+   "type": "asian",
+   "tags": [
+    "Asian",
+    "Zone 6"
+   ],
+   "aliases": [],
+   "summary": "Chinese Asian persimmon that has survived −5°F winters in zone 6b.",
+   "description": "A Chinese Diospyros kaki introduced to the U.S. by J. Russell Smith, rated zones 6–9 by several sellers. Medium, squarish, slightly flattened fruit eaten soft, red fall foliage, and a self-fertile, disease-resistant tree; a zone 6b grower reports it unharmed after −5°F winters.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "prok",
+   "fruit": "persimmon",
+   "name": "Prok",
+   "type": "american",
+   "tags": [
+    "American"
+   ],
+   "aliases": [],
+   "summary": "Very large, few-seeded American persimmon; ripens early.",
+   "description": "An American persimmon with very large, few-seeded fruit ripening from August into October. England's Orchard credits it to the Cornell University breeding program, grown out by John Gordon of Amherst, NY.",
+   "breeder": {
+    "name": "Cornell program (John Gordon)",
+    "kind": "university"
+   },
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "yates",
+   "fruit": "persimmon",
+   "name": "Yates",
+   "type": "american",
+   "tags": [
+    "American"
+   ],
+   "aliases": [
+    "Juhl",
+    "Yates/Juhl",
+    "Yates-Juhl"
+   ],
+   "summary": "Large, early American persimmon; also sold as Juhl.",
+   "description": "A large-fruited, early-ripening American persimmon, also sold as ‘Juhl’ or ‘Yates/Juhl’, and a parent of ‘Wonderful’.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "meader",
+   "fruit": "persimmon",
+   "name": "Meader",
+   "type": "american",
+   "tags": [
+    "American"
+   ],
+   "aliases": [],
+   "summary": "American persimmon sold for northern gardens.",
+   "description": "An American persimmon widely sold for northern gardens. Limited independent detail gathered so far.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "early-golden",
+   "fruit": "persimmon",
+   "name": "Early Golden",
+   "type": "american",
+   "tags": [
+    "American"
+   ],
+   "aliases": [
+    "McKenzie Corner"
+   ],
+   "summary": "Classic early-ripening American persimmon.",
+   "description": "A long-established named American persimmon grown for early-ripening golden fruit.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "john-rick",
+   "fruit": "persimmon",
+   "name": "John Rick",
+   "type": "american",
+   "tags": [
+    "American"
+   ],
+   "aliases": [],
+   "summary": "Large-fruited American persimmon.",
+   "description": "A named American persimmon valued for large fruit. Limited independent detail gathered so far.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "garretson",
+   "fruit": "persimmon",
+   "name": "Garretson",
+   "type": "american",
+   "tags": [
+    "American"
+   ],
+   "aliases": [],
+   "summary": "Named American persimmon sold by One Green World.",
+   "description": "A named American persimmon sold by One Green World. Limited independent detail gathered so far.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "mohler",
+   "fruit": "persimmon",
+   "name": "Mohler",
+   "type": "american",
+   "tags": [
+    "American"
+   ],
+   "aliases": [],
+   "summary": "Named American persimmon sold by One Green World.",
+   "description": "A named American persimmon sold by One Green World. Limited independent detail gathered so far.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "szukis",
+   "fruit": "persimmon",
+   "name": "Szukis",
+   "type": "american",
+   "tags": [
+    "American"
+   ],
+   "aliases": [],
+   "summary": "Self-fruitful American persimmon with ~2-inch fruit that also pollinates other American types.",
+   "description": "A named American persimmon sold by One Green World and Blue Hill Wildlife Nursery. Blue Hill describes it as a grafted, self-fruitful female that bears about 2-inch fruit each year and produces as many male as female flowers, so it can pollinate other American persimmons.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "prairie-dawn",
+   "fruit": "persimmon",
+   "name": "Prairie Dawn",
+   "type": "american",
+   "tags": [
+    "American"
+   ],
+   "aliases": [],
+   "summary": "Trademarked American persimmon selection.",
+   "description": "A trademarked American persimmon (Prairie Dawn®) sold by One Green World and Raintree. Limited independent detail gathered so far.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "prairie-star",
+   "fruit": "persimmon",
+   "name": "Prairie Star",
+   "type": "american",
+   "tags": [
+    "American"
+   ],
+   "aliases": [],
+   "summary": "Trademarked American persimmon selection.",
+   "description": "A trademarked American persimmon (Prairie Star®) sold by One Green World and Raintree. Limited independent detail gathered so far.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "prairie-gem",
+   "fruit": "persimmon",
+   "name": "Prairie Gem",
+   "type": "american",
+   "tags": [
+    "American"
+   ],
+   "aliases": [],
+   "summary": "Trademarked American persimmon selection.",
+   "description": "A trademarked American persimmon (Prairie Gem™) sold by One Green World. Limited independent detail gathered so far.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "prairie-sun",
+   "fruit": "persimmon",
+   "name": "Prairie Sun",
+   "type": "american",
+   "tags": [
+    "American"
+   ],
+   "aliases": [],
+   "summary": "Trademarked American persimmon selection.",
+   "description": "A trademarked American persimmon (Prairie Sun™) sold by One Green World. Limited independent detail gathered so far.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "ruby",
+   "fruit": "persimmon",
+   "name": "Ruby",
+   "type": "american",
+   "tags": [
+    "American"
+   ],
+   "aliases": [],
+   "summary": "Named American persimmon.",
+   "description": "A named American persimmon sold by Edible Landscaping and Future Forest Plants. Limited independent detail gathered so far.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "weber",
+   "fruit": "persimmon",
+   "name": "Weber",
+   "type": "american",
+   "tags": [
+    "American"
+   ],
+   "aliases": [],
+   "summary": "Named American persimmon.",
+   "description": "A named American persimmon sold by Edible Landscaping. Limited independent detail gathered so far.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "100-46",
+   "fruit": "persimmon",
+   "name": "100-46",
+   "type": "american",
+   "tags": [
+    "American"
+   ],
+   "aliases": [],
+   "summary": "Jerry Lehman selection; very large, smooth fruit, heavy crops.",
+   "description": "A numbered selection from Jerry Lehman's breeding work in Terre Haute, Indiana. Very large fruit with smooth flesh on a heavy-producing tree.",
+   "breeder": {
+    "name": "Jerry Lehman",
+    "kind": "breeder"
+   },
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "wonderful",
+   "fruit": "persimmon",
+   "name": "Wonderful",
+   "type": "american",
+   "tags": [
+    "American"
+   ],
+   "aliases": [],
+   "summary": "Yates/Juhl × F-100 cross; the largest fruit England's Orchard offers.",
+   "description": "A cross of ‘Yates/Juhl’ with the F-100 male. Described by England's Orchard as its largest-fruited persimmon, ripening September–October on a medium tree.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "deer-magnet",
+   "fruit": "persimmon",
+   "name": "Deer Magnet",
+   "type": "american",
+   "tags": [
+    "American"
+   ],
+   "aliases": [],
+   "summary": "Late-ripening wildlife persimmon.",
+   "description": "A late-ripening American persimmon selected for wildlife plantings; fruit drops November–January.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "full-draw",
+   "fruit": "persimmon",
+   "name": "Full Draw",
+   "type": "american",
+   "tags": [
+    "American"
+   ],
+   "aliases": [],
+   "summary": "Self-fruitful wildlife persimmon with a long drop season.",
+   "description": "A self-fruitful American persimmon (Full Draw™) sold for wildlife plots, with fruit dropping October–January.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "deer-luscious",
+   "fruit": "persimmon",
+   "name": "Deer Luscious",
+   "type": "american",
+   "tags": [
+    "American"
+   ],
+   "aliases": [],
+   "summary": "Wildlife persimmon with a September–December drop.",
+   "description": "An American persimmon (Deer Luscious™) sold for wildlife plots, with fruit dropping September–December.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "deer-candy",
+   "fruit": "persimmon",
+   "name": "Deer Candy",
+   "type": "american",
+   "tags": [
+    "American"
+   ],
+   "aliases": [],
+   "summary": "Wildlife persimmon with an October–November drop.",
+   "description": "An American persimmon sold by Blue Hill Wildlife Nursery for wildlife plots, dropping fruit October–November.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "elmo",
+   "fruit": "persimmon",
+   "name": "Elmo",
+   "type": "american",
+   "tags": [
+    "American"
+   ],
+   "aliases": [],
+   "summary": "Wildlife persimmon with an October–December drop.",
+   "description": "An American persimmon sold by Blue Hill Wildlife Nursery, dropping fruit October–December.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "millers",
+   "fruit": "persimmon",
+   "name": "Millers",
+   "type": "american",
+   "tags": [
+    "American"
+   ],
+   "aliases": [],
+   "summary": "Wildlife persimmon with an October–November drop.",
+   "description": "An American persimmon sold by Blue Hill Wildlife Nursery, dropping fruit October–November.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "morris-burton",
+   "fruit": "persimmon",
+   "name": "Morris Burton",
+   "type": "american",
+   "tags": [
+    "American"
+   ],
+   "aliases": [],
+   "summary": "Very late American persimmon; fruit drops into February.",
+   "description": "An American persimmon whose fruit drops December–February, one of the latest on the tracker.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "claypool",
+   "fruit": "persimmon",
+   "name": "Claypool",
+   "type": "american",
+   "tags": [
+    "American"
+   ],
+   "aliases": [],
+   "summary": "Named American persimmon.",
+   "description": "A named American persimmon offered by Future Forest Plants. Limited independent detail gathered so far.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "barbaras-blush",
+   "fruit": "persimmon",
+   "name": "Barbara's Blush",
+   "type": "american",
+   "tags": [
+    "American"
+   ],
+   "aliases": [],
+   "summary": "Named American persimmon.",
+   "description": "A named American persimmon offered by Future Forest Plants. Limited independent detail gathered so far.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "h-63a",
+   "fruit": "persimmon",
+   "name": "H-63a",
+   "type": "american",
+   "tags": [
+    "American"
+   ],
+   "aliases": [],
+   "summary": "Numbered American persimmon selection.",
+   "description": "A numbered American persimmon selection offered by Future Forest Plants. Limited independent detail gathered so far.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "lena",
+   "fruit": "persimmon",
+   "name": "Lena",
+   "type": "american",
+   "tags": [
+    "American"
+   ],
+   "aliases": [],
+   "summary": "Named American persimmon.",
+   "description": "A named American persimmon offered by Future Forest Plants. Limited independent detail gathered so far.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "dollywood",
+   "fruit": "persimmon",
+   "name": "Dollywood",
+   "type": "american",
+   "tags": [
+    "American"
+   ],
+   "aliases": [],
+   "summary": "Named American persimmon.",
+   "description": "A named American persimmon offered by Future Forest Plants. Limited independent detail gathered so far.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "early-jewel",
+   "fruit": "persimmon",
+   "name": "Early Jewel",
+   "type": "american",
+   "tags": [
+    "American"
+   ],
+   "aliases": [
+    "H118"
+   ],
+   "summary": "Early American persimmon.",
+   "description": "An early-ripening American persimmon offered by Future Forest Plants. Limited independent detail gathered so far.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "catawba-treasure",
+   "fruit": "persimmon",
+   "name": "Catawba Treasure",
+   "type": "american",
+   "tags": [
+    "American"
+   ],
+   "aliases": [],
+   "summary": "Named American persimmon.",
+   "description": "A named American persimmon offered by Future Forest Plants. Limited independent detail gathered so far.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "dec-goliath",
+   "fruit": "persimmon",
+   "name": "DEC Goliath",
+   "type": "american",
+   "tags": [
+    "American"
+   ],
+   "aliases": [],
+   "summary": "Named American persimmon sold by Brambleberry Farm.",
+   "description": "A named American persimmon offered by Brambleberry Farm. Limited independent detail gathered so far.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-26",
+   "notes": []
+  },
+  {
+   "id": "geneva-long",
+   "fruit": "persimmon",
+   "name": "Geneva Long",
+   "type": "american",
+   "tags": [
+    "American"
+   ],
+   "aliases": [],
+   "summary": "Named American persimmon sold by Brambleberry Farm.",
+   "description": "A named American persimmon offered by Brambleberry Farm. Limited independent detail gathered so far.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-26",
+   "notes": []
+  },
+  {
+   "id": "autumn-2",
+   "fruit": "persimmon",
+   "name": "Autumn II",
+   "type": "american",
+   "tags": [
+    "American"
+   ],
+   "aliases": [
+    "Autumn 2"
+   ],
+   "summary": "Named American persimmon sold by Brambleberry Farm.",
+   "description": "A named American persimmon offered by Brambleberry Farm. Limited independent detail gathered so far.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-26",
+   "notes": []
+  },
+  {
+   "id": "mount-roman-kosh",
+   "fruit": "persimmon",
+   "name": "Mount Roman Kosh",
+   "type": "hybrid",
+   "tags": [
+    "Hybrid"
+   ],
+   "aliases": [],
+   "summary": "American × Asian hybrid persimmon sold by Brambleberry Farm.",
+   "description": "An American × Asian hybrid persimmon (D. virginiana × kaki) offered by Brambleberry Farm. Limited independent detail gathered so far.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-26",
+   "notes": []
+  },
+  {
+   "id": "valeene-beauty",
+   "fruit": "persimmon",
+   "name": "Valeene Beauty",
+   "type": "american",
+   "tags": [
+    "American"
+   ],
+   "aliases": [],
+   "summary": "Named American persimmon sold by Cricket Hill Garden.",
+   "description": "A named American persimmon offered by Cricket Hill Garden. Limited independent detail gathered so far.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-26",
+   "notes": []
+  },
+  {
+   "id": "mp-3",
+   "fruit": "persimmon",
+   "name": "MP-3",
+   "type": "hybrid",
+   "tags": [
+    "Hybrid"
+   ],
+   "aliases": [],
+   "summary": "Numbered hybrid persimmon selection sold by Interwoven Permaculture.",
+   "description": "A numbered hybrid persimmon (D. virginiana x kaki) selection offered by Interwoven Permaculture. Limited independent detail gathered so far.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-27",
+   "notes": []
+  },
+  {
+   "id": "morse-persimmon",
+   "fruit": "persimmon",
+   "name": "Morse",
+   "type": "american",
+   "tags": [
+    "American"
+   ],
+   "aliases": [],
+   "summary": "Late-dropping American persimmon selected by Morse Nursery.",
+   "description": "A grafted American persimmon selection propagated by Morse Nursery (West Lafayette, IN) from its own mother trees. Heavy-cropping female cultivar with fruit dropping October–December, grown mainly for wildlife food plots.",
+   "breeder": {
+    "name": "Morse Nursery",
+    "kind": "breeder"
+   },
+   "awards": [],
+   "first_seen": "2026-09-28",
+   "notes": []
+  },
+  {
+   "id": "september-persimmon",
+   "fruit": "persimmon",
+   "name": "September (A33)",
+   "type": "american",
+   "tags": [
+    "American"
+   ],
+   "aliases": [
+    "A33"
+   ],
+   "summary": "Early-dropping American persimmon selection (cultivar A33) from Morse Nursery.",
+   "description": "A grafted American persimmon selection (cultivar designation A33) propagated by Morse Nursery. Female cultivar bred for heavy, consistent fruit drop throughout September.",
+   "breeder": {
+    "name": "Morse Nursery",
+    "kind": "breeder"
+   },
+   "awards": [],
+   "first_seen": "2026-09-28",
+   "notes": []
+  },
+  {
+   "id": "august-persimmon",
+   "fruit": "persimmon",
+   "name": "August",
+   "type": "american",
+   "tags": [
+    "American"
+   ],
+   "aliases": [],
+   "summary": "Early-dropping American persimmon selection from Morse Nursery.",
+   "description": "A grafted American persimmon selection propagated by Morse Nursery, bred for an early fruit drop concentrated in August.",
+   "breeder": {
+    "name": "Morse Nursery",
+    "kind": "breeder"
+   },
+   "awards": [],
+   "first_seen": "2026-09-28",
+   "notes": []
+  },
+  {
+   "id": "100-45",
+   "fruit": "persimmon",
+   "name": "100-45",
+   "type": "american",
+   "tags": [
+    "American"
+   ],
+   "aliases": [],
+   "summary": "Numbered American persimmon selection sold by England's Orchard & Nursery.",
+   "description": "A numbered American persimmon selection offered by England's Orchard & Nursery. Limited independent detail gathered so far.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-03",
+   "notes": []
+  },
+  {
+   "id": "steiermark",
+   "fruit": "persimmon",
+   "name": "Steiermark",
+   "type": "asian",
+   "tags": [
+    "Asian",
+    "Zone 6"
+   ],
+   "aliases": [],
+   "summary": "Austrian-named Asian persimmon; seller rates it hardy to warmer zone 6 with winter protection.",
+   "description": "A Diospyros kaki persimmon named for Steiermark (Styria), an Austrian province in the southern Alps where the original tree was found; received by Cricket Hill Garden from Cliff England of Sand Gap, Kentucky. Astringent fruit; the seller rates it hardy to warmer areas of zone 6 with winter protection, no protection needed in zones 7-9.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-03",
+   "notes": []
+  },
+  {
+   "id": "downingtown-center",
+   "name": "Downingtown Center",
+   "aliases": [
+    "Downingtown Middle"
+   ],
+   "type": "american",
+   "tags": [
+    "American"
+   ],
+   "summary": "Late-summer American persimmon from John Hershey's Pennsylvania nursery.",
+   "description": "A named American persimmon from John Hershey's farm in Downingtown, Pennsylvania, described by Future Forest Plants as one of the best there. Fruit ripens from late August into October. Possibly an old cultivar, Golden Gem, under a lost name.",
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "fruit": "persimmon",
+   "first_seen": "2026-10-15"
+  },
+  {
+   "id": "josephine",
+   "name": "Josephine",
+   "aliases": [],
+   "type": "american",
+   "tags": [
+    "American"
+   ],
+   "summary": "Older Missouri American persimmon that drops its fruit all at once.",
+   "description": "An older American persimmon from Bluffton, Missouri. Future Forest Plants notes it drops nearly all its fruit within about two weeks in September.",
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "fruit": "persimmon",
+   "first_seen": "2026-10-15"
+  },
+  {
+   "id": "korp",
+   "name": "Korp",
+   "aliases": [],
+   "type": "american",
+   "tags": [
+    "American"
+   ],
+   "summary": "Named American persimmon sold by Future Forest Plants.",
+   "description": "A named American persimmon offered by Future Forest Plants, which gives no further description. Limited independent detail gathered so far.",
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "fruit": "persimmon",
+   "first_seen": "2026-10-15"
+  },
+  {
+   "id": "mckenzie-middle",
+   "name": "McKenzie Middle",
+   "aliases": [],
+   "type": "american",
+   "tags": [
+    "American"
+   ],
+   "summary": "Large, late American persimmon from John Hershey's farm.",
+   "description": "A large-fruited American persimmon from John Hershey's farm, listed by Future Forest Plants as a seedling of Early Golden. Fruit ripens October to November.",
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "fruit": "persimmon",
+   "first_seen": "2026-10-15"
+  },
+  {
+   "id": "nc-10",
+   "name": "NC-10",
+   "aliases": [],
+   "type": "american",
+   "tags": [
+    "American"
+   ],
+   "summary": "Large, egg-shaped American persimmon selected in Ontario.",
+   "description": "An American persimmon selection from R. Douglas Campbell of Ontario. Future Forest Plants describes the fruit as large, egg-shaped and dense with excellent flavor. The original tree's location is unknown.",
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "fruit": "persimmon",
+   "first_seen": "2026-10-15"
+  },
+  {
+   "id": "rich-tooie",
+   "name": "Rich Tooie",
+   "aliases": [],
+   "type": "american",
+   "tags": [
+    "American"
+   ],
+   "summary": "Tennessee American persimmon noted for flavor.",
+   "description": "A 60-chromosome American persimmon from Tennessee, introduced by TN Hunter through the Growing Fruit forum. Future Forest Plants notes its outstanding flavor.",
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "fruit": "persimmon",
+   "first_seen": "2026-10-15"
+  },
+  {
+   "id": "ty-gateway",
+   "name": "TY Gateway",
+   "aliases": [],
+   "type": "american",
+   "tags": [
+    "American"
+   ],
+   "summary": "Wild Mississippi selection introduced by The Garden Farmacy.",
+   "description": "A wild American persimmon from Ridgeland, Mississippi, introduced by Taylor Yowell of The Garden Farmacy nursery. Limited further detail gathered so far.",
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "fruit": "persimmon",
+   "first_seen": "2026-10-15"
+  },
+  {
+   "id": "celebrity",
+   "name": "Celebrity (U20A)",
+   "aliases": [
+    "U20A"
+   ],
+   "type": "american",
+   "tags": [
+    "American"
+   ],
+   "summary": "American persimmon sold by Beautiful Beginnings Nursery.",
+   "description": "A named American persimmon (U20A) offered by Beautiful Beginnings Nursery for USDA zones 5-9. The seller has not yet posted a full description.",
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "fruit": "persimmon",
+   "first_seen": "2026-10-15"
+  },
+  {
+   "id": "tin-cup",
+   "name": "Tin Cup",
+   "aliases": [],
+   "type": "american",
+   "tags": [
+    "American"
+   ],
+   "summary": "Self-fruitful American persimmon from a ~30-year-old tree in northwestern New York.",
+   "description": "A grafted, self-fruitful female American persimmon whose parent tree grows in northwestern New York. Blue Hill describes very sweet fruit that drops from early October into mid-November and ripens on the tree, on a very vigorous tree rated zones 5-9. The seller lists resistance to apple scab, cedar apple rust, fire blight and powdery mildew.",
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "fruit": "persimmon",
+   "first_seen": "2026-10-25"
+  }
+ ],
+ "listings": [
+  {
+   "id": "edible-landscaping--nikitas-gift",
+   "variety": "nikitas-gift",
+   "nursery": "edible-landscaping",
+   "status": "in_stock",
+   "price": 23.0,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://ediblelandscaping.com/collections/persimmon",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 23.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "edible-landscaping--rosseyanka",
+   "variety": "rosseyanka",
+   "nursery": "edible-landscaping",
+   "status": "in_stock",
+   "price": 23.0,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://ediblelandscaping.com/collections/persimmon",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 23.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "edible-landscaping--meader",
+   "variety": "meader",
+   "nursery": "edible-landscaping",
+   "status": "in_stock",
+   "price": 23.0,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://ediblelandscaping.com/collections/persimmon",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Low stock."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 23.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "edible-landscaping--yates",
+   "variety": "yates",
+   "nursery": "edible-landscaping",
+   "status": "in_stock",
+   "price": 23.0,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://ediblelandscaping.com/collections/persimmon",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 23.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "edible-landscaping--weber",
+   "variety": "weber",
+   "nursery": "edible-landscaping",
+   "status": "in_stock",
+   "price": 23.0,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://ediblelandscaping.com/collections/persimmon",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 23.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "edible-landscaping--ruby",
+   "variety": "ruby",
+   "nursery": "edible-landscaping",
+   "status": "in_stock",
+   "price": 23.0,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://ediblelandscaping.com/collections/persimmon",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 23.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "edible-landscaping--saijo",
+   "variety": "saijo",
+   "nursery": "edible-landscaping",
+   "status": "in_stock",
+   "price": 23.0,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://ediblelandscaping.com/collections/persimmon",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 23.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "edible-landscaping--prok",
+   "variety": "prok",
+   "nursery": "edible-landscaping",
+   "status": "sold_out",
+   "price": 23.0,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://ediblelandscaping.com/collections/persimmon",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Low stock."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 23.0,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-11-09",
+     "price": 23.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "edible-landscaping--great-wall",
+   "variety": "great-wall",
+   "nursery": "edible-landscaping",
+   "status": "sold_out",
+   "price": 23.0,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://ediblelandscaping.com/products/great-wall-persimmon",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 23.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "stark-bros--prok",
+   "variety": "prok",
+   "nursery": "stark-bros",
+   "status": "in_stock",
+   "price": 73.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.starkbros.com/products/fruit-trees/persimmon-trees",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 73.99,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "stark-bros--yates",
+   "variety": "yates",
+   "nursery": "stark-bros",
+   "status": "unconfirmed",
+   "price": 78.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.starkbros.com/products/fruit-trees/persimmon-trees",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Not shown on Stark persimmon category page (listed as out of stock group); product page fetch failed"
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 78.99,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-15",
+     "price": 78.99,
+     "status": "unconfirmed"
+    }
+   ]
+  },
+  {
+   "id": "stark-bros--saijo",
+   "variety": "saijo",
+   "nursery": "stark-bros",
+   "status": "sold_out",
+   "price": 199.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.starkbros.com/products/fruit-trees/persimmon-trees",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Sold out; email notification offered."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 199.99,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-09-27",
+     "price": null,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-05",
+     "price": 199.99,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "stark-bros--rosseyanka",
+   "variety": "rosseyanka",
+   "nursery": "stark-bros",
+   "status": "sold_out",
+   "price": null,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://www.starkbros.com/products/fruit-trees/persimmon-trees/rosseyanka-persimmon",
+   "first_seen": "2026-09-15",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Stark page says no longer offered"
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": null,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "raintree--saijo",
+   "variety": "saijo",
+   "nursery": "raintree",
+   "status": "sold_out",
+   "price": 69.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/collections/persimmon-trees",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 69.99,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-22",
+     "price": 69.99,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "raintree--meader",
+   "variety": "meader",
+   "nursery": "raintree",
+   "status": "sold_out",
+   "price": 29.99,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/collections/persimmon-trees",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 29.99,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "raintree--nikitas-gift",
+   "variety": "nikitas-gift",
+   "nursery": "raintree",
+   "status": "sold_out",
+   "price": 29.99,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/collections/persimmon-trees",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 29.99,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "raintree--prairie-dawn",
+   "variety": "prairie-dawn",
+   "nursery": "raintree",
+   "status": "sold_out",
+   "price": 39.99,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/collections/persimmon-trees",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 39.99,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "raintree--prairie-star",
+   "variety": "prairie-star",
+   "nursery": "raintree",
+   "status": "sold_out",
+   "price": 54.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/collections/persimmon-trees",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 54.99,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--garretson",
+   "variety": "garretson",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 29.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product-category/fruiting-trees-shrubs/persimmon/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Restocked; back in stock as of Oct 8."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 29.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-08",
+     "price": 29.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--mohler",
+   "variety": "mohler",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 44.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product-category/fruiting-trees-shrubs/persimmon/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Restocked; marked 'In stock' as of Oct 8."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 44.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-08",
+     "price": 44.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--prairie-dawn",
+   "variety": "prairie-dawn",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 34.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product-category/fruiting-trees-shrubs/persimmon/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Restocked; back in stock as of Oct 8."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 34.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-08",
+     "price": 34.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--early-golden",
+   "variety": "early-golden",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 34.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product-category/fruiting-trees-shrubs/persimmon/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Restocked; back in stock as of Oct 8."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 34.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-08",
+     "price": 34.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--meader",
+   "variety": "meader",
+   "nursery": "one-green-world",
+   "status": "sold_out",
+   "price": 34.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product-category/fruiting-trees-shrubs/persimmon/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Waitlist open."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 34.95,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--prairie-gem",
+   "variety": "prairie-gem",
+   "nursery": "one-green-world",
+   "status": "sold_out",
+   "price": 34.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product-category/fruiting-trees-shrubs/persimmon/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Waitlist open."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 34.95,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--prairie-star",
+   "variety": "prairie-star",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 34.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product-category/fruiting-trees-shrubs/persimmon/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Restocked; marked 'In stock' as of Oct 8."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 34.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-08",
+     "price": 34.95,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-22",
+     "price": 34.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-26",
+     "price": 34.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--prairie-sun",
+   "variety": "prairie-sun",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 34.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product-category/fruiting-trees-shrubs/persimmon/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Restocked; marked 'In stock' as of Oct 8."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 34.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-08",
+     "price": 34.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--szukis",
+   "variety": "szukis",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 44.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product-category/fruiting-trees-shrubs/persimmon/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Restocked; back in stock as of Oct 8."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 44.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-08",
+     "price": 44.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--jt-02",
+   "variety": "jt-02",
+   "nursery": "one-green-world",
+   "status": "sold_out",
+   "price": 49.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product-category/fruiting-trees-shrubs/persimmon/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Restocked as of Oct 9, 2026; in stock at $49.95."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 49.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-09",
+     "price": 49.95,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-12",
+     "price": 49.95,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--saijo",
+   "variety": "saijo",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 44.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "/product/saijo-asian-persimmon/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Restocked as of Oct 9, 2026, at a higher price ($44.95, was $34.95). Seller rates it hardy to zone 7, but other sellers list it zone 6."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 34.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-09",
+     "price": 44.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--john-rick",
+   "variety": "john-rick",
+   "nursery": "one-green-world",
+   "status": "sold_out",
+   "price": 39.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product-category/fruiting-trees-shrubs/persimmon/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 39.95,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--nikitas-gift",
+   "variety": "nikitas-gift",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 34.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/nikitas-gift-hybrid-persimmon/",
+   "first_seen": "2026-09-15",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 34.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-04",
+     "price": 34.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "madison-citrus--rosseyanka",
+   "variety": "rosseyanka",
+   "nursery": "madison-citrus",
+   "status": "in_stock",
+   "price": 49.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://madisoncitrusnursery.com/products/rosseyanka-persimmon-tree-for-sale",
+   "first_seen": "2026-09-15",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "16 in stock Sep 25 (was $34.99 on Sep 15)."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 49.99,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "madison-citrus--nikitas-gift",
+   "variety": "nikitas-gift",
+   "nursery": "madison-citrus",
+   "status": "sold_out",
+   "price": 34.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://madisoncitrusnursery.com/products/nikitas-gift-persimmon-tree-for-sale",
+   "first_seen": "2026-09-15",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "“More are growing”: notify list."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 34.99,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "blue-hill--deer-candy",
+   "variety": "deer-candy",
+   "nursery": "blue-hill",
+   "status": "in_stock",
+   "price": 39.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://bluehillwildlifenursery.com/product-category/persimmon-trees-for-sale/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 39.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Ships spring 2027 (pick the date)"
+  },
+  {
+   "id": "blue-hill--deer-luscious",
+   "variety": "deer-luscious",
+   "nursery": "blue-hill",
+   "status": "in_stock",
+   "price": 39.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://bluehillwildlifenursery.com/product-category/persimmon-trees-for-sale/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 39.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Ships spring 2027 (pick the date)"
+  },
+  {
+   "id": "blue-hill--deer-magnet",
+   "variety": "deer-magnet",
+   "nursery": "blue-hill",
+   "status": "in_stock",
+   "price": 39.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://bluehillwildlifenursery.com/product-category/persimmon-trees-for-sale/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 39.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Ships spring 2027 (pick the date)"
+  },
+  {
+   "id": "blue-hill--elmo",
+   "variety": "elmo",
+   "nursery": "blue-hill",
+   "status": "in_stock",
+   "price": 39.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://bluehillwildlifenursery.com/product-category/persimmon-trees-for-sale/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 39.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Ships spring 2027 (pick the date)"
+  },
+  {
+   "id": "blue-hill--full-draw",
+   "variety": "full-draw",
+   "nursery": "blue-hill",
+   "status": "in_stock",
+   "price": 39.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://bluehillwildlifenursery.com/product-category/persimmon-trees-for-sale/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 39.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Ships spring 2027 (pick the date)"
+  },
+  {
+   "id": "blue-hill--meader",
+   "variety": "meader",
+   "nursery": "blue-hill",
+   "status": "in_stock",
+   "price": 39.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://bluehillwildlifenursery.com/product-category/persimmon-trees-for-sale/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 39.95,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-22",
+     "price": 39.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-11-05",
+     "price": 39.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Ships spring 2027 (pick the date)"
+  },
+  {
+   "id": "blue-hill--millers",
+   "variety": "millers",
+   "nursery": "blue-hill",
+   "status": "in_stock",
+   "price": 39.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://bluehillwildlifenursery.com/product-category/persimmon-trees-for-sale/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 39.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Ships spring 2027 (pick the date)"
+  },
+  {
+   "id": "blue-hill--morris-burton",
+   "variety": "morris-burton",
+   "nursery": "blue-hill",
+   "status": "in_stock",
+   "price": 39.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://bluehillwildlifenursery.com/product-category/persimmon-trees-for-sale/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 39.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Ships spring 2027 (pick the date)"
+  },
+  {
+   "id": "blue-hill--prok",
+   "variety": "prok",
+   "nursery": "blue-hill",
+   "status": "sold_out",
+   "price": 39.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://bluehillwildlifenursery.com/product-category/persimmon-trees-for-sale/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 39.95,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-22",
+     "price": 39.95,
+     "status": "sold_out"
+    }
+   ],
+   "ships": "Ships spring 2027 (pick the date)"
+  },
+  {
+   "id": "future-forest--kasandra",
+   "variety": "kasandra",
+   "nursery": "future-forest",
+   "status": "sold_out",
+   "price": 40.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.futureforestplants.com/shop/p/persimmon-varieties",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-10-22",
+   "notes": [
+    "No longer offered in the product's variety selector as of Oct 6, 2026; may be seasonal rotation rather than discontinued."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 40.0,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-06",
+     "price": 40.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "future-forest--jt-02",
+   "variety": "jt-02",
+   "nursery": "future-forest",
+   "status": "sold_out",
+   "price": 40.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.futureforestplants.com/shop/p/persimmon-varieties",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-10-22",
+   "notes": [
+    "No longer offered in the product's variety selector as of Oct 6, 2026; may be seasonal rotation rather than discontinued."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 40.0,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-06",
+     "price": 40.0,
+     "status": "sold_out"
+    }
+   ],
+   "sold_as": "JT-02 Mikkusa"
+  },
+  {
+   "id": "future-forest--rosseyanka",
+   "variety": "rosseyanka",
+   "nursery": "future-forest",
+   "status": "sold_out",
+   "price": 40.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.futureforestplants.com/shop/p/persimmon-varieties",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-10-22",
+   "notes": [
+    "No longer offered in the product's variety selector as of Oct 6, 2026; may be seasonal rotation rather than discontinued."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 40.0,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-06",
+     "price": 40.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "future-forest--nikitas-gift",
+   "variety": "nikitas-gift",
+   "nursery": "future-forest",
+   "status": "sold_out",
+   "price": 40.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.futureforestplants.com/shop/p/persimmon-varieties",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-10-22",
+   "notes": [
+    "No longer offered in the product's variety selector as of Oct 6, 2026; may be seasonal rotation rather than discontinued."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 40.0,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-06",
+     "price": 40.0,
+     "status": "sold_out"
+    }
+   ],
+   "sold_as": "Nikitskaya Bordovaya"
+  },
+  {
+   "id": "future-forest--sosnovskaya",
+   "variety": "sosnovskaya",
+   "nursery": "future-forest",
+   "status": "sold_out",
+   "price": 40.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.futureforestplants.com/shop/p/persimmon-varieties",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-10-22",
+   "notes": [
+    "No longer offered in the product's variety selector as of Oct 6, 2026; may be seasonal rotation rather than discontinued."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 40.0,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-06",
+     "price": 40.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "future-forest--chuchupaka",
+   "variety": "chuchupaka",
+   "nursery": "future-forest",
+   "status": "sold_out",
+   "price": 40.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.futureforestplants.com/shop/p/persimmon-varieties",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-10-22",
+   "notes": [
+    "No longer offered in the product's variety selector as of Oct 6, 2026; may be seasonal rotation rather than discontinued."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 40.0,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-06",
+     "price": 40.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "future-forest--journey",
+   "variety": "journey",
+   "nursery": "future-forest",
+   "status": "sold_out",
+   "price": 40.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.futureforestplants.com/shop/p/persimmon-varieties",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-10-22",
+   "notes": [
+    "No longer offered in the product's variety selector as of Oct 6, 2026; may be seasonal rotation rather than discontinued."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 40.0,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-06",
+     "price": 40.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "future-forest--zhima-khurma",
+   "variety": "zhima-khurma",
+   "nursery": "future-forest",
+   "status": "sold_out",
+   "price": 40.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.futureforestplants.com/shop/p/persimmon-varieties",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-10-22",
+   "notes": [
+    "No longer offered in the product's variety selector as of Oct 6, 2026; may be seasonal rotation rather than discontinued."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 40.0,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-06",
+     "price": 40.0,
+     "status": "sold_out"
+    }
+   ],
+   "sold_as": "NB-02 Zhima Khurma"
+  },
+  {
+   "id": "future-forest--saijo",
+   "variety": "saijo",
+   "nursery": "future-forest",
+   "status": "sold_out",
+   "price": 40.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.futureforestplants.com/shop/p/persimmon-varieties",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-10-22",
+   "notes": [
+    "No longer offered in the product's variety selector as of Oct 6, 2026; may be seasonal rotation rather than discontinued."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 40.0,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-06",
+     "price": 40.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "future-forest--prok",
+   "variety": "prok",
+   "nursery": "future-forest",
+   "status": "sold_out",
+   "price": 40.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.futureforestplants.com/shop/p/persimmon-varieties",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-10-22",
+   "notes": [
+    "No longer offered in the product's variety selector as of Oct 6, 2026; may be seasonal rotation rather than discontinued."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 40.0,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-06",
+     "price": 40.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "future-forest--yates",
+   "variety": "yates",
+   "nursery": "future-forest",
+   "status": "in_stock",
+   "price": 40.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.futureforestplants.com/shop/p/persimmon-varieties",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-10-22",
+   "notes": [
+    "Sold through one variety-picker listing; confirm this variety at checkout."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 40.0,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "Yates/Juhl"
+  },
+  {
+   "id": "future-forest--ruby",
+   "variety": "ruby",
+   "nursery": "future-forest",
+   "status": "sold_out",
+   "price": 40.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.futureforestplants.com/shop/p/persimmon-varieties",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-10-22",
+   "notes": [
+    "No longer offered in the product's variety selector as of Oct 6, 2026; may be seasonal rotation rather than discontinued."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 40.0,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-06",
+     "price": 40.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "future-forest--early-golden",
+   "variety": "early-golden",
+   "nursery": "future-forest",
+   "status": "in_stock",
+   "price": 40.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.futureforestplants.com/shop/p/persimmon-varieties",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-10-22",
+   "notes": [
+    "Sold through one variety-picker listing; confirm this variety at checkout."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 40.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "future-forest--claypool",
+   "variety": "claypool",
+   "nursery": "future-forest",
+   "status": "sold_out",
+   "price": 40.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.futureforestplants.com/shop/p/persimmon-varieties",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-10-22",
+   "notes": [
+    "No longer offered in the product's variety selector as of Oct 6, 2026; may be seasonal rotation rather than discontinued."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 40.0,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-06",
+     "price": 40.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "future-forest--barbaras-blush",
+   "variety": "barbaras-blush",
+   "nursery": "future-forest",
+   "status": "sold_out",
+   "price": 40.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.futureforestplants.com/shop/p/persimmon-varieties",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-10-22",
+   "notes": [
+    "No longer offered in the product's variety selector as of Oct 6, 2026; may be seasonal rotation rather than discontinued."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 40.0,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-06",
+     "price": 40.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "future-forest--john-rick",
+   "variety": "john-rick",
+   "nursery": "future-forest",
+   "status": "sold_out",
+   "price": 40.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.futureforestplants.com/shop/p/persimmon-varieties",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-10-22",
+   "notes": [
+    "No longer offered in the product's variety selector as of Oct 6, 2026; may be seasonal rotation rather than discontinued."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 40.0,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-06",
+     "price": 40.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "future-forest--h-63a",
+   "variety": "h-63a",
+   "nursery": "future-forest",
+   "status": "in_stock",
+   "price": 40.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.futureforestplants.com/shop/p/persimmon-varieties",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-10-22",
+   "notes": [
+    "Sold through one variety-picker listing; confirm this variety at checkout."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 40.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "future-forest--lena",
+   "variety": "lena",
+   "nursery": "future-forest",
+   "status": "in_stock",
+   "price": 40.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.futureforestplants.com/shop/p/persimmon-varieties",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-10-22",
+   "notes": [
+    "Sold through one variety-picker listing; confirm this variety at checkout."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 40.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "future-forest--dollywood",
+   "variety": "dollywood",
+   "nursery": "future-forest",
+   "status": "in_stock",
+   "price": 40.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.futureforestplants.com/shop/p/persimmon-varieties",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-10-22",
+   "notes": [
+    "Sold through one variety-picker listing; confirm this variety at checkout."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 40.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "future-forest--early-jewel",
+   "variety": "early-jewel",
+   "nursery": "future-forest",
+   "status": "sold_out",
+   "price": 40.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.futureforestplants.com/shop/p/persimmon-varieties",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-10-22",
+   "notes": [
+    "No longer offered in the product's variety selector as of Oct 6, 2026; may be seasonal rotation rather than discontinued."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 40.0,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-06",
+     "price": 40.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "future-forest--catawba-treasure",
+   "variety": "catawba-treasure",
+   "nursery": "future-forest",
+   "status": "in_stock",
+   "price": 40.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.futureforestplants.com/shop/p/persimmon-varieties",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-10-22",
+   "notes": [
+    "Sold through one variety-picker listing; confirm this variety at checkout."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 40.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "englands-orchard--prok",
+   "variety": "prok",
+   "nursery": "englands-orchard",
+   "status": "unconfirmed",
+   "price": 25.0,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "http://www.nuttrees.net/persimmon.html",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Pickup only in Kentucky; stock not shown online."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 25.0,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-03",
+     "price": 65.0,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-04",
+     "price": 25.0,
+     "status": "unconfirmed"
+    }
+   ]
+  },
+  {
+   "id": "englands-orchard--deer-magnet",
+   "variety": "deer-magnet",
+   "nursery": "englands-orchard",
+   "status": "unconfirmed",
+   "price": 25.0,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "http://www.nuttrees.net/persimmon.html",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Pickup only in Kentucky; stock not shown online."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": null,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-09-30",
+     "price": 25.0,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-03",
+     "price": 75.0,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-04",
+     "price": 25.0,
+     "status": "unconfirmed"
+    }
+   ]
+  },
+  {
+   "id": "englands-orchard--wonderful",
+   "variety": "wonderful",
+   "nursery": "englands-orchard",
+   "status": "unconfirmed",
+   "price": 25.0,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "http://www.nuttrees.net/persimmon.html",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Pickup only in Kentucky; stock not shown online."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": null,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-09-30",
+     "price": 25.0,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-03",
+     "price": 65.0,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-04",
+     "price": 25.0,
+     "status": "unconfirmed"
+    }
+   ]
+  },
+  {
+   "id": "englands-orchard--rosseyanka",
+   "variety": "rosseyanka",
+   "nursery": "englands-orchard",
+   "status": "in_stock",
+   "price": 35.0,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "http://www.nuttrees.net/persimmon.html",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Medium/large only, while supplies last"
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": null,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-09-30",
+     "price": 25.0,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-03",
+     "price": 65.0,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-04",
+     "price": 25.0,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-15",
+     "price": 35.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "englands-orchard--nikitas-gift",
+   "variety": "nikitas-gift",
+   "nursery": "englands-orchard",
+   "status": "unconfirmed",
+   "price": 30.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "http://www.nuttrees.net/persimmon.html",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Pickup only in Kentucky; stock not shown online."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 30.0,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-03",
+     "price": 65.0,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-04",
+     "price": 30.0,
+     "status": "unconfirmed"
+    }
+   ]
+  },
+  {
+   "id": "englands-orchard--kasandra",
+   "variety": "kasandra",
+   "nursery": "englands-orchard",
+   "status": "in_stock",
+   "price": 30.0,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "http://www.nuttrees.net/persimmon.html",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Sizes S-XL available, S $30; XL pickup only"
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 40.0,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-03",
+     "price": 75.0,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-04",
+     "price": 40.0,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-15",
+     "price": 30.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "rock-bridge-trees--jt-02",
+   "variety": "jt-02",
+   "nursery": "rock-bridge-trees",
+   "status": "sold_out",
+   "price": 69.0,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://rockbridgetrees.com/product/jt-02-mikkusu-persimmon/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "$69–$89; call for availability."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 89.0,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-05",
+     "price": 69.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "perfect-plants--great-wall",
+   "variety": "great-wall",
+   "nursery": "perfect-plants",
+   "status": "in_stock",
+   "price": 84.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://myperfectplants.com/products/great-wall-persimmon-tree",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Only 2-3 ft ($84.95) and 3-4 ft sizes in stock; low stock."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 84.95,
+     "status": "in_stock"
+    }
+   ],
+   "was_price": 89.95
+  },
+  {
+   "id": "hidden-springs--rosseyanka",
+   "variety": "rosseyanka",
+   "nursery": "hidden-springs",
+   "status": "sold_out",
+   "price": 25.0,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://hiddenspringsnursery.com/shop",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Pre-order for next year, no price shown"
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": null,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-09-26",
+     "price": 25.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "cricket-hill-garden--claypool",
+   "variety": "claypool",
+   "nursery": "cricket-hill-garden",
+   "status": "sold_out",
+   "price": 58.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.treepeony.com/collections/persimmon",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-05",
+   "notes": [
+    "Sold as 'Claypool'/H-120."
+   ],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 50.0,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-20",
+     "price": 58.0,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-22",
+     "price": 58.0,
+     "status": "sold_out"
+    }
+   ],
+   "sold_as": "Claypool/H-120"
+  },
+  {
+   "id": "cricket-hill-garden--dollywood",
+   "variety": "dollywood",
+   "nursery": "cricket-hill-garden",
+   "status": "sold_out",
+   "price": 58.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.treepeony.com/collections/persimmon",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-05",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 58.0,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-22",
+     "price": 58.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "cricket-hill-garden--prok",
+   "variety": "prok",
+   "nursery": "cricket-hill-garden",
+   "status": "sold_out",
+   "price": 58.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.treepeony.com/collections/persimmon",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-05",
+   "notes": [
+    "Now listed “Sold Out” on the site (was “Coming Soon”)."
+   ],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 48.0,
+     "status": "season_closed"
+    },
+    {
+     "date": "2026-09-30",
+     "price": 48.0,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-20",
+     "price": 58.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "cricket-hill-garden--mohler",
+   "variety": "mohler",
+   "nursery": "cricket-hill-garden",
+   "status": "sold_out",
+   "price": 58.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.treepeony.com/collections/persimmon",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-05",
+   "notes": [
+    "Now listed “Sold Out” on the site (was “Coming Soon”)."
+   ],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 58.0,
+     "status": "season_closed"
+    },
+    {
+     "date": "2026-09-30",
+     "price": 58.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "cricket-hill-garden--100-46",
+   "variety": "100-46",
+   "nursery": "cricket-hill-garden",
+   "status": "sold_out",
+   "price": 58.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.treepeony.com/collections/persimmon",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-05",
+   "notes": [
+    "Now listed “Sold Out” on the site (was “Coming Soon”)."
+   ],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 58.0,
+     "status": "season_closed"
+    },
+    {
+     "date": "2026-09-30",
+     "price": 58.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "cricket-hill-garden--meader",
+   "variety": "meader",
+   "nursery": "cricket-hill-garden",
+   "status": "sold_out",
+   "price": 58.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.treepeony.com/collections/persimmon",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-05",
+   "notes": [
+    "Now listed “Sold Out” on the site (was “Coming Soon”)."
+   ],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 58.0,
+     "status": "season_closed"
+    },
+    {
+     "date": "2026-09-30",
+     "price": 58.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "cricket-hill-garden--rosseyanka",
+   "variety": "rosseyanka",
+   "nursery": "cricket-hill-garden",
+   "status": "sold_out",
+   "price": 55.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.treepeony.com/collections/persimmon",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-05",
+   "notes": [
+    "Now listed “Sold Out” on the site (was “Coming Soon”)."
+   ],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 55.0,
+     "status": "season_closed"
+    },
+    {
+     "date": "2026-09-30",
+     "price": 55.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "cricket-hill-garden--yates",
+   "variety": "yates",
+   "nursery": "cricket-hill-garden",
+   "status": "sold_out",
+   "price": 58.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.treepeony.com/collections/persimmon",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-05",
+   "notes": [
+    "Now listed “Sold Out” on the site (was “Coming Soon”)."
+   ],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 48.0,
+     "status": "season_closed"
+    },
+    {
+     "date": "2026-09-30",
+     "price": 48.0,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-20",
+     "price": 58.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "cricket-hill-garden--jt-02",
+   "variety": "jt-02",
+   "nursery": "cricket-hill-garden",
+   "status": "sold_out",
+   "price": 68.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.treepeony.com/collections/persimmon",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-05",
+   "notes": [
+    "Now listed “Sold Out” on the site (was “Coming Soon”)."
+   ],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 68.0,
+     "status": "season_closed"
+    },
+    {
+     "date": "2026-09-30",
+     "price": 68.0,
+     "status": "sold_out"
+    }
+   ],
+   "sold_as": "Mikkusu"
+  },
+  {
+   "id": "cricket-hill-garden--zhima-khurma",
+   "variety": "zhima-khurma",
+   "nursery": "cricket-hill-garden",
+   "status": "sold_out",
+   "price": 58.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.treepeony.com/collections/persimmon",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-05",
+   "notes": [
+    "Now listed “Sold Out” on the site (was “Coming Soon”)."
+   ],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 50.0,
+     "status": "season_closed"
+    },
+    {
+     "date": "2026-09-30",
+     "price": 50.0,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-20",
+     "price": 58.0,
+     "status": "sold_out"
+    }
+   ],
+   "sold_as": "Zima Khurma"
+  },
+  {
+   "id": "cricket-hill-garden--valeene-beauty",
+   "variety": "valeene-beauty",
+   "nursery": "cricket-hill-garden",
+   "status": "sold_out",
+   "price": 58.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.treepeony.com/collections/persimmon",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-05",
+   "notes": [
+    "Now listed “Sold Out” on the site (was “Coming Soon”)."
+   ],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 52.0,
+     "status": "season_closed"
+    },
+    {
+     "date": "2026-09-30",
+     "price": 52.0,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-20",
+     "price": 58.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "chestnut-hill--nikitas-gift",
+   "variety": "nikitas-gift",
+   "nursery": "chestnut-hill",
+   "status": "in_stock",
+   "price": 46.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://chestnuthilltreefarm.com/product-category/fruit-berries/persimmon-trees/",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 46.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "chestnut-hill--rosseyanka",
+   "variety": "rosseyanka",
+   "nursery": "chestnut-hill",
+   "status": "in_stock",
+   "price": 46.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://chestnuthilltreefarm.com/product-category/fruit-berries/persimmon-trees/",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 46.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "chestnut-hill--deer-magnet",
+   "variety": "deer-magnet",
+   "nursery": "chestnut-hill",
+   "status": "in_stock",
+   "price": 46.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://chestnuthilltreefarm.com/product-category/fruit-berries/persimmon-trees/",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 46.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "chestnut-hill--deer-candy",
+   "variety": "deer-candy",
+   "nursery": "chestnut-hill",
+   "status": "in_stock",
+   "price": 46.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://chestnuthilltreefarm.com/product-category/fruit-berries/persimmon-trees/",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 46.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "chestnut-hill--morris-burton",
+   "variety": "morris-burton",
+   "nursery": "chestnut-hill",
+   "status": "in_stock",
+   "price": 46.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://chestnuthilltreefarm.com/product-category/fruit-berries/persimmon-trees/",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 46.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "chestnut-hill--prok",
+   "variety": "prok",
+   "nursery": "chestnut-hill",
+   "status": "in_stock",
+   "price": 46.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://chestnuthilltreefarm.com/product-category/fruit-berries/persimmon-trees/",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 46.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "chestnut-hill--yates",
+   "variety": "yates",
+   "nursery": "chestnut-hill",
+   "status": "sold_out",
+   "price": 46.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://chestnuthilltreefarm.com/product-category/fruit-berries/persimmon-trees/",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 46.95,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-15",
+     "price": 46.95,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "chestnut-hill--saijo",
+   "variety": "saijo",
+   "nursery": "chestnut-hill",
+   "status": "in_stock",
+   "price": 46.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://chestnuthilltreefarm.com/product-category/fruit-berries/persimmon-trees/",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 46.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "chestnut-hill--great-wall",
+   "variety": "great-wall",
+   "nursery": "chestnut-hill",
+   "status": "sold_out",
+   "price": null,
+   "price_from": true,
+   "price_confirmed": false,
+   "url": "https://chestnuthilltreefarm.com/product-category/fruit-berries/persimmon-trees/",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": null,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "brambleberry-farm--kasandra",
+   "variety": "kasandra",
+   "nursery": "brambleberry-farm",
+   "status": "unconfirmed",
+   "price": 26.0,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://www.brambleberrypermaculture.com/category/trees/less-common-fruits-trees/persimmon/",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-02",
+   "notes": [
+    "Pickup only; call ahead — stock varies day to day."
+   ],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 26.0,
+     "status": "unconfirmed"
+    }
+   ]
+  },
+  {
+   "id": "brambleberry-farm--jt-02",
+   "variety": "jt-02",
+   "nursery": "brambleberry-farm",
+   "status": "unconfirmed",
+   "price": 26.0,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://www.brambleberrypermaculture.com/category/trees/less-common-fruits-trees/persimmon/",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-02",
+   "notes": [
+    "Pickup only; call ahead — stock varies day to day."
+   ],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 26.0,
+     "status": "unconfirmed"
+    }
+   ],
+   "sold_as": "Mikkusu/JT-02"
+  },
+  {
+   "id": "brambleberry-farm--rosseyanka",
+   "variety": "rosseyanka",
+   "nursery": "brambleberry-farm",
+   "status": "unconfirmed",
+   "price": 26.0,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://www.brambleberrypermaculture.com/category/trees/less-common-fruits-trees/persimmon/",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-02",
+   "notes": [
+    "Pickup only; call ahead — stock varies day to day."
+   ],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 26.0,
+     "status": "unconfirmed"
+    }
+   ]
+  },
+  {
+   "id": "brambleberry-farm--journey",
+   "variety": "journey",
+   "nursery": "brambleberry-farm",
+   "status": "unconfirmed",
+   "price": 26.0,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://www.brambleberrypermaculture.com/category/trees/less-common-fruits-trees/persimmon/",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-02",
+   "notes": [
+    "Pickup only; call ahead — stock varies day to day."
+   ],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 26.0,
+     "status": "unconfirmed"
+    }
+   ]
+  },
+  {
+   "id": "brambleberry-farm--prok",
+   "variety": "prok",
+   "nursery": "brambleberry-farm",
+   "status": "unconfirmed",
+   "price": 26.0,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://www.brambleberrypermaculture.com/category/trees/less-common-fruits-trees/persimmon/",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-02",
+   "notes": [
+    "Pickup only; call ahead — stock varies day to day."
+   ],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 26.0,
+     "status": "unconfirmed"
+    }
+   ]
+  },
+  {
+   "id": "brambleberry-farm--john-rick",
+   "variety": "john-rick",
+   "nursery": "brambleberry-farm",
+   "status": "unconfirmed",
+   "price": 26.0,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://www.brambleberrypermaculture.com/category/trees/less-common-fruits-trees/persimmon/",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-02",
+   "notes": [
+    "Pickup only; call ahead — stock varies day to day."
+   ],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 26.0,
+     "status": "unconfirmed"
+    }
+   ]
+  },
+  {
+   "id": "brambleberry-farm--nikitas-gift",
+   "variety": "nikitas-gift",
+   "nursery": "brambleberry-farm",
+   "status": "unconfirmed",
+   "price": 26.0,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://www.brambleberrypermaculture.com/category/trees/less-common-fruits-trees/persimmon/",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-02",
+   "notes": [
+    "Pickup only; call ahead — stock varies day to day."
+   ],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 26.0,
+     "status": "unconfirmed"
+    }
+   ],
+   "sold_as": "Nikitskaya Bordovaya"
+  },
+  {
+   "id": "brambleberry-farm--dec-goliath",
+   "variety": "dec-goliath",
+   "nursery": "brambleberry-farm",
+   "status": "unconfirmed",
+   "price": 26.0,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://www.brambleberrypermaculture.com/category/trees/less-common-fruits-trees/persimmon/",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-02",
+   "notes": [
+    "Pickup only; call ahead — stock varies day to day."
+   ],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 26.0,
+     "status": "unconfirmed"
+    }
+   ]
+  },
+  {
+   "id": "brambleberry-farm--geneva-long",
+   "variety": "geneva-long",
+   "nursery": "brambleberry-farm",
+   "status": "unconfirmed",
+   "price": 26.0,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://www.brambleberrypermaculture.com/category/trees/less-common-fruits-trees/persimmon/",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-02",
+   "notes": [
+    "Pickup only; call ahead — stock varies day to day."
+   ],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 26.0,
+     "status": "unconfirmed"
+    }
+   ]
+  },
+  {
+   "id": "brambleberry-farm--autumn-2",
+   "variety": "autumn-2",
+   "nursery": "brambleberry-farm",
+   "status": "unconfirmed",
+   "price": 26.0,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://www.brambleberrypermaculture.com/category/trees/less-common-fruits-trees/persimmon/",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-02",
+   "notes": [
+    "Pickup only; call ahead — stock varies day to day."
+   ],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 26.0,
+     "status": "unconfirmed"
+    }
+   ]
+  },
+  {
+   "id": "brambleberry-farm--mount-roman-kosh",
+   "variety": "mount-roman-kosh",
+   "nursery": "brambleberry-farm",
+   "status": "unconfirmed",
+   "price": 26.0,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://www.brambleberrypermaculture.com/category/trees/less-common-fruits-trees/persimmon/",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-02",
+   "notes": [
+    "Pickup only; call ahead — stock varies day to day."
+   ],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 26.0,
+     "status": "unconfirmed"
+    }
+   ]
+  },
+  {
+   "id": "interwoven-permaculture--barbaras-blush",
+   "variety": "barbaras-blush",
+   "nursery": "interwoven-permaculture",
+   "status": "sold_out",
+   "price": 38.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://interwovenpermaculture.com/grafted-persimmon",
+   "first_seen": "2026-09-27",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Listed as out of stock online."
+   ],
+   "history": [
+    {
+     "date": "2026-09-27",
+     "price": 38.0,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-05",
+     "price": 38.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "interwoven-permaculture--kasandra",
+   "variety": "kasandra",
+   "nursery": "interwoven-permaculture",
+   "status": "sold_out",
+   "price": 38.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://interwovenpermaculture.com/grafted-persimmon",
+   "first_seen": "2026-09-27",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Listed as out of stock online."
+   ],
+   "history": [
+    {
+     "date": "2026-09-27",
+     "price": 38.0,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-05",
+     "price": 38.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "interwoven-permaculture--zhima-khurma",
+   "variety": "zhima-khurma",
+   "nursery": "interwoven-permaculture",
+   "status": "sold_out",
+   "price": 38.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://interwovenpermaculture.com/grafted-persimmon",
+   "first_seen": "2026-09-27",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Listed as out of stock online."
+   ],
+   "history": [
+    {
+     "date": "2026-09-27",
+     "price": 38.0,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-05",
+     "price": 38.0,
+     "status": "sold_out"
+    }
+   ],
+   "sold_as": "Zima Khurma"
+  },
+  {
+   "id": "interwoven-permaculture--mp-3",
+   "variety": "mp-3",
+   "nursery": "interwoven-permaculture",
+   "status": "sold_out",
+   "price": 38.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://interwovenpermaculture.com/grafted-persimmon",
+   "first_seen": "2026-09-27",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Listed as out of stock online."
+   ],
+   "history": [
+    {
+     "date": "2026-09-27",
+     "price": 38.0,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-05",
+     "price": 38.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "morse-nursery--deer-magnet",
+   "variety": "deer-magnet",
+   "nursery": "morse-nursery",
+   "status": "sold_out",
+   "price": 40.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://morsenursery.com/collections/persimmon",
+   "first_seen": "2026-09-28",
+   "last_checked": "2026-11-02",
+   "notes": [
+    "Sold out; taking orders for spring 2027 shipping."
+   ],
+   "history": [
+    {
+     "date": "2026-09-28",
+     "price": 40.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "morse-nursery--deer-candy",
+   "variety": "deer-candy",
+   "nursery": "morse-nursery",
+   "status": "sold_out",
+   "price": 40.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://morsenursery.com/collections/persimmon",
+   "first_seen": "2026-09-28",
+   "last_checked": "2026-11-02",
+   "notes": [
+    "Sold out; taking orders for spring 2027 shipping."
+   ],
+   "history": [
+    {
+     "date": "2026-09-28",
+     "price": 40.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "morse-nursery--september-persimmon",
+   "variety": "september-persimmon",
+   "nursery": "morse-nursery",
+   "status": "sold_out",
+   "price": 35.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://morsenursery.com/collections/persimmon",
+   "first_seen": "2026-09-28",
+   "last_checked": "2026-11-02",
+   "notes": [
+    "Sold out; taking orders for spring 2027 shipping."
+   ],
+   "history": [
+    {
+     "date": "2026-09-28",
+     "price": 35.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "morse-nursery--meader",
+   "variety": "meader",
+   "nursery": "morse-nursery",
+   "status": "sold_out",
+   "price": 40.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://morsenursery.com/collections/persimmon",
+   "first_seen": "2026-09-28",
+   "last_checked": "2026-11-02",
+   "notes": [
+    "Sold out; taking orders for spring 2027 shipping."
+   ],
+   "history": [
+    {
+     "date": "2026-09-28",
+     "price": 40.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "morse-nursery--august-persimmon",
+   "variety": "august-persimmon",
+   "nursery": "morse-nursery",
+   "status": "sold_out",
+   "price": 35.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://morsenursery.com/collections/persimmon",
+   "first_seen": "2026-09-28",
+   "last_checked": "2026-11-02",
+   "notes": [
+    "Sold out; taking orders for spring 2027 shipping."
+   ],
+   "history": [
+    {
+     "date": "2026-09-28",
+     "price": 35.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "morse-nursery--morse-persimmon",
+   "variety": "morse-persimmon",
+   "nursery": "morse-nursery",
+   "status": "sold_out",
+   "price": 37.5,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://morsenursery.com/collections/persimmon",
+   "first_seen": "2026-09-28",
+   "last_checked": "2026-11-02",
+   "notes": [
+    "Sold out; taking orders for spring 2027 shipping."
+   ],
+   "history": [
+    {
+     "date": "2026-09-28",
+     "price": 37.5,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "food-forest-nursery--nikitas-gift",
+   "variety": "nikitas-gift",
+   "nursery": "food-forest-nursery",
+   "status": "no_ship",
+   "price": 59.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.foodforestnursery.com/product/Nikitas-Gift-Persimmon/",
+   "first_seen": "2026-09-29",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "4-5 ft bare-root grafted tree on American persimmon rootstock. Cannot ship to CA."
+   ],
+   "history": [
+    {
+     "date": "2026-09-29",
+     "price": 59.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "food-forest-nursery--meader",
+   "variety": "meader",
+   "nursery": "food-forest-nursery",
+   "status": "no_ship",
+   "price": 59.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.foodforestnursery.com/product/meader-persimmon/",
+   "first_seen": "2026-09-29",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "4-5 ft bare-root grafted tree on American persimmon rootstock."
+   ],
+   "history": [
+    {
+     "date": "2026-09-29",
+     "price": 59.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "farm-connection--nikitas-gift",
+   "variety": "nikitas-gift",
+   "nursery": "farm-connection",
+   "status": "in_stock",
+   "price": 49.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://tfcnursery.com/products/persimmon-hybrid-nikitas-gift-bare-root",
+   "first_seen": "2026-09-29",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Page says check back in October to pre-order for Spring 2027; add to cart shown"
+   ],
+   "history": [
+    {
+     "date": "2026-09-29",
+     "price": 39.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-22",
+     "price": 49.95,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-11-02",
+     "price": 49.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Spring 2027 pre-order"
+  },
+  {
+   "id": "farm-connection--early-golden",
+   "variety": "early-golden",
+   "nursery": "farm-connection",
+   "status": "in_stock",
+   "price": 46.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://tfcnursery.com/products/persimmon-american-early-golden-bare-root",
+   "first_seen": "2026-09-29",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Page says check back in October to pre-order for Spring 2027; add to cart shown"
+   ],
+   "history": [
+    {
+     "date": "2026-09-29",
+     "price": 34.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-22",
+     "price": 46.95,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-11-02",
+     "price": 46.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Spring 2027 pre-order"
+  },
+  {
+   "id": "cricket-hill-garden--early-jewel",
+   "variety": "early-jewel",
+   "nursery": "cricket-hill-garden",
+   "status": "sold_out",
+   "price": 58.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.treepeony.com/collections/persimmon",
+   "first_seen": "2026-10-01",
+   "last_checked": "2026-11-05",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-01",
+     "price": 58.0,
+     "status": "sold_out"
+    }
+   ],
+   "sold_as": "H118/Early Jewel"
+  },
+  {
+   "id": "burnt-ridge--nikitas-gift",
+   "variety": "nikitas-gift",
+   "nursery": "burnt-ridge",
+   "status": "in_stock",
+   "price": 57.25,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.burntridgenursery.com/mobile/NIKITAS-GIFT-TM-AMERICAN-PERSIMMON-Diospyrus-kaki-x-virginiana/productinfo/NSPRNIK",
+   "first_seen": "2026-10-01",
+   "last_checked": "2026-11-05",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-01",
+     "price": 57.25,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "burnt-ridge--prairie-star",
+   "variety": "prairie-star",
+   "nursery": "burnt-ridge",
+   "status": "in_stock",
+   "price": 28.0,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://www.burntridgenursery.com/American-Persimmon/departments/160/",
+   "first_seen": "2026-10-01",
+   "last_checked": "2026-11-05",
+   "notes": [
+    "Cannot ship to AZ or CA."
+   ],
+   "history": [
+    {
+     "date": "2026-10-01",
+     "price": 28.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "burnt-ridge--early-golden",
+   "variety": "early-golden",
+   "nursery": "burnt-ridge",
+   "status": "in_stock",
+   "price": 52.25,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.burntridgenursery.com/American-Persimmon/departments/160/",
+   "first_seen": "2026-10-01",
+   "last_checked": "2026-11-05",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-01",
+     "price": 52.25,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "burnt-ridge--deer-magnet",
+   "variety": "deer-magnet",
+   "nursery": "burnt-ridge",
+   "status": "in_stock",
+   "price": 52.5,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.burntridgenursery.com/American-Persimmon/departments/160/",
+   "first_seen": "2026-10-01",
+   "last_checked": "2026-11-05",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-01",
+     "price": 52.25,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-11-05",
+     "price": 52.5,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "burnt-ridge--saijo",
+   "variety": "saijo",
+   "nursery": "burnt-ridge",
+   "status": "in_stock",
+   "price": 47.25,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.burntridgenursery.com/SAIJO-ASIAN-PERSIMMON-Diospyros-kaki/productinfo/NSPRSAI",
+   "first_seen": "2026-10-01",
+   "last_checked": "2026-11-05",
+   "notes": [
+    "Burnt Ridge itself rates this selection hardy to -10F/zone 7-9, warmer than the zone 6 rating other sellers give Saijo."
+   ],
+   "history": [
+    {
+     "date": "2026-10-01",
+     "price": 47.25,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "plant-me-green--rosseyanka",
+   "variety": "rosseyanka",
+   "nursery": "plant-me-green",
+   "status": "sold_out",
+   "price": 39.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://plantmegreen.com/products/persimmon-trees-astringent-rosseyaka",
+   "first_seen": "2026-10-01",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "All pot sizes sold out."
+   ],
+   "history": [
+    {
+     "date": "2026-10-01",
+     "price": 39.95,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "plant-me-green--nikitas-gift",
+   "variety": "nikitas-gift",
+   "nursery": "plant-me-green",
+   "status": "sold_out",
+   "price": 39.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://plantmegreen.com/products/persimmon-trees-nikitas-gift",
+   "first_seen": "2026-10-01",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Both pot sizes sold out."
+   ],
+   "history": [
+    {
+     "date": "2026-10-01",
+     "price": 39.95,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "buy-potted-plants--deer-candy",
+   "variety": "deer-candy",
+   "nursery": "buy-potted-plants",
+   "status": "in_stock",
+   "price": 109.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.buypottedplants.com/product-page/deer-candy-persimmon",
+   "first_seen": "2026-10-01",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-01",
+     "price": 109.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "advanced-nursery-growers--nikitas-gift",
+   "variety": "nikitas-gift",
+   "nursery": "advanced-nursery-growers",
+   "status": "sold_out",
+   "price": 39.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.advancednurserygrowers.com/products/persimmon-nikitas-gift",
+   "first_seen": "2026-10-02",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Add to Cart works, 6 items left; local pickup, shipping limited to 3-gal or smaller, call first"
+   ],
+   "history": [
+    {
+     "date": "2026-11-05",
+     "price": 39.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "advanced-nursery-growers--deer-magnet",
+   "variety": "deer-magnet",
+   "nursery": "advanced-nursery-growers",
+   "status": "in_stock",
+   "price": 49.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.advancednurserygrowers.com/products/deer-magnet-persimmon",
+   "first_seen": "2026-10-02",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "3 gal 3-4 ft $49; under 2 ft size sold out."
+   ],
+   "history": [
+    {
+     "date": "2026-10-05",
+     "price": 49.0,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-15",
+     "price": 49.0,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-20",
+     "price": 49.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "roots-to-fruits--deer-magnet",
+   "variety": "deer-magnet",
+   "nursery": "roots-to-fruits",
+   "status": "sold_out",
+   "price": 47.0,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://rootstofruitsnursery.com/products/deer-magnet-persimmon-tree",
+   "first_seen": "2026-10-02",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Sold out; site offers 'notify me' for restock."
+   ],
+   "history": []
+  },
+  {
+   "id": "englands-orchard--100-45",
+   "variety": "100-45",
+   "nursery": "englands-orchard",
+   "status": "unconfirmed",
+   "price": 25.0,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "http://www.nuttrees.net/persimmon.html",
+   "first_seen": "2026-10-03",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Pickup only in Kentucky; stock not shown online."
+   ],
+   "history": [
+    {
+     "date": "2026-10-03",
+     "price": 65.0,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-04",
+     "price": 25.0,
+     "status": "unconfirmed"
+    }
+   ]
+  },
+  {
+   "id": "cricket-hill-garden--steiermark",
+   "variety": "steiermark",
+   "nursery": "cricket-hill-garden",
+   "status": "sold_out",
+   "price": 48.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://treepeony.com/products/persimmon-steiermark-available-for-summer-fall-2021",
+   "first_seen": "2026-10-03",
+   "last_checked": "2026-11-05",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-03",
+     "price": 48.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "broken-arrow-nursery--meader",
+   "variety": "meader",
+   "nursery": "broken-arrow-nursery",
+   "status": "sold_out",
+   "price": null,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://www.brokenarrownursery.com/diospyros-virginiana-meader-meader-american-persimmon.html",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-05",
+   "notes": [
+    "Currently unavailable; site offers restock notification."
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": null,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "trees-com--meader",
+   "variety": "meader",
+   "nursery": "trees-com",
+   "status": "sold_out",
+   "price": 72.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.trees.com/products/American-Persimmon-Tree",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Out of stock; site says restocking soon."
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 72.95,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "bower-and-branch--garretson",
+   "variety": "garretson",
+   "nursery": "bower-and-branch",
+   "status": "sold_out",
+   "price": 179.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://bowerandbranch.com/products/garretson-common-persimmon-treeling",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Sold out; site lists an expected ship window of Spring 2026."
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 179.99,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "future-forest--autumn-2",
+   "variety": "autumn-2",
+   "nursery": "future-forest",
+   "status": "in_stock",
+   "price": 40.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.futureforestplants.com/shop/p/persimmon-varieties",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-10-22",
+   "notes": [
+    "Now in Future Forest's live variety selector as of Oct 6, 2026."
+   ],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 40.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "logees--nikitas-gift",
+   "variety": "nikitas-gift",
+   "nursery": "logees",
+   "status": "in_stock",
+   "price": 55.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.logees.com/products/persimmon-tree-nikitas-gift-tg",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Listed with 37 units in stock. Hardy to zone 5 per Logee's listing; cannot ship to CA."
+   ],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 55.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "trees-of-antiquity--saijo",
+   "variety": "saijo",
+   "nursery": "trees-of-antiquity",
+   "status": "in_stock",
+   "price": 69.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://treesofantiquity.com/products/saijo-persimmon",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "In stock; orders now ship for the 2027 bareroot season."
+   ],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 69.95,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-08",
+     "price": 69.95,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-15",
+     "price": 69.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-20",
+     "price": 69.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Site shows \"Add to Cart for 2027\" — orders now, ships for the 2027 bareroot season."
+  },
+  {
+   "id": "arbor-day-foundation--saijo",
+   "variety": "saijo",
+   "nursery": "arbor-day-foundation",
+   "status": "sold_out",
+   "price": 44.99,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://shop.arborday.org/saijo-persimmon-2",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Out of stock; site offers a back-in-stock email signup."
+   ],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 44.99,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "perfect-plants--nikitas-gift",
+   "variety": "nikitas-gift",
+   "nursery": "perfect-plants",
+   "status": "in_stock",
+   "price": 84.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://myperfectplants.com/products/nikitas-gift-persimmon-tree",
+   "first_seen": "2026-10-07",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Sold out in all sizes as of Oct 7."
+   ],
+   "history": [
+    {
+     "date": "2026-10-07",
+     "price": 84.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-22",
+     "price": 84.95,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "2-3 ft"
+  },
+  {
+   "id": "bamboo-plants-ca--nikitas-gift",
+   "variety": "nikitas-gift",
+   "nursery": "bamboo-plants-ca",
+   "status": "sold_out",
+   "price": null,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://bambooplants.ca/product/persimmon-tree-nikita-s-gift/",
+   "first_seen": "2026-10-08",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Listed 'out of stock'; site says now shipping for the 2026 season. Cross-border shipping to NJ unconfirmed."
+   ],
+   "history": [
+    {
+     "date": "2026-10-08",
+     "price": null,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "nature-hills--saijo",
+   "variety": "saijo",
+   "nursery": "nature-hills",
+   "status": "sold_out",
+   "price": null,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://naturehills.com/products/saijo-persimmon-tree",
+   "first_seen": "2026-10-09",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Backordered; email notification offered for next crop. Seller rates it zone 7-10 hardy, but other sellers list it zone 6."
+   ],
+   "history": [
+    {
+     "date": "2026-10-09",
+     "price": null,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "homestead-gardens--saijo",
+   "variety": "saijo",
+   "nursery": "homestead-gardens",
+   "status": "sold_out",
+   "price": 159.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://shop.homesteadgardens.com/products/persimmon--saijo--7g%7CL39%7CC281%7C281035.html",
+   "first_seen": "2026-10-09",
+   "last_checked": "2026-11-05",
+   "notes": [
+    "In-store quantity shows 0 at the Davidsonville location as of Oct 9, 2026."
+   ],
+   "history": [
+    {
+     "date": "2026-10-09",
+     "price": 159.99,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "perfect-plants--saijo",
+   "variety": "saijo",
+   "nursery": "perfect-plants",
+   "status": "sold_out",
+   "price": 49.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://myperfectplants.com/products/saijo-persimmon-tree",
+   "first_seen": "2026-10-09",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "All sizes (1-2ft through 4-5ft, $49.95-$219.95) sold out as of Oct 9, 2026."
+   ],
+   "history": [
+    {
+     "date": "2026-10-09",
+     "price": 49.95,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "future-forest--downingtown-center",
+   "variety": "downingtown-center",
+   "nursery": "future-forest",
+   "status": "in_stock",
+   "price": 40.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.futureforestplants.com/shop/p/persimmon-varieties",
+   "first_seen": "2026-10-15",
+   "last_checked": "2026-10-22",
+   "notes": [
+    "Sold through one variety-picker listing; confirm this variety at checkout."
+   ],
+   "history": [
+    {
+     "date": "2026-10-15",
+     "price": 40.0,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "2-year grafted tree, about 1-2 ft, 14x4 in. pot"
+  },
+  {
+   "id": "future-forest--josephine",
+   "variety": "josephine",
+   "nursery": "future-forest",
+   "status": "in_stock",
+   "price": 40.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.futureforestplants.com/shop/p/persimmon-varieties",
+   "first_seen": "2026-10-15",
+   "last_checked": "2026-10-22",
+   "notes": [
+    "Sold through one variety-picker listing; confirm this variety at checkout."
+   ],
+   "history": [
+    {
+     "date": "2026-10-15",
+     "price": 40.0,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "2-year grafted tree, about 1-2 ft, 14x4 in. pot"
+  },
+  {
+   "id": "future-forest--korp",
+   "variety": "korp",
+   "nursery": "future-forest",
+   "status": "in_stock",
+   "price": 40.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.futureforestplants.com/shop/p/persimmon-varieties",
+   "first_seen": "2026-10-15",
+   "last_checked": "2026-10-22",
+   "notes": [
+    "Sold through one variety-picker listing; confirm this variety at checkout."
+   ],
+   "history": [
+    {
+     "date": "2026-10-15",
+     "price": 40.0,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "2-year grafted tree, about 1-2 ft, 14x4 in. pot"
+  },
+  {
+   "id": "future-forest--mckenzie-middle",
+   "variety": "mckenzie-middle",
+   "nursery": "future-forest",
+   "status": "in_stock",
+   "price": 40.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.futureforestplants.com/shop/p/persimmon-varieties",
+   "first_seen": "2026-10-15",
+   "last_checked": "2026-10-22",
+   "notes": [
+    "Sold through one variety-picker listing; confirm this variety at checkout."
+   ],
+   "history": [
+    {
+     "date": "2026-10-15",
+     "price": 40.0,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "2-year grafted tree, about 1-2 ft, 14x4 in. pot"
+  },
+  {
+   "id": "future-forest--nc-10",
+   "variety": "nc-10",
+   "nursery": "future-forest",
+   "status": "in_stock",
+   "price": 40.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.futureforestplants.com/shop/p/persimmon-varieties",
+   "first_seen": "2026-10-15",
+   "last_checked": "2026-10-22",
+   "notes": [
+    "Sold through one variety-picker listing; confirm this variety at checkout."
+   ],
+   "history": [
+    {
+     "date": "2026-10-15",
+     "price": 40.0,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "2-year grafted tree, about 1-2 ft, 14x4 in. pot"
+  },
+  {
+   "id": "future-forest--rich-tooie",
+   "variety": "rich-tooie",
+   "nursery": "future-forest",
+   "status": "in_stock",
+   "price": 40.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.futureforestplants.com/shop/p/persimmon-varieties",
+   "first_seen": "2026-10-15",
+   "last_checked": "2026-10-22",
+   "notes": [
+    "Sold through one variety-picker listing; confirm this variety at checkout."
+   ],
+   "history": [
+    {
+     "date": "2026-10-15",
+     "price": 40.0,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "2-year grafted tree, about 1-2 ft, 14x4 in. pot"
+  },
+  {
+   "id": "future-forest--ty-gateway",
+   "variety": "ty-gateway",
+   "nursery": "future-forest",
+   "status": "in_stock",
+   "price": 40.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.futureforestplants.com/shop/p/persimmon-varieties",
+   "first_seen": "2026-10-15",
+   "last_checked": "2026-10-22",
+   "notes": [
+    "Sold through one variety-picker listing; confirm this variety at checkout."
+   ],
+   "history": [
+    {
+     "date": "2026-10-15",
+     "price": 40.0,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "2-year grafted tree, about 1-2 ft, 14x4 in. pot"
+  },
+  {
+   "id": "beautiful-beginnings--celebrity",
+   "variety": "celebrity",
+   "nursery": "beautiful-beginnings",
+   "status": "in_stock",
+   "price": 54.99,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://beautifulbeginningsnursery.com/product/u20a-celebrity-american-persimmon/",
+   "first_seen": "2026-10-15",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Ships spring (dormant) or autumn (potted), subject to availability; the page's price range is $54.99 to $74.99 by size and does not map prices to sizes."
+   ],
+   "history": [
+    {
+     "date": "2026-10-15",
+     "price": 54.99,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "Small (8-12 in.) potted/bareroot; Medium (1-2 ft) and Large (2-3 ft) cost more, up to $74.99"
+  },
+  {
+   "id": "beautiful-beginnings--mohler",
+   "variety": "mohler",
+   "nursery": "beautiful-beginnings",
+   "status": "in_stock",
+   "price": 54.99,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://beautifulbeginningsnursery.com/product/mohler-american-persimmon/",
+   "first_seen": "2026-10-15",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Ships spring (dormant) or autumn (potted), subject to availability; the page's price range is $54.99 to $74.99 by size and does not map prices to sizes."
+   ],
+   "history": [
+    {
+     "date": "2026-10-15",
+     "price": 54.99,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "Small (8-12 in.) potted/bareroot; Medium (1-2 ft) and Large (2-3 ft) cost more, up to $74.99"
+  },
+  {
+   "id": "beautiful-beginnings--early-jewel",
+   "variety": "early-jewel",
+   "nursery": "beautiful-beginnings",
+   "status": "sold_out",
+   "price": 54.99,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://beautifulbeginningsnursery.com/product/early-jewel-american-persimmon-2/",
+   "first_seen": "2026-10-15",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Ships spring (dormant) or autumn (potted), subject to availability; the page's price range is $54.99 to $74.99 by size and does not map prices to sizes."
+   ],
+   "history": [
+    {
+     "date": "2026-10-15",
+     "price": 54.99,
+     "status": "sold_out"
+    }
+   ],
+   "sold_as": "Small (8-12 in.) potted/bareroot; Medium (1-2 ft) and Large (2-3 ft) cost more, up to $74.99"
+  },
+  {
+   "id": "beautiful-beginnings--dec-goliath",
+   "variety": "dec-goliath",
+   "nursery": "beautiful-beginnings",
+   "status": "sold_out",
+   "price": 54.99,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://beautifulbeginningsnursery.com/product/dec-goliath-american-persimmon-2/",
+   "first_seen": "2026-10-15",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Ships spring (dormant) or autumn (potted), subject to availability; the page's price range is $54.99 to $74.99 by size and does not map prices to sizes."
+   ],
+   "history": [
+    {
+     "date": "2026-10-15",
+     "price": 54.99,
+     "status": "sold_out"
+    }
+   ],
+   "sold_as": "Small (8-12 in.) potted/bareroot; Medium (1-2 ft) and Large (2-3 ft) cost more, up to $74.99"
+  },
+  {
+   "id": "beautiful-beginnings--valeene-beauty",
+   "variety": "valeene-beauty",
+   "nursery": "beautiful-beginnings",
+   "status": "sold_out",
+   "price": 54.99,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://beautifulbeginningsnursery.com/product/valeene-beauty-american-persimmon/",
+   "first_seen": "2026-10-15",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Ships spring (dormant) or autumn (potted), subject to availability; the page's price range is $54.99 to $74.99 by size and does not map prices to sizes."
+   ],
+   "history": [
+    {
+     "date": "2026-10-15",
+     "price": 54.99,
+     "status": "sold_out"
+    }
+   ],
+   "sold_as": "Small (8-12 in.) potted/bareroot; Medium (1-2 ft) and Large (2-3 ft) cost more, up to $74.99"
+  },
+  {
+   "id": "blue-hill--tin-cup",
+   "variety": "tin-cup",
+   "nursery": "blue-hill",
+   "status": "in_stock",
+   "price": 39.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://bluehillwildlifenursery.com/product/tin-cup-persimmons/",
+   "first_seen": "2026-10-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-25",
+     "price": 39.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Ships spring 2027 (pick the date)",
+   "sold_as": "1-2 ft grafted bare-root; $39.95-$64.95 range by size (1-2, 2-3, 3-4 ft)"
+  },
+  {
+   "id": "blue-hill--szukis",
+   "variety": "szukis",
+   "nursery": "blue-hill",
+   "status": "in_stock",
+   "price": 39.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://bluehillwildlifenursery.com/product/szukis-persimmons/",
+   "first_seen": "2026-10-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-25",
+     "price": 39.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Ships spring 2027 (pick the date)",
+   "sold_as": "1-2 ft grafted bare-root; $39.95-$64.95 range by size (1-2, 2-3, 3-4 ft)"
+  },
+  {
+   "id": "blue-hill--yates",
+   "variety": "yates",
+   "nursery": "blue-hill",
+   "status": "sold_out",
+   "price": 39.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://bluehillwildlifenursery.com/product/yates-persimmons-tree/",
+   "first_seen": "2026-10-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-25",
+     "price": 39.95,
+     "status": "sold_out"
+    }
+   ],
+   "ships": "Ships spring 2027 (pick the date)",
+   "sold_as": "1-2 ft grafted bare-root; $39.95-$64.95 range by size (1-2, 2-3, 3-4 ft)"
+  },
+  {
+   "id": "restoring-eden--nikitas-gift",
+   "variety": "nikitas-gift",
+   "nursery": "restoring-eden",
+   "status": "in_stock",
+   "price": 39.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://restoringeden.co/product/persimmon-nikitas-gift-4-5-tall/",
+   "first_seen": "2026-11-05",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-11-05",
+     "price": 39.99,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "1-gallon, grafted on American persimmon rootstock"
+  },
+  {
+   "id": "restoring-eden--early-golden",
+   "variety": "early-golden",
+   "nursery": "restoring-eden",
+   "status": "in_stock",
+   "price": 39.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://restoringeden.co/product/american-persimmon-tree-early-golden/",
+   "first_seen": "2026-11-05",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-11-05",
+     "price": 39.99,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "1-gallon, grafted on American persimmon rootstock"
+  },
+  {
+   "id": "restoring-eden--meader",
+   "variety": "meader",
+   "nursery": "restoring-eden",
+   "status": "in_stock",
+   "price": 39.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://restoringeden.co/product/american-persimmon-tree-meader/",
+   "first_seen": "2026-11-05",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-11-05",
+     "price": 39.99,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "1-gallon, grafted on American persimmon rootstock"
+  },
+  {
+   "id": "restoring-eden--prairie-gem",
+   "variety": "prairie-gem",
+   "nursery": "restoring-eden",
+   "status": "in_stock",
+   "price": 39.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://restoringeden.co/product/persimmon-prairie-gem/",
+   "first_seen": "2026-11-05",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-11-05",
+     "price": 39.99,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "1-gallon, grafted on American persimmon rootstock"
+  },
+  {
+   "id": "restoring-eden--prairie-star",
+   "variety": "prairie-star",
+   "nursery": "restoring-eden",
+   "status": "in_stock",
+   "price": 39.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://restoringeden.co/product/american-persimmon-tree-prairie-star/",
+   "first_seen": "2026-11-05",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-11-05",
+     "price": 39.99,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "1-gallon, grafted on American persimmon rootstock"
+  },
+  {
+   "id": "restoring-eden--prairie-sun",
+   "variety": "prairie-sun",
+   "nursery": "restoring-eden",
+   "status": "sold_out",
+   "price": 39.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://restoringeden.co/product/american-persimmon-tree-prairie-sun/",
+   "first_seen": "2026-11-05",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-11-05",
+     "price": 39.99,
+     "status": "sold_out"
+    }
+   ],
+   "sold_as": "1-gallon, grafted on American persimmon rootstock"
+  },
+  {
+   "id": "restoring-eden--szukis",
+   "variety": "szukis",
+   "nursery": "restoring-eden",
+   "status": "in_stock",
+   "price": 39.99,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://restoringeden.co/product/american-persimmon-tree-szukis/",
+   "first_seen": "2026-11-05",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Stock status could not be read from the product page."
+   ],
+   "history": [
+    {
+     "date": "2026-11-05",
+     "price": 39.99,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-11-09",
+     "price": 39.99,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "1-gallon, grafted on American persimmon rootstock"
+  }
+ ]
+}

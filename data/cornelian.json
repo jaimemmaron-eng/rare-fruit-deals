@@ -1,0 +1,2214 @@
+{
+ "fruit": "cornelian",
+ "updated": "2026-11-09",
+ "scope": "Named cornelian cherry (Cornus mas) cultivars grown for fruit, shippable to Annandale, NJ (zone 6b/7a; the species is hardy to zone 4). Unnamed seedlings and ornamental leaf-color forms (Variegata, Tricolor, Aurea, Golden Glory, Saffron Sentinel) are left out. US sellers mostly use trademark names for the Ukrainian cultivars (Pioneer = Lukianivskyi, Sunrise = Marina, Red Star = Vydubetskyi, Yellow = Yantarnyi), so the same tree shows up under both names. Plant two different cultivars for a good crop.",
+ "last_run": {
+  "date": "2026-11-09",
+  "summary": "Back in stock at Raintree Nursery: Pioneer $49.99, Coral Blaze $49.99. Sold out at Cricket Hill Garden: Sunrise. Price changes at One Green World: Elegant $44.95 → $39.95, Exotica $44.95 → $39.95, Yellow $44.95 → $39.95.",
+  "gaps": [
+   "burnt-ridge: no per-variety prices"
+  ],
+  "checked": [
+   "cricket-hill",
+   "one-green-world",
+   "planting-justice",
+   "raintree",
+   "restoring-eden"
+  ],
+  "held": [],
+  "notes": []
+ },
+ "history_log": [
+  "Oct 3: seeded from One Green World, Cricket Hill Garden, Restoring Eden, Raintree and Burnt Ridge.",
+  "Oct 5: One Green World's full cornelian cherry lineup sold out; Restoring Eden's remaining stock confirmed sold out; Burnt Ridge dropped its Sunrise listing.",
+  "Oct 6: One Green World's entire cornelian cherry lineup (9 cultivars) sold out / waitlist-only; all other nurseries unchanged.",
+  "Oct 7: One Green World's 9 varieties confirmed in stock on product pages (category page misleadingly says 'email me'); Burnt Ridge Elegant now orderable for winter/spring ship; added Raintree Elegant listing (sold out, $36.99); logged 2 more no-named-stock sellers (Fedco, ClassyGroundCovers).",
+  "Oct 8: No lineup changes at the five tracked nurseries; added two previously-missed Raintree listings (Yellow, Sunrise - both sold out); logged 3 more no-named-stock sellers (Wanderlust, Northwoods, Whitman Farms).",
+  "Oct 9: No stock changes; all 5 nurseries re-checked and confirmed steady. Burnt Ridge's Sunrise no longer appears in their catalog.",
+  "Oct 10: No stock or price changes at any of the five tracked nurseries; confirmed Burnt Ridge's published shipping rate table ($23.95-$31.95 for a single tree to NJ). No new named-cultivar sellers found.",
+  "Oct 11: No changes - all 5 nurseries re-checked, stock unchanged; added Broken Arrow Nursery (Flava, unavailable); overnight check: no changes at the 2 nurseries checked",
+  "Oct 12: no changes at the 3 nurseries checked",
+  "Oct 13: no changes at the 3 nurseries checked",
+  "Oct 14: Sold out at Cricket Hill Garden: Red Dawn",
+  "Oct 15: no changes at the 3 nurseries checked",
+  "Oct 18: New listings at Planting Justice: Elegant (sold out), Pioneer (sold out), Red Dawn (sold out), Red Star (sold out), Redstone (sold out), Sunrise (sold out), Yellow (sold out); Found one new seller: Planting Justice (Oakland, CA) lists Elegant, Pioneer, Red Dawn, Red Star, Redstone, Sunrise and Yellow, all sold out tonight; Mr Maple, Nutcracker, Chalet, Dietrich Gardens, Cloud Mountain and the European/UK nurseries had nothing in scope",
+  "Oct 20: Sold out at Cricket Hill Garden: Pioneer, Sunrise, Juliusz, Ugolek, Pervenets; Price changes at Restoring Eden: Elegant $39.99 → $31.99, Red Star $39.99 → $31.99, Pioneer $39.99 → $31.99, Sunrise $39.99 → $31.99, Red Dawn $39.99 → $31.99, Coral Blaze $39.99 → $31.99, Exotica $39.99 → $31.99, Svitlana $39.99 → $31.99 and 1 more",
+  "Oct 22: Back in stock at Cricket Hill Garden: Sunrise $52; Price changes at Restoring Eden: Elegant $31.99 → $39.99, Red Star $31.99 → $39.99, Pioneer $31.99 → $39.99, Sunrise $31.99 → $39.99, Red Dawn $31.99 → $39.99, Coral Blaze $31.99 → $39.99, Exotica $31.99 → $39.99, Svitlana $31.99 → $39.99 and 1 more; Restoring Eden 20% 1-gallon sale ended Oct 20; Prices back to regular",
+  "Oct 26: Back in stock at Restoring Eden: Elegant $39.99, Red Star $39.99, Pioneer $39.99, Red Dawn $39.99, Coral Blaze $39.99, Exotica $39.99, Svitlana $39.99, Yellow $39.99; Sold out at Cricket Hill Garden: Sunrise",
+  "Oct 28: New listings at Jung Seed: Red Star (sold out); New listings at SymbiOp Garden Shop: Red Star (sold out); Found two new sellers of Red Star: Jung Seed ($42.95, sold out, ships spring) and SymbiOp Garden Shop (Portland pickup only, sold out); Plant Addicts, Plantlust and Meadows Farms had nothing in scope",
+  "Oct 29: no changes at the 2 nurseries checked",
+  "Nov 2: Back in stock at Cricket Hill Garden: Sunrise $52",
+  "Nov 5: no changes at the 7 nurseries checked",
+  "Nov 8: No new sellers or varieties tonight: Scenic Hill Farm, Bower & Branch and Big Beautiful Barns sell only unnamed Cornus mas; Cricket Hill's extra cornelian cherry listings are seedlings (aurea strain, open-pollinated Elegant seedling), which are out of scope",
+  "Nov 9: Back in stock at Raintree Nursery: Pioneer $49.99, Coral Blaze $49.99; Sold out at Cricket Hill Garden: Sunrise; Price changes at One Green World: Elegant $44.95 → $39.95, Exotica $44.95 → $39.95, Yellow $44.95 → $39.95"
+ ],
+ "sources": {
+  "directories": [
+   [
+    "Restoring Eden: Ukrainian cultivar name mapping",
+    "https://restoringeden.co/product-category/fruiting-shrubs/cornelian-cherry/"
+   ],
+   [
+    "Carya nursery (Poland) cultivar catalogue",
+    "https://cornusmas.eu/catalogue/cornelian-cherry"
+   ]
+  ],
+  "checked_no_named_stock": [
+   "Nature Hills (unnamed species only, sold out)",
+   "Dancing Oaks (nursery pickup only, unnamed)",
+   "Old Dairy Nursery (unnamed, not available in 2026)",
+   "Sooner Plant Farm (unnamed, $195 5-gal)",
+   "Phoenix Perennials (BC, Canada) - carries Cornus mas 'Red Star' but ships within Canada only, not to the US",
+   "Edible Landscaping (ediblelandscaping.com) - no Cornus mas / cornelian cherry products found in current catalog",
+   "Fedco Trees (fedcoseeds.com) - unnamed Cornus mas seedling only, no named cultivars",
+   "ClassyGroundCovers.com - unnamed Cornus mas seedling only ($102, 3-gal pot), no named cultivars",
+   "Wanderlust Nursery (wanderlustnursery.com) - sells unnamed Cornus mas seed packets only ($3), pickup/appointment only, no named cultivars",
+   "Northwoods Nursery (northwoodsnursery.com) - wholesale catalog only (lists per-tree royalty surcharge, no retail prices or online ordering); same trademark names as One Green World",
+   "Whitman Farms (whitmanfarms.com) - phone/text order only, online catalog described as out of date, no confirmed current named cornelian cherry stock",
+   "Cascadia Edible Plant Nursery Cooperative (eatyouryard.store, Seattle) - only one named cultivar (Elegant) among its Cornus mas offerings; no shipping policy found on site, appears to be local/regional only",
+   "NVK Nurseries (nvknurseries.com) - wholesale/trade only (requires login for prices/availability), no retail storefront",
+   "Fedco Trees current catalog (sarah.fedcoseeds.com/trees/cornelian-cherries) - confirms unnamed seedlings only, no named cultivars (same as fedcoseeds.com entry already logged)",
+   "Perennial Crops Nursery (perennialcropsnursery.com) - unnamed Cornus mas seedling only ($30, currently out of stock), no named cultivars",
+   "Mr Maple (mrmaple.com) - only Cornus mas 'JFS PN4 Legacy' / Saffron Sentinel, an ornamental leaf-color form ($40 1-gal, $150 6-gal); no fruiting cultivars",
+   "Nutcracker Nursery (nutcrackernursery.com) - unnamed Cornus mas only, ships within Canada only",
+   "Chalet Nursery (chaletnursery.com) - unnamed Cornus mas tree form ($229.99), local delivery, no named cultivars",
+   "Dietrich Gardens (thegardenct.com) - unnamed Cornus mas ($70, 3-gal), no shipping information",
+   "Cloud Mountain Farm Center (cloudmountainfarmcenter.org) - closed, no longer accepting orders",
+   "Carya nursery (cornusmas.eu) - lists many named cultivars but is a European nursery with no US shipping information; not confirmed shippable to NJ",
+   "Ashwood Nurseries and Bluebell Nursery (UK) - list Cornus mas 'Jolico' but are UK sellers, not shipping to the US",
+   "Plant Addicts (plantaddicts.com) - only Cornus mas 'Golden Glory', an ornamental form ($67.99 3-gal), no fruiting cultivars",
+   "Plantlust (shop.plantlust.com) - unnamed Cornus mas only ($6.99 bare-root), sold out",
+   "Meadows Farms (meadowsfarms.com) - unnamed Cornus mas 3-gal only, no named cultivars",
+   "Scenic Hill Farm Nursery (scenichillfarmnursery.com) - unnamed Cornus mas potted trees only, no named cultivars",
+   "Bower & Branch (bowerandbranch.com) - unnamed Cornus mas only, no named cultivars",
+   "Big Beautiful Barns (bbbarns.com) - unnamed Cornus mas 3-gal only, no named cultivars"
+  ],
+  "dead": [],
+  "to_check": []
+ },
+ "nurseries": [
+  {
+   "id": "one-green-world",
+   "name": "One Green World",
+   "location": "Portland, OR",
+   "state": "OR",
+   "url": "https://onegreenworld.com/product-category/fruiting-trees/cornelian-cherry/",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 20,
+    "high": 25,
+    "source": "https://onegreenworld.com/shipping-information/",
+    "note": "Shipping is “approximately $20–$25 depending on the destination state”, more for tall or heavy plants (UPS, from Portland OR)."
+   },
+   "note": "1-gallon trees, fall shipping. The category page showed no out-of-stock label on any of its 9 cornelian cherries on Oct 3; only Elegant's product page was individually confirmed in stock."
+  },
+  {
+   "id": "cricket-hill",
+   "name": "Cricket Hill Garden",
+   "location": "Thomaston, CT",
+   "state": "CT",
+   "url": "https://www.treepeony.com/collections/cornelian-cherry",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 25,
+    "high": 35,
+    "note": "UPS Ground, calculated per item."
+   },
+   "note": "Largest named collection found (about 25 cultivars). Grafted trees in an MT49 tree pot; ships fall 2026. About 130 mi from Annandale."
+  },
+  {
+   "id": "restoring-eden",
+   "name": "Restoring Eden",
+   "location": "SeaTac & Enumclaw, WA",
+   "state": "WA",
+   "url": "https://restoringeden.co/product-category/fruiting-shrubs/cornelian-cherry/",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 25,
+    "high": 35,
+    "note": "Size-based rate + $5/plant; no NJ figure published."
+   },
+   "phone": "253-202-5587",
+   "note": "Carries the same 9 Ukrainian cultivars as One Green World at $39.99. Elegant and Red Star product pages showed out of stock on Oct 3; the other 7 pages weren't individually checked."
+  },
+  {
+   "id": "raintree",
+   "name": "Raintree Nursery",
+   "location": "Morton, WA",
+   "state": "WA",
+   "url": "https://raintreenursery.com/collections/dogwood",
+   "shipping": {
+    "type": "percent",
+    "confirmed": true,
+    "min": 39.99,
+    "tiers": [
+     [
+      1000000000.0,
+      0.25
+     ]
+    ],
+    "source": "https://raintreenursery.com/pages/shipping-policy"
+   },
+   "note": "Pioneer, Red Star and Coral Blaze pages all show “notify me when available”."
+  },
+  {
+   "id": "burnt-ridge",
+   "name": "Burnt Ridge Nursery",
+   "location": "Onalaska, WA",
+   "state": "WA",
+   "url": "https://www.burntridgenursery.com/mobile/Dogwood-Trees/products/71/",
+   "shipping": {
+    "type": "table",
+    "table": [
+     [
+      30.0,
+      23.95
+     ],
+     [
+      50.0,
+      25.95
+     ],
+     [
+      80.0,
+      29.95
+     ],
+     [
+      100.0,
+      31.95
+     ]
+    ],
+    "over_pct": 27,
+    "confirmed": true,
+    "source": "https://www.burntridgenursery.com/text/Shipping_Chart_2026.pdf"
+   },
+   "note": "Catalog lists Elegant and Sunrise plus seedlings; per-item price and stock didn't load online.",
+   "unreadable": {
+    "since": "2026-11-09",
+    "nights": 1,
+    "last": "2026-11-09",
+    "reason": "no per-variety prices"
+   }
+  },
+  {
+   "id": "broken-arrow",
+   "name": "Broken Arrow Nursery",
+   "location": "Hamden, CT",
+   "state": "CT",
+   "url": "https://www.brokenarrownursery.com/cornus-mas-flava-yellow-fruited-corneliancherry-dogwood-203718.html",
+   "note": "Mail-order ships to most states (excludes AK, AZ, CA, CO, FL, HI, ID, MT, NV, OR, UT, WA); also local pickup in Hamden, CT.",
+   "shipping": {
+    "type": "estimate",
+    "low": 25,
+    "high": 35
+   }
+  },
+  {
+   "id": "planting-justice",
+   "name": "Planting Justice",
+   "location": "Oakland, CA",
+   "state": "CA",
+   "url": "https://plantingjustice.org/collections/cornelian-cherries",
+   "shipping": {
+    "type": "percent",
+    "confirmed": true,
+    "min": 20,
+    "tiers": [
+     [
+      1000000000.0,
+      0.3
+     ]
+    ],
+    "source": "https://plantingjustice.org/pages/help",
+    "note": "Published rate east of the Rockies (incl. NJ): $20 flat + 30% of order total; ships Mon/Tue."
+   },
+   "note": "Nonprofit nursery; all 9 cornelian cherry items sold out Oct 18. Seller lists Pioneer, Red Star etc. at $32."
+  },
+  {
+   "id": "jung-seed",
+   "name": "Jung Seed",
+   "location": "Randolph, WI",
+   "state": "WI",
+   "url": "https://www.jungseed.com/product/J20326",
+   "shipping": {
+    "type": "flat",
+    "amount": 15.95,
+    "confirmed": true,
+    "source": "https://www.jungseed.com/shipping"
+   },
+   "note": "Live plants don't ship before March 1; ships by region from mid-March."
+  },
+  {
+   "id": "symbiop",
+   "name": "SymbiOp Garden Shop",
+   "location": "Portland, OR",
+   "state": "OR",
+   "url": "https://gardenshop.symbiop.com/products/red-star-cornelian-cherry-tree-nn",
+   "shipping": {
+    "type": "pickup"
+   },
+   "note": "In-store pickup only in Portland, OR; no shipping."
+  }
+ ],
+ "varieties": [
+  {
+   "id": "elegant",
+   "fruit": "cornelian",
+   "name": "Elegant",
+   "color": "red",
+   "tags": [
+    "Dark red"
+   ],
+   "aliases": [
+    "Elehantnyi",
+    "Elegantnyj",
+    "Elegantnyi"
+   ],
+   "summary": "Heavy crops of dark red, pear-shaped fruit; sweet enough to eat fresh.",
+   "description": "Ukrainian cultivar ‘Elehantnyi’, sold in the US as Elegant™. Bears heavy crops of glossy dark red, pear-shaped fruit that ripens late August into September and tends to hang on the tree rather than drop. Sweet enough for fresh eating when fully ripe, and good for preserves. Plant a second variety for best fruit set.",
+   "breeder": {
+    "name": "Svitlana Klymenko (Kyiv)",
+    "kind": "breeder",
+    "short": "Klymenko"
+   },
+   "awards": [],
+   "first_seen": "2026-10-03",
+   "notes": []
+  },
+  {
+   "id": "pioneer",
+   "fruit": "cornelian",
+   "name": "Pioneer",
+   "color": "red",
+   "tags": [
+    "Dark red",
+    "Early"
+   ],
+   "aliases": [
+    "Lukyanovskii",
+    "Lukianivskyi",
+    "Lukianovskyi"
+   ],
+   "summary": "Large, juicy, aromatic pear-shaped fruit that ripens about two weeks before Elegant.",
+   "description": "Ukrainian cultivar ‘Lukianivskyi’ (Lukyanovskii), released in 1975 from Kyiv's botanical garden and sold in the US as Pioneer™. Very productive, with glossy dark red, pear-shaped fruit up to 1½\" long; juicy, sweet and aromatic, and soft when fully ripe. Ripens late summer, ahead of Elegant.",
+   "breeder": {
+    "name": "Svitlana Klymenko (Kyiv)",
+    "kind": "breeder",
+    "short": "Klymenko"
+   },
+   "awards": [],
+   "first_seen": "2026-10-03",
+   "notes": []
+  },
+  {
+   "id": "red-star",
+   "fruit": "cornelian",
+   "name": "Red Star",
+   "color": "red",
+   "tags": [
+    "Dark red"
+   ],
+   "aliases": [
+    "Vydubetskyi",
+    "Vidubetskii",
+    "Vydubieckii",
+    "Redstar"
+   ],
+   "summary": "One of the most productive cultivars; juicy, glossy dark red oval fruit.",
+   "description": "Ukrainian cultivar ‘Vydubetskyi’ from Svitlana Klymenko's breeding work, released in 1990 and sold in the US as Red Star™. Among the heaviest croppers, with glossy dark red, oval fruit about 1¼\" long and a sweet-tart, aromatic flavor. Needs another variety as a pollinizer.",
+   "breeder": {
+    "name": "Svitlana Klymenko (Kyiv)",
+    "kind": "breeder",
+    "short": "Klymenko"
+   },
+   "awards": [],
+   "first_seen": "2026-10-03",
+   "notes": []
+  },
+  {
+   "id": "sunrise",
+   "fruit": "cornelian",
+   "name": "Sunrise",
+   "color": "coral",
+   "tags": [
+    "Striped"
+   ],
+   "aliases": [
+    "Marina"
+   ],
+   "summary": "Rounded light red fruit streaked with orange; high sugar, tastes like the yellow types.",
+   "description": "Ukrainian cultivar ‘Marina’, from Svitlana Klymenko's breeding work, sold by One Green World as Sunrise™. Rounded fruit with light red skin streaked orange; sweet, with a high sugar content and a flavor closer to the yellow-fruited varieties. Ripens early September.",
+   "breeder": {
+    "name": "Svitlana Klymenko (Kyiv)",
+    "kind": "breeder",
+    "short": "Klymenko"
+   },
+   "awards": [],
+   "first_seen": "2026-10-03",
+   "notes": []
+  },
+  {
+   "id": "red-dawn",
+   "fruit": "cornelian",
+   "name": "Red Dawn",
+   "color": "red",
+   "tags": [
+    "Red"
+   ],
+   "aliases": [
+    "Syretskyi",
+    "Siretski",
+    "Radost"
+   ],
+   "summary": "Ukrainian red cultivar from the Kyiv breeding program, sold as Red Dawn™.",
+   "description": "Ukrainian cultivar ‘Syretskyi’, from the Kyiv botanical garden program, sold in the US as Red Dawn™. A red-fruited selection often paired with Red Star or Sunrise to stretch the harvest.",
+   "breeder": {
+    "name": "Svitlana Klymenko (Kyiv)",
+    "kind": "breeder",
+    "short": "Klymenko"
+   },
+   "awards": [],
+   "first_seen": "2026-10-03",
+   "notes": []
+  },
+  {
+   "id": "coral-blaze",
+   "fruit": "cornelian",
+   "name": "Coral Blaze",
+   "color": "coral",
+   "tags": [
+    "Coral red",
+    "Sweet"
+   ],
+   "aliases": [
+    "Koralovyi Marka",
+    "Koralovyj Marka"
+   ],
+   "summary": "Bright coral-red fruit, among the sweetest; drops when fully ripe.",
+   "description": "Ukrainian cultivar ‘Koralovyi Marka’, sold as Coral Blaze™. Larger and sweeter than average, with bright coral-red fruit (growers report around 12% sugar, among the highest). Fruit drops when completely ripe; 20–30 lb from a mature plant. Needs a pollinizer; Pioneer and Sunrise are suggested partners.",
+   "breeder": {
+    "name": "Svitlana Klymenko (Kyiv)",
+    "kind": "breeder",
+    "short": "Klymenko"
+   },
+   "awards": [],
+   "first_seen": "2026-10-03",
+   "notes": []
+  },
+  {
+   "id": "exotica",
+   "fruit": "cornelian",
+   "name": "Exotica",
+   "color": "red",
+   "tags": [
+    "Red"
+   ],
+   "aliases": [
+    "Ekzotychnyi",
+    "Ekzoticheskiy"
+   ],
+   "summary": "Ukrainian cultivar with large, sweet fruit (around 10% sugar reported).",
+   "description": "Ukrainian cultivar ‘Ekzotychnyi’ (Ekzoticheskiy), sold in the US as Exotica™. Large red fruit with a relatively high sugar content for the species (growers report about 10%).",
+   "breeder": {
+    "name": "Svitlana Klymenko (Kyiv)",
+    "kind": "breeder",
+    "short": "Klymenko"
+   },
+   "awards": [],
+   "first_seen": "2026-10-03",
+   "notes": []
+  },
+  {
+   "id": "svitlana",
+   "fruit": "cornelian",
+   "name": "Svitlana",
+   "color": "red",
+   "tags": [
+    "Red"
+   ],
+   "aliases": [
+    "U-26"
+   ],
+   "summary": "Kyiv selection U-26, named for breeder Svitlana Klymenko.",
+   "description": "Selection ‘U-26’ from the Kyiv breeding program, named Svitlana™ in honor of Dr. Svitlana Klymenko, who led Ukraine's Cornus mas breeding work for decades.",
+   "breeder": {
+    "name": "Svitlana Klymenko (Kyiv)",
+    "kind": "breeder",
+    "short": "Klymenko"
+   },
+   "awards": [],
+   "first_seen": "2026-10-03",
+   "notes": []
+  },
+  {
+   "id": "yellow",
+   "fruit": "cornelian",
+   "name": "Yellow",
+   "color": "yellow",
+   "tags": [
+    "Yellow fruit"
+   ],
+   "aliases": [
+    "Yantarnyi",
+    "Yantarny",
+    "Jantarnyj"
+   ],
+   "summary": "Amber-yellow fruit with a slightly tropical flavor; heavy cropper.",
+   "description": "Ukrainian cultivar ‘Yantarnyi’ (“amber”), sold as Yellow™. One of the few yellow-fruited cornelian cherries: smaller fruit than the big reds, but growers report high yields and a tropical note to the flavor. Slow-growing.",
+   "breeder": {
+    "name": "Svitlana Klymenko (Kyiv)",
+    "kind": "breeder",
+    "short": "Klymenko"
+   },
+   "awards": [],
+   "first_seen": "2026-10-03",
+   "notes": []
+  },
+  {
+   "id": "juliusz",
+   "fruit": "cornelian",
+   "name": "Juliusz",
+   "color": "red",
+   "tags": [
+    "Red"
+   ],
+   "aliases": [
+    "Yulyush"
+   ],
+   "summary": "Polish cultivar bred at Arboretum Bolestraszyce.",
+   "description": "Polish cultivar bred at Arboretum Bolestraszyce, one of Europe's main Cornus mas collections. Rarely offered in the US.",
+   "breeder": {
+    "name": "Arboretum Bolestraszyce",
+    "kind": "breeder",
+    "short": "Bolestraszyce"
+   },
+   "awards": [],
+   "first_seen": "2026-10-03",
+   "notes": []
+  },
+  {
+   "id": "ugolek",
+   "fruit": "cornelian",
+   "name": "Ugolek",
+   "color": "dark",
+   "tags": [
+    "Near-black"
+   ],
+   "aliases": [
+    "Uholok"
+   ],
+   "summary": "Very dark, almost black-red fruit; name means “little ember”.",
+   "description": "Eastern European selection whose name means “little ember”, for its very dark, almost black-red fruit. Rarely offered in the US.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-03",
+   "notes": []
+  },
+  {
+   "id": "pervenets",
+   "fruit": "cornelian",
+   "name": "Pervenets",
+   "color": "red",
+   "tags": [
+    "Red"
+   ],
+   "aliases": [
+    "Pervenec"
+   ],
+   "summary": "Eastern European selection; name means “firstborn”.",
+   "description": "Eastern European cornelian cherry selection whose name means “firstborn”. Rarely offered in the US.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-03",
+   "notes": []
+  },
+  {
+   "id": "vavilovets",
+   "fruit": "cornelian",
+   "name": "Vavilovets",
+   "color": "red",
+   "tags": [
+    "Red"
+   ],
+   "aliases": [],
+   "summary": "Eastern European named selection; Cricket Hill lists it, sold out today.",
+   "description": "Eastern European named selection; Cricket Hill lists it, sold out today. Details will fill in as more sellers are checked.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-03",
+   "notes": []
+  },
+  {
+   "id": "black-plum",
+   "fruit": "cornelian",
+   "name": "Black Plum",
+   "color": "dark",
+   "tags": [
+    "Near-black"
+   ],
+   "aliases": [],
+   "summary": "Very dark-fruited selection; Cricket Hill lists it, sold out today.",
+   "description": "Very dark-fruited selection; Cricket Hill lists it, sold out today. Details will fill in as more sellers are checked.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-03",
+   "notes": []
+  },
+  {
+   "id": "redstone",
+   "fruit": "cornelian",
+   "name": "Redstone",
+   "color": "red",
+   "tags": [
+    "Red"
+   ],
+   "aliases": [],
+   "summary": "Red-fruited selection; Cricket Hill lists it, sold out today.",
+   "description": "Red-fruited selection; Cricket Hill lists it, sold out today. Details will fill in as more sellers are checked.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-03",
+   "notes": []
+  },
+  {
+   "id": "yugo-sweet",
+   "fruit": "cornelian",
+   "name": "Yugo Sweet",
+   "color": "red",
+   "tags": [
+    "Red"
+   ],
+   "aliases": [],
+   "summary": "Sweet-fruited selection; Cricket Hill lists it, sold out today.",
+   "description": "Sweet-fruited selection; Cricket Hill lists it, sold out today. Details will fill in as more sellers are checked.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-03",
+   "notes": []
+  },
+  {
+   "id": "aliosha",
+   "fruit": "cornelian",
+   "name": "Aliosha",
+   "color": "yellow",
+   "tags": [
+    "Yellow fruit"
+   ],
+   "aliases": [
+    "Alyosha"
+   ],
+   "summary": "Eastern European named selection; Cricket Hill lists it, sold out today.",
+   "description": "Eastern European named selection; Cricket Hill lists it, sold out today. Details will fill in as more sellers are checked.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-03",
+   "notes": []
+  },
+  {
+   "id": "svitliachok",
+   "fruit": "cornelian",
+   "name": "Svitliachok",
+   "color": "yellow",
+   "tags": [
+    "Yellow fruit"
+   ],
+   "aliases": [
+    "Svetlyachok",
+    "Swietljaczok"
+   ],
+   "summary": "Name means “firefly”; Cricket Hill lists it, sold out today.",
+   "description": "Name means “firefly”; Cricket Hill lists it, sold out today. Details will fill in as more sellers are checked.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-03",
+   "notes": []
+  },
+  {
+   "id": "flava",
+   "fruit": "cornelian",
+   "name": "Flava",
+   "color": "yellow",
+   "tags": [
+    "Yellow fruit"
+   ],
+   "aliases": [],
+   "summary": "Yellow-fruited selection; Cricket Hill lists it, sold out today.",
+   "description": "Yellow-fruited selection; Cricket Hill lists it, sold out today. Details will fill in as more sellers are checked.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-03",
+   "notes": []
+  },
+  {
+   "id": "starokyivskyi",
+   "fruit": "cornelian",
+   "name": "Starokyivskyi",
+   "color": "red",
+   "tags": [
+    "Red"
+   ],
+   "aliases": [
+    "Starokievskiy"
+   ],
+   "summary": "Ukrainian named selection; Cricket Hill lists it, sold out today.",
+   "description": "Ukrainian named selection; Cricket Hill lists it, sold out today. Details will fill in as more sellers are checked.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-03",
+   "notes": []
+  },
+  {
+   "id": "fruchtal",
+   "fruit": "cornelian",
+   "name": "Fruchtal",
+   "color": "red",
+   "tags": [
+    "Red"
+   ],
+   "aliases": [],
+   "summary": "Named selection; Cricket Hill lists it, sold out today.",
+   "description": "Named selection; Cricket Hill lists it, sold out today. Details will fill in as more sellers are checked.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-03",
+   "notes": []
+  },
+  {
+   "id": "dripping-cherries",
+   "fruit": "cornelian",
+   "name": "Dripping Cherries",
+   "color": "red",
+   "tags": [
+    "Red"
+   ],
+   "aliases": [],
+   "summary": "Named selection; Cricket Hill lists it, sold out today.",
+   "description": "Named selection; Cricket Hill lists it, sold out today. Details will fill in as more sellers are checked.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-03",
+   "notes": []
+  },
+  {
+   "id": "vladimirsky",
+   "fruit": "cornelian",
+   "name": "Vladimirsky",
+   "color": "red",
+   "tags": [
+    "Red"
+   ],
+   "aliases": [
+    "Vladimirskiy"
+   ],
+   "summary": "Eastern European named selection; Cricket Hill lists it, sold out today.",
+   "description": "Eastern European named selection; Cricket Hill lists it, sold out today. Details will fill in as more sellers are checked.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-03",
+   "notes": []
+  }
+ ],
+ "listings": [
+  {
+   "id": "one-green-world--elegant",
+   "variety": "elegant",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 39.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/elegant-cornelian-cherry/",
+   "first_seen": "2026-10-03",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-03",
+     "price": 44.95,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-11-09",
+     "price": 39.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "1-gal; ships fall"
+  },
+  {
+   "id": "one-green-world--pioneer",
+   "variety": "pioneer",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 44.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/pioneer-cornelian-cherry/",
+   "first_seen": "2026-10-03",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Stock from the category page; product page not individually checked."
+   ],
+   "history": [
+    {
+     "date": "2026-10-03",
+     "price": 44.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "1-gal; ships fall"
+  },
+  {
+   "id": "one-green-world--red-star",
+   "variety": "red-star",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 44.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/red-star-cornelian-cherry/",
+   "first_seen": "2026-10-03",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Stock from the category page; product page not individually checked."
+   ],
+   "history": [
+    {
+     "date": "2026-10-03",
+     "price": 44.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "1-gal; ships fall"
+  },
+  {
+   "id": "one-green-world--sunrise",
+   "variety": "sunrise",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 44.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/sunrise-cornelian-cherry-tree/",
+   "first_seen": "2026-10-03",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Stock from the category page; product page not individually checked."
+   ],
+   "history": [
+    {
+     "date": "2026-10-03",
+     "price": 44.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "1-gal; ships fall"
+  },
+  {
+   "id": "one-green-world--red-dawn",
+   "variety": "red-dawn",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 44.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/red-dawn-cornelian-cherry/",
+   "first_seen": "2026-10-03",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Stock from the category page; product page not individually checked."
+   ],
+   "history": [
+    {
+     "date": "2026-10-03",
+     "price": 44.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "1-gal; ships fall"
+  },
+  {
+   "id": "one-green-world--coral-blaze",
+   "variety": "coral-blaze",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 44.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/coral-blaze-cornelian-cherry/",
+   "first_seen": "2026-10-03",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Stock from the category page; product page not individually checked."
+   ],
+   "history": [
+    {
+     "date": "2026-10-03",
+     "price": 44.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "1-gal; ships fall"
+  },
+  {
+   "id": "one-green-world--exotica",
+   "variety": "exotica",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 39.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/exotica-cornelian-cherry/",
+   "first_seen": "2026-10-03",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Stock from the category page; product page not individually checked."
+   ],
+   "history": [
+    {
+     "date": "2026-10-03",
+     "price": 44.95,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-11-09",
+     "price": 39.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "1-gal; ships fall"
+  },
+  {
+   "id": "one-green-world--svitlana",
+   "variety": "svitlana",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 44.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/svitlana-cornelian-cherry/",
+   "first_seen": "2026-10-03",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Stock from the category page; product page not individually checked."
+   ],
+   "history": [
+    {
+     "date": "2026-10-03",
+     "price": 44.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "1-gal; ships fall"
+  },
+  {
+   "id": "one-green-world--yellow",
+   "variety": "yellow",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 39.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/yellow-cornelian-cherry-tree/",
+   "first_seen": "2026-10-03",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Stock from the category page; product page not individually checked."
+   ],
+   "history": [
+    {
+     "date": "2026-10-03",
+     "price": 44.95,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-11-09",
+     "price": 39.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "1-gal; ships fall"
+  },
+  {
+   "id": "cricket-hill--pioneer",
+   "variety": "pioneer",
+   "nursery": "cricket-hill",
+   "status": "sold_out",
+   "price": 52,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.treepeony.com/collections/cornelian-cherry/products/cornus-mas-lukianivskyi-cornelian-cherry",
+   "first_seen": "2026-10-03",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Sold out since Oct 20."
+   ],
+   "history": [
+    {
+     "date": "2026-10-03",
+     "price": 52,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-20",
+     "price": 52,
+     "status": "sold_out"
+    }
+   ],
+   "sold_as": "Lukianivskyi",
+   "ships": "MT49 tree pot; ships fall 2026"
+  },
+  {
+   "id": "cricket-hill--sunrise",
+   "variety": "sunrise",
+   "nursery": "cricket-hill",
+   "status": "sold_out",
+   "price": 52,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.treepeony.com/collections/cornelian-cherry/products/cornus-marina-cornelian-cherry",
+   "first_seen": "2026-10-03",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Sold out since Oct 20."
+   ],
+   "history": [
+    {
+     "date": "2026-10-03",
+     "price": 52,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-20",
+     "price": 52,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-22",
+     "price": 52,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-26",
+     "price": 52,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-11-02",
+     "price": 52,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-11-09",
+     "price": 52,
+     "status": "sold_out"
+    }
+   ],
+   "sold_as": "Marina",
+   "ships": "MT49 tree pot; ships fall 2026"
+  },
+  {
+   "id": "cricket-hill--red-dawn",
+   "variety": "red-dawn",
+   "nursery": "cricket-hill",
+   "status": "sold_out",
+   "price": 52,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.treepeony.com/collections/cornelian-cherry/products/cornelian-cherry-red-dawn",
+   "first_seen": "2026-10-03",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-03",
+     "price": 52,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-14",
+     "price": 52,
+     "status": "sold_out"
+    }
+   ],
+   "ships": "MT49 tree pot; ships fall 2026"
+  },
+  {
+   "id": "cricket-hill--juliusz",
+   "variety": "juliusz",
+   "nursery": "cricket-hill",
+   "status": "sold_out",
+   "price": 52,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://www.treepeony.com/collections/cornelian-cherry/products/cornus-juliusz-cornelian-cherry",
+   "first_seen": "2026-10-03",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Sold out since Oct 20."
+   ],
+   "history": [
+    {
+     "date": "2026-10-03",
+     "price": 52,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-20",
+     "price": 52,
+     "status": "sold_out"
+    }
+   ],
+   "ships": "MT49 tree pot; ships fall 2026"
+  },
+  {
+   "id": "cricket-hill--ugolek",
+   "variety": "ugolek",
+   "nursery": "cricket-hill",
+   "status": "sold_out",
+   "price": 52,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.treepeony.com/collections/cornelian-cherry/products/cornus-ugolek-cornelian-cherry",
+   "first_seen": "2026-10-03",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Sold out since Oct 20."
+   ],
+   "history": [
+    {
+     "date": "2026-10-03",
+     "price": 52,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-20",
+     "price": 52,
+     "status": "sold_out"
+    }
+   ],
+   "ships": "MT49 tree pot; ships fall 2026"
+  },
+  {
+   "id": "cricket-hill--pervenets",
+   "variety": "pervenets",
+   "nursery": "cricket-hill",
+   "status": "sold_out",
+   "price": 52,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.treepeony.com/collections/cornelian-cherry/products/cornus-mas-pervenets-cornelian-cherry",
+   "first_seen": "2026-10-03",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Sold out since Oct 20."
+   ],
+   "history": [
+    {
+     "date": "2026-10-03",
+     "price": 52,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-20",
+     "price": 52,
+     "status": "sold_out"
+    }
+   ],
+   "ships": "MT49 tree pot; ships fall 2026"
+  },
+  {
+   "id": "cricket-hill--elegant",
+   "variety": "elegant",
+   "nursery": "cricket-hill",
+   "status": "sold_out",
+   "price": 52,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://www.treepeony.com/collections/cornelian-cherry/products/cornelian-cherry-elegant",
+   "first_seen": "2026-10-03",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-03",
+     "price": 52,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "cricket-hill--red-star",
+   "variety": "red-star",
+   "nursery": "cricket-hill",
+   "status": "sold_out",
+   "price": 52,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.treepeony.com/collections/cornelian-cherry/products/cornelian-cherry-red-star",
+   "first_seen": "2026-10-03",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-03",
+     "price": 52,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "cricket-hill--yellow",
+   "variety": "yellow",
+   "nursery": "cricket-hill",
+   "status": "sold_out",
+   "price": 52,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.treepeony.com/collections/cornelian-cherry/products/cornelian-cherry-yantarny",
+   "first_seen": "2026-10-03",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-03",
+     "price": 52,
+     "status": "sold_out"
+    }
+   ],
+   "sold_as": "Yantarny"
+  },
+  {
+   "id": "cricket-hill--exotica",
+   "variety": "exotica",
+   "nursery": "cricket-hill",
+   "status": "sold_out",
+   "price": 52,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.treepeony.com/collections/cornelian-cherry/products/cornus-ekzoticheskiy-cornelian-cherry",
+   "first_seen": "2026-10-03",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-03",
+     "price": 52,
+     "status": "sold_out"
+    }
+   ],
+   "sold_as": "Ekzoticheskiy"
+  },
+  {
+   "id": "cricket-hill--vavilovets",
+   "variety": "vavilovets",
+   "nursery": "cricket-hill",
+   "status": "sold_out",
+   "price": 52,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://www.treepeony.com/collections/cornelian-cherry/products/cornus-vavilovets-cornelian-cherry",
+   "first_seen": "2026-10-03",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-03",
+     "price": 52,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "cricket-hill--black-plum",
+   "variety": "black-plum",
+   "nursery": "cricket-hill",
+   "status": "sold_out",
+   "price": 52,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.treepeony.com/collections/cornelian-cherry/products/cornus-black-plum-cornelian-cherry",
+   "first_seen": "2026-10-03",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-03",
+     "price": 52,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "cricket-hill--redstone",
+   "variety": "redstone",
+   "nursery": "cricket-hill",
+   "status": "sold_out",
+   "price": 52,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://www.treepeony.com/collections/cornelian-cherry/products/redstone-cornelian-cherry",
+   "first_seen": "2026-10-03",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-03",
+     "price": 52,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "cricket-hill--yugo-sweet",
+   "variety": "yugo-sweet",
+   "nursery": "cricket-hill",
+   "status": "sold_out",
+   "price": 48,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://www.treepeony.com/collections/cornelian-cherry/products/cornus-yugo-sweet-cornelian-cherry",
+   "first_seen": "2026-10-03",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-03",
+     "price": 48,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "cricket-hill--aliosha",
+   "variety": "aliosha",
+   "nursery": "cricket-hill",
+   "status": "sold_out",
+   "price": 52,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.treepeony.com/collections/cornelian-cherry/products/cornus-aliosha-cornelian-cherry-1",
+   "first_seen": "2026-10-03",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-03",
+     "price": 52,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "cricket-hill--svitliachok",
+   "variety": "svitliachok",
+   "nursery": "cricket-hill",
+   "status": "sold_out",
+   "price": 52,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://www.treepeony.com/collections/cornelian-cherry/products/cornus-svitliachok-cornelian-cherry",
+   "first_seen": "2026-10-03",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-03",
+     "price": 52,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "cricket-hill--flava",
+   "variety": "flava",
+   "nursery": "cricket-hill",
+   "status": "sold_out",
+   "price": 65,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.treepeony.com/collections/cornelian-cherry/products/cornus-flava-cornelian-cherry",
+   "first_seen": "2026-10-03",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-03",
+     "price": 65,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "cricket-hill--starokyivskyi",
+   "variety": "starokyivskyi",
+   "nursery": "cricket-hill",
+   "status": "sold_out",
+   "price": 52,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://www.treepeony.com/collections/cornelian-cherry/products/cornus-starokyivskyi-cornelian-cherry",
+   "first_seen": "2026-10-03",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-03",
+     "price": 52,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "cricket-hill--fruchtal",
+   "variety": "fruchtal",
+   "nursery": "cricket-hill",
+   "status": "sold_out",
+   "price": 65,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.treepeony.com/collections/cornelian-cherry/products/cornus-fruitful-cornelian-cherry",
+   "first_seen": "2026-10-03",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-03",
+     "price": 65,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "cricket-hill--dripping-cherries",
+   "variety": "dripping-cherries",
+   "nursery": "cricket-hill",
+   "status": "sold_out",
+   "price": 65,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.treepeony.com/collections/cornelian-cherry/products/cornus-dripping-cherries-cornelian-cherry",
+   "first_seen": "2026-10-03",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-03",
+     "price": 65,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "cricket-hill--vladimirsky",
+   "variety": "vladimirsky",
+   "nursery": "cricket-hill",
+   "status": "sold_out",
+   "price": 65,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.treepeony.com/collections/cornelian-cherry/products/cornus-mas-vladimirsky-cornelian-cherry",
+   "first_seen": "2026-10-03",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-03",
+     "price": 65,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "restoring-eden--elegant",
+   "variety": "elegant",
+   "nursery": "restoring-eden",
+   "status": "in_stock",
+   "price": 39.99,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://restoringeden.co/product/cornelian-cherry-elegant/",
+   "first_seen": "2026-10-03",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-03",
+     "price": 39.99,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-20",
+     "price": 31.99,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-22",
+     "price": 39.99,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-26",
+     "price": 39.99,
+     "status": "in_stock"
+    }
+   ],
+   "was_price": null
+  },
+  {
+   "id": "restoring-eden--red-star",
+   "variety": "red-star",
+   "nursery": "restoring-eden",
+   "status": "in_stock",
+   "price": 39.99,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://restoringeden.co/product/red-star-cornelian-cherry/",
+   "first_seen": "2026-10-03",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-03",
+     "price": 39.99,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-20",
+     "price": 31.99,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-22",
+     "price": 39.99,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-26",
+     "price": 39.99,
+     "status": "in_stock"
+    }
+   ],
+   "was_price": null
+  },
+  {
+   "id": "restoring-eden--pioneer",
+   "variety": "pioneer",
+   "nursery": "restoring-eden",
+   "status": "in_stock",
+   "price": 39.99,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://restoringeden.co/product/cornelian-cherry-pioneer/",
+   "first_seen": "2026-10-03",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Confirmed sold out, no stock at either RE location, as of Oct 5, 2026."
+   ],
+   "history": [
+    {
+     "date": "2026-10-03",
+     "price": 39.99,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-05",
+     "price": 39.99,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-20",
+     "price": 31.99,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-22",
+     "price": 39.99,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-26",
+     "price": 39.99,
+     "status": "in_stock"
+    }
+   ],
+   "was_price": null
+  },
+  {
+   "id": "restoring-eden--sunrise",
+   "variety": "sunrise",
+   "nursery": "restoring-eden",
+   "status": "sold_out",
+   "price": 39.99,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://restoringeden.co/product/cornelian-cherry-sunrise/",
+   "first_seen": "2026-10-03",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Confirmed sold out as of Oct 5, 2026."
+   ],
+   "history": [
+    {
+     "date": "2026-10-03",
+     "price": 39.99,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-05",
+     "price": 39.99,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-20",
+     "price": 31.99,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-22",
+     "price": 39.99,
+     "status": "sold_out"
+    }
+   ],
+   "was_price": null
+  },
+  {
+   "id": "restoring-eden--red-dawn",
+   "variety": "red-dawn",
+   "nursery": "restoring-eden",
+   "status": "in_stock",
+   "price": 39.99,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://restoringeden.co/product/cornelian-cherry-red-dawn/",
+   "first_seen": "2026-10-03",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Confirmed sold out as of Oct 5, 2026."
+   ],
+   "history": [
+    {
+     "date": "2026-10-03",
+     "price": 39.99,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-05",
+     "price": 39.99,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-20",
+     "price": 31.99,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-22",
+     "price": 39.99,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-26",
+     "price": 39.99,
+     "status": "in_stock"
+    }
+   ],
+   "was_price": null
+  },
+  {
+   "id": "restoring-eden--coral-blaze",
+   "variety": "coral-blaze",
+   "nursery": "restoring-eden",
+   "status": "in_stock",
+   "price": 39.99,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://restoringeden.co/product/cornelian-cherry-coral-blaze/",
+   "first_seen": "2026-10-03",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Confirmed sold out, no stock at either RE location, as of Oct 5, 2026."
+   ],
+   "history": [
+    {
+     "date": "2026-10-03",
+     "price": 39.99,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-05",
+     "price": 39.99,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-20",
+     "price": 31.99,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-22",
+     "price": 39.99,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-26",
+     "price": 39.99,
+     "status": "in_stock"
+    }
+   ],
+   "was_price": null
+  },
+  {
+   "id": "restoring-eden--exotica",
+   "variety": "exotica",
+   "nursery": "restoring-eden",
+   "status": "in_stock",
+   "price": 39.99,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://restoringeden.co/product/cornelian-cherry-exotica/",
+   "first_seen": "2026-10-03",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Confirmed sold out ($39.99-49.99 depending on size) as of Oct 5, 2026."
+   ],
+   "history": [
+    {
+     "date": "2026-10-03",
+     "price": 39.99,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-05",
+     "price": 39.99,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-20",
+     "price": 31.99,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-22",
+     "price": 39.99,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-26",
+     "price": 39.99,
+     "status": "in_stock"
+    }
+   ],
+   "was_price": null
+  },
+  {
+   "id": "restoring-eden--svitlana",
+   "variety": "svitlana",
+   "nursery": "restoring-eden",
+   "status": "in_stock",
+   "price": 39.99,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://restoringeden.co/product/cornelian-cherry-svitlana/",
+   "first_seen": "2026-10-03",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Confirmed sold out as of Oct 5, 2026."
+   ],
+   "history": [
+    {
+     "date": "2026-10-03",
+     "price": 39.99,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-05",
+     "price": 39.99,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-20",
+     "price": 31.99,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-22",
+     "price": 39.99,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-26",
+     "price": 39.99,
+     "status": "in_stock"
+    }
+   ],
+   "was_price": null
+  },
+  {
+   "id": "restoring-eden--yellow",
+   "variety": "yellow",
+   "nursery": "restoring-eden",
+   "status": "in_stock",
+   "price": 39.99,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://restoringeden.co/product/cornelian-cherry-yellow/",
+   "first_seen": "2026-10-03",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Confirmed sold out ($39.99-69.99 depending on size) as of Oct 5, 2026."
+   ],
+   "history": [
+    {
+     "date": "2026-10-03",
+     "price": 39.99,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-05",
+     "price": 39.99,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-20",
+     "price": 31.99,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-22",
+     "price": 39.99,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-26",
+     "price": 39.99,
+     "status": "in_stock"
+    }
+   ],
+   "was_price": null
+  },
+  {
+   "id": "raintree--pioneer",
+   "variety": "pioneer",
+   "nursery": "raintree",
+   "status": "in_stock",
+   "price": 49.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/products/pioneer%E2%84%A2-cornus-mas",
+   "first_seen": "2026-10-03",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-03",
+     "price": 48.99,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-11-09",
+     "price": 49.99,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "raintree--red-star",
+   "variety": "red-star",
+   "nursery": "raintree",
+   "status": "sold_out",
+   "price": 32.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/products/red-star-cornus-mas-1-2-foot",
+   "first_seen": "2026-10-03",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-03",
+     "price": 32.99,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "raintree--coral-blaze",
+   "variety": "coral-blaze",
+   "nursery": "raintree",
+   "status": "in_stock",
+   "price": 49.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/products/coral-blaze-cornus-mas",
+   "first_seen": "2026-10-03",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-03",
+     "price": null,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-07",
+     "price": 48.99,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-11-09",
+     "price": 49.99,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "burnt-ridge--elegant",
+   "variety": "elegant",
+   "nursery": "burnt-ridge",
+   "status": "in_stock",
+   "price": 32.5,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.burntridgenursery.com/mobile/ELEGANT-CORNELIAN-CHERRY-DOGWOOD-Cornus-mas/productinfo/NSDOELE/",
+   "first_seen": "2026-10-03",
+   "last_checked": "2026-11-05",
+   "notes": [
+    "Orderable now for Winter/Spring shipment (not immediate ship)."
+   ],
+   "history": [
+    {
+     "date": "2026-10-03",
+     "price": null,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-05",
+     "price": 32.5,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-07",
+     "price": 32.5,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Winter/Spring"
+  },
+  {
+   "id": "burnt-ridge--sunrise",
+   "variety": "sunrise",
+   "nursery": "burnt-ridge",
+   "status": "sold_out",
+   "price": null,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://www.burntridgenursery.com/mobile/Dogwood-Trees/products/71/",
+   "first_seen": "2026-10-03",
+   "last_checked": "2026-11-05",
+   "notes": [
+    "No longer listed in Burnt Ridge's online Dogwood Trees catalog as of Oct 9; previously sold out. Elegant is still listed there."
+   ],
+   "history": [
+    {
+     "date": "2026-10-03",
+     "price": null,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-05",
+     "price": null,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "raintree--elegant",
+   "variety": "elegant",
+   "nursery": "raintree",
+   "status": "sold_out",
+   "price": 36.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/products/elegant%E2%84%A2-cornus-mas",
+   "first_seen": "2026-10-07",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-07",
+     "price": 36.99,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "raintree--yellow",
+   "variety": "yellow",
+   "nursery": "raintree",
+   "status": "sold_out",
+   "price": 32.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/collections/dogwood/products/yellow-fruited-cornus-mas-3-4-foot",
+   "first_seen": "2026-10-08",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Previously-missed listing found on Raintree's dogwood page; sold out."
+   ],
+   "history": [
+    {
+     "date": "2026-10-08",
+     "price": 32.99,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "raintree--sunrise",
+   "variety": "sunrise",
+   "nursery": "raintree",
+   "status": "sold_out",
+   "price": 48.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/collections/dogwood/products/sunrise%E2%84%A2-cornus-mas",
+   "first_seen": "2026-10-08",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Previously-missed listing found on Raintree's dogwood page; sold out."
+   ],
+   "history": [
+    {
+     "date": "2026-10-08",
+     "price": 48.99,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "broken-arrow--flava",
+   "variety": "flava",
+   "nursery": "broken-arrow",
+   "status": "sold_out",
+   "price": null,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://www.brokenarrownursery.com/cornus-mas-flava-yellow-fruited-corneliancherry-dogwood-203718.html",
+   "first_seen": "2026-10-11",
+   "last_checked": "2026-11-05",
+   "notes": [
+    "Listed as \"Currently Unavailable\" with a Notify Me option; no price shown."
+   ],
+   "history": [
+    {
+     "date": "2026-10-11",
+     "price": null,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "planting-justice--elegant",
+   "variety": "elegant",
+   "nursery": "planting-justice",
+   "status": "sold_out",
+   "price": 32.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://plantingjustice.org/collections/cornelian-cherries/products/elegant-conventional",
+   "first_seen": "2026-10-18",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Collection page showed Sold Out on Oct 18, 2026; size not stated."
+   ],
+   "history": [
+    {
+     "date": "2026-10-18",
+     "price": 32.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "planting-justice--pioneer",
+   "variety": "pioneer",
+   "nursery": "planting-justice",
+   "status": "sold_out",
+   "price": 32.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://plantingjustice.org/collections/cornelian-cherries/products/pioneer-conventional",
+   "first_seen": "2026-10-18",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Collection page showed Sold Out on Oct 18, 2026; size not stated."
+   ],
+   "history": [
+    {
+     "date": "2026-10-18",
+     "price": 32.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "planting-justice--red-dawn",
+   "variety": "red-dawn",
+   "nursery": "planting-justice",
+   "status": "sold_out",
+   "price": 32.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://plantingjustice.org/collections/cornelian-cherries/products/red-dawn-conventional",
+   "first_seen": "2026-10-18",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Collection page showed Sold Out on Oct 18, 2026; size not stated."
+   ],
+   "history": [
+    {
+     "date": "2026-10-18",
+     "price": 32.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "planting-justice--red-star",
+   "variety": "red-star",
+   "nursery": "planting-justice",
+   "status": "sold_out",
+   "price": 32.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://plantingjustice.org/collections/cornelian-cherries/products/red-star-conventional",
+   "first_seen": "2026-10-18",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Collection page showed Sold Out on Oct 18, 2026; size not stated."
+   ],
+   "history": [
+    {
+     "date": "2026-10-18",
+     "price": 32.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "planting-justice--redstone",
+   "variety": "redstone",
+   "nursery": "planting-justice",
+   "status": "sold_out",
+   "price": 32.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://plantingjustice.org/collections/cornelian-cherries/products/redstone-organic",
+   "first_seen": "2026-10-18",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Collection page showed Sold Out on Oct 18, 2026; size not stated.",
+    "Listed as a seedling."
+   ],
+   "history": [
+    {
+     "date": "2026-10-18",
+     "price": 32.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "planting-justice--sunrise",
+   "variety": "sunrise",
+   "nursery": "planting-justice",
+   "status": "sold_out",
+   "price": 32.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://plantingjustice.org/collections/cornelian-cherries/products/sunrise-conventional",
+   "first_seen": "2026-10-18",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Collection page showed Sold Out on Oct 18, 2026; size not stated."
+   ],
+   "history": [
+    {
+     "date": "2026-10-18",
+     "price": 32.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "planting-justice--yellow",
+   "variety": "yellow",
+   "nursery": "planting-justice",
+   "status": "sold_out",
+   "price": 32.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://plantingjustice.org/collections/cornelian-cherries/products/yellow-cornelian-cherry-conventional",
+   "first_seen": "2026-10-18",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Collection page showed Sold Out on Oct 18, 2026; size not stated."
+   ],
+   "history": [
+    {
+     "date": "2026-10-18",
+     "price": 32.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "jung-seed--red-star",
+   "variety": "red-star",
+   "nursery": "jung-seed",
+   "status": "sold_out",
+   "price": 42.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.jungseed.com/product/J20326",
+   "first_seen": "2026-10-28",
+   "last_checked": "2026-11-05",
+   "notes": [
+    "Page offers 'notify me when available'."
+   ],
+   "history": [
+    {
+     "date": "2026-10-28",
+     "price": 42.95,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "symbiop--red-star",
+   "variety": "red-star",
+   "nursery": "symbiop",
+   "status": "sold_out",
+   "price": 35.0,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://gardenshop.symbiop.com/products/red-star-cornelian-cherry-tree-nn",
+   "first_seen": "2026-10-28",
+   "last_checked": "2026-11-05",
+   "notes": [
+    "In-store pickup only in Portland, OR."
+   ],
+   "history": [
+    {
+     "date": "2026-10-28",
+     "price": 35.0,
+     "status": "sold_out"
+    }
+   ],
+   "sold_as": "1-gal ($35); 2- and 5-gal $45"
+  }
+ ]
+}

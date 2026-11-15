@@ -1,0 +1,3332 @@
+{
+ "version": 1,
+ "checked": "2026-10-05",
+ "home_zip": "08801",
+ "about": "Shipping rules per nursery, for estimating total cost to any US ZIP. See tools/shipping.py (estimate). confidence: published = rates read on the nursery's own page; partial = some rules published; calculated_only = ships, but rates only at checkout (estimated from distance); not_found = policy not found.",
+ "zone_model": {
+  "zone_miles": [
+   [
+    50,
+    1
+   ],
+   [
+    150,
+    2
+   ],
+   [
+    300,
+    3
+   ],
+   [
+    600,
+    4
+   ],
+   [
+    1000,
+    5
+   ],
+   [
+    1400,
+    6
+   ],
+   [
+    1800,
+    7
+   ]
+  ],
+  "generic_box_cost_by_zone": {
+   "2": [
+    12,
+    18
+   ],
+   "3": [
+    13,
+    20
+   ],
+   "4": [
+    14,
+    22
+   ],
+   "5": [
+    16,
+    25
+   ],
+   "6": [
+    18,
+    28
+   ],
+   "7": [
+    19,
+    31
+   ],
+   "8": [
+    21,
+    34
+   ],
+   "9": [
+    35,
+    60
+   ]
+  }
+ },
+ "nurseries": {
+  "Northwoods Nursery": {
+   "name": "Northwoods Nursery",
+   "board_ids": [
+    "northwoods"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "Molalla",
+    "state": "OR",
+    "zip": "97038",
+    "zip_source": "guess"
+   },
+   "rule": {
+    "type": "calculated",
+    "notes": "northwoodsnursery.com sells fruit/nut/berry plants incl. pawpaw; no shipping rates found on fetched pages"
+   },
+   "excluded_states": [],
+   "season": "unknown",
+   "carrier": "unknown",
+   "confidence": "calculated_only",
+   "source": "https://www.northwoodsnursery.com/",
+   "checked": "2026-10-05",
+   "notes": "Site confirmed as real nursery; shipping/ordering page URLs 404; ZIP is a guess for Molalla."
+  },
+  "Ort Family Farm": {
+   "name": "Ort Family Farm",
+   "board_ids": [
+    "ort-family"
+   ],
+   "ships": false,
+   "ship_from": {
+    "city": "Bradford",
+    "state": "NY",
+    "zip": "14815",
+    "zip_source": "guess"
+   },
+   "rule": {
+    "type": "pickup",
+    "notes": "Not verified; listing not found on pawpawlist page 1."
+   },
+   "excluded_states": [],
+   "season": "",
+   "carrier": "unknown",
+   "confidence": "not_found",
+   "source": "https://www.pawpawlist.com/pawpaw-producers",
+   "checked": "2026-10-05",
+   "notes": "Unverified."
+  },
+  "Schlabach's Nursery": {
+   "name": "Schlabach's Nursery",
+   "board_ids": [
+    "schlabachs"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "Medina",
+    "state": "NY",
+    "zip": "14103",
+    "zip_source": "guess"
+   },
+   "rule": {
+    "type": "calculated",
+    "notes": "No info found."
+   },
+   "excluded_states": [],
+   "season": "",
+   "carrier": "unknown",
+   "confidence": "not_found",
+   "source": "https://www.pawpawlist.com/pawpaw-producers",
+   "checked": "2026-10-05",
+   "notes": "Mail-order catalog only; not researched further."
+  },
+  "Sleepy Gap Pawpaws": {
+   "name": "Sleepy Gap Pawpaws",
+   "board_ids": [
+    "sleepy-gap"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "Arden",
+    "state": "NC",
+    "zip": "28704",
+    "zip_source": "guess"
+   },
+   "rule": {
+    "type": "calculated",
+    "notes": "No own storefront or rates found. Described as small nursery near Asheville NC supplying seedlings to Fifth Season Gardening."
+   },
+   "excluded_states": [],
+   "season": "unknown",
+   "carrier": "unknown",
+   "confidence": "not_found",
+   "source": "https://fifthseasongardening.com/talking-pawpaws-with-sleepy-gap-pawpaws",
+   "checked": "2026-10-05",
+   "notes": "Not in pawpawlist page 1; may sell via Fifth Season Gardening (shop.fifthseasongardening.com)."
+  },
+  "acnursery.com": {
+   "name": "Adams County Nursery",
+   "board_ids": [
+    "adams-county"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "Aspers",
+    "state": "PA",
+    "zip": "17304",
+    "zip_source": "contact page"
+   },
+   "rule": {
+    "type": "calculated",
+    "notes": "Wholesale-oriented; UPS ground at cost, LTL or pool truck for large orders; prices FOB Aspers."
+   },
+   "excluded_states": [],
+   "season": "",
+   "carrier": "UPS",
+   "confidence": "calculated_only",
+   "source": "https://www.acnursery.com/pricing/",
+   "checked": "2026-10-05",
+   "notes": "Net 30 terms; box sizes listed."
+  },
+  "advancednurserygrowers.com": {
+   "name": "Advanced Nursery Growers",
+   "board_ids": [
+    "advanced-nursery-growers"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "DeFuniak Springs",
+    "state": "FL",
+    "zip": "32433",
+    "zip_source": "guess"
+   },
+   "rule": {
+    "type": "calculated",
+    "notes": "Policy page blocked by robots."
+   },
+   "excluded_states": [],
+   "season": "unknown",
+   "carrier": "unknown",
+   "confidence": "not_found",
+   "source": "https://www.advancednurserygrowers.com/",
+   "checked": "2026-10-05",
+   "notes": "blocked"
+  },
+  "beautifulbeginningsnursery.com": {
+   "name": "Beautiful Beginnings Nursery",
+   "board_ids": [
+    "beautiful-beginnings"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "",
+    "state": "KY",
+    "zip": "",
+    "zip_source": "not found"
+   },
+   "rule": {
+    "type": "calculated",
+    "notes": "No published rates found; calculated at checkout."
+   },
+   "excluded_states": [],
+   "season": "Trees ship spring and autumn (per product page)",
+   "carrier": "unknown",
+   "confidence": "calculated_only",
+   "source": "https://beautifulbeginningsnursery.com/product/bennys-favorite-pawpaw/",
+   "checked": "2026-10-05",
+   "notes": "Family-owned mail-order nursery (owner Rachel Palacios), Kentucky; city/ZIP not found. /shipping and /shipping-policy 404."
+  },
+  "berriesunlimited.com": {
+   "name": "Berries Unlimited",
+   "board_ids": [
+    "berries-unlimited",
+    "berries-unlimited"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "Prairie Grove",
+    "state": "AR",
+    "zip": "72753",
+    "zip_source": "contact page"
+   },
+   "rule": {
+    "type": "calculated",
+    "notes": "Many items shipped by weight (rounded up to next lb); extra fees if multiple boxes. No table read."
+   },
+   "excluded_states": [],
+   "season": "Year-round; plants to zones 2-7 may be held until spring",
+   "carrier": "FedEx",
+   "confidence": "calculated_only",
+   "source": "https://www.berriesunlimited.com/shipping-returns/",
+   "checked": "2026-10-05",
+   "notes": "Exclusion list applies to gooseberries only. AK/HI via USPS Priority.",
+   "excluded_by_fruit": {
+    "gooseberry": [
+     "AZ",
+     "CA",
+     "DE",
+     "FL",
+     "MA",
+     "ME",
+     "MI",
+     "NC",
+     "NH",
+     "NJ",
+     "NM",
+     "NV",
+     "NY",
+     "RI",
+     "WV"
+    ]
+   }
+  },
+  "berryplants.com": {
+   "name": "Krieger's Nursery (Berry Plants)",
+   "board_ids": [
+    "berryplants"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "Bridgman",
+    "state": "MI",
+    "zip": "49106",
+    "zip_source": "contact page"
+   },
+   "rule": {
+    "type": "calculated",
+    "free_over": 150,
+    "notes": "Free shipping on orders $150+ (contiguous US); below that calculated at checkout"
+   },
+   "excluded_states": [
+    "AK",
+    "HI"
+   ],
+   "season": "Taking orders for Fall 2026 / Spring 2027 shipping; planting guide Apr-May",
+   "carrier": "unknown",
+   "confidence": "partial",
+   "source": "https://berryplants.com/raspberries.php",
+   "checked": "2026-10-05",
+   "notes": "PO Box 116, Bridgman MI 49106. AK/HI excluded from free shipping; no shipping outside contiguous US.",
+   "lower48_only": true
+  },
+  "blessingsgrowmeadows.com": {
+   "name": "Blessings Grow Meadows",
+   "board_ids": [
+    "blessings-grow-meadows"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "Metter",
+    "state": "GA",
+    "zip": "30439",
+    "zip_source": "guess"
+   },
+   "rule": {
+    "type": "calculated",
+    "notes": "Policy lists only merchandise flat $8.99 and free-over thresholds for other supplier items; live-plant rate not found."
+   },
+   "excluded_states": [],
+   "season": "Not found",
+   "carrier": "unknown",
+   "confidence": "not_found",
+   "source": "https://blessingsgrowmeadows.com/policies/shipping-policy",
+   "checked": "2026-10-05",
+   "notes": "Input's $8.99 flat appears to apply to custom printed/merch only, NOT plants - treat as unverified. Express excluded from free shipping on live trees. Continental US, no PO boxes, processing up to 4 business days.",
+   "lower48_only": true
+  },
+  "bluehillwildlifenursery.com": {
+   "name": "Blue Hill Wildlife Nursery",
+   "board_ids": [
+    "blue-hill",
+    "blue-hill"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "Selinsgrove",
+    "state": "PA",
+    "zip": "17870",
+    "zip_source": "contact page"
+   },
+   "rule": {
+    "type": "calculated",
+    "notes": "Rates shown at checkout; more boxes cost more. Minimum 2 products per order. Boxes hold 30-34 grafted trees or up to 70 2-3 ft trees."
+   },
+   "excluded_states": [
+    "CA"
+   ],
+   "season": "Mid-March to last Monday in April (customer picks ship date); free local pickup Mar-Apr",
+   "carrier": "unknown",
+   "confidence": "calculated_only",
+   "source": "https://bluehillwildlifenursery.com/shipping-policy/",
+   "checked": "2026-10-05",
+   "notes": "Chestnuts also cannot ship to WA, WI, FL, OR. Winter shipping by special arrangement. Phone 570-259-2171."
+  },
+  "bobwellsnursery.com": {
+   "name": "Bob Wells Nursery",
+   "board_ids": [
+    "bob-wells",
+    "bob-wells",
+    "bob-wells"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "Mineola",
+    "state": "TX",
+    "zip": "75773",
+    "zip_source": "policy page"
+   },
+   "rule": {
+    "type": "flat",
+    "amount": 24.95,
+    "notes": "Berries/1-gal plants $24.95 (up to 4/box); fruit trees $44.95-49.95 (up to 2/box)"
+   },
+   "excluded_states": [
+    "AK",
+    "HI",
+    "PR"
+   ],
+   "season": "",
+   "carrier": "FedEx",
+   "confidence": "published",
+   "source": "https://bobwellsnursery.com/shipping-info/",
+   "checked": "2026-10-05",
+   "notes": "Item restrictions: no citrus outside TX, no persimmon to CA, no grapes to NY/WA; OR bare root only"
+  },
+  "bowerandbranch.com": {
+   "name": "Bower & Branch",
+   "board_ids": [
+    "bower-and-branch"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "",
+    "state": "",
+    "zip": "",
+    "zip_source": "guess"
+   },
+   "rule": {
+    "type": "calculated",
+    "notes": "Shipping page not found."
+   },
+   "excluded_states": [],
+   "season": "",
+   "carrier": "unknown",
+   "confidence": "not_found",
+   "source": "https://bowerandbranch.com/products/garretson-common-persimmon-treeling",
+   "checked": "2026-10-05",
+   "notes": "Ships from regional growers."
+  },
+  "brambleberrypermaculture.com": {
+   "name": "Brambleberry Farm",
+   "board_ids": [
+    "brambleberry-farm"
+   ],
+   "ships": false,
+   "ship_from": {
+    "city": "Paoli",
+    "state": "IN",
+    "zip": "47454",
+    "zip_source": "guess"
+   },
+   "rule": {
+    "type": "pickup",
+    "notes": "Does not ship plants; pickup only. Only scionwood, cuttings, tubers ship."
+   },
+   "excluded_states": [],
+   "season": "",
+   "carrier": "none",
+   "confidence": "published",
+   "source": "https://www.brambleberrypermaculture.com/category/trees/less-common-fruits-trees/persimmon/",
+   "checked": "2026-10-05",
+   "notes": "Call ahead to check availability."
+  },
+  "brokenarrownursery.com": {
+   "name": "Broken Arrow Nursery",
+   "board_ids": [
+    "broken-arrow-nursery"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "Hamden",
+    "state": "CT",
+    "zip": "06518",
+    "zip_source": "policy page"
+   },
+   "rule": {
+    "type": "region",
+    "regions": [
+     {
+      "states": [
+       "CT",
+       "MA",
+       "RI",
+       "NH",
+       "VT",
+       "ME",
+       "NY",
+       "NJ",
+       "PA"
+      ],
+      "label": "Northeast",
+      "rule": {
+       "type": "percent",
+       "tiers": [
+        [
+         999999,
+         0.3
+        ]
+       ],
+       "min": 30
+      }
+     },
+     {
+      "states": [
+       "DE",
+       "MD",
+       "DC",
+       "VA",
+       "WV",
+       "NC",
+       "SC",
+       "GA",
+       "OH",
+       "MI",
+       "IN",
+       "KY",
+       "TN",
+       "AL",
+       "MS",
+       "WI",
+       "IL"
+      ],
+      "label": "Other east of Mississippi",
+      "rule": {
+       "type": "percent",
+       "tiers": [
+        [
+         999999,
+         0.4
+        ]
+       ],
+       "min": 40
+      }
+     },
+     {
+      "states": [
+       "TX",
+       "OK",
+       "KS",
+       "NE",
+       "SD",
+       "ND",
+       "MN",
+       "IA",
+       "MO",
+       "AR",
+       "LA",
+       "WY",
+       "NM"
+      ],
+      "label": "West of Mississippi",
+      "rule": {
+       "type": "percent",
+       "tiers": [
+        [
+         999999,
+         0.45
+        ]
+       ],
+       "min": 45
+      }
+     }
+    ],
+    "notes": "30% Northeast, 40% rest of east of Mississippi, 45% west; minimum $30-$45 by region for orders under $100. State groupings are my assignment of the policy's regions."
+   },
+   "excluded_states": [
+    "AK",
+    "AZ",
+    "CA",
+    "CO",
+    "FL",
+    "HI",
+    "ID",
+    "MT",
+    "NV",
+    "OR",
+    "UT",
+    "WA"
+   ],
+   "season": "Fall Sept-Nov (arrive by Nov 12); spring Mar-May",
+   "carrier": "unknown",
+   "confidence": "published",
+   "source": "https://www.brokenarrownursery.com/shipping-terms",
+   "checked": "2026-10-05",
+   "notes": "13 Broken Arrow Road. Previous 30% rule was Northeast only."
+  },
+  "burntridgenursery.com": {
+   "name": "Burnt Ridge Nursery",
+   "board_ids": [
+    "burnt-ridge",
+    "burnt-ridge",
+    "burnt-ridge",
+    "burnt-ridge",
+    "burnt-ridge",
+    "burnt-ridge",
+    "burnt-ridge",
+    "burntridge"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "Onalaska",
+    "state": "WA",
+    "zip": "98570",
+    "zip_source": "policy page"
+   },
+   "rule": {
+    "type": "calculated",
+    "notes": "Rates in a 2026 Shipping Chart PDF not readable; summer potted shipping costs more than dormant bareroot"
+   },
+   "excluded_states": [],
+   "season": "Bareroot Jan-Jun; potted Jul-Oct; fall Nov-Dec",
+   "carrier": "unknown",
+   "confidence": "calculated_only",
+   "source": "https://www.burntridgenursery.com/",
+   "checked": "2026-10-05",
+   "notes": "Address 432 Burnt Ridge Rd"
+  },
+  "burpee.com": {
+   "name": "Burpee",
+   "board_ids": [
+    "burpee"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "Warminster",
+    "state": "PA",
+    "zip": "18974",
+    "zip_source": "guess"
+   },
+   "rule": {
+    "type": "table",
+    "table": [
+     [
+      10,
+      9.95
+     ],
+     [
+      20,
+      11.95
+     ],
+     [
+      30,
+      12.95
+     ],
+     [
+      40,
+      13.95
+     ],
+     [
+      50,
+      14.95
+     ],
+     [
+      75,
+      15.95
+     ],
+     [
+      100,
+      16.95
+     ],
+     [
+      150,
+      18.95
+     ],
+     [
+      999999,
+      19.95
+     ]
+    ],
+    "over_pct": 0,
+    "notes": "Seeds-only $3.95 flat. Heavy/large items add $3.95-$54.95. Plants fulfilled from multiple locations, may arrive separately."
+   },
+   "excluded_states": [
+    "AK",
+    "CA",
+    "CO",
+    "HI",
+    "WA"
+   ],
+   "season": "Not stated",
+   "carrier": "UPS",
+   "confidence": "published",
+   "source": "https://www.burpee.com/shippingrates",
+   "checked": "2026-10-05",
+   "notes": "Plant restrictions vary by item for AK, HI, CA, CO, WA and others (list incomplete). Continental US only. NJ not noted as restricted.",
+   "lower48_only": true
+  },
+  "buypottedplants.com": {
+   "name": "Buy Potted Plants",
+   "board_ids": [
+    "buy-potted-plants"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "Ashburn",
+    "state": "GA",
+    "zip": "31714",
+    "zip_source": "guess"
+   },
+   "rule": {
+    "type": "calculated",
+    "notes": "Policy page 404."
+   },
+   "excluded_states": [],
+   "season": "",
+   "carrier": "unknown",
+   "confidence": "not_found",
+   "source": "https://www.buypottedplants.com/",
+   "checked": "2026-10-05",
+   "notes": "Not found."
+  },
+  "buyshrubsandtrees.com": {
+   "name": "Shrubs & Trees Depot",
+   "board_ids": [
+    "shrubs-trees-depot"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "zip_source": "guess"
+   },
+   "rule": {
+    "type": "calculated",
+    "notes": "No shipping page found."
+   },
+   "excluded_states": [],
+   "season": "Not found",
+   "carrier": "unknown",
+   "confidence": "not_found",
+   "source": "https://www.buyshrubsandtrees.com/paw-paw-tree",
+   "checked": "2026-10-05",
+   "notes": "Phone area code 229 (south GA). Trees ship potted. ZIP unknown."
+  },
+  "canopynursery.com": {
+   "name": "Canopy Nursery",
+   "board_ids": [
+    "canopy"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "Spring Green",
+    "state": "WI",
+    "zip": "53588",
+    "zip_source": "guess"
+   },
+   "rule": {
+    "type": "calculated",
+    "notes": "Rates not published on pages read."
+   },
+   "excluded_states": [],
+   "season": "Mar-May, shipped Mondays; bare root and cuttings only",
+   "carrier": "UPS Ground",
+   "confidence": "calculated_only",
+   "source": "https://www.canopynursery.com/pages/shipping-information",
+   "checked": "2026-10-05",
+   "notes": "Pickup in Champaign, IL; ship-from may be IL or WI, unconfirmed."
+  },
+  "chestnuthilltreefarm.com": {
+   "name": "Chestnut Hill Nursery",
+   "board_ids": [
+    "chestnut-hill"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "Alachua",
+    "state": "FL",
+    "zip": "32615",
+    "zip_source": "guess"
+   },
+   "rule": {
+    "type": "table",
+    "table": [
+     [
+      100,
+      22.5
+     ]
+    ],
+    "over_pct": 0.225,
+    "notes": "Under $100: $22.50 flat; $100+: 22.5% of order."
+   },
+   "excluded_states": [
+    "AK",
+    "AZ",
+    "CA",
+    "CO",
+    "HI",
+    "ID",
+    "MT",
+    "ND",
+    "NM",
+    "NV",
+    "OR",
+    "SD",
+    "UT",
+    "WA",
+    "WY"
+   ],
+   "season": "Ships Mon/Tue only",
+   "carrier": "FedEx",
+   "confidence": "published",
+   "source": "https://chestnuthilltreefarm.com/faqs/ordering-shipping/",
+   "checked": "2026-10-05",
+   "notes": "Pickup Fridays by appointment. FedEx Freight for pallets."
+  },
+  "classygroundcovers.com": {
+   "name": "Classy Groundcovers",
+   "board_ids": [
+    "classy-groundcovers"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "",
+    "state": "",
+    "zip": "",
+    "zip_source": "guess"
+   },
+   "rule": {
+    "type": "included",
+    "notes": "Shipped free in all US states per home page"
+   },
+   "excluded_states": [],
+   "season": "",
+   "carrier": "unknown",
+   "confidence": "partial",
+   "source": "https://classygroundcovers.com/",
+   "checked": "2026-10-05",
+   "notes": "Ship-from location not found"
+  },
+  "cornellfarms.com": {
+   "name": "Cornell Farm",
+   "board_ids": [
+    "cornell-farm"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97225",
+    "zip_source": "contact page"
+   },
+   "rule": {
+    "type": "calculated",
+    "notes": "UPS expedited to continental US; rates not published."
+   },
+   "excluded_states": [],
+   "season": "unknown",
+   "carrier": "UPS",
+   "confidence": "calculated_only",
+   "source": "https://cornellfarms.com/policies/shipping-policy",
+   "checked": "2026-10-05",
+   "notes": "8212 SW Barnes Rd. All plant sales final once boxed.",
+   "lower48_only": true
+  },
+  "cumminsnursery.com": {
+   "name": "Cummins Nursery",
+   "board_ids": [
+    "cummins"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "Ithaca",
+    "state": "NY",
+    "zip": "14850",
+    "zip_source": "contact page"
+   },
+   "rule": {
+    "type": "calculated",
+    "notes": "Real-time UPS Ground quote at checkout, billed at cost; boxes 58-68in so billed as oversize ~40 lb even for one tree; materials handling at cost"
+   },
+   "excluded_states": [],
+   "season": "Spring only, March-April",
+   "carrier": "UPS",
+   "confidence": "calculated_only",
+   "source": "https://www.cumminsnursery.com/buy-trees/growing-shipping-schedule/",
+   "checked": "2026-10-05",
+   "notes": "Site lists Ithaca address (1408 Trumansburg Rd), input said Geneva"
+  },
+  "doubleavineyards.com": {
+   "name": "Double A Vineyards",
+   "board_ids": [
+    "double-a",
+    "double-a"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "Fredonia",
+    "state": "NY",
+    "zip": "14063",
+    "zip_source": "guess"
+   },
+   "rule": {
+    "type": "calculated",
+    "notes": "Calculated at checkout; US only, other restrictions may apply"
+   },
+   "excluded_states": [],
+   "season": "unknown",
+   "carrier": "unknown",
+   "confidence": "calculated_only",
+   "source": "https://doubleavineyards.com/pages/warranty-cancellation-pricing-policies-returns",
+   "checked": "2026-10-05",
+   "notes": "Phone (716) 672-8493. ZIP assumed for Fredonia."
+  },
+  "easthilltreefarm.com": {
+   "name": "East Hill Tree Farm",
+   "board_ids": [
+    "east-hill-tree-farm"
+   ],
+   "ships": false,
+   "ship_from": {
+    "city": "Plainfield",
+    "state": "VT",
+    "zip": "05667",
+    "zip_source": "policy page"
+   },
+   "rule": {
+    "type": "pickup",
+    "notes": "We don't ship plants. Local pick-up only."
+   },
+   "excluded_states": [],
+   "season": "Open weekends through October",
+   "carrier": "none",
+   "confidence": "published",
+   "source": "https://easthilltreefarm.com",
+   "checked": "2026-10-05",
+   "notes": "3499 East Hill Rd. Pickup only."
+  },
+  "ediblelandscaping.com": {
+   "name": "Edible Landscaping",
+   "board_ids": [
+    "edible-landscaping",
+    "edible-landscaping",
+    "edible-landscaping",
+    "edible-landscaping",
+    "edible-landscaping",
+    "edible-landscaping"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "Afton",
+    "state": "VA",
+    "zip": "22920",
+    "zip_source": "guess"
+   },
+   "rule": {
+    "type": "percent",
+    "min": 15,
+    "tiers": [
+     [
+      25,
+      0.9
+     ],
+     [
+      50,
+      0.69
+     ],
+     [
+      125,
+      0.49
+     ],
+     [
+      400,
+      0.36
+     ],
+     [
+      1000,
+      0.34
+     ],
+     [
+      3000,
+      0.32
+     ]
+    ],
+    "notes": "Percent of order value, $15 minimum. Ground to lower 48; AK/HI/PR quoted individually. Max 5 gal pots."
+   },
+   "excluded_states": [
+    "AK",
+    "HI"
+   ],
+   "season": "Spring-fall ships ~2 weeks after order; winter delayed until frost risk passes",
+   "carrier": "UPS",
+   "confidence": "published",
+   "source": "https://ediblelandscaping.com/pages/shipping-cost",
+   "checked": "2026-10-05",
+   "notes": "Matches current_rule. ZIP not on page (Afton 22920 assumed). AK/HI only by individual quote.",
+   "lower48_only": true
+  },
+  "fieldstonenurseryinc.com": {
+   "name": "Fieldstone Nursery",
+   "board_ids": [
+    "fieldstone"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "Parkton",
+    "state": "MD",
+    "zip": "21120",
+    "zip_source": "contact page"
+   },
+   "rule": {
+    "type": "calculated",
+    "notes": "Call for pricing"
+   },
+   "excluded_states": [],
+   "season": "",
+   "carrier": "unknown",
+   "confidence": "not_found",
+   "source": "https://fieldstonenurseryinc.com/",
+   "checked": "2026-10-05",
+   "notes": "Shipping vs pickup not stated; may be local/pickup. Phone 410-357-5114"
+  },
+  "foodforestnursery.com": {
+   "name": "Food Forest Nursery",
+   "board_ids": [
+    "food-forest",
+    "food-forest-nursery",
+    "food-forest-nursery",
+    "food-forest"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "",
+    "state": "AR",
+    "zip": "",
+    "zip_source": "guess"
+   },
+   "rule": {
+    "type": "calculated",
+    "notes": "Rates not published on shipping page; calculated at checkout presumably"
+   },
+   "excluded_states": [],
+   "season": "Bare root ships by hardiness zone: Mar 1 (zones 8b-11) through May 3 (zones 1-3), per 2027 schedule",
+   "carrier": "UPS",
+   "confidence": "calculated_only",
+   "source": "https://www.foodforestnursery.com/shipping/",
+   "checked": "2026-10-05",
+   "notes": "Exclusions read on Jostaberry product page (may vary per item). Ozarks AR, ZIP not found. NJ excluded for at least some items.",
+   "excluded_by_fruit": {
+    "gooseberry": [
+     "AK",
+     "DE",
+     "HI",
+     "MA",
+     "ME",
+     "MI",
+     "NC",
+     "NJ",
+     "RI",
+     "VA",
+     "VT",
+     "WV"
+    ]
+   }
+  },
+  "futureforestplants.com": {
+   "name": "Future Forest Plants",
+   "board_ids": [
+    "future-forest"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "",
+    "state": "PA",
+    "zip": "",
+    "zip_source": "guess"
+   },
+   "rule": {
+    "type": "calculated",
+    "notes": "No shipping info found on shop, home, or FAQ pages."
+   },
+   "excluded_states": [],
+   "season": "unknown",
+   "carrier": "unknown",
+   "confidence": "not_found",
+   "source": "https://www.futureforestplants.com/",
+   "checked": "2026-10-05",
+   "notes": "Operator Zach Elfers; bareroot grower in SE/south-central PA; no address or ZIP published. Grafted persimmons $40. Shipping not confirmed."
+  },
+  "grandpasorchard.com": {
+   "name": "Grandpa's Orchard",
+   "board_ids": [
+    "grandpas"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "Coloma",
+    "state": "MI",
+    "zip": "49038",
+    "zip_source": "guess"
+   },
+   "rule": {
+    "type": "calculated",
+    "notes": "Not found; forum users report shipping often exceeds tree cost."
+   },
+   "excluded_states": [],
+   "season": "",
+   "carrier": "unknown",
+   "confidence": "not_found",
+   "source": "https://growingfruit.org/t/shipping-more-than-the-tree/27797",
+   "checked": "2026-10-05",
+   "notes": "Policy page 404."
+  },
+  "greenwoodnursery.com": {
+   "name": "Greenwood Nursery",
+   "board_ids": [
+    "greenwood"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "McMinnville",
+    "state": "TN",
+    "zip": "37110",
+    "zip_source": "guess"
+   },
+   "rule": {
+    "type": "calculated",
+    "notes": "No shipping rate found. Prior flat $9.95 was the plant price, not shipping."
+   },
+   "excluded_states": [
+    "CA"
+   ],
+   "season": "Ships Mon-Wed; 2-5 business days transit",
+   "carrier": "unknown",
+   "confidence": "not_found",
+   "source": "https://www.greenwoodnursery.com/products/cumberland-black-raspberry-plants",
+   "checked": "2026-10-05",
+   "notes": "CA restriction seen on this item."
+  },
+  "groworganic.com": {
+   "name": "Grow Organic (Peaceful Valley)",
+   "board_ids": [
+    "grow-organic",
+    "grow-organic"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "Grass Valley",
+    "state": "CA",
+    "zip": "95945",
+    "zip_source": "guess"
+   },
+   "rule": {
+    "type": "flat",
+    "amount": 29.99,
+    "free_over": 100,
+    "notes": "Flat: bare-root trees $29.99, potted plants $19.99, seed packs $7-9.99. Free shipping at $100+ (lower 48), or six qualifying plants from one category."
+   },
+   "excluded_states": [
+    "AK",
+    "HI",
+    "PR",
+    "VI"
+   ],
+   "season": "Plants ship by season; fall perennials Oct, bare-root winter/spring from January",
+   "carrier": "FedEx/UPS/USPS",
+   "confidence": "published",
+   "source": "https://www.groworganic.com/pages/shipping-policy",
+   "checked": "2026-10-05",
+   "notes": "Alaska, Hawaii, PR, USVI cannot get perishables. ZIP is a guess.",
+   "lower48_only": true
+  },
+  "gurneys.com": {
+   "name": "Gurney's",
+   "board_ids": [
+    "gurneys",
+    "gurneys"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "Greendale",
+    "state": "IN",
+    "zip": "47025",
+    "zip_source": "guess"
+   },
+   "rule": {
+    "type": "table",
+    "table": [
+     [
+      20,
+      6.99
+     ],
+     [
+      50,
+      10.99
+     ],
+     [
+      80,
+      16.99
+     ],
+     [
+      120,
+      22.99
+     ],
+     [
+      180,
+      28.99
+     ]
+    ],
+    "over_pct": null,
+    "over_amount": 34.99,
+    "notes": "Over $180 is flat $34.99. Overweight items extra."
+   },
+   "excluded_states": [],
+   "season": "",
+   "carrier": "unknown",
+   "confidence": "published",
+   "source": "https://www.gurneys.com/pages/shipping_charges",
+   "checked": "2026-10-05",
+   "notes": "DIFFERS from current_rule: tiers 20/50/80/120/180 = 6.99/10.99/16.99/22.99/28.99/34.99 (no percentage tier)."
+  },
+  "handpickednursery.com": {
+   "name": "Hand Picked Nursery",
+   "board_ids": [
+    "hand-picked-nursery",
+    "handpicked"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "Benson",
+    "state": "NC",
+    "zip": "27504",
+    "zip_source": "contact page"
+   },
+   "rule": {
+    "type": "included",
+    "notes": "Site banner: Free Domestic Shipping; Buy 4 sets get 1 free. Policy page text not retrievable."
+   },
+   "excluded_states": [],
+   "season": "unknown",
+   "carrier": "unknown",
+   "confidence": "partial",
+   "source": "https://www.handpickednursery.com/",
+   "checked": "2026-10-05",
+   "notes": "233 Ennis Rd. Also has a walk-in store. Shipping-policy page content not extractable."
+  },
+  "hartmannsplantcompany.com": {
+   "name": "Hartmann's Plant Company",
+   "board_ids": [
+    "hartmanns",
+    "hartmanns"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "Lacota",
+    "state": "MI",
+    "zip": "49063",
+    "zip_source": "contact page"
+   },
+   "rule": {
+    "type": "calculated",
+    "notes": "Prices F.O.B. Michigan, buyer pays shipping; rate calculated at checkout. No table published."
+   },
+   "excluded_states": [],
+   "season": "Spring shipping begins about mid-February weather permitting; customer picks ship date at checkout",
+   "carrier": "UPS",
+   "confidence": "calculated_only",
+   "source": "https://hartmannsplantcompany.com/shipping",
+   "checked": "2026-10-05",
+   "notes": "All online orders via UPS (orders over 500 lb by other carriers). Site notes current shipping delays. PO Box 100, Lacota MI. Footer has a shipping info page not fetched at exact URL."
+  },
+  "hiddenspringsnursery.com": {
+   "name": "Hidden Springs Nursery",
+   "board_ids": [
+    "hidden-springs",
+    "hidden-springs"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "Cookeville",
+    "state": "TN",
+    "zip": "38501",
+    "zip_source": "contact page"
+   },
+   "rule": {
+    "type": "calculated",
+    "notes": "Site has a shipping estimate calculator (west vs east of Rockies and order total); rates not published in fetched text."
+   },
+   "excluded_states": [],
+   "season": "Bareroot; fall shipping for zones 6-9, spring for zone 5 and colder (previous note: Nov-Apr)",
+   "carrier": "USPS",
+   "confidence": "calculated_only",
+   "source": "https://hiddenspringsnursery.com/faq",
+   "checked": "2026-10-05",
+   "notes": "Ships to all 50 states per FAQ; USPS Priority or FedEx."
+  },
+  "hirts.com": {
+   "name": "Hirt's Gardens",
+   "board_ids": [
+    "hirts-gardens"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "Wadsworth",
+    "state": "OH",
+    "zip": "44281",
+    "zip_source": "contact page"
+   },
+   "rule": {
+    "type": "calculated",
+    "notes": "Rates not found; shipping page 404."
+   },
+   "excluded_states": [],
+   "season": "Not found",
+   "carrier": "unknown",
+   "confidence": "not_found",
+   "source": "https://hirts.com/",
+   "checked": "2026-10-05",
+   "notes": "Address 4943 Ridge Rd."
+  },
+  "honeyberryusa.com": {
+   "name": "Honeyberry USA",
+   "board_ids": [
+    "honeyberry-usa"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "Bagley",
+    "state": "MN",
+    "zip": "56621",
+    "zip_source": "contact page"
+   },
+   "rule": {
+    "type": "region",
+    "regions": [
+     {
+      "states": [
+       "MN",
+       "ND",
+       "SD",
+       "WI",
+       "IA"
+      ],
+      "label": "MN/ND/SD/WI/IA",
+      "rule": {
+       "type": "table",
+       "table": [
+        [
+         4,
+         15
+        ],
+        [
+         9,
+         20
+        ],
+        [
+         19,
+         25
+        ],
+        [
+         39,
+         30
+        ],
+        [
+         59,
+         40
+        ]
+       ],
+       "notes": "item-count tiers (max items, cost); 60+ items $0.70/plant",
+       "basis": "items"
+      }
+     },
+     {
+      "states": [
+       "AK"
+      ],
+      "label": "Alaska",
+      "rule": {
+       "type": "table",
+       "table": [
+        [
+         4,
+         25
+        ],
+        [
+         9,
+         37.5
+        ],
+        [
+         19,
+         50
+        ],
+        [
+         39,
+         65
+        ]
+       ],
+       "notes": "item-count tiers; 40+ items $2/plant",
+       "basis": "items"
+      }
+     },
+     {
+      "states": [],
+      "label": "All other states",
+      "rule": {
+       "type": "table",
+       "table": [
+        [
+         4,
+         20
+        ],
+        [
+         9,
+         25
+        ],
+        [
+         19,
+         30
+        ],
+        [
+         39,
+         40
+        ],
+        [
+         49,
+         50
+        ]
+       ],
+       "notes": "item-count tiers; 50+ items $1.25/plant",
+       "basis": "items"
+      }
+     }
+    ],
+    "notes": "Table keyed by number of plants, NOT order subtotal. Plants over 2 ft may be ~15% of order; multi-packs count as 1 item; boxes >30in may carry surcharge. Rates called 'estimated'."
+   },
+   "excluded_states": [],
+   "season": "Ships Apr to May 25 and mid-Oct to early Nov",
+   "carrier": "USPS Priority / UPS Ground / Speedee Delivery",
+   "confidence": "published",
+   "source": "https://honeyberryusa.com/honeyberry-services.html",
+   "checked": "2026-10-05",
+   "notes": "Address PO Box 512, 19736 350th St, Bagley MN. No Canada/international."
+  },
+  "humbleabodenursery.com": {
+   "name": "Humble Abode Nursery",
+   "board_ids": [
+    "humble-abode"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "Ashfield",
+    "state": "MA",
+    "zip": "01330",
+    "zip_source": "guess"
+   },
+   "rule": {
+    "type": "calculated",
+    "free_over": 225,
+    "notes": "Free shipping over $225 (homepage/product pages; a Permies post says $200, likely outdated). Below that no published rate."
+   },
+   "excluded_states": [],
+   "season": "Ships twice a year: ~first week of April and ~first week of November",
+   "carrier": "UPS",
+   "confidence": "partial",
+   "source": "https://humbleabodenursery.com/faqs/",
+   "checked": "2026-10-05",
+   "notes": "Added season and carrier (UPS, 2-4 day transit). Local pickup offered. No rate table or excluded states published on policies/FAQ. ZIP is town ZIP, not confirmed from a page."
+  },
+  "indianaberry.com": {
+   "name": "Indiana Berry",
+   "board_ids": [
+    "indiana-berry",
+    "indiana-berry"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "Plymouth",
+    "state": "IN",
+    "zip": "46563",
+    "zip_source": "contact page"
+   },
+   "rule": {
+    "type": "table",
+    "table": [
+     [
+      30,
+      12.0
+     ],
+     [
+      50,
+      16.95
+     ],
+     [
+      75,
+      20.5
+     ],
+     [
+      100,
+      24.95
+     ],
+     [
+      150,
+      28.25
+     ],
+     [
+      185,
+      29.0
+     ]
+    ],
+    "over_pct": 0.16,
+    "notes": "Ground: $0-30 $12; to $50 $16.95; to $75 $20.50; to $100 $24.95; to $150 $28.25; to $185 $29; over $185 16% of total. Expedited: call."
+   },
+   "excluded_states": [
+    "CA",
+    "HI"
+   ],
+   "season": "Orders processed from ~Dec 1, stop ~May 31. Western states ship Mon, Indiana Thu, rest Tue/Wed.",
+   "carrier": "UPS",
+   "confidence": "published",
+   "source": "https://www.indianaberry.com/shipping-information",
+   "checked": "2026-10-05",
+   "notes": "Upgraded from not_found. 'We do not ship outside the US, California or to Hawaii.' Alaska ships USPS Priority with separate charges. No PO box on UPS. Note: table is identical to Nourse Farms' table, worth a sanity check."
+  },
+  "interwovenpermaculture.com": {
+   "name": "Interwoven Permaculture",
+   "board_ids": [
+    "interwoven-permaculture"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "Golconda",
+    "state": "IL",
+    "zip": "62938",
+    "zip_source": "guess"
+   },
+   "rule": {
+    "type": "flat",
+    "amount": 25,
+    "notes": "Flat $25 for orders with trees, any quantity"
+   },
+   "excluded_states": [],
+   "season": "unknown",
+   "carrier": "unknown",
+   "confidence": "published",
+   "source": "https://interwovenpermaculture.com/grafted-persimmon",
+   "checked": "2026-10-05",
+   "notes": "369 Raum Road, Golconda IL (ZIP assumed). Excluded states not stated."
+  },
+  "isons.com": {
+   "name": "Ison's Nursery & Vineyard",
+   "board_ids": [
+    "isons",
+    "isons",
+    "isons",
+    "isons"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "Brooks",
+    "state": "GA",
+    "zip": "30205",
+    "zip_source": "policy page"
+   },
+   "rule": {
+    "type": "table",
+    "table": [
+     [
+      15,
+      12.95
+     ],
+     [
+      50,
+      16.95
+     ],
+     [
+      75,
+      18.95
+     ],
+     [
+      99,
+      19.95
+     ]
+    ],
+    "over_pct": 0.22,
+    "notes": "Table gap $15.01-16.00 unclear; $100+ is 22%. Extra $10/roll tubing, $5/roll wire"
+   },
+   "excluded_states": [],
+   "season": "",
+   "carrier": "USPS|FedEx",
+   "confidence": "published",
+   "source": "https://www.isons.com/faqconc/much-shipping-cost/",
+   "checked": "2026-10-05",
+   "notes": ""
+  },
+  "jungseed.com": {
+   "name": "Jung Seed",
+   "board_ids": [
+    "jung"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "Randolph",
+    "state": "WI",
+    "zip": "53956",
+    "zip_source": "policy page"
+   },
+   "rule": {
+    "type": "flat",
+    "amount": 15.95,
+    "notes": "Seeds only $5.95; other orders $15.95; +$15 to Alaska"
+   },
+   "excluded_states": [
+    "AK",
+    "HI"
+   ],
+   "season": "Perishable plants not shipped before Mar 1; limited nursery stock after Jun 1; fall resumes Aug",
+   "carrier": "unknown",
+   "confidence": "published",
+   "source": "https://jungseed.com/policies/shipping-policy",
+   "checked": "2026-10-05",
+   "notes": "Address 335 S. High St. DE, ME, MA, NC, NH, NJ, RI, WV: no gooseberries/currants/jostaberries (NJ affected for gooseberry). AK seeds only."
+  },
+  "logees.com": {
+   "name": "Logee's",
+   "board_ids": [
+    "logees",
+    "logees"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "Danielson",
+    "state": "CT",
+    "zip": "06239",
+    "zip_source": "policy page"
+   },
+   "rule": {
+    "type": "table",
+    "table": [
+     [
+      15,
+      11.95
+     ],
+     [
+      30,
+      13.95
+     ],
+     [
+      45,
+      15.95
+     ],
+     [
+      60,
+      17.95
+     ],
+     [
+      80,
+      19.95
+     ],
+     [
+      100,
+      22.95
+     ],
+     [
+      125,
+      25.95
+     ],
+     [
+      150,
+      28.95
+     ]
+    ],
+    "over_pct": 0.2,
+    "notes": "Order-value tiers; over $150 is 20% of order value."
+   },
+   "excluded_states": [],
+   "season": "",
+   "carrier": "USPS Priority or FedEx Home Delivery",
+   "confidence": "published",
+   "source": "https://www.logees.com/pages/shippingcharges",
+   "checked": "2026-10-05",
+   "notes": "141 North Street. No excluded states listed on that page. Matches current rule."
+  },
+  "madisoncitrusnursery.com": {
+   "name": "Madison Citrus Nursery",
+   "board_ids": [
+    "madison-citrus",
+    "madison-citrus"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "Madison",
+    "state": "FL",
+    "zip": "32340",
+    "zip_source": "guess"
+   },
+   "rule": {
+    "type": "calculated",
+    "notes": "No rates published on policy/FAQ pages; likely calculated at checkout."
+   },
+   "excluded_states": [
+    "AZ",
+    "CA",
+    "FL",
+    "HI",
+    "LA",
+    "TX"
+   ],
+   "season": "Ships Mon/Tue only; restricted-state orders held to early April",
+   "carrier": "UPS",
+   "confidence": "calculated_only",
+   "source": "https://madisoncitrusnursery.com/pages/faq",
+   "checked": "2026-10-05",
+   "notes": "Restrictions are for citrus per USDA; list may differ for pawpaw but treat as excluded. Ship-from city/ZIP not read from site (guess)."
+  },
+  "mehrabyannursery.com": {
+   "name": "Mehrabyan Nursery",
+   "board_ids": [
+    "mehrabyan"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "Ithaca",
+    "state": "NY",
+    "zip": "14850",
+    "zip_source": "policy page"
+   },
+   "rule": {
+    "type": "calculated",
+    "notes": "No rates published."
+   },
+   "excluded_states": [],
+   "season": "Ships from early March; local pickup late Mar-early Apr",
+   "carrier": "unknown",
+   "confidence": "calculated_only",
+   "source": "https://www.mehrabyannursery.com/shipping/",
+   "checked": "2026-10-05",
+   "notes": "No Prunus to CA, CO, OR, WA; no peaches to MI; no hazelnuts to OR, WA.",
+   "excluded_by_fruit": {
+    "persimmon": [
+     "CA"
+    ]
+   }
+  },
+  "migardener.com": {
+   "name": "MIgardener",
+   "board_ids": [
+    "migardener",
+    "migardener"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "",
+    "state": "MI",
+    "zip": "",
+    "zip_source": "guess"
+   },
+   "rule": {
+    "type": "calculated",
+    "notes": "Policy page lists no rates; ships within 7-10 business days; free over $20 for seed-only orders."
+   },
+   "excluded_states": [],
+   "season": "Not found",
+   "carrier": "unknown",
+   "confidence": "not_found",
+   "source": "https://migardener.com/policies/shipping-policy",
+   "checked": "2026-10-05",
+   "notes": "Ships US and Canada. ZIP unknown."
+  },
+  "montanafruittrees.com": {
+   "name": "Montana Fruit Trees",
+   "board_ids": [
+    "montana-fruit-trees"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "Missoula",
+    "state": "MT",
+    "zip": "",
+    "zip_source": "guess"
+   },
+   "rule": {
+    "type": "calculated",
+    "notes": "Rates not shown in fetched text; FAQ page has a Shipping section but body not retrievable. Bulk discounts 10-30% by cart value."
+   },
+   "excluded_states": [],
+   "season": "Bare-root; current inventory for spring 2027 shipping or pickup",
+   "carrier": "unknown",
+   "confidence": "calculated_only",
+   "source": "https://www.montanafruittrees.com/pages/faq",
+   "checked": "2026-10-05",
+   "notes": "Ships to '45+ states' or pickup in Missoula (so some states excluded, list unknown). ZIP not found."
+  },
+  "morsenursery.com": {
+   "name": "Morse Nursery",
+   "board_ids": [
+    "morse-nursery"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "West Lafayette",
+    "state": "IN",
+    "zip": "47906",
+    "zip_source": "guess"
+   },
+   "rule": {
+    "type": "calculated",
+    "notes": "Rates calculated at checkout; not published. Potted 1-2yr plants ship in boxes of 6 or 10; 3yr+ by pallet freight quote."
+   },
+   "excluded_states": [],
+   "season": "Orders open Aug 1; pick a ship week at checkout; shipped by zone",
+   "carrier": "FedEx",
+   "confidence": "calculated_only",
+   "source": "https://morsenursery.com/pages/delivery-faqs",
+   "checked": "2026-10-05",
+   "notes": "Local pickup also offered."
+  },
+  "myperfectplants.com": {
+   "name": "Perfect Plants",
+   "board_ids": [
+    "perfect-plants",
+    "perfect-plants",
+    "perfectplants"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "",
+    "state": "FL",
+    "zip": "",
+    "zip_source": "guess"
+   },
+   "rule": {
+    "type": "calculated",
+    "notes": "Policy page blocked by robots."
+   },
+   "excluded_states": [],
+   "season": "unknown",
+   "carrier": "unknown",
+   "confidence": "not_found",
+   "source": "https://myperfectplants.com/policies/shipping-policy",
+   "checked": "2026-10-05",
+   "notes": "blocked"
+  },
+  "naturehills.com": {
+   "name": "Nature Hills Nursery",
+   "board_ids": [
+    "nature-hills",
+    "nature-hills",
+    "nature-hills",
+    "nature-hills",
+    "naturehills"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "68144",
+    "zip_source": "guess"
+   },
+   "rule": {
+    "type": "table",
+    "table": [
+     [
+      49.99,
+      9.99
+     ],
+     [
+      99.99,
+      14.99
+     ],
+     [
+      149.99,
+      16.99
+     ],
+     [
+      198.99,
+      24.99
+     ]
+    ],
+    "over_pct": 0,
+    "free_over": 199,
+    "notes": "Under $50 $9.99; $50-99.99 $14.99; $100-149.99 $16.99; $150-198.99 $24.99; $199+ free. Existing table used <=50 etc; true breaks are at .99 below the round number."
+   },
+   "excluded_states": [],
+   "season": "Delays shipments when forecast below 32F or above 95F; refers to a Shipping Calendar",
+   "carrier": "unknown",
+   "confidence": "published",
+   "source": "https://naturehills.com/policies/shipping-policy",
+   "checked": "2026-10-05",
+   "notes": "Table now verified. Prior rule had $199 as last cost tier; actually free at $199+. Some plants restricted by state, shown at checkout (no list). ZIP still a guess."
+  },
+  "needmoretrees.com": {
+   "name": "Needmore Trees",
+   "board_ids": [
+    "needmore-trees"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "Nashville",
+    "state": "IN",
+    "zip": "47448",
+    "zip_source": "guess"
+   },
+   "rule": {
+    "type": "flat",
+    "amount": 19.95,
+    "notes": "Only $19.95 shipping on all orders (product page)."
+   },
+   "excluded_states": [],
+   "season": "",
+   "carrier": "unknown",
+   "confidence": "published",
+   "source": "https://needmoretrees.com/store/ols/products/american-pawpaw-needmore",
+   "checked": "2026-10-05",
+   "notes": "Phone 812-720-1968."
+  },
+  "newearthnursery.com": {
+   "name": "New Earth Nursery",
+   "board_ids": [
+    "new-earth-nursery"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "zip_source": "guess"
+   },
+   "rule": {
+    "type": "calculated",
+    "notes": "Based on order total and destination"
+   },
+   "excluded_states": [
+    "AK",
+    "AZ",
+    "CA",
+    "HI",
+    "ID"
+   ],
+   "season": "Spring early Feb-May; fall mid Sep-early Nov; no summer",
+   "carrier": "unknown",
+   "confidence": "calculated_only",
+   "source": "https://newearthnursery.com/policies/shipping-policy",
+   "checked": "2026-10-05",
+   "notes": "City/ZIP not found; no PO boxes"
+  },
+  "northeastediblenursery.com": {
+   "name": "Northeast Edible Fruit Trees",
+   "board_ids": [
+    "northeast-edible",
+    "northeast-edible-nursery",
+    "northeast-edible"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "",
+    "state": "NJ",
+    "zip": "",
+    "zip_source": "guess"
+   },
+   "rule": {
+    "type": "calculated",
+    "notes": "No rates or address published on site; calculated at checkout presumably"
+   },
+   "excluded_states": [],
+   "season": "Spring mid-late Mar to early May bare root; later orders ship in fall (typically Nov)",
+   "carrier": "unknown",
+   "confidence": "calculated_only",
+   "source": "https://www.northeastediblenursery.com/product/gooseberry-plants/",
+   "checked": "2026-10-05",
+   "notes": "Contact: Dave Hunt, NortheastEdible@gmail.com. No physical address on site; shipping page URLs 404."
+  },
+  "noursefarms.com": {
+   "name": "Nourse Farms",
+   "board_ids": [
+    "nourse",
+    "nourse-farms"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "Whately",
+    "state": "MA",
+    "zip": "01093",
+    "zip_source": "policy page"
+   },
+   "rule": {
+    "type": "table",
+    "table": [
+     [
+      30,
+      12.0
+     ],
+     [
+      50,
+      16.95
+     ],
+     [
+      75,
+      20.5
+     ],
+     [
+      100,
+      24.95
+     ],
+     [
+      150,
+      28.25
+     ],
+     [
+      185,
+      29.0
+     ]
+    ],
+    "over_pct": 0.16,
+    "handling": 0,
+    "notes": "Rate table on page is an image (2025 Shipping Charges), not readable as text; table kept from input and matches Indiana Berry's published table exactly. $15 phytosanitary fee to CA, OR, WA, HI, MI (blueberries). AK/HI auto 2-day upgrade."
+   },
+   "excluded_states": [],
+   "season": "Ship date chart by hardiness zone (image/not readable)",
+   "carrier": "FedEx",
+   "confidence": "partial",
+   "source": "https://www.noursefarms.com/pages/shipping",
+   "checked": "2026-10-05",
+   "notes": "Address 41 River Road, Whately MA 01093 confirmed. Table not read directly. No PO boxes."
+  },
+  "nuttrees.net": {
+   "name": "England's Orchard & Nursery",
+   "board_ids": [
+    "englands-orchard",
+    "englands-orchard"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "McKee",
+    "state": "KY",
+    "zip": "40447",
+    "zip_source": "KYSU 2009 pawpaw nursery list (2338 Highway 2004)"
+   },
+   "rule": {
+    "type": "calculated",
+    "notes": "No shipping rates published; site says contact/email for orders. Phone 606-965-2228."
+   },
+   "excluded_states": [],
+   "season": "unknown",
+   "carrier": "unknown",
+   "confidence": "calculated_only",
+   "source": "http://nuttrees.net/pawpaw.html",
+   "checked": "2026-10-05",
+   "notes": "Mail-order nursery; pickup-only not supported by any page read. Order page blocked by robots; cert mismatch on www. Shipping cost needs a phone/email quote."
+  },
+  "onegreenworld.com": {
+   "name": "One Green World",
+   "board_ids": [
+    "one-green-world",
+    "one-green-world",
+    "one-green-world",
+    "one-green-world",
+    "one-green-world",
+    "one-green-world",
+    "one-green-world",
+    "one-green-world"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97236",
+    "zip_source": "policy page"
+   },
+   "rule": {
+    "type": "calculated",
+    "notes": "Ground approx $20-25 base depending on destination state, rising with plant height/weight; final calculated at checkout. No $25 flat East Coast rate found on the page.",
+    "range_hint": [
+     20,
+     25
+    ]
+   },
+   "excluded_states": [],
+   "season": "Summer: air-only for non-local regions; ground unavailable to non-local areas in hot weather. Orders ship Mon-Tue (air) / Mon-Wed (summer ground). Ground transit 5-7 days east of Rockies, 2-5 west.",
+   "carrier": "UPS",
+   "confidence": "partial",
+   "source": "https://onegreenworld.com/shipping-information/",
+   "checked": "2026-10-05",
+   "notes": "Earlier memo of a published $25 flat East Coast rate NOT confirmed: page says only 'approximately $20-$25 depending on the destination state'. No regional table, no free threshold. Footer address 6469 SE 134th Ave, Portland (input said Molalla). No PO boxes. UPS 3 Day Select air priced at checkout."
+  },
+  "parkseed.com": {
+   "name": "Park Seed",
+   "board_ids": [
+    "park-seed"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "Hodges",
+    "state": "SC",
+    "zip": "29653",
+    "zip_source": "guess"
+   },
+   "rule": {
+    "type": "table",
+    "table": [
+     [
+      24.99,
+      9.95
+     ],
+     [
+      39.99,
+      11.95
+     ],
+     [
+      49.99,
+      13.95
+     ],
+     [
+      74.99,
+      15.95
+     ],
+     [
+      99.99,
+      18.95
+     ],
+     [
+      124.99,
+      20.95
+     ],
+     [
+      149.99,
+      22.95
+     ],
+     [
+      999999,
+      31.95
+     ]
+    ],
+    "over_pct": 0,
+    "notes": "Page note says rates apply to seed-only/standard continental deliveries; plant orders likely same standard table (not explicit). Expedited extra."
+   },
+   "excluded_states": [
+    "AK",
+    "HI"
+   ],
+   "season": "Live plants process 2-5 business days; potted plants to Idaho ship early-mid Oct",
+   "carrier": "unknown",
+   "confidence": "partial",
+   "source": "https://www.parkseed.com/pages/shipping-information",
+   "checked": "2026-10-05",
+   "notes": "Seeds-only $6.95 flat. No live plants to AK/HI.",
+   "lower48_only": true
+  },
+  "peacefulheritage.com": {
+   "name": "Peaceful Heritage Nursery",
+   "board_ids": [
+    "peaceful-heritage",
+    "peaceful-heritage",
+    "peacefulheritage"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "Stanford",
+    "state": "KY",
+    "zip": "40484",
+    "zip_source": "guess"
+   },
+   "rule": {
+    "type": "calculated",
+    "notes": "No rates on policy page; likely calculated at checkout."
+   },
+   "excluded_states": [],
+   "season": "Nov-Feb orders ship late winter/spring by region (South late Feb-Mar, West Mar-Apr, Midwest/NE Apr); Mar-Oct orders ship in 3-5 business days",
+   "carrier": "UPS",
+   "confidence": "calculated_only",
+   "source": "https://peacefulheritage.com/policies/shipping-policy",
+   "checked": "2026-10-05",
+   "notes": "No excluded states listed."
+  },
+  "penseberryfarm.com": {
+   "name": "Pense Berry Farm (Pense Nursery)",
+   "board_ids": [
+    "pense-berry-farm"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "Mountainburg",
+    "state": "AR",
+    "zip": "72946",
+    "zip_source": "guess"
+   },
+   "rule": {
+    "type": "flat",
+    "amount": 30,
+    "free_over": 150,
+    "notes": "Free shipping at $150+; under $150 is $30 flat. UPS rates may adjust."
+   },
+   "excluded_states": [],
+   "season": "Ships Oct through June 1",
+   "carrier": "UPS",
+   "confidence": "published",
+   "source": "https://penseberryfarm.com/pages/shipping-returns",
+   "checked": "2026-10-05",
+   "notes": "No excluded states listed on page."
+  },
+  "perfectcircle.farm": {
+   "name": "Perfect Circle Farm",
+   "board_ids": [
+    "perfect-circle"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "Berlin",
+    "state": "VT",
+    "zip": "05602",
+    "zip_source": "guess"
+   },
+   "rule": {
+    "type": "included",
+    "notes": "$70 per graft, shipping included per product page."
+   },
+   "excluded_states": [],
+   "season": "Grafts out of stock; more in spring",
+   "carrier": "unknown",
+   "confidence": "partial",
+   "source": "https://www.perfectcircle.farm/paw-paw/pawpaw-grafts",
+   "checked": "2026-10-05",
+   "notes": "Central Vermont. No shipping policy or exclusions found."
+  },
+  "perrypawpaws.com": {
+   "name": "Perry Paw Paws",
+   "board_ids": [
+    "perry-paw-paws"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "Perry",
+    "state": "MI",
+    "zip": "48872",
+    "zip_source": "contact page"
+   },
+   "rule": {
+    "type": "calculated",
+    "notes": "No rate page found; presumably calculated at checkout."
+   },
+   "excluded_states": [],
+   "season": "Orders after May 1 ship mid-late September; spring grafted stock",
+   "carrier": "unknown",
+   "confidence": "calculated_only",
+   "source": "https://perrypawpaws.com/shop/",
+   "checked": "2026-10-05",
+   "notes": "Shipping page 404. Input says ships to 20+ states, confirm NJ at checkout (not verified)."
+  },
+  "pixiesgardens.com": {
+   "name": "Pixie's Gardens",
+   "board_ids": [
+    "pixies-gardens",
+    "pixies-gardens",
+    "pixiesgardens"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "",
+    "state": "FL",
+    "zip": "",
+    "zip_source": "guess"
+   },
+   "rule": {
+    "type": "table",
+    "table": [
+     [
+      24.99,
+      20.99
+     ],
+     [
+      49.99,
+      30.99
+     ],
+     [
+      89.99,
+      36.99
+     ],
+     [
+      98.99,
+      46.99
+     ]
+    ],
+    "over_pct": 0.0,
+    "free_over": 99,
+    "notes": "Ground rates $20.99-$46.99 under $99; free at $99+. Table brackets carried from prior rule; page confirms range and free threshold. 13 western/plains states (AZ CA ID MT NV OR UT WA WY NM ND SD NE) add +$10 plus 5%.",
+    "surcharges": [
+     {
+      "states": [
+       "AZ",
+       "CA",
+       "ID",
+       "MT",
+       "NV",
+       "OR",
+       "UT",
+       "WA",
+       "WY",
+       "NM",
+       "ND",
+       "SD",
+       "NE"
+      ],
+      "add": 10,
+      "pct": 0.05
+     }
+    ]
+   },
+   "excluded_states": [
+    "AK",
+    "HI",
+    "PR"
+   ],
+   "season": "Ships Mon/Tue; 7-15 day arrival",
+   "carrier": "FedEx/USPS",
+   "confidence": "published",
+   "source": "https://www.pixiesgardens.com/pages/shipping-policy",
+   "checked": "2026-10-05",
+   "notes": "Some plants restricted to CA and other states. Expedited also offered. Ship-from ZIP not found."
+  },
+  "plantaddicts.com": {
+   "name": "Plant Addicts",
+   "board_ids": [
+    "plant-addicts"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "",
+    "zip_source": "guess"
+   },
+   "rule": {
+    "type": "table",
+    "table": [
+     [
+      9.99,
+      4.99
+     ],
+     [
+      49.99,
+      12.49
+     ],
+     [
+      99.99,
+      15.49
+     ],
+     [
+      149.99,
+      18.49
+     ]
+    ],
+    "over_pct": 0.18,
+    "free_over": 129,
+    "notes": "Free at $129+ (so the 18% tier effectively never applies); free shipping on houseplants."
+   },
+   "excluded_states": [
+    "AK",
+    "HI"
+   ],
+   "season": "Plants process in 3-10 days",
+   "carrier": "FedEx/UPS",
+   "confidence": "published",
+   "source": "https://plantaddicts.com/faqs/",
+   "checked": "2026-10-05",
+   "notes": "Lower 48 only; some plants restricted by state.",
+   "lower48_only": true
+  },
+  "plantdetectives.com": {
+   "name": "Plant Detectives",
+   "board_ids": [
+    "plant-detectives",
+    "plant-detectives"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "Chester",
+    "state": "NJ",
+    "zip": "07930",
+    "zip_source": "guess"
+   },
+   "rule": {
+    "type": "calculated",
+    "notes": "Based on size, packaging, weight"
+   },
+   "excluded_states": [],
+   "season": "",
+   "carrier": "USPS|FedEx|UPS",
+   "confidence": "calculated_only",
+   "source": "https://plantdetectives.com/policies/shipping-policy",
+   "checked": "2026-10-05",
+   "notes": "Continental US only; fulfillment location assumed Chester",
+   "lower48_only": true
+  },
+  "plantingjustice.org": {
+   "name": "Planting Justice",
+   "board_ids": [
+    "planting-justice"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "Oakland",
+    "state": "CA",
+    "zip": "94621",
+    "zip_source": "guess"
+   },
+   "rule": {
+    "type": "region",
+    "regions": [
+     {
+      "states": [
+       "WA",
+       "OR",
+       "CA",
+       "NV",
+       "ID",
+       "MT",
+       "WY",
+       "UT",
+       "CO",
+       "AZ",
+       "NM"
+      ],
+      "label": "West of the Rockies (state list approximate)",
+      "rule": {
+       "type": "percent",
+       "tiers": [
+        [
+         999999,
+         0.25
+        ]
+       ],
+       "notes": "$17 flat + 25% of order total",
+       "flat_plus": 17
+      }
+     },
+     {
+      "states": [
+       "*"
+      ],
+      "label": "East of the Rockies (all other states)",
+      "rule": {
+       "type": "percent",
+       "tiers": [
+        [
+         999999,
+         0.3
+        ]
+       ],
+       "notes": "$20 flat + 30% of order total",
+       "flat_plus": 20
+      }
+     }
+    ],
+    "notes": "Formula: West = $17 + 25% of order; East = $20 + 30% of order. Store pickup free."
+   },
+   "excluded_states": [
+    "AK",
+    "HI"
+   ],
+   "season": "Ships year-round; spring/summer 3-6 wk lead",
+   "carrier": "UPS",
+   "confidence": "published",
+   "source": "https://plantingjustice.org/policies/shipping-policy",
+   "checked": "2026-10-05",
+   "notes": "Rockies boundary not defined as a state list on page; list is my approximation. NJ is East: $20 + 30%. ZIP is a guess for East Oakland nursery."
+  },
+  "plantmegreen.com": {
+   "name": "Plant Me Green",
+   "board_ids": [
+    "plant-me-green"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "",
+    "state": null,
+    "zip": "",
+    "zip_source": "guess"
+   },
+   "rule": {
+    "type": "flat",
+    "amount": 15,
+    "free_over": 100,
+    "notes": "$15 flat, free over $100; multi-location orders may arrive separately; replacement $15/box"
+   },
+   "excluded_states": [
+    "AK",
+    "HI",
+    "PR"
+   ],
+   "season": "Ships all year",
+   "carrier": "FedEx",
+   "confidence": "published",
+   "source": "https://plantmegreen.com/products/persimmon-trees-astringent-rosseyaka",
+   "checked": "2026-10-05",
+   "notes": "CA and AZ approved items only. Warehouse city/ZIP not found."
+  },
+  "raintreenursery.com": {
+   "name": "Raintree Nursery",
+   "board_ids": [
+    "raintree",
+    "raintree",
+    "raintree",
+    "raintree",
+    "raintree",
+    "raintree",
+    "raintree",
+    "raintree"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "Morton",
+    "state": "WA",
+    "zip": "98356",
+    "zip_source": "policy page"
+   },
+   "rule": {
+    "type": "region",
+    "regions": [
+     {
+      "states": [
+       "AK",
+       "HI",
+       "PR"
+      ],
+      "label": "AK/HI/PR (USPS, at checkout)",
+      "rule": {
+       "type": "calculated"
+      }
+     },
+     {
+      "states": [
+       "WA",
+       "OR",
+       "CA",
+       "ID",
+       "NV",
+       "AZ",
+       "UT",
+       "CO",
+       "NM",
+       "MT",
+       "WY"
+      ],
+      "label": "West",
+      "rule": {
+       "type": "percent",
+       "tiers": [
+        [
+         1000000000.0,
+         0.15
+        ]
+       ],
+       "min": 24.99
+      }
+     },
+     {
+      "states": [],
+      "label": "East (all other lower 48)",
+      "rule": {
+       "type": "percent",
+       "tiers": [
+        [
+         1000000000.0,
+         0.25
+        ]
+       ],
+       "min": 39.99
+      }
+     }
+    ],
+    "notes": "AK/HI/PR USPS calculated at checkout"
+   },
+   "excluded_states": [],
+   "season": "Spring mid-Feb-May (bareroot spring only); fall late Sep-early Nov, zones 6+ only",
+   "carrier": "unknown",
+   "confidence": "published",
+   "source": "https://raintreenursery.com/pages/shipping-policy",
+   "checked": "2026-10-05",
+   "notes": "ZIP for Morton not on page",
+   "lower48_only": true
+  },
+  "restoringeden.co": {
+   "name": "Restoring Eden",
+   "board_ids": [
+    "restoring-eden",
+    "restoring-eden",
+    "restoring-eden",
+    "restoring-eden"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "SeaTac",
+    "state": "WA",
+    "zip": "98198",
+    "zip_source": "contact page"
+   },
+   "rule": {
+    "type": "calculated",
+    "notes": "Per state/region and pot size: fixed base per size plus per-plant charge. Only published example: CA, 1-gal fixed $16 + $5 per 1-gal plant (2 plants = $26). Sizes: 1gal, tree pot, 2gal, 3gal, 5gal, bare-root. Full table is checkout calculator only."
+   },
+   "excluded_states": [],
+   "season": "Year-round; may pause in extreme temperatures",
+   "carrier": "unknown",
+   "confidence": "partial",
+   "source": "https://restoringeden.co/shipping-information/",
+   "checked": "2026-10-05",
+   "notes": "Confirmed no further table on page. Also Enumclaw WA 98022. Transit 1-4 days regionally, longer to Southeast/Northeast. Phone 253-202-5587."
+  },
+  "rockbridgetrees.com": {
+   "name": "Rock Bridge Trees",
+   "board_ids": [
+    "rock-bridge-trees",
+    "rock-bridge-trees"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "",
+    "state": "TN",
+    "zip": "",
+    "zip_source": "not found"
+   },
+   "rule": {
+    "type": "region",
+    "regions": [
+     {
+      "states": [
+       "AZ",
+       "CO",
+       "ID",
+       "NV",
+       "NM",
+       "OR",
+       "UT",
+       "WA"
+      ],
+      "label": "West",
+      "rule": {
+       "type": "per_item",
+       "first_item": 6,
+       "each_additional": 6,
+       "notes": "$6 per 1-gal tree, $10 per 2-gal tree"
+      }
+     }
+    ],
+    "notes": "Free shipping to other continental states.",
+    "else": {
+     "type": "included"
+    }
+   },
+   "excluded_states": [
+    "AK",
+    "CA",
+    "HI"
+   ],
+   "season": "unknown",
+   "carrier": "unknown",
+   "confidence": "published",
+   "source": "https://rockbridgetrees.com/shipping/",
+   "checked": "2026-10-05",
+   "notes": "Does not ship to California or outside continental US. Phone (615) 841-3664 (Tennessee). City/ZIP not published.",
+   "lower48_only": true
+  },
+  "rootstofruitsnursery.com": {
+   "name": "Roots to Fruits Nursery",
+   "board_ids": [
+    "roots-to-fruits",
+    "roots-to-fruits"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "Gays Mills",
+    "state": "WI",
+    "zip": "54631",
+    "zip_source": "policy page"
+   },
+   "rule": {
+    "type": "calculated",
+    "notes": "No standard rates published; expedited costs extra."
+   },
+   "excluded_states": [],
+   "season": "Main season mid-March to early June; Mar-Apr orders may be delayed 14+ days",
+   "carrier": "UPS",
+   "confidence": "calculated_only",
+   "source": "https://rootstofruitsnursery.com/policies/shipping-policy",
+   "checked": "2026-10-05",
+   "notes": "Ships Mon-Wed only; 46490 State Hwy 171."
+  },
+  "sarah.fedcoseeds.com": {
+   "name": "Fedco Trees",
+   "board_ids": [
+    "fedco"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "Clinton",
+    "state": "ME",
+    "zip": "04927",
+    "zip_source": "guess"
+   },
+   "rule": {
+    "type": "calculated",
+    "notes": "Rate chart at fedcoseeds.com/ordering-info not retrievable."
+   },
+   "excluded_states": [],
+   "season": "Ships March to late May by hardiness zone; orders Aug to mid-April",
+   "carrier": "FedEx or USPS Priority",
+   "confidence": "partial",
+   "source": "https://fedcoseeds.com/trees/ordering_trees.htm",
+   "checked": "2026-10-05",
+   "notes": "No pickup for trees. $10 fee each time an order is adjusted."
+  },
+  "sarvodayainstitute.org": {
+   "name": "Sarvodaya Farms & Nursery",
+   "board_ids": [
+    "sarvodaya-nursery"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "Pomona",
+    "state": "CA",
+    "zip": "91766",
+    "zip_source": "contact page"
+   },
+   "rule": {
+    "type": "calculated",
+    "notes": "Policy page had no rate content"
+   },
+   "excluded_states": [],
+   "season": "unknown",
+   "carrier": "unknown",
+   "confidence": "calculated_only",
+   "source": "https://sarvodayainstitute.org/products/kiwi-kens-red-hardy",
+   "checked": "2026-10-05",
+   "notes": "1196 S San Antonio Ave. Kiwi ships only in Large Tree Pot (bigger sizes in-store only)."
+  },
+  "scenichillfarmnursery.com": {
+   "name": "Scenic Hill Farm Nursery",
+   "board_ids": [
+    "scenic-hill",
+    "scenic-hill"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "Albany",
+    "state": "OR",
+    "zip": "97321",
+    "zip_source": "policy page"
+   },
+   "rule": {
+    "type": "included",
+    "notes": "Banner: 'FREE SHIPPING - All Prices Include Shipping!'"
+   },
+   "excluded_states": [],
+   "season": "",
+   "carrier": "unknown",
+   "confidence": "partial",
+   "source": "https://scenichillfarmnursery.com/policies/shipping-policy",
+   "checked": "2026-10-05",
+   "notes": "Quote confirmed on policy page; no exclusions, season or carrier published. ZIP 97321 confirmed on page."
+  },
+  "shop.arborday.org": {
+   "name": "Arbor Day Foundation Tree Nursery",
+   "board_ids": [
+    "arborday"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "Lincoln",
+    "state": "NE",
+    "zip": "68508",
+    "zip_source": "contact page"
+   },
+   "rule": {
+    "type": "calculated",
+    "free_over": 99,
+    "notes": "Free shipping on orders $99+; below that not published"
+   },
+   "excluded_states": [
+    "AK",
+    "AS",
+    "AZ",
+    "CA",
+    "FM",
+    "GU",
+    "HI",
+    "MH",
+    "MP",
+    "PR",
+    "PW",
+    "VI"
+   ],
+   "season": "Ships at planting-optimal time by zone",
+   "carrier": "unknown",
+   "confidence": "partial",
+   "source": "https://shop.arborday.org/jewel-black-raspberry",
+   "checked": "2026-10-05",
+   "notes": "Page lists Lincoln NE address (listing says Nebraska City). Exclusions from one product page."
+  },
+  "slngrow.com": {
+   "name": "St. Lawrence Nurseries",
+   "board_ids": [
+    "st-lawrence",
+    "st-lawrence"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "Potsdam",
+    "state": "NY",
+    "zip": "13676",
+    "zip_source": "guess"
+   },
+   "rule": {
+    "type": "calculated"
+   },
+   "excluded_states": [],
+   "season": "Spring 2027 orders open",
+   "carrier": "unknown",
+   "confidence": "not_found",
+   "source": "https://www.slngrow.com/",
+   "checked": "2026-10-05",
+   "notes": "Shipping policy page 404; rates not found"
+  },
+  "soonerplantfarm.com": {
+   "name": "Sooner Plant Farm",
+   "board_ids": [
+    "sooner-plant-farm"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "Park Hill",
+    "state": "OK",
+    "zip": "74451",
+    "zip_source": "contact page"
+   },
+   "rule": {
+    "type": "calculated",
+    "free_over": 175,
+    "notes": "Free shipping on orders $175+; rates below that not found."
+   },
+   "excluded_states": [],
+   "season": "Shipping schedules by zone exist on site",
+   "carrier": "unknown",
+   "confidence": "partial",
+   "source": "https://www.soonerplantfarm.com/",
+   "checked": "2026-10-05",
+   "notes": "25976 S. 524 Rd."
+  },
+  "sowexotic.com": {
+   "name": "SowExotic",
+   "board_ids": [
+    "sowexotic"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "",
+    "state": "",
+    "zip": "",
+    "zip_source": "guess"
+   },
+   "rule": {
+    "type": "calculated",
+    "notes": "Calculated at checkout by weight and distance from nursery."
+   },
+   "excluded_states": [],
+   "season": "Ships year-round, Mon-Wed",
+   "carrier": "USPS",
+   "confidence": "calculated_only",
+   "source": "https://sowexotic.com/policies/shipping-policy",
+   "checked": "2026-10-05",
+   "notes": "USPS Priority 1-3 day. Ships to HI/PR with item restrictions. Ship-from location not published."
+  },
+  "springhillnursery.com": {
+   "name": "Spring Hill Nurseries",
+   "board_ids": [
+    "spring-hill"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "Fort Wayne",
+    "state": "IN",
+    "zip": "46804",
+    "zip_source": "guess"
+   },
+   "rule": {
+    "type": "calculated",
+    "free_over": 125,
+    "notes": "Homepage advertises free shipping on $125+; other rates not found."
+   },
+   "excluded_states": [],
+   "season": "",
+   "carrier": "unknown",
+   "confidence": "partial",
+   "source": "https://springhillnursery.com",
+   "checked": "2026-10-05",
+   "notes": "Site says farm is in Michigan; location uncertain."
+  },
+  "starkbros.com": {
+   "name": "Stark Bro's Nurseries",
+   "board_ids": [
+    "stark-bros",
+    "stark-bros",
+    "stark-bros",
+    "stark-bros",
+    "stark-bros",
+    "stark-bros",
+    "stark-bros"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "Louisiana",
+    "state": "MO",
+    "zip": "63353",
+    "zip_source": "guess"
+   },
+   "rule": {
+    "type": "calculated",
+    "notes": "Policy page lists no rate table. Hosui pear product page showed $15.99 shipping (existing rule $17.99); likely varies by item/order. Replacement fee $9.99.",
+    "range_hint": [
+     15.99,
+     17.99
+    ]
+   },
+   "excluded_states": [],
+   "season": "Ships during dormancy timed to the customer's hardiness zone",
+   "carrier": "unknown",
+   "confidence": "calculated_only",
+   "source": "https://www.starkbros.com/about/order-and-shipping-policies",
+   "checked": "2026-10-05",
+   "notes": "Continental US only (no AK/HI). Policy and FAQ pages read; no excluded-state list or rates. Product-page shipping amount differs from stored $17.99.",
+   "lower48_only": true
+  },
+  "tfcnursery.com": {
+   "name": "The Farm Connection",
+   "board_ids": [
+    "farm-connection"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "Marshall",
+    "state": "NC",
+    "zip": "28753",
+    "zip_source": "guess"
+   },
+   "rule": {
+    "type": "calculated",
+    "notes": "Weight, dimensions and distance"
+   },
+   "excluded_states": [
+    "AK",
+    "AZ",
+    "CA",
+    "HI",
+    "ID",
+    "MT",
+    "NV",
+    "OR",
+    "UT",
+    "WA"
+   ],
+   "season": "Spring/fall for perishables",
+   "carrier": "unknown",
+   "confidence": "calculated_only",
+   "source": "https://tfcnursery.com/policies/shipping-policy",
+   "checked": "2026-10-05",
+   "notes": "Potted plants ship to 24 listed states only (CT DE DC GA IL IN IA KY ME MD MA MI MO NH NJ NY NC OH PA RI SC TN VT VA WV WI)"
+  },
+  "treepeony.com": {
+   "name": "Cricket Hill Garden",
+   "board_ids": [
+    "cricket-hill",
+    "cricket-hill",
+    "cricket-hill",
+    "cricket-hill-garden"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "Thomaston",
+    "state": "CT",
+    "zip": "06787",
+    "zip_source": "guess"
+   },
+   "rule": {
+    "type": "calculated",
+    "notes": "Rates not published on policy page; calculated at checkout."
+   },
+   "excluded_states": [],
+   "season": "Late winter/early spring and fall; dormant bare root only",
+   "carrier": "UPS",
+   "confidence": "calculated_only",
+   "source": "https://www.treepeony.com/pages/shipping-policy",
+   "checked": "2026-10-05",
+   "notes": "UPS Ground. ZIP from known street address, not on policy page."
+  },
+  "trees.com": {
+   "name": "Trees.com (Fast Growing Trees)",
+   "board_ids": [
+    "trees-com",
+    "trees-com",
+    "trees-com",
+    "treesdotcom"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "Fort Mill",
+    "state": "SC",
+    "zip": "29715",
+    "zip_source": "guess"
+   },
+   "rule": {
+    "type": "table",
+    "table": [
+     [
+      98.99,
+      19.95
+     ]
+    ],
+    "over_pct": 0,
+    "free_over": 99,
+    "notes": "$19.95 under $99, free at $99+"
+   },
+   "excluded_states": [
+    "AK",
+    "AZ",
+    "CA",
+    "HI",
+    "ID",
+    "OR",
+    "WA"
+   ],
+   "season": "Most ship immediately; some seasonal spring/fall",
+   "carrier": "unknown",
+   "confidence": "published",
+   "source": "https://www.trees.com/products/juicy-jewel-asian-pear-tree",
+   "checked": "2026-10-05",
+   "notes": "Exclusions read on one product page; may vary by item."
+  },
+  "treesofantiquity.com": {
+   "name": "Trees of Antiquity",
+   "board_ids": [
+    "trees-of-antiquity"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "Paso Robles",
+    "state": "CA",
+    "zip": "93446",
+    "zip_source": "contact page"
+   },
+   "rule": {
+    "type": "calculated",
+    "free_over": 2000,
+    "notes": "Standard rates not published; free shipping on orders over $2,000 (excl. HI, AK)."
+   },
+   "excluded_states": [],
+   "season": "Bareroot ships January-May by zone",
+   "carrier": "UPS",
+   "confidence": "calculated_only",
+   "source": "https://www.treesofantiquity.com/pages/ordering",
+   "checked": "2026-10-05",
+   "notes": "50% deposit; discounts at $300/$600/$1200. Ships from CA, so likely long transit east."
+  },
+  "treesofjoy.com": {
+   "name": "Trees of Joy",
+   "board_ids": [
+    "trees-of-joy"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "Bethlehem",
+    "state": "PA",
+    "zip": "18015",
+    "zip_source": "guess"
+   },
+   "rule": {
+    "type": "calculated",
+    "notes": "Shipping info page not readable; assume calculated."
+   },
+   "excluded_states": [],
+   "season": "",
+   "carrier": "unknown",
+   "confidence": "calculated_only",
+   "source": "https://treesofjoy.com/about/",
+   "checked": "2026-10-05",
+   "notes": "Serves customers nationwide; pickup by appointment."
+  },
+  "tripplebrookfarm.com": {
+   "name": "Tripple Brook Farm",
+   "board_ids": [
+    "tripple-brook"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "Southampton",
+    "state": "MA",
+    "zip": "01073",
+    "zip_source": "guess"
+   },
+   "rule": {
+    "type": "calculated",
+    "notes": "No rate table published."
+   },
+   "excluded_states": [],
+   "season": "Fall ships to colder zones first, as long as safe to plant in the zone",
+   "carrier": "unknown",
+   "confidence": "calculated_only",
+   "source": "https://tripplebrookfarm.com",
+   "checked": "2026-10-05",
+   "notes": "Pickup by appointment also offered. Fall shipping depends on forecasts."
+  },
+  "trustyfarms.square.site": {
+   "name": "Trusty Farms",
+   "board_ids": [
+    "trusty-farms"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "Jackson",
+    "state": "SC",
+    "zip": "29831",
+    "zip_source": "search"
+   },
+   "rule": {
+    "type": "calculated",
+    "notes": "No shipping policy retrievable; Square store, likely calculated at checkout."
+   },
+   "excluded_states": [],
+   "season": "",
+   "carrier": "unknown",
+   "confidence": "calculated_only",
+   "source": "https://agriculture.sc.gov/agritourism-farms/trusty-farms-llc",
+   "checked": "2026-10-05",
+   "notes": "Address 1020 Old Jackson Hwy, Jackson SC 29831 (SC Dept of Agriculture listing). Primarily a retail on-site nursery (open Mar-May, Sep-Nov); online shipping not confirmed from any page. Phone 803-220-4313."
+  },
+  "twisted-tree.net": {
+   "name": "Twisted Tree Farm",
+   "board_ids": [
+    "twisted-tree"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "Spencer",
+    "state": "NY",
+    "zip": "14883",
+    "zip_source": "contact page"
+   },
+   "rule": {
+    "type": "calculated",
+    "notes": "No rates published; likely quoted/charged at order. Ships only in continental US."
+   },
+   "excluded_states": [],
+   "season": "Trees/plants ship in April while dormant (also fall bare-root in Nov per earlier pass); no summer shipping; seeds fall; cuttings fall-spring",
+   "carrier": "unknown",
+   "confidence": "calculated_only",
+   "source": "http://www.twisted-tree.net/policy",
+   "checked": "2026-10-05",
+   "notes": "279 Washburn Road, Spencer NY 14883. Order page sold out. Potted plants local only (earlier pass).",
+   "lower48_only": true
+  },
+  "tytyga.com": {
+   "name": "Ty Ty Nursery",
+   "board_ids": [
+    "ty-ty",
+    "tyty"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "Ty Ty",
+    "state": "GA",
+    "zip": "31795",
+    "zip_source": "contact page"
+   },
+   "rule": {
+    "type": "calculated",
+    "notes": "No rates published on shipping/eco-wise/returns/product pages; calculated at checkout. Bareroot via UPS Ground; motor freight by arrangement."
+   },
+   "excluded_states": [],
+   "season": "Shipping season usually Dec-May, bareroot dormant, ships within ~10 days of order, delivery 4-7 days. Pawpaw listing: projected 1-25-27 fall shipment.",
+   "carrier": "UPS",
+   "confidence": "calculated_only",
+   "source": "https://www.tytyga.com/Allegheny-Pawpaw-Tree-p/frupaw-z-allegheny.htm",
+   "checked": "2026-10-05",
+   "notes": "Confirmed ships by UPS Ground. 15% restocking fee on cancels after shipment. Some products restricted for NJ/ME/OH/PA/SC (flowering pears, mimosa); pawpaw page shows no NJ restriction. Allegheny pawpaw 1 gal listed $129.75. Phone 888-758-2252."
+  },
+  "waysidegardens.com": {
+   "name": "Wayside Gardens",
+   "board_ids": [
+    "wayside"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "Hodges",
+    "state": "SC",
+    "zip": "29653",
+    "zip_source": "guess"
+   },
+   "rule": {
+    "type": "table",
+    "table": [
+     [
+      24.94,
+      12.95
+     ],
+     [
+      49.94,
+      18.95
+     ],
+     [
+      74.94,
+      23.95
+     ],
+     [
+      99.94,
+      27.95
+     ],
+     [
+      124.94,
+      31.95
+     ],
+     [
+      149.94,
+      33.95
+     ]
+    ],
+    "over_pct": 0.0,
+    "free_over": 149.95,
+    "notes": "Standard delivery by order total; $150+ row listed $41.95 but free at $149.95+ (promo WGFREE149). Expedited: 2-day +$16.95/item, overnight +$21.95/item."
+   },
+   "excluded_states": [
+    "AK",
+    "HI"
+   ],
+   "season": "Shipped at proper planting time for region; 2-5 business days processing",
+   "carrier": "unknown",
+   "confidence": "published",
+   "source": "https://www.waysidegardens.com/shipping-information",
+   "checked": "2026-10-05",
+   "notes": "No Canada/APO. Hodges SC ZIP is a guess."
+  },
+  "wellspringgardens.com": {
+   "name": "Wellspring Gardens",
+   "board_ids": [
+    "wellspring-gardens"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "Lakeland",
+    "state": "FL",
+    "zip": "33801",
+    "zip_source": "guess"
+   },
+   "rule": {
+    "type": "calculated",
+    "notes": "Rates not published in policy"
+   },
+   "excluded_states": [
+    "AK",
+    "HI"
+   ],
+   "season": "No seasonal limits stated; ships 1-2 business days after payment",
+   "carrier": "unknown",
+   "confidence": "calculated_only",
+   "source": "https://wellspringgardens.com/policies/shipping-policy",
+   "checked": "2026-10-05",
+   "notes": "Contiguous US only. Starter plants 3-8 in. Citrus FL only.",
+   "lower48_only": true
+  },
+  "whitmanfarms.com": {
+   "name": "Whitman Farms",
+   "board_ids": [
+    "whitman",
+    "whitman-farms"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "Salem",
+    "state": "OR",
+    "zip": "97304",
+    "zip_source": "contact page"
+   },
+   "rule": {
+    "type": "calculated",
+    "notes": "No rates published; order by phone (503-510-0486) or email"
+   },
+   "excluded_states": [],
+   "season": "Trees/shrubs shipped all year depending on weather",
+   "carrier": "unknown",
+   "confidence": "calculated_only",
+   "source": "https://www.whitmanfarms.com/",
+   "checked": "2026-10-05",
+   "notes": "Address 3995 Gibson Rd NW. Site says catalog partly out of date. Phone ordering only."
+  },
+  "willisorchards.com": {
+   "name": "Willis Orchard Co.",
+   "board_ids": [
+    "willis",
+    "willis-orchards"
+   ],
+   "ships": true,
+   "ship_from": {
+    "city": "Cartersville",
+    "state": "GA",
+    "zip": "30120",
+    "zip_source": "policy page"
+   },
+   "rule": {
+    "type": "region",
+    "regions": [
+     {
+      "states": [
+       "WA",
+       "OR",
+       "CA",
+       "ID",
+       "NV",
+       "AZ",
+       "UT",
+       "CO",
+       "NM",
+       "MT",
+       "WY"
+      ],
+      "label": "West",
+      "rule": {
+       "type": "table",
+       "table": [
+        [
+         96.5,
+         28.95
+        ]
+       ],
+       "over_pct": 0.3
+      }
+     },
+     {
+      "states": [],
+      "label": "East",
+      "rule": {
+       "type": "table",
+       "table": [
+        [
+         99.8,
+         24.95
+        ]
+       ],
+       "over_pct": 0.25
+      }
+     }
+    ]
+   },
+   "excluded_states": [
+    "AK",
+    "HI"
+   ],
+   "season": "Deciduous trees late Oct-Mar; evergreens year-round",
+   "carrier": "FedEx|UPS",
+   "confidence": "published",
+   "source": "https://www.willisorchards.com/faqs",
+   "checked": "2026-10-05",
+   "notes": "Some items can't ship to CA"
+  }
+ }
+}

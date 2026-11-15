@@ -1,0 +1,5490 @@
+{
+ "fruit": "grape",
+ "updated": "2026-11-10",
+ "scope": "Named cold-hardy grape cultivars for fresh eating, juice, jelly and wine, shippable to Annandale, NJ (zone 6b/7a): American (Vitis labrusca and relatives) and cold-hardy American-European hybrids that survive zone 5-6 winters. Muscadines (zone 7b+), ungrafted European wine grapes (V. vinifera) and unnamed generic vines are left out. Own-rooted vines are the norm here; grafted vines are noted.",
+ "last_run": {
+  "date": "2026-11-10",
+  "summary": "New listings at Double A Vineyards: Corot Noir ($12.75), Noiret ($12.75), Cayuga White ($12.75). New listings at TN Nursery: Concord ($19), Catawba ($19), Fredonia ($19), Niagara ($19). New listings at McKay Nursery: Concord ($28.99). New listings at Maya Gardens: Steuben (sold out), Concord (sold out), Niagara (sold out). Found three new sellers: TN Nursery (Concord, Catawba, Fredonia, Niagara), McKay Nursery (Concord) and Maya Gardens (Steuben, Concord, Niagara, all sold out). Added Corot Noir, Noiret and Cayuga White from Double A Vineyards. Bower & Branch and Fruition Seeds had nothing in scope.",
+  "gaps": [
+   "Regent page at Double A did not load",
+   "Hand Picked Nursery leads (Himrod, Einset, Niagara, Swenson Red) not checked tonight"
+  ],
+  "checked": [
+   "double-a-vineyards"
+  ],
+  "held": [],
+  "notes": [
+   "Found three new sellers: TN Nursery (Concord, Catawba, Fredonia, Niagara), McKay Nursery (Concord) and Maya Gardens (Steuben, Concord, Niagara, all sold out)",
+   "Added Corot Noir, Noiret and Cayuga White from Double A Vineyards",
+   "Bower & Branch and Fruition Seeds had nothing in scope"
+  ]
+ },
+ "history_log": [
+  "Oct 6: Seeded with 39 varieties from 9 sellers.",
+  "Oct 7: OGW restocked Reliance, Neptune, Venus, Interlaken; Glenora, Vanessa sold out; new seller Ison's; new varieties Beta, Traminette, Vidal Blanc.",
+  "Oct 10: Stark sold out Marquis and Marquette; Stark sale prices on Concord Seedless, Lakemont, Somerset; Nature Hills La Crescent backordered.",
+  "Oct 11: Back in stock at One Green World: Jupiter $14.95, Vanessa $15.95, Glenora $29.95; Sold out at One Green World: Reliance",
+  "Oct 12: no changes at the 1 nurseries checked",
+  "Oct 13: no changes at the 2 nurseries checked",
+  "Oct 14: Back in stock at Stark Bro's: Marquette $24.99",
+  "Oct 15: Nature Hills Nursery: La Crescent now sold out",
+  "Oct 20: New listings at Berry Plants: Catawba ($12.50), Concord ($12.50), Fredonia ($12.50), King of the North ($12.50), Niagara ($12.50), Concord Seedless ($12.50), Einset Seedless ($12.50), Glenora ($12.50) and 8 more; New listings at Handpicked Nursery: Concord Seedless (unconfirmed), Concord (unconfirmed), Catawba (unconfirmed), Canadice (unconfirmed), Vanessa (unconfirmed), Bluebell (unconfirmed), Thomcord (unconfirmed), Fredonia (unconfirmed); New listings at Edible Landscaping: Petite Pearl ($30), Verona ($30), Veritage ($30); New listings at Stark Bro's: Thomcord ($17.99), Saint Theresa ($15.99); New listings at Food Forest Nursery: Concord ($24.95); Added Berry Plants, Handpicked Nursery and Food Forest Nursery, plus new Edible Landscaping and Stark Bro's listings; New varieties: Petite Pearl, Verona, Veritage, Thomcord, Saint Theresa and King of the North; Talbott's Nursery and King Street Vineyards had no usable prices",
+  "Oct 22: Back in stock at Double A Vineyards: Interlaken $12.75; Back in stock at Handpicked Nursery: Concord Seedless $25.95, Concord $22.95, Catawba $22.95, Canadice $25.95, Vanessa $25.95, Bluebell $25.95, Thomcord $25.95, Fredonia $25.95; Sold out at Double A Vineyards: Himrod; Sold out at Stark Bro's: Niagara",
+  "Oct 26: Back in stock at Double A Vineyards: Himrod $12.75",
+  "Oct 29: Only part of Double A's products.json loaded; The listings it showed (Brianna, Vidal Blanc, La Crescent) are in stock at unchanged prices; The rest were not verified",
+  "Nov 2: no changes at the 8 nurseries checked",
+  "Nov 5: no changes at the 7 nurseries checked",
+  "Nov 9: no changes at the 12 nurseries checked",
+  "Nov 10: New listings at Double A Vineyards: Corot Noir ($12.75), Noiret ($12.75), Cayuga White ($12.75); New listings at TN Nursery: Concord ($19), Catawba ($19), Fredonia ($19), Niagara ($19); New listings at McKay Nursery: Concord ($28.99); New listings at Maya Gardens: Steuben (sold out), Concord (sold out), Niagara (sold out); Found three new sellers: TN Nursery (Concord, Catawba, Fredonia, Niagara), McKay Nursery (Concord) and Maya Gardens (Steuben, Concord, Niagara, all sold out); Added Corot Noir, Noiret and Cayuga White from Double A Vineyards; Bower & Branch and Fruition Seeds had nothing in scope"
+ ],
+ "sources": {
+  "directories": [],
+  "checked_no_named_stock": [
+   "Cummins Nursery (cumminsnursery.com) - fruit-tree specialist; no grape vines found",
+   "Burnt Ridge Nursery (burntridgenursery.com) - sells Concord (about $16) and other grapes, but product pages did not load in full via WebFetch; shipping notes suggest Concord is Washington-only. Not listed.",
+   "St. Lawrence Nurseries (sln.potsdam.ny.us/grapes.html) - page redirect loop in WebFetch; not read",
+   "Adams County Nursery (acnursery.com) - no grape pages found in search",
+   "Century Farm Orchards - no grape vine pages found (grapes URL 404; search found nothing); Jung/Gurney's - jungseed.com grapes page 404, only retail-partner listings found; UMN licensed nursery list is in Google Sheets not readable via fetch",
+   "Burnt Ridge Nursery (burntridgenursery.com) - grape category pages list no per-variety prices or stock; Concord is Washington-only, Himrod can't ship to NY. Checked Oct 10, not listed.",
+   "Talbott's Nursery - named grapes listed but base prices are for 1-4 inch starter plugs, stock not shown and shipping rates unread; not listed",
+   "King Street Vineyards (Milford, NH) - variety list only, no prices or shipping info, by appointment",
+   "Bower & Branch (bowerandbranch.com) - Concord page only: sold out, sold as a bundle of 3 small 10-12 in bare-root vines ($84), says 'Not available in your area'; not listed",
+   "Fruition Seeds (fruitionseeds.com) - Niagara page is out of stock, shows 2024 pickup dates at the farm in Naples, NY and says no tree orders shipped; not listed"
+  ],
+  "dead": [],
+  "to_check": [
+   "Directory: UMN Extension - Table grape varieties for Minnesota https://extension.umn.edu/agriculture/specialty-crops/commercial-fruit-production/vineyard-production-and-grape-farming/table-grape-varieties-for-minnesota",
+   "Directory: Penn State Extension - Backyard grape growing https://extension.psu.edu/backyard-grape-growing",
+   "Directory: Cornell - seedless table grapes bulletin http://www.hort.cornell.edu/reisch/grapegenetics/bulletin/table/tabletext3.html",
+   "One Green World: table grapes Thompson Seedless, Sweet Seduction, Summer Royal, Suffolk, Remaily, Petite Jewel, NY 47616 Blue, Monastery Muscat, Moldovan White Muscat listed, not on file",
+   "Raintree: 'Black Monukka', 'Flame Seedless', 'Suffolk Red', 'Hungarian Seedless', 'St. Theresa', 'Perlette', 'Thompson Seedless' grapes listed, not on file",
+   "Berry Plants: 'Muscat' grape listed, not on file",
+   "Berry Plants: 'Muscat' grape listed at $12.00, not on file",
+   "Berry Plants: 'Muscat' grape ($12.00) listed, not on file",
+   "Hand Picked Nursery: Himrod, Einset, Niagara, Swenson Red listed, not on file",
+   "Hand Picked Nursery: Himrod, Einset Seedless, Swenson Red, Cowart Muscadine grapes listed, not on file",
+   "Double A Vineyards: Regent (page URL not found), Alwood, VanBuren, Sheridan, Joy, Gratitude, Everest Seedless, Norton, Chambourcin grapes listed, not on file; Corot Noir, Noiret and Cayuga White added Nov 10",
+   "Maya Gardens: Canadice, Vanessa, Lakemont, Suffolk Red, Einset grapes named on its Steuben page, product pages not read",
+   "McKay Nursery: only the Concord page read (site search blocked); check for other grape pages"
+  ]
+ },
+ "nurseries": [
+  {
+   "id": "double-a-vineyards",
+   "name": "Double A Vineyards",
+   "location": "Fredonia, NY",
+   "state": "NY",
+   "url": "https://doubleavineyards.com/collections/grapevines-for-sale",
+   "note": "Own-rooted vines, about 230 grape listings. Cannot ship to CA, ID, WA or OR (NJ not excluded). Marquette page says 'Scheduled to ship in Spring 2027'; other pages' ship dates not individually read.",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 15,
+    "high": 25,
+    "note": "No shipping rate found on the site (FAQ/policy pages read); estimate for one vine."
+   }
+  },
+  {
+   "id": "raintree",
+   "name": "Raintree Nursery",
+   "location": "Morton, WA",
+   "state": "WA",
+   "url": "https://raintreenursery.com/collections/grapes",
+   "note": "2-yr bareroot ships spring only; potted grapes ship fall (late Sept to early Nov) to zone 6 and warmer, so 08801 qualifies.",
+   "shipping": {
+    "type": "percent",
+    "confirmed": true,
+    "min": 39.99,
+    "tiers": [
+     [
+      1000000000.0,
+      0.25
+     ]
+    ],
+    "source": "https://raintreenursery.com/pages/shipping-policy"
+   }
+  },
+  {
+   "id": "one-green-world",
+   "name": "One Green World",
+   "location": "Portland, OR",
+   "state": "OR",
+   "url": "https://onegreenworld.com/product-category/vines/grapes/table-grapes/",
+   "note": "Fall shipping, 1-gal or bare root. Category page shows 'Email me' on many items that are buyable on the product page; the product pages read are noted.",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 20,
+    "high": 25,
+    "source": "https://onegreenworld.com/shipping-information/",
+    "note": "Shipping is approximately $20-$25 depending on destination state, more for tall or heavy plants (per their shipping page, cited on another fruit board)."
+   }
+  },
+  {
+   "id": "roots-to-fruits",
+   "name": "Roots to Fruits Nursery",
+   "location": "Gays Mills, WI",
+   "state": "WI",
+   "url": "https://rootstofruitsnursery.com/collections/grapes",
+   "note": "Bare-root 18-24in or 1-gal container; buyer picks Fall 2026 (November) or Spring 2027 (mid-March) delivery at checkout. Cannot ship vines to OR, WA, CA. Product pages still show stale 'Ships Spring 2026' text.",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 15,
+    "high": 25,
+    "note": "Shipping policy page gives no rates; estimate for one vine."
+   }
+  },
+  {
+   "id": "starkbros",
+   "name": "Stark Bro's",
+   "location": "Louisiana, MO",
+   "state": "MO",
+   "url": "https://www.starkbros.com/products/berry-plants/grape-vines",
+   "note": "Pots (4-inch up to 1-gal); 'arrives when it's time to plant' for your zone. 12 grapes in stock and 17 out of stock on the category page.",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 15,
+    "high": 25,
+    "note": "Shipping policy page gives no charges; estimate for one vine."
+   }
+  },
+  {
+   "id": "nature-hills",
+   "name": "Nature Hills Nursery",
+   "location": "Omaha, NE",
+   "state": "NE",
+   "url": "https://naturehills.com/collections/grape-vines",
+   "note": "Only three grapes listed in its grape collection (all #1 containers).",
+   "shipping": {
+    "type": "table",
+    "confirmed": true,
+    "table": [
+     [
+      49.99,
+      9.99
+     ],
+     [
+      99.99,
+      14.99
+     ],
+     [
+      149.99,
+      16.99
+     ],
+     [
+      198.99,
+      24.99
+     ]
+    ],
+    "over_pct": 0,
+    "source": "https://naturehills.com/pages/delivery-and-shipping"
+   },
+   "excluded_states": [
+    "AK",
+    "HI",
+    "ID",
+    "MT",
+    "OR",
+    "PR",
+    "VI",
+    "WA"
+   ]
+  },
+  {
+   "id": "edible-landscaping",
+   "name": "Edible Landscaping",
+   "location": "Afton, VA",
+   "state": "VA",
+   "url": "https://ediblelandscaping.com/collections/vines",
+   "note": "Three in-scope grapes (Concord, Niagara, Mars) among muscadines. Small potted sizes from 3-inch up. Cannot ship to CA or OR. Concord and Niagara flagged 'low stock'.",
+   "shipping": {
+    "type": "percent",
+    "confirmed": true,
+    "min": 15,
+    "tiers": [
+     [
+      25,
+      0.9
+     ],
+     [
+      50,
+      0.69
+     ],
+     [
+      125,
+      0.49
+     ],
+     [
+      400,
+      0.36
+     ],
+     [
+      1000,
+      0.34
+     ],
+     [
+      3000,
+      0.32
+     ]
+    ],
+    "source": "https://ediblelandscaping.com/pages/shipping-cost"
+   },
+   "excluded_states": [
+    "CA",
+    "OR"
+   ]
+  },
+  {
+   "id": "fedco-trees",
+   "name": "Fedco Trees",
+   "location": "Maine",
+   "state": "ME",
+   "url": "https://fedcoseeds.com/trees/grapes",
+   "note": "Bare-root vines, 17 grapes, all $18. Perennial plants ship early March to mid/late May, warmer zones first.",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 15,
+    "high": 25,
+    "note": "Shipping page did not load (JavaScript redirect); estimate for one vine."
+   }
+  },
+  {
+   "id": "willis-orchards",
+   "name": "Willis Orchard Company",
+   "location": "Georgia",
+   "state": "GA",
+   "url": "https://www.willisorchards.com/grape-vines",
+   "note": "2-year or 3-year vines; ships Dec 1, 2026 to Apr 1, 2027. Cannot ship grapes to Washington.",
+   "shipping": {
+    "type": "flat",
+    "confirmed": true,
+    "amount": 24.95,
+    "source": "https://www.willisorchards.com/faqs",
+    "note": "Flat $24.95 under about $99.80 subtotal; eastern orders above that are 25% of subtotal (FAQ)."
+   },
+   "unreadable": {
+    "since": "2026-11-09",
+    "nights": 1,
+    "last": "2026-11-09",
+    "reason": "would not load"
+   }
+  },
+  {
+   "id": "isons",
+   "name": "Ison's Nursery & Vineyard",
+   "location": "Brooks, GA",
+   "state": "GA",
+   "url": "https://www.isons.com/shop/bunch-grapes/",
+   "phone": "(800) 733-0324",
+   "note": "2-year vines; bunch grapes ship Jan-Apr, later for colder states. Shipping rates not read.",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 15,
+    "high": 25,
+    "note": "No shipping rate found on the pages read; estimate for one vine."
+   }
+  },
+  {
+   "id": "berry-plants",
+   "name": "Berry Plants",
+   "url": "https://berryplants.com/grapes.php",
+   "note": "Many named grapes at one price. Ships spring only for most varieties. Page lists 'Wine (Vitis vinifera)' as a heading but the named hardy hybrids are in scope. Won't ship to CA, ID, NV, OR, WA; wine grapes not shipped to NY. Free shipping on orders $150+; lower-order rates not published.",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 15,
+    "high": 25,
+    "note": "Rates below the free-shipping threshold ($150) are not published; fruit estimate used."
+   },
+   "excluded_states": [
+    "CA",
+    "ID",
+    "NV",
+    "OR",
+    "WA",
+    "AK",
+    "HI"
+   ]
+  },
+  {
+   "id": "handpicked-nursery",
+   "name": "Handpicked Nursery",
+   "location": "Benson, NC",
+   "state": "NC",
+   "url": "https://www.handpickednursery.com/collections/grape-vines",
+   "note": "Collection page shows 'from' prices and marks sold-out items; unmarked items are not confirmed in stock. Banner says 'Free Domestic Shipping' (conditions not read).",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 15,
+    "high": 25,
+    "note": "Banner advertises free domestic shipping but terms weren't read; fruit estimate used."
+   }
+  },
+  {
+   "id": "food-forest-nursery",
+   "name": "Food Forest Nursery",
+   "url": "https://www.foodforestnursery.com/product/concord-grape-seeded/",
+   "note": "Location not stated on the page read. Won't ship to AK, HI, ID, OR, WA. Free shipping over $250.",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 15,
+    "high": 25,
+    "note": "Shipping rates not read; fruit estimate used."
+   },
+   "excluded_states": [
+    "AK",
+    "HI",
+    "ID",
+    "OR",
+    "WA"
+   ]
+  },
+  {
+   "id": "tn-nursery",
+   "name": "TN Nursery",
+   "url": "https://www.tnnursery.net/products/grape-vine",
+   "state": "TN",
+   "note": "One 'Grape Vine Plant' product with Concord, Catawba, Fredonia and Niagara in 1-2, 2-3, 3-4 and 4-5 ft sizes; 1-2 ft price is for a buy-one-get-one-free pair. Page says plants ship Nov 15-29. Shipping policy lists no excluded states (NJ not mentioned).",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 15,
+    "high": 25,
+    "note": "Shipping is calculated at checkout by weight and destination (shipping-policy page); no rate published, so this is an estimate."
+   }
+  },
+  {
+   "id": "mckay-nursery",
+   "name": "McKay Nursery",
+   "url": "https://mckaynursery.com/concord-grape",
+   "note": "Concord bare-root vine, 'starting at' $28.99. Page says it does not ship to Idaho or Oregon (NJ not mentioned); free FedEx shipping on $179+ orders. Site search is blocked to crawlers, so other grape pages were not read.",
+   "excluded_states": [
+    "ID",
+    "OR"
+   ],
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 15,
+    "high": 25,
+    "note": "No per-order rate read; free FedEx shipping at $179 on the product page. Estimate for one vine."
+   }
+  },
+  {
+   "id": "maya-gardens",
+   "name": "Maya Gardens",
+   "url": "https://mayagardensinc.com/products/steuben-grape",
+   "note": "#1 container plants, 1-2 years old and 2-3 ft, $69.99 each with free shipping. Cannot ship to CA, HI, ID, NY, OR or WA (NJ not excluded). Steuben, Concord and Niagara all sold out tonight; the Steuben page also names Canadice, Vanessa, Lakemont, Suffolk Red, Einset, Golden Muscat as sold, product pages not read.",
+   "excluded_states": [
+    "CA",
+    "HI",
+    "ID",
+    "NY",
+    "OR",
+    "WA"
+   ],
+   "shipping": {
+    "type": "included",
+    "confirmed": true,
+    "source": "https://mayagardensinc.com/products/steuben-grape",
+    "note": "Page says free shipping."
+   }
+  }
+ ],
+ "varieties": [
+  {
+   "id": "concord",
+   "name": "Concord",
+   "color": "blue",
+   "type": "multi",
+   "seedless": false,
+   "tags": [
+    "Juice & jelly",
+    "Classic labrusca",
+    "Self-fertile",
+    "Seeded"
+   ],
+   "aliases": [],
+   "summary": "Classic blue-black American slipskin grape for juice, jelly and fresh eating.",
+   "description": "Medium clusters of large blue-black, tough-skinned berries with a strong labrusca flavor, used for jelly, juice, wine and fresh eating. Ripens mid to late season (about 2-3 weeks after Bluebell at Fedco). Self-fertile; Fedco rates it hardy to about -17F (zone 5) and suggests Bluebell for colder sites; Edible Landscaping notes strong disease resistance.",
+   "hardy_to": 5,
+   "fruit": "grape",
+   "awards": [],
+   "breeder": null,
+   "notes": [],
+   "first_seen": "2026-10-06"
+  },
+  {
+   "id": "concord-seedless",
+   "name": "Concord Seedless",
+   "color": "blue",
+   "type": "juice",
+   "seedless": true,
+   "tags": [
+    "Seedless",
+    "Juice & jelly",
+    "Self-fertile"
+   ],
+   "aliases": [
+    "Seedless Concord"
+   ],
+   "summary": "Seedless sport of Concord with the same blue-black color and labrusca flavor.",
+   "description": "Blue-black slipskin berries with Concord character, typically used for jelly and juice, with slightly smaller clusters and berries than Concord and earlier maturity. Ripens late August through September. Double A lists zones 4-8 and notes susceptibility to black rot; Roots to Fruits and Willis list zones 5-8 and 5-9.",
+   "fruit": "grape",
+   "awards": [],
+   "breeder": null,
+   "notes": [],
+   "first_seen": "2026-10-06"
+  },
+  {
+   "id": "niagara",
+   "name": "Niagara",
+   "color": "green",
+   "type": "multi",
+   "seedless": false,
+   "tags": [
+    "Green grape",
+    "Juice",
+    "Self-fertile",
+    "Seeded"
+   ],
+   "aliases": [
+    "White Concord"
+   ],
+   "summary": "The standard green (white) labrusca grape, for juice, table and sweet wine.",
+   "description": "Large clusters of amber-green slipskin berries with a strong foxy labrusca flavor, used for fresh eating, white juice and sweet wine. Very productive and vigorous; Edible Landscaping notes fair disease resistance with occasional black rot spraying. Zone range quoted varies by seller (3-7 to 5-9).",
+   "fruit": "grape",
+   "awards": [],
+   "breeder": null,
+   "notes": [],
+   "first_seen": "2026-10-06"
+  },
+  {
+   "id": "catawba",
+   "name": "Catawba",
+   "color": "red",
+   "type": "multi",
+   "seedless": false,
+   "tags": [
+    "Heritage",
+    "Sparkling wine",
+    "Self-fertile",
+    "Seeded"
+   ],
+   "aliases": [
+    "Cawtaba"
+   ],
+   "summary": "Heritage pink-red labrusca grape with a spicy flavor, used for juice, jelly and sparkling wine.",
+   "description": "Early-1800s American chance seedling with thick-skinned, slipskin, aromatic pink to purplish-red berries in medium-large clusters. Good fresh, for juice, jelly and sparkling wine; ripens late September to October. Fedco rates it zone 5 and says it may need less spraying than its old reputation suggests.",
+   "hardy_to": 5,
+   "fruit": "grape",
+   "awards": [],
+   "breeder": null,
+   "notes": [],
+   "first_seen": "2026-10-06"
+  },
+  {
+   "id": "bluebell",
+   "name": "Bluebell",
+   "color": "blue",
+   "type": "multi",
+   "seedless": false,
+   "tags": [
+    "Cold hardy to -30F",
+    "Early",
+    "Disease resistant",
+    "Seeded"
+   ],
+   "aliases": [],
+   "summary": "Very cold-hardy, Concord-like blue grape that ripens 2-3 weeks before Concord.",
+   "description": "Medium dark berries with a blue bloom, thick skin and mild Concord-like flavor for fresh eating, juice and preserves. Ripens about 2-3 weeks ahead of Concord and tolerates about -30F with good resistance to fungal disease at Fedco. Seeded.",
+   "hardy_to": 3,
+   "breeder": {
+    "name": "J.M. Dorsey, University of Minnesota (1944)",
+    "kind": "university",
+    "short": "Univ. of Minnesota"
+   },
+   "fruit": "grape",
+   "awards": [],
+   "notes": [],
+   "first_seen": "2026-10-06"
+  },
+  {
+   "id": "himrod",
+   "name": "Himrod",
+   "color": "green",
+   "type": "table",
+   "seedless": true,
+   "tags": [
+    "Seedless",
+    "Early",
+    "Self-fertile",
+    "Green grape"
+   ],
+   "aliases": [],
+   "summary": "Early, very sweet seedless green-gold table grape with a honey-like flavor.",
+   "description": "Pale golden seedless berries with tender skin and juicy, honey-like sweetness in large loose clusters; ripens early to mid-September. Good for fresh eating, juice and raisins. Seller zone ratings vary (5-9 at Roots to Fruits, 6-8 at One Green World).",
+   "fruit": "grape",
+   "awards": [],
+   "breeder": null,
+   "notes": [],
+   "first_seen": "2026-10-06"
+  },
+  {
+   "id": "reliance",
+   "name": "Reliance",
+   "color": "red",
+   "type": "table",
+   "seedless": true,
+   "tags": [
+    "Seedless",
+    "Cold hardy to -25F",
+    "Early",
+    "Self-fertile"
+   ],
+   "aliases": [],
+   "summary": "Hardy seedless pink-red table grape with a strawberry-like flavor.",
+   "description": "Large, loose clusters of tender, melting pinkish-red berries with a strawberry-like labrusca flavor, very early ripening; good fresh, for juice and jelly, and stores 1-2 months in a root cellar per Fedco. Hardy to about -25F (zone 4) per Roots to Fruits and Fedco; Fedco notes vines have stayed disease-free for them though literature warns of susceptibility.",
+   "hardy_to": 4,
+   "breeder": {
+    "name": "University of Arkansas grape breeding program (1982)",
+    "kind": "university",
+    "short": "Univ. of Arkansas"
+   },
+   "fruit": "grape",
+   "awards": [],
+   "notes": [],
+   "first_seen": "2026-10-06"
+  },
+  {
+   "id": "canadice",
+   "name": "Canadice",
+   "color": "red",
+   "type": "table",
+   "seedless": true,
+   "tags": [
+    "Seedless",
+    "Early",
+    "Self-fertile",
+    "Red grape"
+   ],
+   "aliases": [],
+   "summary": "Early seedless red table grape with a subtle spice note.",
+   "description": "Compact clusters of medium pink to light red seedless berries with tender, edible slipskin and a distinct labrusca flavor with a hint of spice. Ripens about two weeks ahead of Concord in late summer and holds well on the vine. Self-fertile; sellers rate it hardy to roughly -10F (zones 6-8 at One Green World, 3-8 at Nature Hills).",
+   "fruit": "grape",
+   "awards": [],
+   "breeder": null,
+   "notes": [],
+   "first_seen": "2026-10-06"
+  },
+  {
+   "id": "mars",
+   "name": "Mars",
+   "color": "blue",
+   "type": "table",
+   "seedless": true,
+   "tags": [
+    "Seedless",
+    "Disease resistant",
+    "Early",
+    "Self-fertile"
+   ],
+   "aliases": [],
+   "summary": "Very early, disease-resistant blue seedless grape with Concord-type flavor.",
+   "description": "Large seedless blue berries with a musky Concord-like flavor and thick slipskin that resists cracking, good for fresh eating, juice and jelly. Very early ripening (mid-August in central Maine) and rated among the best for disease resistance at Fedco. Vigorous; Fedco rates it zone 5 (trial in zone 4) after exposure to -20F.",
+   "hardy_to": 5,
+   "breeder": {
+    "name": "University of Arkansas grape breeding program (1984)",
+    "kind": "university",
+    "short": "Univ. of Arkansas"
+   },
+   "fruit": "grape",
+   "awards": [],
+   "notes": [],
+   "first_seen": "2026-10-06"
+  },
+  {
+   "id": "jupiter",
+   "name": "Jupiter",
+   "color": "blue",
+   "type": "table",
+   "seedless": true,
+   "tags": [
+    "Seedless",
+    "Muscat flavor",
+    "Self-fertile",
+    "Crack resistant"
+   ],
+   "aliases": [],
+   "summary": "Large seedless blue grape with a mild muscat flavor and crisp flesh.",
+   "description": "Large clusters of large reddish-blue to dark blue, non-slipskin berries with a mild muscat flavor, crunchy texture and thin, crack-resistant skin; ripens mid-August and holds on the vine. Self-fertile; One Green World rates it zones 6-9, hardy to at least -10F.",
+   "hardy_to": 6,
+   "breeder": {
+    "name": "University of Arkansas grape breeding program",
+    "kind": "university",
+    "short": "Univ. of Arkansas"
+   },
+   "fruit": "grape",
+   "awards": [],
+   "notes": [],
+   "first_seen": "2026-10-06"
+  },
+  {
+   "id": "venus",
+   "name": "Venus",
+   "color": "blue",
+   "type": "table",
+   "seedless": true,
+   "tags": [
+    "Seedless",
+    "Early",
+    "Self-fertile",
+    "Crack resistant"
+   ],
+   "aliases": [],
+   "summary": "Early seedless blue-black grape with sweet, slightly muscat flavor.",
+   "description": "Large blue-black seedless berries in tight, full clusters that ripen together, with a sweet fruity flavor and a hint of muscat. Early (August) and crack-resistant, very vigorous and productive; stores well. Zone ratings vary by seller (4-9 at One Green World, 6-10 at Willis).",
+   "breeder": {
+    "name": "University of Arkansas grape breeding program",
+    "kind": "university",
+    "short": "Univ. of Arkansas"
+   },
+   "fruit": "grape",
+   "awards": [],
+   "notes": [],
+   "first_seen": "2026-10-06"
+  },
+  {
+   "id": "einset",
+   "name": "Einset Seedless",
+   "color": "red",
+   "type": "table",
+   "seedless": true,
+   "tags": [
+    "Seedless",
+    "Red grape",
+    "Early"
+   ],
+   "aliases": [
+    "Einset"
+   ],
+   "summary": "Seedless red slipskin table grape with a strawberry-like labrusca flavor.",
+   "description": "Medium clusters of oval bright red seedless berries with tender, edible slipskin and a distinct labrusca-strawberry flavor; the soft seed remnant is not noticeable. Ripens early. Hardiness is not stated by the sellers read here.",
+   "fruit": "grape",
+   "awards": [],
+   "breeder": null,
+   "notes": [],
+   "first_seen": "2026-10-06"
+  },
+  {
+   "id": "vanessa",
+   "name": "Vanessa",
+   "color": "red",
+   "type": "table",
+   "seedless": true,
+   "tags": [
+    "Seedless",
+    "Crisp",
+    "Self-fertile",
+    "Red grape"
+   ],
+   "aliases": [],
+   "summary": "Crisp, deep red seedless table grape with a fine, mildly fruity flavor.",
+   "description": "Medium clusters of firm, crisp, deep-red seedless berries with a sweet, fruity non-labrusca flavor, also usable for raisins. Mid-season and vigorous; Fedco rates it zone 4 and reports it re-sprouting from the base after dieback at -20F.",
+   "hardy_to": 4,
+   "breeder": {
+    "name": "K.H. Fisher and O.A. Bradt, Vineland Station, Ontario (1983)",
+    "kind": "breeder",
+    "short": "Fisher & Bradt"
+   },
+   "fruit": "grape",
+   "awards": [],
+   "notes": [],
+   "first_seen": "2026-10-06"
+  },
+  {
+   "id": "somerset-seedless",
+   "name": "Somerset Seedless",
+   "color": "red",
+   "type": "table",
+   "seedless": true,
+   "tags": [
+    "Seedless",
+    "Cold hardy to -30F",
+    "Early",
+    "Self-fertile"
+   ],
+   "aliases": [
+    "Somerset"
+   ],
+   "summary": "Early, cold-hardy seedless grape with crisp strawberry-flavored red fruit.",
+   "description": "Medium loose clusters of small to medium sweet reddish-golden berries with a crisp texture and strawberry-like flavor, ripening early (August). Not overly vigorous and easy to grow; Fedco rates it hardy to about -30F (zone 4).",
+   "hardy_to": 4,
+   "breeder": {
+    "name": "Elmer Swenson",
+    "kind": "breeder",
+    "short": "Swenson"
+   },
+   "fruit": "grape",
+   "awards": [],
+   "notes": [],
+   "first_seen": "2026-10-06"
+  },
+  {
+   "id": "marquis",
+   "name": "Marquis",
+   "color": "green",
+   "type": "table",
+   "seedless": true,
+   "tags": [
+    "Seedless",
+    "Disease resistant",
+    "Self-fertile",
+    "Green grape"
+   ],
+   "aliases": [],
+   "summary": "Large, sweet pale-yellow seedless grape, disease resistant.",
+   "description": "Abundant crops of large, pale yellow, very sweet and flavorful seedless berries with a melting texture that hold well on the vine. Ripens mid-September; One Green World lists it as disease resistant, zones 6-9, hardy to -10F.",
+   "hardy_to": 6,
+   "breeder": {
+    "name": "Cornell University",
+    "kind": "university",
+    "short": "Cornell"
+   },
+   "fruit": "grape",
+   "awards": [],
+   "notes": [],
+   "first_seen": "2026-10-06"
+  },
+  {
+   "id": "neptune",
+   "name": "Neptune",
+   "color": "green",
+   "type": "table",
+   "seedless": true,
+   "tags": [
+    "Seedless",
+    "Crack resistant",
+    "Self-fertile",
+    "Green grape"
+   ],
+   "aliases": [],
+   "summary": "Large-clustered seedless green grape with fruity, non-foxy flavor.",
+   "description": "Large conical clusters of yellow-green, non-slipskin seedless berries with moderately thick, crack-resistant skin and a fruity flavor without foxiness. Ripens in September; One Green World lists zones 6-9, hardy to -10F.",
+   "hardy_to": 6,
+   "fruit": "grape",
+   "awards": [],
+   "breeder": null,
+   "notes": [],
+   "first_seen": "2026-10-06"
+  },
+  {
+   "id": "interlaken",
+   "name": "Interlaken",
+   "color": "green",
+   "type": "table",
+   "seedless": true,
+   "tags": [
+    "Seedless",
+    "Very early",
+    "Raisin grape",
+    "Green grape"
+   ],
+   "aliases": [],
+   "summary": "Very early seedless green-gold table grape with crunchy non-slip berries.",
+   "description": "Small to medium crunchy, green-to-golden, non-slipskin seedless berries with a robust American flavor, for fresh eating and raisins. Ripens very early (early September), suiting cool-summer areas. Raintree rates it cold hardy to zone 6.",
+   "hardy_to": 6,
+   "fruit": "grape",
+   "awards": [],
+   "breeder": null,
+   "notes": [],
+   "first_seen": "2026-10-06"
+  },
+  {
+   "id": "glenora",
+   "name": "Glenora",
+   "color": "blue",
+   "type": "table",
+   "seedless": true,
+   "tags": [
+    "Seedless",
+    "Early",
+    "Blue grape"
+   ],
+   "aliases": [],
+   "summary": "Seedless blue-black table grape with mild, pleasant flavor.",
+   "description": "Medium-sized blue-black seedless berries with a mild sweet flavor, good for fresh eating; ripens late August to early September. Roots to Fruits rates it zones 5-9 and notes phylloxera resistance.",
+   "hardy_to": 5,
+   "fruit": "grape",
+   "awards": [],
+   "breeder": null,
+   "notes": [],
+   "first_seen": "2026-10-06"
+  },
+  {
+   "id": "lakemont",
+   "name": "Lakemont",
+   "color": "green",
+   "type": "table",
+   "seedless": true,
+   "tags": [
+    "Seedless",
+    "Green grape",
+    "Table grape"
+   ],
+   "aliases": [],
+   "summary": "Seedless white table grape, a Himrod sibling with milder flavor.",
+   "description": "Compact clusters of fairly small, mild-flavored seedless green berries. Double A describes it as a sibling of Himrod with reduced cold tolerance, so it may need a sheltered site in zone 6.",
+   "fruit": "grape",
+   "awards": [],
+   "breeder": null,
+   "notes": [],
+   "first_seen": "2026-10-06"
+  },
+  {
+   "id": "valiant",
+   "name": "Valiant",
+   "color": "blue",
+   "type": "multi",
+   "seedless": false,
+   "tags": [
+    "Cold hardy to -50F",
+    "Juice & jelly",
+    "Self-fertile",
+    "Seeded"
+   ],
+   "aliases": [],
+   "summary": "Extremely hardy blue grape for jelly, juice and fresh eating, zones 3-8.",
+   "description": "Small compact clusters of small blue berries that ripen reliably in short, cold seasons; used for fresh eating, jam, jelly, juice and wine with a tangy flavor. Ripens late August; self-fertile, rated zones 3-8 and hardy to -50F at One Green World.",
+   "hardy_to": 3,
+   "breeder": {
+    "name": "South Dakota State University",
+    "kind": "university",
+    "short": "SDSU"
+   },
+   "fruit": "grape",
+   "awards": [],
+   "notes": [],
+   "first_seen": "2026-10-06"
+  },
+  {
+   "id": "compassion",
+   "name": "Compassion",
+   "color": "green",
+   "type": "table",
+   "seedless": true,
+   "tags": [
+    "Seedless",
+    "Late budbreak",
+    "Self-fertile",
+    "Green grape"
+   ],
+   "aliases": [],
+   "summary": "Seedless light-green grape from the University of Arkansas program.",
+   "description": "Large clusters of firm, thick-skinned light green berries with above-average sweetness, for fresh eating and juice; some berries may carry faint seed remnants. Late bud break gives frost protection; Fedco rates it zone 5 and cites full crops in Vermont after -13F.",
+   "hardy_to": 5,
+   "breeder": {
+    "name": "University of Arkansas grape breeding program (introduced 2017)",
+    "kind": "university",
+    "short": "Univ. of Arkansas"
+   },
+   "fruit": "grape",
+   "awards": [],
+   "notes": [],
+   "first_seen": "2026-10-06"
+  },
+  {
+   "id": "fredonia",
+   "name": "Fredonia",
+   "color": "blue",
+   "type": "multi",
+   "seedless": false,
+   "tags": [
+    "Early",
+    "Concord type",
+    "Self-fertile",
+    "Seeded"
+   ],
+   "aliases": [
+    "Freedonia"
+   ],
+   "summary": "Early Concord-type blue grape ripening about two weeks ahead of Concord.",
+   "description": "Blue-black berries of Concord type used as a table grape and for processing and wine; ripens late August to early September, about two weeks before Concord. Roots to Fruits rates it zones 4-8.",
+   "hardy_to": 4,
+   "fruit": "grape",
+   "awards": [],
+   "breeder": null,
+   "notes": [],
+   "first_seen": "2026-10-06"
+  },
+  {
+   "id": "marquette",
+   "name": "Marquette",
+   "color": "black",
+   "type": "wine",
+   "seedless": false,
+   "tags": [
+    "Wine grape",
+    "Cold hardy to -36F",
+    "Red wine",
+    "Seeded"
+   ],
+   "aliases": [],
+   "summary": "University of Minnesota cold-hardy red wine grape with Pinot Noir-style character.",
+   "description": "Small to medium clusters of bluish-black berries with high sugar, lower acidity than Frontenac and notable tannins, making complex ruby wines with cherry, berry and pepper notes. Fedco rates it zone 3 and reports fruit after -36F; early budbreak calls for good frost drainage.",
+   "hardy_to": 3,
+   "breeder": {
+    "name": "University of Minnesota (2006)",
+    "kind": "university",
+    "short": "Univ. of Minnesota"
+   },
+   "fruit": "grape",
+   "awards": [],
+   "notes": [],
+   "first_seen": "2026-10-06"
+  },
+  {
+   "id": "frontenac",
+   "name": "Frontenac",
+   "color": "black",
+   "type": "wine",
+   "seedless": false,
+   "tags": [
+    "Wine grape",
+    "Cold hardy to -35F",
+    "Disease resistant",
+    "Seeded"
+   ],
+   "aliases": [],
+   "summary": "Very cold-hardy University of Minnesota red wine grape with cherry aromas.",
+   "description": "Very large loose clusters of small ruby-dark berries with high sugar and high acidity, used for dry red, rose, port and sweet wines. Roots to Fruits reports hardiness to -35F and downy mildew immunity; Fedco advises waiting until late September to harvest.",
+   "hardy_to": 4,
+   "breeder": {
+    "name": "University of Minnesota (1996)",
+    "kind": "university",
+    "short": "Univ. of Minnesota"
+   },
+   "fruit": "grape",
+   "awards": [],
+   "notes": [],
+   "first_seen": "2026-10-06"
+  },
+  {
+   "id": "la-crescent",
+   "name": "La Crescent",
+   "color": "green",
+   "type": "wine",
+   "seedless": false,
+   "tags": [
+    "Wine grape",
+    "Cold hardy to -36F",
+    "White wine",
+    "Seeded"
+   ],
+   "aliases": [],
+   "summary": "Cold-hardy white wine grape with apricot and citrus notes, from the University of Minnesota.",
+   "description": "High-acid, Muscat-influenced berries producing off-dry to sweet wines with apricot, peach and citrus character, suited to dessert and late-harvest styles. Roots to Fruits reports hardiness to -36F (zones 4-9) with a late-September harvest.",
+   "hardy_to": 4,
+   "breeder": {
+    "name": "University of Minnesota",
+    "kind": "university",
+    "short": "Univ. of Minnesota"
+   },
+   "fruit": "grape",
+   "awards": [],
+   "notes": [],
+   "first_seen": "2026-10-06"
+  },
+  {
+   "id": "brianna",
+   "name": "Brianna",
+   "color": "green",
+   "type": "multi",
+   "seedless": false,
+   "tags": [
+    "Wine grape",
+    "Cold hardy to -30F",
+    "Disease resistant",
+    "Seeded"
+   ],
+   "aliases": [],
+   "summary": "Cold-hardy golden grape with pineapple and grapefruit flavors, for wine or fresh eating.",
+   "description": "Medium-large thick-skinned gold berries with pineapple, grapefruit and floral flavors, used for semi-sweet wine and fresh eating. Late bud break and good secondary-bud fruiting help it handle cold; Roots to Fruits reports hardiness to -30F and good disease resistance.",
+   "hardy_to": 3,
+   "breeder": {
+    "name": "Elmer Swenson",
+    "kind": "breeder",
+    "short": "Swenson"
+   },
+   "fruit": "grape",
+   "awards": [],
+   "notes": [],
+   "first_seen": "2026-10-06"
+  },
+  {
+   "id": "itasca",
+   "name": "Itasca",
+   "color": "green",
+   "type": "wine",
+   "seedless": false,
+   "tags": [
+    "Wine grape",
+    "Cold hardy to -38F",
+    "Disease resistant",
+    "Seeded"
+   ],
+   "aliases": [],
+   "summary": "University of Minnesota white wine grape with low acid and high sugar.",
+   "description": "Golden-yellow berries with low acid and high sugar that make a dry Sauvignon Blanc-style wine, and also usable for fresh eating and juice. Fedco notes early budbreak, vigorous upright growth, disease resistance and survival of -38F.",
+   "hardy_to": 4,
+   "breeder": {
+    "name": "University of Minnesota (2017)",
+    "kind": "university",
+    "short": "Univ. of Minnesota"
+   },
+   "fruit": "grape",
+   "awards": [],
+   "notes": [],
+   "first_seen": "2026-10-06"
+  },
+  {
+   "id": "sabrevois",
+   "name": "Sabrevois",
+   "color": "black",
+   "type": "wine",
+   "seedless": false,
+   "tags": [
+    "Wine grape",
+    "Cold hardy to -30F",
+    "Disease resistant",
+    "Blending grape"
+   ],
+   "aliases": [],
+   "summary": "Very hardy, disease-resistant dark red wine grape used for blending.",
+   "description": "Small to medium clusters of nearly black fruit with moderate sugar and slightly high acidity, making a dry, aromatic red wine that blends well with higher-sugar reds like Frontenac. Vigorous and upright; Fedco rates it hardy to about -30F (zone 4).",
+   "hardy_to": 4,
+   "breeder": {
+    "name": "Elmer Swenson",
+    "kind": "breeder",
+    "short": "Swenson"
+   },
+   "fruit": "grape",
+   "awards": [],
+   "notes": [],
+   "first_seen": "2026-10-06"
+  },
+  {
+   "id": "marechal-foch",
+   "name": "Maréchal Foch",
+   "color": "black",
+   "type": "wine",
+   "seedless": false,
+   "tags": [
+    "Wine grape",
+    "Cold hardy to -22F",
+    "Early",
+    "Seeded"
+   ],
+   "aliases": [
+    "Foch",
+    "Marechal Foch"
+   ],
+   "summary": "Early French-American hybrid red wine grape, hardy to about -22F.",
+   "description": "Small loose clusters of small black-red berries with blackberry, cherry and earthy notes for Burgundy-style wines, port and rose. Early ripening; Fedco says it is hardy to about -22F but breaks bud early, so site selection matters.",
+   "hardy_to": 4,
+   "breeder": {
+    "name": "Eugène Kuhlmann",
+    "kind": "breeder",
+    "short": "Kuhlmann"
+   },
+   "fruit": "grape",
+   "awards": [],
+   "notes": [],
+   "first_seen": "2026-10-06"
+  },
+  {
+   "id": "st-pepin",
+   "name": "St. Pepin",
+   "color": "green",
+   "type": "wine",
+   "seedless": false,
+   "tags": [
+    "Wine grape",
+    "Needs pollinator",
+    "White wine",
+    "Seeded"
+   ],
+   "aliases": [
+    "Saint Pepin"
+   ],
+   "summary": "Cold-hardy white wine grape; female-flowered, needs a pollinating grape nearby.",
+   "description": "Rather loose clusters of firm, medium greenish-white aromatic berries for white wine and juice without a musky flavor; also eaten fresh. Fedco rates it zone 4. The vine has female flowers and needs another variety blooming at the same time for fruit set.",
+   "hardy_to": 4,
+   "breeder": {
+    "name": "Elmer Swenson",
+    "kind": "breeder",
+    "short": "Swenson"
+   },
+   "fruit": "grape",
+   "awards": [],
+   "notes": [],
+   "first_seen": "2026-10-06"
+  },
+  {
+   "id": "l-acadie-blanc",
+   "name": "L'Acadie Blanc",
+   "color": "green",
+   "type": "wine",
+   "seedless": false,
+   "tags": [
+    "Wine grape",
+    "Cold hardy to -20F",
+    "White wine",
+    "Early"
+   ],
+   "aliases": [
+    "L'Acadie",
+    "L Acadie"
+   ],
+   "summary": "Hardy Nova Scotian white wine grape with crisp apple and pear notes.",
+   "description": "Early-season loose clusters of golden-green fruit that make crisp, mineral wines with apple and pear notes, single-varietal, blended or sparkling. Fedco rates it zone 4 (hardy to -20F or colder), and one grower reports it came through the Feb 2023 deep freeze.",
+   "hardy_to": 4,
+   "breeder": {
+    "name": "Ollie A. Bradt, Vineland Station, Ontario (1953)",
+    "kind": "breeder",
+    "short": "Bradt"
+   },
+   "fruit": "grape",
+   "awards": [],
+   "notes": [],
+   "first_seen": "2026-10-06"
+  },
+  {
+   "id": "adalmiina",
+   "name": "Adalmiina",
+   "color": "green",
+   "type": "wine",
+   "seedless": false,
+   "tags": [
+    "Wine grape",
+    "Cold hardy to -30F",
+    "White wine",
+    "Seeded"
+   ],
+   "aliases": [],
+   "summary": "Hardy Swenson white wine grape from Concord x riparia, light and floral.",
+   "description": "Golden-green grapes in medium loose clusters with low Brix (19-20) and low acidity, making a light floral, citrusy dry white wine with mineral pineapple notes. Fedco rates it zone 4 (about -30F) and describes it as still fairly obscure.",
+   "hardy_to": 4,
+   "breeder": {
+    "name": "Elmer Swenson",
+    "kind": "breeder",
+    "short": "Swenson"
+   },
+   "fruit": "grape",
+   "awards": [],
+   "notes": [],
+   "first_seen": "2026-10-06"
+  },
+  {
+   "id": "louise-swenson",
+   "name": "Louise Swenson",
+   "color": "green",
+   "type": "wine",
+   "seedless": false,
+   "tags": [
+    "Wine grape",
+    "Cold hardy to -40F",
+    "White wine",
+    "Seeded"
+   ],
+   "aliases": [],
+   "summary": "Very hardy yellow-gold white wine grape with floral, honey and tangerine aromas.",
+   "description": "Modest clusters of medium yellow-gold berries, naturally low in sugar with moderate acidity, making a light-bodied dry white wine with floral and honey aromas. Roots to Fruits reports hardiness to -40F (zones 3-9) and modest yields.",
+   "hardy_to": 3,
+   "fruit": "grape",
+   "awards": [],
+   "breeder": null,
+   "notes": [],
+   "first_seen": "2026-10-06"
+  },
+  {
+   "id": "prairie-star",
+   "name": "Prairie Star",
+   "color": "green",
+   "type": "wine",
+   "seedless": false,
+   "tags": [
+    "Wine grape",
+    "Cold hardy to -38F",
+    "White wine",
+    "Seeded"
+   ],
+   "aliases": [],
+   "summary": "Very hardy Swenson-selected white wine grape with neutral aromatics.",
+   "description": "Long, loose clusters on a vigorous vine producing a low-acid white wine without foxiness, often used for blending. Roots to Fruits reports hardiness to -38F (zones 3-9); Double A notes inconsistent fruit set in some seasons.",
+   "hardy_to": 3,
+   "breeder": {
+    "name": "Elmer Swenson",
+    "kind": "breeder",
+    "short": "Swenson"
+   },
+   "fruit": "grape",
+   "awards": [],
+   "notes": [],
+   "first_seen": "2026-10-06"
+  },
+  {
+   "id": "swenson-red",
+   "name": "Swenson Red",
+   "color": "red",
+   "type": "multi",
+   "seedless": false,
+   "tags": [
+    "Table & wine",
+    "Red grape",
+    "Seeded"
+   ],
+   "aliases": [],
+   "summary": "Large red non-slipskin grape, listed for table and white-style wine use.",
+   "description": "Medium to large conical clusters of large, round, non-slipskin berries with firm flesh. Double A recommends it for white-style winemaking without skin fermentation, and One Green World sells it as a table grape. Hardiness is not stated on the pages read.",
+   "fruit": "grape",
+   "awards": [],
+   "breeder": null,
+   "notes": [],
+   "first_seen": "2026-10-06"
+  },
+  {
+   "id": "st-croix",
+   "name": "St. Croix",
+   "color": "black",
+   "type": "wine",
+   "seedless": false,
+   "tags": [
+    "Wine grape",
+    "Red wine",
+    "Blending grape",
+    "Seeded"
+   ],
+   "aliases": [],
+   "summary": "Cold-hardy red wine grape giving light to medium burgundy-style wine.",
+   "description": "Makes wine compared to a light to medium burgundy, with low sugar and minimal tannin, bottled alone or blended. Double A lists NYS-certified own-rooted stock; hardiness is not stated on the page read.",
+   "fruit": "grape",
+   "awards": [],
+   "breeder": null,
+   "notes": [],
+   "first_seen": "2026-10-06"
+  },
+  {
+   "id": "edelweiss",
+   "name": "Edelweiss",
+   "color": "green",
+   "type": "multi",
+   "seedless": false,
+   "tags": [
+    "Wine grape",
+    "Table grape",
+    "Green grape",
+    "Seeded"
+   ],
+   "aliases": [],
+   "summary": "White labrusca-type grape bred as a table grape, also made into sweet wine.",
+   "description": "Medium berries on large loose clusters; wine tends toward sweetness with pineapple or tropical notes, picked at 14-16 Brix to limit labrusca character. Hardiness is not stated on the pages read.",
+   "fruit": "grape",
+   "awards": [],
+   "breeder": null,
+   "notes": [],
+   "first_seen": "2026-10-06"
+  },
+  {
+   "id": "delaware",
+   "name": "Delaware",
+   "color": "red",
+   "type": "multi",
+   "seedless": false,
+   "tags": [
+    "Table & wine",
+    "Early",
+    "Red grape",
+    "Seeded"
+   ],
+   "aliases": [],
+   "summary": "Early red table grape with small berries and fruity, mild flavor.",
+   "description": "Early ripening small red berries with mild fruity flavor and little labrusca character, used fresh and for dry, sweet, ice and sparkling wine. Needs deep, fertile, well-drained soil and good fruit-zone exposure. Hardiness is not stated on the page read.",
+   "fruit": "grape",
+   "awards": [],
+   "breeder": null,
+   "notes": [],
+   "first_seen": "2026-10-06"
+  },
+  {
+   "id": "steuben",
+   "name": "Steuben",
+   "color": "blue",
+   "type": "wine",
+   "seedless": false,
+   "tags": [
+    "Wine grape",
+    "Slipskin",
+    "Seeded"
+   ],
+   "aliases": [],
+   "summary": "Spicy slipskin blue grape for aromatic white, blush or rose wine.",
+   "description": "Large compact clusters of medium spherical slipskin berries with a spicy tang, used for aromatic white, blush and rose wine. Double A lists NYS-certified own-rooted stock; hardiness is not stated on the page read.",
+   "fruit": "grape",
+   "awards": [],
+   "breeder": null,
+   "notes": [],
+   "first_seen": "2026-10-06"
+  },
+  {
+   "id": "beta",
+   "name": "Beta",
+   "color": "blue",
+   "type": "juice",
+   "seedless": false,
+   "tags": [
+    "Juice & jelly",
+    "Very cold hardy",
+    "Self-fertile"
+   ],
+   "aliases": [],
+   "summary": "Small blue-black American-type grape for juice and jelly, among the hardiest of its kind.",
+   "description": "A small-berried, blue-black American-type grape used for juice, jelly and wine, grown for its extreme winter hardiness. Ripens early to mid season with a tart, strongly flavored fruit. Generally vigorous and disease tolerant.",
+   "breeder": null,
+   "awards": [],
+   "notes": [
+    "Seen sold out at Roots to Fruits Oct 7, 2026."
+   ],
+   "fruit": "grape",
+   "first_seen": "2026-10-07"
+  },
+  {
+   "id": "traminette",
+   "name": "Traminette",
+   "color": "green",
+   "type": "wine",
+   "seedless": false,
+   "tags": [
+    "Wine grape",
+    "Cold-hardy hybrid",
+    "White wine"
+   ],
+   "aliases": [],
+   "summary": "Gewurztraminer-type hybrid white wine grape with better winter hardiness than its parent.",
+   "description": "A Gewurztraminer hybrid making distinctive, spicy wines that can be finished dry or semi-dry. Double A describes it as much more winter hardy than Gewurztraminer.",
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "fruit": "grape",
+   "first_seen": "2026-10-07"
+  },
+  {
+   "id": "vidal-blanc",
+   "name": "Vidal Blanc",
+   "color": "green",
+   "type": "wine",
+   "seedless": false,
+   "tags": [
+    "Wine grape",
+    "French-American hybrid",
+    "White wine"
+   ],
+   "aliases": [],
+   "summary": "Productive white hybrid wine grape suited to late harvest and ice wine.",
+   "description": "Medium berries on very large, compact clusters; thick skins with strong rot resistance. Makes semi-dry wine or blends with other white hybrids, and suits late-harvest and ice wine styles.",
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "fruit": "grape",
+   "first_seen": "2026-10-07"
+  },
+  {
+   "id": "petite-pearl",
+   "name": "Petite Pearl",
+   "aliases": [],
+   "color": "black",
+   "type": "wine",
+   "seedless": false,
+   "hardy_to": 4,
+   "tags": [
+    "Wine grape",
+    "Red wine",
+    "Self-fertile"
+   ],
+   "summary": "Cold-hardy blue-black red wine grape from Minnesota breeder Tom Plocher.",
+   "description": "Small to medium clusters of deep blue-black, high-tannin fruit make full-bodied red wine. Vines are productive with good disease resistance and spread 15-20 ft or more on a trellis. Edible Landscaping rates it zones 4-8.",
+   "breeder": {
+    "name": "Tom Plocher",
+    "kind": "breeder",
+    "short": "Tom Plocher"
+   },
+   "awards": [],
+   "notes": [],
+   "fruit": "grape",
+   "first_seen": "2026-10-20"
+  },
+  {
+   "id": "verona",
+   "name": "Verona",
+   "aliases": [],
+   "color": "black",
+   "type": "wine",
+   "seedless": false,
+   "hardy_to": 4,
+   "tags": [
+    "Wine grape",
+    "Red wine",
+    "Self-fertile"
+   ],
+   "summary": "Late-budding, cold-hardy red wine grape bred by Tom Plocher.",
+   "description": "Large clusters of blue-black grapes for premium red wine, from a 1997 cross. Moderately vigorous and productive, with late spring bud break that helps avoid frost damage. Edible Landscaping rates it zones 4-8; needs a trellis.",
+   "breeder": {
+    "name": "Tom Plocher",
+    "kind": "breeder",
+    "short": "Tom Plocher"
+   },
+   "awards": [],
+   "notes": [],
+   "fruit": "grape",
+   "first_seen": "2026-10-20"
+  },
+  {
+   "id": "veritage",
+   "name": "Veritage",
+   "aliases": [],
+   "color": "black",
+   "type": "wine",
+   "seedless": false,
+   "hardy_to": 4,
+   "tags": [
+    "Wine grape",
+    "Red wine"
+   ],
+   "summary": "Cold-hardy red wine grape bred by Tom Plocher for frost resistance.",
+   "description": "Large clusters of dark blue-black grapes make deeply colored red wine with raspberry, plum and black-pepper notes. Vines reach 15-20 ft or more and need a trellis. Edible Landscaping rates it zones 4-8.",
+   "breeder": {
+    "name": "Tom Plocher",
+    "kind": "breeder",
+    "short": "Tom Plocher"
+   },
+   "awards": [],
+   "notes": [],
+   "fruit": "grape",
+   "first_seen": "2026-10-20"
+  },
+  {
+   "id": "thomcord",
+   "name": "Thomcord",
+   "aliases": [
+    "Thomcord Seedless"
+   ],
+   "color": "blue",
+   "type": "table",
+   "seedless": true,
+   "hardy_to": 5,
+   "tags": [
+    "Seedless",
+    "Self-fertile"
+   ],
+   "summary": "Seedless Concord x Thompson Seedless cross with sweet Concord-style flavor.",
+   "description": "Blue-black seedless berries with sweet Concord-style flavor ripen in August. Self-pollinating and heat tolerant, growing 4-6 ft with 6-8 ft spacing per Stark Bro's, which rates it zones 5-9.",
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "fruit": "grape",
+   "first_seen": "2026-10-20"
+  },
+  {
+   "id": "saint-theresa",
+   "name": "Saint Theresa",
+   "aliases": [
+    "St. Theresa"
+   ],
+   "color": "blue",
+   "type": "table",
+   "seedless": true,
+   "hardy_to": 4,
+   "tags": [
+    "Seedless",
+    "Self-fertile"
+   ],
+   "summary": "Cold-hardy purple grape, mostly seedless, reported to survive -30F.",
+   "description": "Sweet, juicy mostly seedless purple fruit ripens in early September. Self-pollinating, tolerates alkaline soil and partial shade; Stark Bro's rates it zones 4-9 and reports survival to -30F.",
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "fruit": "grape",
+   "first_seen": "2026-10-20"
+  },
+  {
+   "id": "king-of-the-north",
+   "name": "King of the North",
+   "aliases": [],
+   "color": "blue",
+   "type": "table",
+   "seedless": false,
+   "hardy_to": 3,
+   "tags": [
+    "Seeded"
+   ],
+   "summary": "Seeded blue grape rated hardy to zone 3.",
+   "description": "Seeded blue Vitis labrusca-type grape listed by Berry Plants for zones 3-7, among the hardiest of the American table types on file.",
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "fruit": "grape",
+   "first_seen": "2026-10-20"
+  },
+  {
+   "id": "corot-noir",
+   "name": "Corot Noir",
+   "aliases": [
+    "NY70.0809.10"
+   ],
+   "color": "black",
+   "type": "wine",
+   "seedless": false,
+   "hardy_to": 5,
+   "tags": [
+    "Wine grape",
+    "Cold-hardy hybrid",
+    "Red wine",
+    "Seeded"
+   ],
+   "summary": "Cornell red wine hybrid with cherry and berry notes, rated for zones 5-8.",
+   "description": "A Cornell hybrid (Seyve Villard 18-307 x Steuben) released in 2006 for deep red wines with berry and cherry aromas, used alone or in blends. Vigorous, semi-upright vine with bud break 5-7 days after Concord and a late-season harvest. Double A rates it for USDA zones 5-8.",
+   "breeder": {
+    "name": "Cornell University (2006)",
+    "kind": "university",
+    "short": "Cornell"
+   },
+   "awards": [],
+   "notes": [],
+   "fruit": "grape",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "id": "noiret",
+   "name": "Noiret",
+   "aliases": [],
+   "color": "black",
+   "type": "wine",
+   "seedless": false,
+   "hardy_to": 5,
+   "tags": [
+    "Wine grape",
+    "Cold-hardy hybrid",
+    "Red wine",
+    "Seeded"
+   ],
+   "summary": "Cornell red wine hybrid with peppery, Syrah-like character.",
+   "description": "A Cornell red wine grape released in 2006 (NY65.0467.08 x Steuben) making full-bodied, richly colored wine with black pepper, raspberry, blackberry and mint notes. Vines are vigorous with typically low yields and a late harvest. Double A lists it for USDA zones 5-12.",
+   "breeder": {
+    "name": "Cornell University (2006)",
+    "kind": "university",
+    "short": "Cornell"
+   },
+   "awards": [],
+   "notes": [],
+   "fruit": "grape",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "id": "cayuga-white",
+   "name": "Cayuga White",
+   "aliases": [],
+   "color": "green",
+   "type": "wine",
+   "seedless": false,
+   "hardy_to": 5,
+   "tags": [
+    "Wine grape",
+    "Cold-hardy hybrid",
+    "White wine",
+    "Self-fertile",
+    "Seeded"
+   ],
+   "summary": "Productive, disease-resistant Cornell white wine hybrid for semi-dry to sweet wine.",
+   "description": "Cornell's first variety released specifically for winemaking (1972, Seyval x Schuyler), making semi-dry to sweet white wine often blended with Seyval and Vidal. Self-fertile, vigorous, semi-trailing vine ripening mid-season, described as one of the most productive and disease-resistant grapes in New York. Double A rates it for zones 5-8.",
+   "breeder": {
+    "name": "Cornell University (1972)",
+    "kind": "university",
+    "short": "Cornell"
+   },
+   "awards": [],
+   "notes": [],
+   "fruit": "grape",
+   "first_seen": "2026-11-10"
+  }
+ ],
+ "listings": [
+  {
+   "id": "double-a-vineyards--concord",
+   "variety": "concord",
+   "nursery": "double-a-vineyards",
+   "status": "in_stock",
+   "price": 11.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://doubleavineyards.com/products/concord",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-10",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 11.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "double-a-vineyards--concord-seedless",
+   "variety": "concord-seedless",
+   "nursery": "double-a-vineyards",
+   "status": "in_stock",
+   "price": 12.75,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://doubleavineyards.com/products/concord-seedless-grape-vines",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-10",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 12.75,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "double-a-vineyards--niagara",
+   "variety": "niagara",
+   "nursery": "double-a-vineyards",
+   "status": "in_stock",
+   "price": 11.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://doubleavineyards.com/products/niagara",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-10",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 11.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "double-a-vineyards--catawba",
+   "variety": "catawba",
+   "nursery": "double-a-vineyards",
+   "status": "in_stock",
+   "price": 11.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://doubleavineyards.com/products/catawba-grapevine-standard",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-10",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 11.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "double-a-vineyards--bluebell",
+   "variety": "bluebell",
+   "nursery": "double-a-vineyards",
+   "status": "in_stock",
+   "price": 12.75,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://doubleavineyards.com/products/bluebell",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-10",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 12.75,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "double-a-vineyards--himrod",
+   "variety": "himrod",
+   "nursery": "double-a-vineyards",
+   "status": "in_stock",
+   "price": 12.75,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://doubleavineyards.com/products/himrod-grapevine-certified",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-10",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 12.75,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-22",
+     "price": 12.75,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-26",
+     "price": 12.75,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "double-a-vineyards--reliance",
+   "variety": "reliance",
+   "nursery": "double-a-vineyards",
+   "status": "in_stock",
+   "price": 12.75,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://doubleavineyards.com/products/reliance-grapevine-certified",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-10",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 12.75,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "double-a-vineyards--canadice",
+   "variety": "canadice",
+   "nursery": "double-a-vineyards",
+   "status": "in_stock",
+   "price": 12.75,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://doubleavineyards.com/products/canadice-grapevine-certified",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-10",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 12.75,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "double-a-vineyards--mars",
+   "variety": "mars",
+   "nursery": "double-a-vineyards",
+   "status": "in_stock",
+   "price": 12.75,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://doubleavineyards.com/products/mars-grapevine-certified",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-10",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 12.75,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "double-a-vineyards--jupiter",
+   "variety": "jupiter",
+   "nursery": "double-a-vineyards",
+   "status": "in_stock",
+   "price": 12.75,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://doubleavineyards.com/products/jupiter-grapevine-certified",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-10",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 12.75,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "double-a-vineyards--einset",
+   "variety": "einset",
+   "nursery": "double-a-vineyards",
+   "status": "in_stock",
+   "price": 12.75,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://doubleavineyards.com/products/einset-seedless-grapevine-certified",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-10",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 12.75,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "double-a-vineyards--vanessa",
+   "variety": "vanessa",
+   "nursery": "double-a-vineyards",
+   "status": "in_stock",
+   "price": 12.75,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://doubleavineyards.com/products/vanessa-grapevine-certified",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-10",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 12.75,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "double-a-vineyards--somerset-seedless",
+   "variety": "somerset-seedless",
+   "nursery": "double-a-vineyards",
+   "status": "in_stock",
+   "price": 12.75,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://doubleavineyards.com/products/somerset-seedless",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-10",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 12.75,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "double-a-vineyards--marquis",
+   "variety": "marquis",
+   "nursery": "double-a-vineyards",
+   "status": "in_stock",
+   "price": 12.75,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://doubleavineyards.com/products/marquis-grapevine-certified",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-10",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 12.75,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "double-a-vineyards--neptune",
+   "variety": "neptune",
+   "nursery": "double-a-vineyards",
+   "status": "in_stock",
+   "price": 12.75,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://doubleavineyards.com/products/neptune-grapevine-certified",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-10",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 12.75,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "double-a-vineyards--glenora",
+   "variety": "glenora",
+   "nursery": "double-a-vineyards",
+   "status": "in_stock",
+   "price": 12.75,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://doubleavineyards.com/products/glenora",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-10",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 12.75,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "double-a-vineyards--lakemont",
+   "variety": "lakemont",
+   "nursery": "double-a-vineyards",
+   "status": "in_stock",
+   "price": 12.75,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://doubleavineyards.com/products/lakemont-grapevine-certified",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-10",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 12.75,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "double-a-vineyards--valiant",
+   "variety": "valiant",
+   "nursery": "double-a-vineyards",
+   "status": "in_stock",
+   "price": 12.75,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://doubleavineyards.com/products/valiant-grapevine-certified",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-10",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 12.75,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "double-a-vineyards--compassion",
+   "variety": "compassion",
+   "nursery": "double-a-vineyards",
+   "status": "in_stock",
+   "price": 13.75,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://doubleavineyards.com/products/compassion",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-10",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 13.75,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "double-a-vineyards--fredonia",
+   "variety": "fredonia",
+   "nursery": "double-a-vineyards",
+   "status": "in_stock",
+   "price": 12.75,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://doubleavineyards.com/products/fredonia-grapevine-certified",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-10",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 12.75,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "double-a-vineyards--marquette",
+   "variety": "marquette",
+   "nursery": "double-a-vineyards",
+   "status": "in_stock",
+   "price": 12.75,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://doubleavineyards.com/products/marquette-grapevine-certified",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-10",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 12.75,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "ships spring 2027"
+  },
+  {
+   "id": "double-a-vineyards--frontenac",
+   "variety": "frontenac",
+   "nursery": "double-a-vineyards",
+   "status": "in_stock",
+   "price": 12.75,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://doubleavineyards.com/products/frontenac-grapevine-certified",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-10",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 12.75,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "double-a-vineyards--brianna",
+   "variety": "brianna",
+   "nursery": "double-a-vineyards",
+   "status": "in_stock",
+   "price": 12.75,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://doubleavineyards.com/products/brianna",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-10",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 12.75,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "double-a-vineyards--itasca",
+   "variety": "itasca",
+   "nursery": "double-a-vineyards",
+   "status": "in_stock",
+   "price": 12.75,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://doubleavineyards.com/products/itasca-grapevine-mn-1285-standard",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-10",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 12.75,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "double-a-vineyards--sabrevois",
+   "variety": "sabrevois",
+   "nursery": "double-a-vineyards",
+   "status": "in_stock",
+   "price": 12.75,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://doubleavineyards.com/products/sabrevois",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-10",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 12.75,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "double-a-vineyards--marechal-foch",
+   "variety": "marechal-foch",
+   "nursery": "double-a-vineyards",
+   "status": "in_stock",
+   "price": 12.75,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://doubleavineyards.com/products/marechal-foch-grapevine-certified",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-10",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 12.75,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "double-a-vineyards--st-pepin",
+   "variety": "st-pepin",
+   "nursery": "double-a-vineyards",
+   "status": "in_stock",
+   "price": 12.75,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://doubleavineyards.com/products/st-pepin-grapevine-certified",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-10",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 12.75,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "double-a-vineyards--l-acadie-blanc",
+   "variety": "l-acadie-blanc",
+   "nursery": "double-a-vineyards",
+   "status": "in_stock",
+   "price": 13.75,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://doubleavineyards.com/products/l-acadie",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-10",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 13.75,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "double-a-vineyards--louise-swenson",
+   "variety": "louise-swenson",
+   "nursery": "double-a-vineyards",
+   "status": "in_stock",
+   "price": 12.75,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://doubleavineyards.com/products/louise-swenson",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-10",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 12.75,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "double-a-vineyards--prairie-star",
+   "variety": "prairie-star",
+   "nursery": "double-a-vineyards",
+   "status": "in_stock",
+   "price": 12.75,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://doubleavineyards.com/products/prairie-star",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-10",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 12.75,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "double-a-vineyards--swenson-red",
+   "variety": "swenson-red",
+   "nursery": "double-a-vineyards",
+   "status": "in_stock",
+   "price": 12.75,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://doubleavineyards.com/products/swenson-red-grapevine-certified",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-10",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 12.75,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "double-a-vineyards--st-croix",
+   "variety": "st-croix",
+   "nursery": "double-a-vineyards",
+   "status": "in_stock",
+   "price": 12.75,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://doubleavineyards.com/products/st-croix-grapevine-certified",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-10",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 12.75,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "double-a-vineyards--edelweiss",
+   "variety": "edelweiss",
+   "nursery": "double-a-vineyards",
+   "status": "in_stock",
+   "price": 12.75,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://doubleavineyards.com/products/edelweiss-grapevine-certified",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-10",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 12.75,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "double-a-vineyards--delaware",
+   "variety": "delaware",
+   "nursery": "double-a-vineyards",
+   "status": "in_stock",
+   "price": 12.75,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://doubleavineyards.com/products/delaware-1",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-10",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 12.75,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "double-a-vineyards--steuben",
+   "variety": "steuben",
+   "nursery": "double-a-vineyards",
+   "status": "in_stock",
+   "price": 12.75,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://doubleavineyards.com/products/steuben-grapevine-certified",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-10",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 12.75,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "double-a-vineyards--la-crescent",
+   "variety": "la-crescent",
+   "nursery": "double-a-vineyards",
+   "status": "in_stock",
+   "price": 12.75,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://doubleavineyards.com/products/la-crescent-grapevine-certified",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-10",
+   "notes": [
+    "Protocol 2010 variant available; CPCNW variant unavailable."
+   ],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 12.75,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "double-a-vineyards--interlaken",
+   "variety": "interlaken",
+   "nursery": "double-a-vineyards",
+   "status": "in_stock",
+   "price": 12.75,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://doubleavineyards.com/products/interlaken",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-10",
+   "notes": [
+    "Product page says 'Currently unavailable' (category page showed in stock; product page trusted)."
+   ],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 12.75,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-22",
+     "price": 12.75,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "raintree--canadice",
+   "variety": "canadice",
+   "nursery": "raintree",
+   "status": "in_stock",
+   "price": 29.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/products/canadice-seedless-grape",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 29.99,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "2-yr bareroot; ships spring 2027",
+   "sold_as": "2-yr bareroot"
+  },
+  {
+   "id": "raintree--interlaken",
+   "variety": "interlaken",
+   "nursery": "raintree",
+   "status": "in_stock",
+   "price": 29.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/products/interlaken-seedless-grape",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 29.99,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "2-yr bareroot; ships spring 2027",
+   "sold_as": "2-yr bareroot"
+  },
+  {
+   "id": "raintree--vanessa",
+   "variety": "vanessa",
+   "nursery": "raintree",
+   "status": "in_stock",
+   "price": 29.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/products/vanessa-seedless-grape",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "1-gal pot ($34.99) sold out."
+   ],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 29.99,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "2-qt pot; ships fall (zone 6+) or spring",
+   "sold_as": "2-qt pot"
+  },
+  {
+   "id": "raintree--einset",
+   "variety": "einset",
+   "nursery": "raintree",
+   "status": "in_stock",
+   "price": 24.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/products/einset-seedless-grape-non-certified",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 24.99,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "2-qt pot; ships fall (zone 6+) or spring",
+   "sold_as": "2-qt pot, non-certified"
+  },
+  {
+   "id": "raintree--himrod",
+   "variety": "himrod",
+   "nursery": "raintree",
+   "status": "sold_out",
+   "price": 29.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/products/himrod-seedless-grape",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 29.99,
+     "status": "sold_out"
+    }
+   ],
+   "sold_as": "2-yr bareroot"
+  },
+  {
+   "id": "raintree--concord",
+   "variety": "concord",
+   "nursery": "raintree",
+   "status": "sold_out",
+   "price": 29.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/products/concord-grape-seeded",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 29.99,
+     "status": "sold_out"
+    }
+   ],
+   "sold_as": "2-yr bareroot"
+  },
+  {
+   "id": "raintree--glenora",
+   "variety": "glenora",
+   "nursery": "raintree",
+   "status": "sold_out",
+   "price": 29.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/products/glenora-seedless-grape",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 29.99,
+     "status": "sold_out"
+    }
+   ],
+   "sold_as": "2-yr bareroot"
+  },
+  {
+   "id": "raintree--lakemont",
+   "variety": "lakemont",
+   "nursery": "raintree",
+   "status": "sold_out",
+   "price": 29.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/products/lakemont-seedless-grape",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 29.99,
+     "status": "sold_out"
+    }
+   ],
+   "sold_as": "2-yr bareroot"
+  },
+  {
+   "id": "one-green-world--valiant",
+   "variety": "valiant",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 14.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/valiant-blue-table-grape/",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Product page shows Add to cart; category page shows 'Email me when available'."
+   ],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 14.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "fall; 1-gal or bare root"
+  },
+  {
+   "id": "one-green-world--canadice",
+   "variety": "canadice",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 14.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/canadice-red-table-grape/",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Product page reads in stock; category page shows 'Email me'."
+   ],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 14.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "fall; 1-gal or bare root"
+  },
+  {
+   "id": "one-green-world--himrod",
+   "variety": "himrod",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 15.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/himrod-seedless-yellow-table-grape/",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Product page reads in stock; category page shows 'Email me'."
+   ],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 15.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "fall; 1-gal or bare root"
+  },
+  {
+   "id": "one-green-world--marquis",
+   "variety": "marquis",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 22.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/marquis-seedless-yellow-table-grape/",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Product page reads in stock; category page shows 'Email me'."
+   ],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 22.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "fall; 1-gal or bare root"
+  },
+  {
+   "id": "one-green-world--neptune",
+   "variety": "neptune",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 14.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/neptune-seedless-table-grape/",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Product page shows Add to cart (restocked; was out of stock Oct 6)."
+   ],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 14.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-07",
+     "price": 14.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "fall; 1-gal or bare root"
+  },
+  {
+   "id": "one-green-world--jupiter",
+   "variety": "jupiter",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 14.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/jupiter-seedless-table-grape/",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Product page: 'Email me when available' (Oct 7)."
+   ],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 14.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-11",
+     "price": 14.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--venus",
+   "variety": "venus",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 14.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/venus-seedless-table-grape/",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Product page shows Add to cart (restocked; was out of stock Oct 6)."
+   ],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 24.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-07",
+     "price": 14.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "summer (per product page)"
+  },
+  {
+   "id": "one-green-world--vanessa",
+   "variety": "vanessa",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 15.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/vanessa-red-grape/",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Product page: 'Email me when available' (Oct 7)."
+   ],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 15.95,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-07",
+     "price": 15.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-11",
+     "price": 15.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--glenora",
+   "variety": "glenora",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 29.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/glenora-seedless-table-grape/",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Product page: Join Waitlist; price now $24.95 (was $29.95)."
+   ],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 29.95,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-07",
+     "price": 24.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-11",
+     "price": 29.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--concord-seedless",
+   "variety": "concord-seedless",
+   "nursery": "one-green-world",
+   "status": "sold_out",
+   "price": 18.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/concord-seedless-grape/",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Category page shows Out of stock; product page not opened."
+   ],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 18.95,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--einset",
+   "variety": "einset",
+   "nursery": "one-green-world",
+   "status": "sold_out",
+   "price": 14.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/einset-seedless-table-grape/",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Category page shows Out of stock; product page not opened."
+   ],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 14.95,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--interlaken",
+   "variety": "interlaken",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 29.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/interlaken-green-table-grape/",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Product page shows Add to cart (restocked; was out of stock Oct 6)."
+   ],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 29.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-07",
+     "price": 29.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "fall; 1-gal"
+  },
+  {
+   "id": "one-green-world--lakemont",
+   "variety": "lakemont",
+   "nursery": "one-green-world",
+   "status": "sold_out",
+   "price": 24.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/lakemont-green-table-grape/",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Category page shows Out of stock; product page not opened."
+   ],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 24.95,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--mars",
+   "variety": "mars",
+   "nursery": "one-green-world",
+   "status": "sold_out",
+   "price": 24.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/mars-seedless-table-grape/",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Product page: out of stock, 'Email me when available' (Oct 7)."
+   ],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 24.95,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--reliance",
+   "variety": "reliance",
+   "nursery": "one-green-world",
+   "status": "sold_out",
+   "price": 14.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/reliance-seedless-table-grape/",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Product page shows Add to cart (restocked; was out of stock Oct 6)."
+   ],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 14.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-07",
+     "price": 14.95,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-11",
+     "price": 14.95,
+     "status": "sold_out"
+    }
+   ],
+   "ships": "fall; 1-gal or bare root"
+  },
+  {
+   "id": "one-green-world--swenson-red",
+   "variety": "swenson-red",
+   "nursery": "one-green-world",
+   "status": "sold_out",
+   "price": 14.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/swenson-red-table-grape/",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Category page shows Out of stock; product page not opened."
+   ],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 14.95,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "roots-to-fruits--concord",
+   "variety": "concord",
+   "nursery": "roots-to-fruits",
+   "status": "in_stock",
+   "price": 25.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://rootstofruitsnursery.com/products/concord-grape",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Bare-root 18-24in $25; 1-gal container $27-29 where available."
+   ],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 25.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Fall 2026 (Nov) or Spring 2027 (mid-March), chosen at checkout",
+   "sold_as": "bare-root 18-24in"
+  },
+  {
+   "id": "roots-to-fruits--concord-seedless",
+   "variety": "concord-seedless",
+   "nursery": "roots-to-fruits",
+   "status": "in_stock",
+   "price": 25.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://rootstofruitsnursery.com/products/seedless-concord-grape-vine",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Bare-root 18-24in $25; 1-gal container $27-29 where available."
+   ],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 25.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Fall 2026 (Nov) or Spring 2027 (mid-March), chosen at checkout",
+   "sold_as": "bare-root 18-24in"
+  },
+  {
+   "id": "roots-to-fruits--catawba",
+   "variety": "catawba",
+   "nursery": "roots-to-fruits",
+   "status": "in_stock",
+   "price": 25.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://rootstofruitsnursery.com/products/catawba-grape",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Bare-root 18-24in $25; 1-gal container $27-29 where available."
+   ],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 25.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Fall 2026 (Nov) or Spring 2027 (mid-March), chosen at checkout",
+   "sold_as": "bare-root 18-24in"
+  },
+  {
+   "id": "roots-to-fruits--bluebell",
+   "variety": "bluebell",
+   "nursery": "roots-to-fruits",
+   "status": "in_stock",
+   "price": 25.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://rootstofruitsnursery.com/products/bluebell-grape",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Bare-root 18-24in $25; 1-gal container $27-29 where available."
+   ],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 25.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Fall 2026 (Nov) or Spring 2027 (mid-March), chosen at checkout",
+   "sold_as": "bare-root 18-24in"
+  },
+  {
+   "id": "roots-to-fruits--reliance",
+   "variety": "reliance",
+   "nursery": "roots-to-fruits",
+   "status": "in_stock",
+   "price": 25.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://rootstofruitsnursery.com/products/reliance-grape-vine",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Bare-root 18-24in $25; 1-gal container $27-29 where available."
+   ],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 25.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Fall 2026 (Nov) or Spring 2027 (mid-March), chosen at checkout",
+   "sold_as": "bare-root 18-24in"
+  },
+  {
+   "id": "roots-to-fruits--fredonia",
+   "variety": "fredonia",
+   "nursery": "roots-to-fruits",
+   "status": "in_stock",
+   "price": 25.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://rootstofruitsnursery.com/products/fredonia-grape",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Bare-root 18-24in $25; 1-gal container $27-29 where available."
+   ],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 25.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Fall 2026 (Nov) or Spring 2027 (mid-March), chosen at checkout",
+   "sold_as": "bare-root 18-24in"
+  },
+  {
+   "id": "roots-to-fruits--frontenac",
+   "variety": "frontenac",
+   "nursery": "roots-to-fruits",
+   "status": "in_stock",
+   "price": 25.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://rootstofruitsnursery.com/products/frontenac-grape-vine",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Bare-root 18-24in $25; 1-gal container $27-29 where available."
+   ],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 25.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Fall 2026 (Nov) or Spring 2027 (mid-March), chosen at checkout",
+   "sold_as": "bare-root 18-24in"
+  },
+  {
+   "id": "roots-to-fruits--la-crescent",
+   "variety": "la-crescent",
+   "nursery": "roots-to-fruits",
+   "status": "in_stock",
+   "price": 25.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://rootstofruitsnursery.com/products/niagara-grape",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Bare-root 18-24in $25; 1-gal container $27-29 where available.",
+    "Product URL slug is 'niagara-grape' but the page is La Crescent."
+   ],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 25.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Fall 2026 (Nov) or Spring 2027 (mid-March), chosen at checkout",
+   "sold_as": "bare-root 18-24in"
+  },
+  {
+   "id": "roots-to-fruits--brianna",
+   "variety": "brianna",
+   "nursery": "roots-to-fruits",
+   "status": "in_stock",
+   "price": 25.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://rootstofruitsnursery.com/products/brianna-grape-vine",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Bare-root 18-24in $25; 1-gal container $27-29 where available."
+   ],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 25.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Fall 2026 (Nov) or Spring 2027 (mid-March), chosen at checkout",
+   "sold_as": "bare-root 18-24in"
+  },
+  {
+   "id": "roots-to-fruits--sabrevois",
+   "variety": "sabrevois",
+   "nursery": "roots-to-fruits",
+   "status": "in_stock",
+   "price": 25.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://rootstofruitsnursery.com/products/sabrevois-grape-vines",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Bare-root 18-24in $25; 1-gal container $27-29 where available."
+   ],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 25.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Fall 2026 (Nov) or Spring 2027 (mid-March), chosen at checkout",
+   "sold_as": "bare-root 18-24in"
+  },
+  {
+   "id": "roots-to-fruits--louise-swenson",
+   "variety": "louise-swenson",
+   "nursery": "roots-to-fruits",
+   "status": "in_stock",
+   "price": 25.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://rootstofruitsnursery.com/products/louise-swenson-grape-vine",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Bare-root 18-24in $25; 1-gal container $27-29 where available."
+   ],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 25.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Fall 2026 (Nov) or Spring 2027 (mid-March), chosen at checkout",
+   "sold_as": "bare-root 18-24in"
+  },
+  {
+   "id": "roots-to-fruits--prairie-star",
+   "variety": "prairie-star",
+   "nursery": "roots-to-fruits",
+   "status": "in_stock",
+   "price": 25.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://rootstofruitsnursery.com/products/prairie-star-grape-vine",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Bare-root 18-24in $25; 1-gal container $27-29 where available."
+   ],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 25.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Fall 2026 (Nov) or Spring 2027 (mid-March), chosen at checkout",
+   "sold_as": "bare-root 18-24in"
+  },
+  {
+   "id": "roots-to-fruits--niagara",
+   "variety": "niagara",
+   "nursery": "roots-to-fruits",
+   "status": "in_stock",
+   "price": 29.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://rootstofruitsnursery.com/products/niagara-grape-vine",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Bare-root unavailable."
+   ],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 29.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Fall 2026 (Nov) or Spring 2027 (mid-March), chosen at checkout",
+   "sold_as": "1G container"
+  },
+  {
+   "id": "roots-to-fruits--himrod",
+   "variety": "himrod",
+   "nursery": "roots-to-fruits",
+   "status": "in_stock",
+   "price": 30.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://rootstofruitsnursery.com/products/himrod-grape",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Bare-root unavailable."
+   ],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 30.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Fall 2026 (Nov) or Spring 2027 (mid-March), chosen at checkout",
+   "sold_as": "1G container"
+  },
+  {
+   "id": "roots-to-fruits--glenora",
+   "variety": "glenora",
+   "nursery": "roots-to-fruits",
+   "status": "in_stock",
+   "price": 29.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://rootstofruitsnursery.com/products/glenora-grape-vines",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Bare-root unavailable."
+   ],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 29.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Fall 2026 (Nov) or Spring 2027 (mid-March), chosen at checkout",
+   "sold_as": "1G container"
+  },
+  {
+   "id": "roots-to-fruits--somerset-seedless",
+   "variety": "somerset-seedless",
+   "nursery": "roots-to-fruits",
+   "status": "sold_out",
+   "price": 25.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://rootstofruitsnursery.com/products/somerset-seedless-grape-vine",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 25.0,
+     "status": "sold_out"
+    }
+   ],
+   "sold_as": "bare-root 18-24in"
+  },
+  {
+   "id": "roots-to-fruits--marquette",
+   "variety": "marquette",
+   "nursery": "roots-to-fruits",
+   "status": "sold_out",
+   "price": 25.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://rootstofruitsnursery.com/products/marquette-grape",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 25.0,
+     "status": "sold_out"
+    }
+   ],
+   "sold_as": "bare-root 18-24in"
+  },
+  {
+   "id": "starkbros--canadice",
+   "variety": "canadice",
+   "nursery": "starkbros",
+   "status": "in_stock",
+   "price": 26.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.starkbros.com/products/berry-plants/grape-vines/canadice-seedless-grape",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Stock and price from the category page; product page not opened."
+   ],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 26.99,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "ships at planting time for your zone"
+  },
+  {
+   "id": "starkbros--concord",
+   "variety": "concord",
+   "nursery": "starkbros",
+   "status": "in_stock",
+   "price": 15.99,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://www.starkbros.com/products/berry-plants/grape-vines/concord-grape",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Stock and price from the category page; product page not opened."
+   ],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 15.99,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "ships at planting time for your zone"
+  },
+  {
+   "id": "starkbros--concord-seedless",
+   "variety": "concord-seedless",
+   "nursery": "starkbros",
+   "status": "in_stock",
+   "price": 22.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.starkbros.com/products/berry-plants/grape-vines/concord-seedless-grape",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "On sale $22.99 (regular $28.99) for the 1 gallon pot, per product page Oct 10."
+   ],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 28.99,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-10",
+     "price": 22.99,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "ships at planting time for your zone",
+   "was_price": 28.99
+  },
+  {
+   "id": "starkbros--frontenac",
+   "variety": "frontenac",
+   "nursery": "starkbros",
+   "status": "in_stock",
+   "price": 15.99,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://www.starkbros.com/products/berry-plants/grape-vines/frontenac-grape",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Stock and price from the category page; product page not opened."
+   ],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 15.99,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "ships at planting time for your zone"
+  },
+  {
+   "id": "starkbros--lakemont",
+   "variety": "lakemont",
+   "nursery": "starkbros",
+   "status": "in_stock",
+   "price": 23.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.starkbros.com/products/berry-plants/grape-vines/lakemont-seedless-grape",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Sale price shown on category page Oct 10; product page not opened."
+   ],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 26.99,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-10",
+     "price": 23.99,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "ships at planting time for your zone",
+   "on_sale": true
+  },
+  {
+   "id": "starkbros--marquis",
+   "variety": "marquis",
+   "nursery": "starkbros",
+   "status": "sold_out",
+   "price": 17.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.starkbros.com/products/berry-plants/grape-vines/marquis-seedless-grape",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Sold out as of Oct 10 (product page: out of stock, email alert only)."
+   ],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 17.99,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-10",
+     "price": 17.99,
+     "status": "sold_out"
+    }
+   ],
+   "ships": "ships at planting time for your zone"
+  },
+  {
+   "id": "starkbros--niagara",
+   "variety": "niagara",
+   "nursery": "starkbros",
+   "status": "sold_out",
+   "price": 15.99,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://www.starkbros.com/products/berry-plants/grape-vines/niagara-grape",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Stock and price from the category page; product page not opened."
+   ],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 15.99,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-22",
+     "price": 15.99,
+     "status": "sold_out"
+    }
+   ],
+   "ships": "ships at planting time for your zone"
+  },
+  {
+   "id": "starkbros--reliance",
+   "variety": "reliance",
+   "nursery": "starkbros",
+   "status": "in_stock",
+   "price": 17.99,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://www.starkbros.com/products/berry-plants/grape-vines/reliance-seedless-grape",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "4-inch pot $17.99; 1-gal $26.99. Product page read."
+   ],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 17.99,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "ships at planting time for your zone"
+  },
+  {
+   "id": "starkbros--somerset-seedless",
+   "variety": "somerset-seedless",
+   "nursery": "starkbros",
+   "status": "in_stock",
+   "price": 23.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.starkbros.com/products/berry-plants/grape-vines/somerset-seedless-grape",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Sale price shown on category page Oct 10; product page not opened."
+   ],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 26.99,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-10",
+     "price": 23.99,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "ships at planting time for your zone",
+   "on_sale": true,
+   "was_price": 26.99
+  },
+  {
+   "id": "nature-hills--mars",
+   "variety": "mars",
+   "nursery": "nature-hills",
+   "status": "in_stock",
+   "price": 33.48,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://naturehills.com/products/grape-mars",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 33.48,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "ships by zone timing; ~3-5 business days",
+   "sold_as": "#1 container"
+  },
+  {
+   "id": "nature-hills--canadice",
+   "variety": "canadice",
+   "nursery": "nature-hills",
+   "status": "in_stock",
+   "price": 33.56,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://naturehills.com/products/grape-canadice",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 33.56,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "ships by zone timing",
+   "sold_as": "#1 container"
+  },
+  {
+   "id": "nature-hills--lakemont",
+   "variety": "lakemont",
+   "nursery": "nature-hills",
+   "status": "in_stock",
+   "price": 33.56,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://naturehills.com/products/grape-lakemont",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Collection page; product page not opened."
+   ],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 33.56,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "ships by zone timing",
+   "sold_as": "#1 container"
+  },
+  {
+   "id": "edible-landscaping--concord",
+   "variety": "concord",
+   "nursery": "edible-landscaping",
+   "status": "in_stock",
+   "price": 10.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://ediblelandscaping.com/products/concord-grape",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Also quart $18, 1-gal $30. Category shows 'low stock'."
+   ],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 10.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "ships ASAP spring through fall",
+   "sold_as": "3-inch pot"
+  },
+  {
+   "id": "edible-landscaping--niagara",
+   "variety": "niagara",
+   "nursery": "edible-landscaping",
+   "status": "in_stock",
+   "price": 14.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://ediblelandscaping.com/products/niagra-grape",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Also quart $18, 1-gal $30. Category shows 'low stock'. Site spells it 'Niagra'."
+   ],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 14.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "ships ASAP spring through fall",
+   "sold_as": "4-inch pot"
+  },
+  {
+   "id": "edible-landscaping--mars",
+   "variety": "mars",
+   "nursery": "edible-landscaping",
+   "status": "in_stock",
+   "price": 18.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://ediblelandscaping.com/products/mars-seedless-grape",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Also 1-gal $30, 3-gal $45."
+   ],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 18.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "ships ASAP spring through fall",
+   "sold_as": "quart pot"
+  },
+  {
+   "id": "fedco-trees--concord",
+   "variety": "concord",
+   "nursery": "fedco-trees",
+   "status": "in_stock",
+   "price": 18.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://fedcoseeds.com/trees/concord-grape-7517",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 18.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "bare-root; ships spring 2027 (early March to mid/late May)",
+   "sold_as": "bare-root vine"
+  },
+  {
+   "id": "fedco-trees--bluebell",
+   "variety": "bluebell",
+   "nursery": "fedco-trees",
+   "status": "in_stock",
+   "price": 18.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://fedcoseeds.com/trees/bluebell-grape-7513",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 18.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "bare-root; ships spring 2027 (early March to mid/late May)",
+   "sold_as": "bare-root vine"
+  },
+  {
+   "id": "fedco-trees--brianna",
+   "variety": "brianna",
+   "nursery": "fedco-trees",
+   "status": "in_stock",
+   "price": 18.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://fedcoseeds.com/trees/brianna-grape-7514",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 18.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "bare-root; ships spring 2027 (early March to mid/late May)",
+   "sold_as": "bare-root vine"
+  },
+  {
+   "id": "fedco-trees--catawba",
+   "variety": "catawba",
+   "nursery": "fedco-trees",
+   "status": "in_stock",
+   "price": 18.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://fedcoseeds.com/trees/catawba-grape-7515",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 18.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "bare-root; ships spring 2027 (early March to mid/late May)",
+   "sold_as": "bare-root vine"
+  },
+  {
+   "id": "fedco-trees--compassion",
+   "variety": "compassion",
+   "nursery": "fedco-trees",
+   "status": "in_stock",
+   "price": 18.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://fedcoseeds.com/trees/compassion-seedless-grape-7516",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 18.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "bare-root; ships spring 2027 (early March to mid/late May)",
+   "sold_as": "bare-root vine"
+  },
+  {
+   "id": "fedco-trees--frontenac",
+   "variety": "frontenac",
+   "nursery": "fedco-trees",
+   "status": "in_stock",
+   "price": 18.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://fedcoseeds.com/trees/frontenac-grape-7524",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 18.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "bare-root; ships spring 2027 (early March to mid/late May)",
+   "sold_as": "bare-root vine"
+  },
+  {
+   "id": "fedco-trees--itasca",
+   "variety": "itasca",
+   "nursery": "fedco-trees",
+   "status": "in_stock",
+   "price": 18.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://fedcoseeds.com/trees/itasca-grape-7525",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 18.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "bare-root; ships spring 2027 (early March to mid/late May)",
+   "sold_as": "bare-root vine"
+  },
+  {
+   "id": "fedco-trees--marechal-foch",
+   "variety": "marechal-foch",
+   "nursery": "fedco-trees",
+   "status": "in_stock",
+   "price": 18.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://fedcoseeds.com/trees/marechal-foch-grape-7527",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 18.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "bare-root; ships spring 2027 (early March to mid/late May)",
+   "sold_as": "bare-root vine"
+  },
+  {
+   "id": "fedco-trees--marquette",
+   "variety": "marquette",
+   "nursery": "fedco-trees",
+   "status": "in_stock",
+   "price": 18.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://fedcoseeds.com/trees/marquette-grape-7528",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 18.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "bare-root; ships spring 2027 (early March to mid/late May)",
+   "sold_as": "bare-root vine"
+  },
+  {
+   "id": "fedco-trees--mars",
+   "variety": "mars",
+   "nursery": "fedco-trees",
+   "status": "in_stock",
+   "price": 18.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://fedcoseeds.com/trees/mars-seedless-grape-7518",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 18.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "bare-root; ships spring 2027 (early March to mid/late May)",
+   "sold_as": "bare-root vine"
+  },
+  {
+   "id": "fedco-trees--reliance",
+   "variety": "reliance",
+   "nursery": "fedco-trees",
+   "status": "in_stock",
+   "price": 18.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://fedcoseeds.com/trees/reliance-seedless-grape-7519",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 18.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "bare-root; ships spring 2027 (early March to mid/late May)",
+   "sold_as": "bare-root vine"
+  },
+  {
+   "id": "fedco-trees--sabrevois",
+   "variety": "sabrevois",
+   "nursery": "fedco-trees",
+   "status": "in_stock",
+   "price": 18.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://fedcoseeds.com/trees/sabrevois-grape-7529",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 18.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "bare-root; ships spring 2027 (early March to mid/late May)",
+   "sold_as": "bare-root vine"
+  },
+  {
+   "id": "fedco-trees--somerset-seedless",
+   "variety": "somerset-seedless",
+   "nursery": "fedco-trees",
+   "status": "in_stock",
+   "price": 18.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://fedcoseeds.com/trees/somerset-seedless-grape-7520",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 18.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "bare-root; ships spring 2027 (early March to mid/late May)",
+   "sold_as": "bare-root vine"
+  },
+  {
+   "id": "fedco-trees--st-pepin",
+   "variety": "st-pepin",
+   "nursery": "fedco-trees",
+   "status": "in_stock",
+   "price": 18.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://fedcoseeds.com/trees/st-pepin-grape-7521",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 18.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "bare-root; ships spring 2027 (early March to mid/late May)",
+   "sold_as": "bare-root vine"
+  },
+  {
+   "id": "fedco-trees--vanessa",
+   "variety": "vanessa",
+   "nursery": "fedco-trees",
+   "status": "in_stock",
+   "price": 18.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://fedcoseeds.com/trees/vanessa-seedless-grape-7522",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 18.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "bare-root; ships spring 2027 (early March to mid/late May)",
+   "sold_as": "bare-root vine"
+  },
+  {
+   "id": "fedco-trees--l-acadie-blanc",
+   "variety": "l-acadie-blanc",
+   "nursery": "fedco-trees",
+   "status": "in_stock",
+   "price": 18.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://fedcoseeds.com/trees/lacadie-blanc-grape-7526",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 18.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "bare-root; ships spring 2027 (early March to mid/late May)",
+   "sold_as": "bare-root vine"
+  },
+  {
+   "id": "fedco-trees--adalmiina",
+   "variety": "adalmiina",
+   "nursery": "fedco-trees",
+   "status": "in_stock",
+   "price": 18.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://fedcoseeds.com/trees/adalmiina-grape-7523",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 18.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "spring (early March to late May)",
+   "sold_as": "bare-root vine"
+  },
+  {
+   "id": "willis-orchards--concord",
+   "variety": "concord",
+   "nursery": "willis-orchards",
+   "status": "in_stock",
+   "price": 18.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.willisorchards.com/product/eastern-concord-bunch-grape-vine",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-10-29",
+   "notes": [
+    "3-year fruiting size $22.95. Priced with a ship window; no sold-out flag shown."
+   ],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 18.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "ships Dec 1, 2026 to Apr 1, 2027",
+   "sold_as": "2-year vine"
+  },
+  {
+   "id": "willis-orchards--niagara",
+   "variety": "niagara",
+   "nursery": "willis-orchards",
+   "status": "in_stock",
+   "price": 18.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.willisorchards.com/product/niagara-bunch-grape-vine",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-10-29",
+   "notes": [
+    "3-year fruiting size $22.95. Priced with a ship window; no sold-out flag shown."
+   ],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 18.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "ships Dec 1, 2026 to Apr 1, 2027",
+   "sold_as": "2-year vine"
+  },
+  {
+   "id": "willis-orchards--catawba",
+   "variety": "catawba",
+   "nursery": "willis-orchards",
+   "status": "in_stock",
+   "price": 18.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.willisorchards.com/product/catawba-bunch-grape-vine",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-10-29",
+   "notes": [
+    "3-year fruiting size $22.95. Product page Oct 10: add to cart shown, ships Dec 1, 2026 to Apr 1, 2027; no sold-out flag."
+   ],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 18.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "12/01/2026 - 04/01/2027",
+   "sold_as": "2-year vine"
+  },
+  {
+   "id": "willis-orchards--venus",
+   "variety": "venus",
+   "nursery": "willis-orchards",
+   "status": "in_stock",
+   "price": 18.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.willisorchards.com/product/venus-bunch-grape-vine",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-10-29",
+   "notes": [
+    "3-year fruiting size $22.95. Priced with a ship window; no sold-out flag shown."
+   ],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 18.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "ships Dec 1, 2026 to Apr 1, 2027",
+   "sold_as": "2-year vine"
+  },
+  {
+   "id": "willis-orchards--concord-seedless",
+   "variety": "concord-seedless",
+   "nursery": "willis-orchards",
+   "status": "in_stock",
+   "price": 18.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.willisorchards.com/product/concord-seedless-bunch-grape",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-10-29",
+   "notes": [
+    "3-year fruiting size $22.95. Priced with a ship window; no sold-out flag shown."
+   ],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 18.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "ships Dec 1, 2026 to Apr 1, 2027",
+   "sold_as": "2-year vine"
+  },
+  {
+   "id": "roots-to-fruits--beta",
+   "variety": "beta",
+   "nursery": "roots-to-fruits",
+   "status": "sold_out",
+   "price": 25.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://rootstofruitsnursery.com/products/beta-grape",
+   "first_seen": "2026-10-07",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "All sizes unavailable (Oct 7)."
+   ],
+   "history": [
+    {
+     "date": "2026-10-07",
+     "price": 25.0,
+     "status": "sold_out"
+    }
+   ],
+   "sold_as": "bare-root 18-24in"
+  },
+  {
+   "id": "double-a-vineyards--traminette",
+   "variety": "traminette",
+   "nursery": "double-a-vineyards",
+   "status": "in_stock",
+   "price": 12.75,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://doubleavineyards.com/products/traminette",
+   "first_seen": "2026-10-07",
+   "last_checked": "2026-11-10",
+   "notes": [
+    "Product page shows in stock; ship date not read."
+   ],
+   "history": [
+    {
+     "date": "2026-10-07",
+     "price": 12.75,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "double-a-vineyards--vidal-blanc",
+   "variety": "vidal-blanc",
+   "nursery": "double-a-vineyards",
+   "status": "in_stock",
+   "price": 12.75,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://doubleavineyards.com/products/vidal-blanc-certified",
+   "first_seen": "2026-10-07",
+   "last_checked": "2026-11-10",
+   "notes": [
+    "Product page shows in stock; ship date not read."
+   ],
+   "history": [
+    {
+     "date": "2026-10-07",
+     "price": 12.75,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "isons--concord",
+   "variety": "concord",
+   "nursery": "isons",
+   "status": "in_stock",
+   "price": 12.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.isons.com/shop/bunch-grapes/seeded/concord-bunch-grape-vine/",
+   "first_seen": "2026-10-07",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-07",
+     "price": 12.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "ships Jan-Apr 2027",
+   "sold_as": "2-year vine"
+  },
+  {
+   "id": "isons--reliance",
+   "variety": "reliance",
+   "nursery": "isons",
+   "status": "in_stock",
+   "price": 13.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.isons.com/shop/bunch-grapes/seedless/reliance-bunch-grape-vine/",
+   "first_seen": "2026-10-07",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-07",
+     "price": 13.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "ships Jan-Apr 2027",
+   "sold_as": "2-year vine"
+  },
+  {
+   "id": "isons--himrod",
+   "variety": "himrod",
+   "nursery": "isons",
+   "status": "in_stock",
+   "price": 13.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.isons.com/shop/bunch-grapes/seedless/himrod-bunch-grape-vine/",
+   "first_seen": "2026-10-07",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-07",
+     "price": 13.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "ships Jan-Apr 2027",
+   "sold_as": "2-year vine"
+  },
+  {
+   "id": "isons--neptune",
+   "variety": "neptune",
+   "nursery": "isons",
+   "status": "in_stock",
+   "price": 13.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.isons.com/shop/bunch-grapes/seedless/neptune-bunch-grape-vine/",
+   "first_seen": "2026-10-07",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-07",
+     "price": 13.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "ships Jan-Apr 2027",
+   "sold_as": "2-year vine"
+  },
+  {
+   "id": "isons--marquette",
+   "variety": "marquette",
+   "nursery": "isons",
+   "status": "in_stock",
+   "price": 14.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.isons.com/shop/bunch-grapes/seeded/marquette-bunch-grape-vine/",
+   "first_seen": "2026-10-07",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-07",
+     "price": 14.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "ships Jan-Apr 2027",
+   "sold_as": "2-year vine"
+  },
+  {
+   "id": "isons--niagara",
+   "variety": "niagara",
+   "nursery": "isons",
+   "status": "unconfirmed",
+   "price": null,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://www.isons.com/shop/bunch-grapes/seeded/niagara-bunch-grape-vine/",
+   "first_seen": "2026-10-07",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Product page shows in stock; no price displayed"
+   ],
+   "history": [
+    {
+     "date": "2026-10-07",
+     "price": null,
+     "status": "unconfirmed"
+    }
+   ],
+   "ships": "ships late Dec-Apr 2027"
+  },
+  {
+   "id": "starkbros--marquette",
+   "variety": "marquette",
+   "nursery": "starkbros",
+   "status": "in_stock",
+   "price": 24.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.starkbros.com/products/berry-plants/grape-vines/marquette-grape",
+   "first_seen": "2026-10-10",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Product page Oct 10: currently out of stock, email alert only."
+   ],
+   "history": [
+    {
+     "date": "2026-10-10",
+     "price": 24.99,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-14",
+     "price": 24.99,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "ships at planting time for your zone"
+  },
+  {
+   "id": "nature-hills--la-crescent",
+   "variety": "la-crescent",
+   "nursery": "nature-hills",
+   "status": "sold_out",
+   "price": null,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://naturehills.com/products/grape-lacrescent",
+   "first_seen": "2026-10-10",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Bare-root backordered, no add to cart"
+   ],
+   "history": [
+    {
+     "date": "2026-10-10",
+     "price": null,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-15",
+     "price": null,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "berry-plants--catawba",
+   "variety": "catawba",
+   "nursery": "berry-plants",
+   "status": "in_stock",
+   "price": 12.5,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://berryplants.com/grapes.php",
+   "first_seen": "2026-10-20",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Listed on category page only; no per-variety page read. Page says most varieties ship in spring, not fall."
+   ],
+   "history": [
+    {
+     "date": "2026-10-20",
+     "price": 12.5,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "spring only",
+   "sold_as": "plant (size not stated)"
+  },
+  {
+   "id": "berry-plants--concord",
+   "variety": "concord",
+   "nursery": "berry-plants",
+   "status": "in_stock",
+   "price": 12.5,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://berryplants.com/grapes.php",
+   "first_seen": "2026-10-20",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Listed on category page only; no per-variety page read. Page says most varieties ship in spring, not fall."
+   ],
+   "history": [
+    {
+     "date": "2026-10-20",
+     "price": 12.5,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "spring only",
+   "sold_as": "plant (size not stated)"
+  },
+  {
+   "id": "berry-plants--fredonia",
+   "variety": "fredonia",
+   "nursery": "berry-plants",
+   "status": "in_stock",
+   "price": 12.5,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://berryplants.com/grapes.php",
+   "first_seen": "2026-10-20",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Listed on category page only; no per-variety page read. Page says most varieties ship in spring, not fall."
+   ],
+   "history": [
+    {
+     "date": "2026-10-20",
+     "price": 12.5,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "spring only",
+   "sold_as": "plant (size not stated)"
+  },
+  {
+   "id": "berry-plants--king-of-the-north",
+   "variety": "king-of-the-north",
+   "nursery": "berry-plants",
+   "status": "in_stock",
+   "price": 12.5,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://berryplants.com/grapes.php",
+   "first_seen": "2026-10-20",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Listed on category page only; no per-variety page read. Page says most varieties ship in spring, not fall."
+   ],
+   "history": [
+    {
+     "date": "2026-10-20",
+     "price": 12.5,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "spring only",
+   "sold_as": "plant (size not stated)"
+  },
+  {
+   "id": "berry-plants--niagara",
+   "variety": "niagara",
+   "nursery": "berry-plants",
+   "status": "in_stock",
+   "price": 12.5,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://berryplants.com/grapes.php",
+   "first_seen": "2026-10-20",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Listed on category page only; no per-variety page read. Page says most varieties ship in spring, not fall."
+   ],
+   "history": [
+    {
+     "date": "2026-10-20",
+     "price": 12.5,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "spring only",
+   "sold_as": "plant (size not stated)"
+  },
+  {
+   "id": "berry-plants--concord-seedless",
+   "variety": "concord-seedless",
+   "nursery": "berry-plants",
+   "status": "in_stock",
+   "price": 12.5,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://berryplants.com/grapes.php",
+   "first_seen": "2026-10-20",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Listed on category page only; no per-variety page read. Page says most varieties ship in spring, not fall."
+   ],
+   "history": [
+    {
+     "date": "2026-10-20",
+     "price": 12.5,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "spring only",
+   "sold_as": "plant (size not stated)"
+  },
+  {
+   "id": "berry-plants--einset",
+   "variety": "einset",
+   "nursery": "berry-plants",
+   "status": "in_stock",
+   "price": 12.5,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://berryplants.com/grapes.php",
+   "first_seen": "2026-10-20",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Listed on category page only; no per-variety page read. Page says most varieties ship in spring, not fall."
+   ],
+   "history": [
+    {
+     "date": "2026-10-20",
+     "price": 12.5,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "spring only",
+   "sold_as": "plant (size not stated)"
+  },
+  {
+   "id": "berry-plants--glenora",
+   "variety": "glenora",
+   "nursery": "berry-plants",
+   "status": "in_stock",
+   "price": 12.5,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://berryplants.com/grapes.php",
+   "first_seen": "2026-10-20",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Listed on category page only; no per-variety page read. Page says most varieties ship in spring, not fall."
+   ],
+   "history": [
+    {
+     "date": "2026-10-20",
+     "price": 12.5,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "spring only",
+   "sold_as": "plant (size not stated)"
+  },
+  {
+   "id": "berry-plants--himrod",
+   "variety": "himrod",
+   "nursery": "berry-plants",
+   "status": "sold_out",
+   "price": 12.5,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://berryplants.com/grapes.php",
+   "first_seen": "2026-10-20",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Listed on category page only; no per-variety page read. Page says most varieties ship in spring, not fall."
+   ],
+   "history": [
+    {
+     "date": "2026-10-20",
+     "price": 12.5,
+     "status": "sold_out"
+    }
+   ],
+   "ships": "mostly spring shipping",
+   "sold_as": "plant (size not stated)"
+  },
+  {
+   "id": "berry-plants--marquis",
+   "variety": "marquis",
+   "nursery": "berry-plants",
+   "status": "in_stock",
+   "price": 12.5,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://berryplants.com/grapes.php",
+   "first_seen": "2026-10-20",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Listed on category page only; no per-variety page read. Page says most varieties ship in spring, not fall."
+   ],
+   "history": [
+    {
+     "date": "2026-10-20",
+     "price": 12.5,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "spring only",
+   "sold_as": "plant (size not stated)"
+  },
+  {
+   "id": "berry-plants--somerset-seedless",
+   "variety": "somerset-seedless",
+   "nursery": "berry-plants",
+   "status": "in_stock",
+   "price": 12.5,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://berryplants.com/grapes.php",
+   "first_seen": "2026-10-20",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Listed on category page only; no per-variety page read. Page says most varieties ship in spring, not fall."
+   ],
+   "history": [
+    {
+     "date": "2026-10-20",
+     "price": 12.5,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "spring only",
+   "sold_as": "plant (size not stated)"
+  },
+  {
+   "id": "berry-plants--canadice",
+   "variety": "canadice",
+   "nursery": "berry-plants",
+   "status": "sold_out",
+   "price": 12.5,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://berryplants.com/grapes.php",
+   "first_seen": "2026-10-20",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Listed on category page only; no per-variety page read. Page says most varieties ship in spring, not fall."
+   ],
+   "history": [
+    {
+     "date": "2026-10-20",
+     "price": 12.5,
+     "status": "sold_out"
+    }
+   ],
+   "ships": "mostly spring shipping",
+   "sold_as": "plant (size not stated)"
+  },
+  {
+   "id": "berry-plants--traminette",
+   "variety": "traminette",
+   "nursery": "berry-plants",
+   "status": "in_stock",
+   "price": 12.5,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://berryplants.com/grapes.php",
+   "first_seen": "2026-10-20",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Listed on category page only; no per-variety page read. Page says most varieties ship in spring, not fall."
+   ],
+   "history": [
+    {
+     "date": "2026-10-20",
+     "price": 12.5,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "spring only",
+   "sold_as": "plant (size not stated)"
+  },
+  {
+   "id": "berry-plants--frontenac",
+   "variety": "frontenac",
+   "nursery": "berry-plants",
+   "status": "in_stock",
+   "price": 12.5,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://berryplants.com/grapes.php",
+   "first_seen": "2026-10-20",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Listed on category page only; no per-variety page read. Page says most varieties ship in spring, not fall."
+   ],
+   "history": [
+    {
+     "date": "2026-10-20",
+     "price": 12.5,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "spring only",
+   "sold_as": "plant (size not stated)"
+  },
+  {
+   "id": "berry-plants--marquette",
+   "variety": "marquette",
+   "nursery": "berry-plants",
+   "status": "in_stock",
+   "price": 12.5,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://berryplants.com/grapes.php",
+   "first_seen": "2026-10-20",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Listed on category page only; no per-variety page read. Page says most varieties ship in spring, not fall."
+   ],
+   "history": [
+    {
+     "date": "2026-10-20",
+     "price": 12.5,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "spring only",
+   "sold_as": "plant (size not stated)"
+  },
+  {
+   "id": "berry-plants--la-crescent",
+   "variety": "la-crescent",
+   "nursery": "berry-plants",
+   "status": "in_stock",
+   "price": 12.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://berryplants.com/grapes.php",
+   "first_seen": "2026-10-20",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Listed on category page only; no per-variety page read. Page says most varieties ship in spring, not fall."
+   ],
+   "history": [
+    {
+     "date": "2026-10-20",
+     "price": 12.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "spring only",
+   "sold_as": "plant (size not stated)"
+  },
+  {
+   "id": "handpicked-nursery--concord-seedless",
+   "variety": "concord-seedless",
+   "nursery": "handpicked-nursery",
+   "status": "in_stock",
+   "price": 25.95,
+   "price_from": true,
+   "price_confirmed": false,
+   "url": "https://www.handpickednursery.com/collections/grape-vines",
+   "first_seen": "2026-10-20",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Not marked sold out on the collection page; stock not confirmed on a product page."
+   ],
+   "history": [
+    {
+     "date": "2026-10-20",
+     "price": 25.95,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-22",
+     "price": 25.95,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "1-year bare root"
+  },
+  {
+   "id": "handpicked-nursery--concord",
+   "variety": "concord",
+   "nursery": "handpicked-nursery",
+   "status": "in_stock",
+   "price": 22.95,
+   "price_from": true,
+   "price_confirmed": false,
+   "url": "https://www.handpickednursery.com/collections/grape-vines",
+   "first_seen": "2026-10-20",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Not marked sold out on the collection page; stock not confirmed on a product page."
+   ],
+   "history": [
+    {
+     "date": "2026-10-20",
+     "price": 22.95,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-22",
+     "price": 22.95,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "1-year bare root"
+  },
+  {
+   "id": "handpicked-nursery--catawba",
+   "variety": "catawba",
+   "nursery": "handpicked-nursery",
+   "status": "in_stock",
+   "price": 22.95,
+   "price_from": true,
+   "price_confirmed": false,
+   "url": "https://www.handpickednursery.com/collections/grape-vines",
+   "first_seen": "2026-10-20",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Not marked sold out on the collection page; stock not confirmed on a product page."
+   ],
+   "history": [
+    {
+     "date": "2026-10-20",
+     "price": 22.95,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-22",
+     "price": 22.95,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "1-year bare root"
+  },
+  {
+   "id": "handpicked-nursery--canadice",
+   "variety": "canadice",
+   "nursery": "handpicked-nursery",
+   "status": "in_stock",
+   "price": 25.95,
+   "price_from": true,
+   "price_confirmed": false,
+   "url": "https://www.handpickednursery.com/collections/grape-vines",
+   "first_seen": "2026-10-20",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Not marked sold out on the collection page; stock not confirmed on a product page."
+   ],
+   "history": [
+    {
+     "date": "2026-10-20",
+     "price": 25.95,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-22",
+     "price": 25.95,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "1-year bare root"
+  },
+  {
+   "id": "handpicked-nursery--vanessa",
+   "variety": "vanessa",
+   "nursery": "handpicked-nursery",
+   "status": "in_stock",
+   "price": 25.95,
+   "price_from": true,
+   "price_confirmed": false,
+   "url": "https://www.handpickednursery.com/collections/grape-vines",
+   "first_seen": "2026-10-20",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Not marked sold out on the collection page; stock not confirmed on a product page."
+   ],
+   "history": [
+    {
+     "date": "2026-10-20",
+     "price": 25.95,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-22",
+     "price": 25.95,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "1-year bare root"
+  },
+  {
+   "id": "handpicked-nursery--bluebell",
+   "variety": "bluebell",
+   "nursery": "handpicked-nursery",
+   "status": "in_stock",
+   "price": 25.95,
+   "price_from": true,
+   "price_confirmed": false,
+   "url": "https://www.handpickednursery.com/collections/grape-vines",
+   "first_seen": "2026-10-20",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Not marked sold out on the collection page; stock not confirmed on a product page."
+   ],
+   "history": [
+    {
+     "date": "2026-10-20",
+     "price": 25.95,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-22",
+     "price": 25.95,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "1-year bare root"
+  },
+  {
+   "id": "handpicked-nursery--thomcord",
+   "variety": "thomcord",
+   "nursery": "handpicked-nursery",
+   "status": "in_stock",
+   "price": 25.95,
+   "price_from": true,
+   "price_confirmed": false,
+   "url": "https://www.handpickednursery.com/collections/grape-vines",
+   "first_seen": "2026-10-20",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Not marked sold out on the collection page; stock not confirmed on a product page."
+   ],
+   "history": [
+    {
+     "date": "2026-10-20",
+     "price": 25.95,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-22",
+     "price": 25.95,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "1-year bare root"
+  },
+  {
+   "id": "handpicked-nursery--fredonia",
+   "variety": "fredonia",
+   "nursery": "handpicked-nursery",
+   "status": "in_stock",
+   "price": 25.95,
+   "price_from": true,
+   "price_confirmed": false,
+   "url": "https://www.handpickednursery.com/collections/grape-vines",
+   "first_seen": "2026-10-20",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Not marked sold out on the collection page; stock not confirmed on a product page."
+   ],
+   "history": [
+    {
+     "date": "2026-10-20",
+     "price": 25.95,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-22",
+     "price": 25.95,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "1-year bare root"
+  },
+  {
+   "id": "edible-landscaping--petite-pearl",
+   "variety": "petite-pearl",
+   "nursery": "edible-landscaping",
+   "status": "in_stock",
+   "price": 30.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://ediblelandscaping.com/products/petite-pearl",
+   "first_seen": "2026-10-20",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Quart ($18) and 3-gallon ($45) sizes showed as unavailable; 1-gallon in stock per the product JSON."
+   ],
+   "history": [
+    {
+     "date": "2026-10-20",
+     "price": 30.0,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "1-gallon pot"
+  },
+  {
+   "id": "edible-landscaping--verona",
+   "variety": "verona",
+   "nursery": "edible-landscaping",
+   "status": "in_stock",
+   "price": 30.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://ediblelandscaping.com/products/verona-grape",
+   "first_seen": "2026-10-20",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Quart ($18) and 3-gallon ($45) sizes showed as unavailable; 1-gallon in stock per the product JSON."
+   ],
+   "history": [
+    {
+     "date": "2026-10-20",
+     "price": 30.0,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "1-gallon pot"
+  },
+  {
+   "id": "edible-landscaping--veritage",
+   "variety": "veritage",
+   "nursery": "edible-landscaping",
+   "status": "in_stock",
+   "price": 30.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://ediblelandscaping.com/products/veritage-grape",
+   "first_seen": "2026-10-20",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Quart ($18) and 3-gallon ($45) sizes showed as unavailable; 1-gallon in stock per the product JSON."
+   ],
+   "history": [
+    {
+     "date": "2026-10-20",
+     "price": 30.0,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "1-gallon pot"
+  },
+  {
+   "id": "starkbros--thomcord",
+   "variety": "thomcord",
+   "nursery": "starkbros",
+   "status": "in_stock",
+   "price": 17.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.starkbros.com/products/berry-plants/grape-vines/thomcord-seedless-grape",
+   "first_seen": "2026-10-20",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "1-gallon ($26.99) out of stock."
+   ],
+   "history": [
+    {
+     "date": "2026-10-20",
+     "price": 17.99,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "4-inch pot"
+  },
+  {
+   "id": "starkbros--saint-theresa",
+   "variety": "saint-theresa",
+   "nursery": "starkbros",
+   "status": "in_stock",
+   "price": 15.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.starkbros.com/products/berry-plants/grape-vines/saint-theresa-grape",
+   "first_seen": "2026-10-20",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "1-gallon ($24.99) out of stock."
+   ],
+   "history": [
+    {
+     "date": "2026-10-20",
+     "price": 15.99,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "4-inch pot"
+  },
+  {
+   "id": "food-forest-nursery--concord",
+   "variety": "concord",
+   "nursery": "food-forest-nursery",
+   "status": "in_stock",
+   "price": 24.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.foodforestnursery.com/product/concord-grape-seeded/",
+   "first_seen": "2026-10-20",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-20",
+     "price": 24.95,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "1-2 ft bare-root vine, own-root"
+  },
+  {
+   "id": "double-a-vineyards--corot-noir",
+   "variety": "corot-noir",
+   "nursery": "double-a-vineyards",
+   "status": "in_stock",
+   "price": 12.75,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://doubleavineyards.com/corot-noir",
+   "first_seen": "2026-11-10",
+   "last_checked": "2026-11-10",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-11-10",
+     "price": 12.75,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "ships spring 2027",
+   "sold_as": "Certified own-rooted vine"
+  },
+  {
+   "id": "double-a-vineyards--noiret",
+   "variety": "noiret",
+   "nursery": "double-a-vineyards",
+   "status": "in_stock",
+   "price": 12.75,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://doubleavineyards.com/noiret",
+   "first_seen": "2026-11-10",
+   "last_checked": "2026-11-10",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-11-10",
+     "price": 12.75,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "ships spring 2027",
+   "sold_as": "Certified own-rooted vine"
+  },
+  {
+   "id": "double-a-vineyards--cayuga-white",
+   "variety": "cayuga-white",
+   "nursery": "double-a-vineyards",
+   "status": "in_stock",
+   "price": 12.75,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://doubleavineyards.com/cayuga-white",
+   "first_seen": "2026-11-10",
+   "last_checked": "2026-11-10",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-11-10",
+     "price": 12.75,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "ships spring 2027",
+   "sold_as": "Standard (non-certified) own-rooted vine"
+  },
+  {
+   "id": "tn-nursery--concord",
+   "variety": "concord",
+   "nursery": "tn-nursery",
+   "status": "in_stock",
+   "price": 19.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.tnnursery.net/products/grape-vine",
+   "first_seen": "2026-11-10",
+   "last_checked": "2026-11-10",
+   "notes": [
+    "Price is per plant from a $37.99 pair."
+   ],
+   "history": [
+    {
+     "date": "2026-11-10",
+     "price": 19.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "ships Nov 15-29",
+   "sold_as": "1-2 ft plant; $37.99 buys 2 (buy-one-get-one-free), about $19 each. Taller sizes cost more."
+  },
+  {
+   "id": "tn-nursery--catawba",
+   "variety": "catawba",
+   "nursery": "tn-nursery",
+   "status": "in_stock",
+   "price": 19.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.tnnursery.net/products/grape-vine",
+   "first_seen": "2026-11-10",
+   "last_checked": "2026-11-10",
+   "notes": [
+    "Price is per plant from a $37.99 pair."
+   ],
+   "history": [
+    {
+     "date": "2026-11-10",
+     "price": 19.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "ships Nov 15-29",
+   "sold_as": "1-2 ft plant; $37.99 buys 2 (buy-one-get-one-free), about $19 each. Taller sizes cost more. Listed as 'Cawtaba'."
+  },
+  {
+   "id": "tn-nursery--fredonia",
+   "variety": "fredonia",
+   "nursery": "tn-nursery",
+   "status": "in_stock",
+   "price": 19.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.tnnursery.net/products/grape-vine",
+   "first_seen": "2026-11-10",
+   "last_checked": "2026-11-10",
+   "notes": [
+    "Price is per plant from a $37.99 pair."
+   ],
+   "history": [
+    {
+     "date": "2026-11-10",
+     "price": 19.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "ships Nov 15-29",
+   "sold_as": "1-2 ft plant; $37.99 buys 2 (buy-one-get-one-free), about $19 each. Taller sizes cost more. Listed as 'Freedonia'."
+  },
+  {
+   "id": "tn-nursery--niagara",
+   "variety": "niagara",
+   "nursery": "tn-nursery",
+   "status": "in_stock",
+   "price": 19.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.tnnursery.net/products/grape-vine",
+   "first_seen": "2026-11-10",
+   "last_checked": "2026-11-10",
+   "notes": [
+    "Price is per plant from a $37.99 pair."
+   ],
+   "history": [
+    {
+     "date": "2026-11-10",
+     "price": 19.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "ships Nov 15-29",
+   "sold_as": "1-2 ft plant; $37.99 buys 2 (buy-one-get-one-free), about $19 each. Taller sizes cost more."
+  },
+  {
+   "id": "mckay-nursery--concord",
+   "variety": "concord",
+   "nursery": "mckay-nursery",
+   "status": "in_stock",
+   "price": 28.99,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://mckaynursery.com/concord-grape",
+   "first_seen": "2026-11-10",
+   "last_checked": "2026-11-10",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-11-10",
+     "price": 28.99,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "Dormant bare-root vine; size not stated"
+  },
+  {
+   "id": "maya-gardens--steuben",
+   "variety": "steuben",
+   "nursery": "maya-gardens",
+   "status": "sold_out",
+   "price": 69.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://mayagardensinc.com/products/steuben-grape",
+   "first_seen": "2026-11-10",
+   "last_checked": "2026-11-10",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-11-10",
+     "price": 69.99,
+     "status": "sold_out"
+    }
+   ],
+   "sold_as": "#1 container, 1-2 yr, 2-3 ft; free shipping"
+  },
+  {
+   "id": "maya-gardens--concord",
+   "variety": "concord",
+   "nursery": "maya-gardens",
+   "status": "sold_out",
+   "price": 69.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://mayagardensinc.com/products/concord-grape",
+   "first_seen": "2026-11-10",
+   "last_checked": "2026-11-10",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-11-10",
+     "price": 69.99,
+     "status": "sold_out"
+    }
+   ],
+   "sold_as": "#1 container, 1-2 yr, 2-3 ft; free shipping"
+  },
+  {
+   "id": "maya-gardens--niagara",
+   "variety": "niagara",
+   "nursery": "maya-gardens",
+   "status": "sold_out",
+   "price": 69.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://mayagardensinc.com/products/niagara-grape",
+   "first_seen": "2026-11-10",
+   "last_checked": "2026-11-10",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-11-10",
+     "price": 69.99,
+     "status": "sold_out"
+    }
+   ],
+   "sold_as": "#1 container, 1-2 yr, 2-3 ft; free shipping"
+  }
+ ]
+}

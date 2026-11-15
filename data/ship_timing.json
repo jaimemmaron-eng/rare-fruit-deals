@@ -1,0 +1,280 @@
+{
+ "for_zip": "08801",
+ "zone": "6b/7a",
+ "checked": "2026-10-08",
+ "about": "When each nursery ships, rated for a late-fall arrival in Annandale, NJ. safe = dormant or timed to your zone; ask = fine if you pick or request the ship date; risky = ships potted/green on order in any season; unknown = not published.",
+ "nurseries": {
+  "advanced-nursery-growers": {
+   "t": "unknown",
+   "why": "No shipping season published. Ask when they'll ship before ordering."
+  },
+  "arborday": {
+   "t": "safe",
+   "why": "Ships at the right planting time for your zone."
+  },
+  "beautiful-beginnings": {
+   "t": "ask",
+   "why": "Ships spring and autumn, not stated by zone; confirm the fall date."
+  },
+  "berries-unlimited": {
+   "t": "safe",
+   "why": "Holds plants for zones 2–7 until spring."
+  },
+  "berryplants": {
+   "t": "safe",
+   "why": "These varieties ship in spring only."
+  },
+  "blessings-grow-meadows": {
+   "t": "unknown",
+   "why": "No shipping season published. Ask when they'll ship before ordering."
+  },
+  "blue-hill": {
+   "t": "safe",
+   "why": "Spring only; you pick the ship date."
+  },
+  "burnt-ridge": {
+   "t": "ask",
+   "why": "Fall shipping Nov–Dec from Washington, not timed by zone; ask for spring if unsure."
+  },
+  "burpee": {
+   "t": "unknown",
+   "why": "No shipping season published. Ask when they'll ship before ordering."
+  },
+  "buy-potted-plants": {
+   "t": "unknown",
+   "why": "No shipping season published. Ask when they'll ship before ordering."
+  },
+  "chestnut-hill": {
+   "t": "risky",
+   "why": "Florida container trees ship Mon/Tue year-round with no cold-weather hold."
+  },
+  "classy-groundcovers": {
+   "t": "unknown",
+   "why": "No shipping season published. Ask when they'll ship before ordering."
+  },
+  "cricket-hill": {
+   "t": "safe",
+   "why": "Connecticut; dormant stock only, spring and fall."
+  },
+  "cricket-hill-garden": {
+   "t": "safe",
+   "why": "Connecticut; dormant stock only, spring and fall."
+  },
+  "cummins": {
+   "t": "safe",
+   "why": "Spring only (mid-March)."
+  },
+  "double-a": {
+   "t": "unknown",
+   "why": "Season not published for these plants (their grapes ship spring 2027); confirm."
+  },
+  "double-a-vineyards": {
+   "t": "safe",
+   "why": "Ships spring 2027."
+  },
+  "edible-landscaping": {
+   "t": "ask",
+   "why": "Potted; ships about 2 weeks after you order, holds only in winter frost. Order by late Oct or ask to hold for spring."
+  },
+  "englands-orchard": {
+   "t": "unknown",
+   "why": "No shipping season published. Ask when they'll ship before ordering."
+  },
+  "fedco": {
+   "t": "safe",
+   "why": "Bare-root, spring only, scheduled by hardiness zone."
+  },
+  "fedco-trees": {
+   "t": "safe",
+   "why": "Bare-root, spring only, scheduled by hardiness zone."
+  },
+  "food-forest": {
+   "t": "safe",
+   "why": "Bare-root, ships by zone; zone 6b ships ~Mar 22."
+  },
+  "food-forest-nursery": {
+   "t": "safe",
+   "why": "Bare-root, ships by zone in spring."
+  },
+  "future-forest": {
+   "t": "unknown",
+   "why": "No shipping season published. Ask when they'll ship before ordering."
+  },
+  "handpicked": {
+   "t": "unknown",
+   "why": "No shipping season published. Ask when they'll ship before ordering."
+  },
+  "hartmanns": {
+   "t": "safe",
+   "why": "Spring shipping; you pick the ship date."
+  },
+  "hidden-springs": {
+   "t": "safe",
+   "why": "Dormant bare-root; fall shipping only to zones 6–9."
+  },
+  "hirts-gardens": {
+   "t": "unknown",
+   "why": "No shipping season published. Ask when they'll ship before ordering."
+  },
+  "hollandbulbfarms": {
+   "t": "safe",
+   "why": "Spring pre-order; ships spring 2027."
+  },
+  "honeyberry-usa": {
+   "t": "safe",
+   "why": "Ships mid-Oct to early Nov from Minnesota; honeyberries are very cold-hardy."
+  },
+  "humble-abode": {
+   "t": "safe",
+   "why": "Massachusetts; ships the first week of November into a similar climate."
+  },
+  "isons": {
+   "t": "safe",
+   "why": "Dormant bare-root; cold states ship late March–April unless you ask for earlier."
+  },
+  "logees": {
+   "t": "risky",
+   "why": "Greenhouse plants in 4-inch pots shipped year-round; a late-fall arrival has to overwinter indoors."
+  },
+  "madison-citrus": {
+   "t": "risky",
+   "why": "Florida greenhouse-grown 1-gal trees, ship within days any time of year (NJ isn't held)."
+  },
+  "mckay-nursery": {
+   "t": "unknown",
+   "why": "No shipping season published. Ask when they'll ship before ordering."
+  },
+  "nature-hills": {
+   "t": "safe",
+   "why": "Follows a zone shipping calendar and holds boxes when the forecast is below 32°F."
+  },
+  "naturehills": {
+   "t": "safe",
+   "why": "Follows a zone shipping calendar and holds boxes when the forecast is below 32°F."
+  },
+  "northeast-edible": {
+   "t": "safe",
+   "why": "New Jersey nursery; fall orders ship in November into the same climate."
+  },
+  "one-green-world": {
+   "t": "ask",
+   "why": "Fall shipping from Oregon, not timed by zone, 5–7 days in transit east. Pick or request a ship date."
+  },
+  "peaceful-heritage": {
+   "t": "safe",
+   "why": "Orders from Nov–Feb are held for April to the Northeast; Mar–Oct orders ship within days."
+  },
+  "perfect-plants": {
+   "t": "unknown",
+   "why": "Florida potted plants; no shipping season published. Ask about cold-weather holds."
+  },
+  "plant-addicts": {
+   "t": "risky",
+   "why": "Potted plants ship 3–10 days after ordering, no zone timing."
+  },
+  "planting-justice": {
+   "t": "risky",
+   "why": "California potted plants ship year-round, no zone timing."
+  },
+  "raintree": {
+   "t": "safe",
+   "why": "Fall shipping only to zone 6+ (late Sep–early Nov); bare-root ships in spring."
+  },
+  "restoring-eden": {
+   "t": "ask",
+   "why": "Ships potted year-round from Washington, pausing only in extreme cold. Ask them to hold for spring if it's late."
+  },
+  "rock-bridge-trees": {
+   "t": "unknown",
+   "why": "No shipping season published. Ask when they'll ship before ordering."
+  },
+  "rohrs-nursery": {
+   "t": "unknown",
+   "why": "No shipping season published. Ask when they'll ship before ordering."
+  },
+  "romence-gardens": {
+   "t": "unknown",
+   "why": "No shipping season published. Ask when they'll ship before ordering."
+  },
+  "roots-to-fruits": {
+   "t": "safe",
+   "why": "You choose Nov 2026 or mid-March 2027 at checkout; both suit zone 6b."
+  },
+  "scenic-hill": {
+   "t": "ask",
+   "why": "Ships potted; add the ship date you want in the order notes."
+  },
+  "shrubs-trees-depot": {
+   "t": "unknown",
+   "why": "No shipping season published. Ask when they'll ship before ordering."
+  },
+  "sowexotic": {
+   "t": "risky",
+   "why": "Ships year-round with a 30–40 day lead, no zone timing."
+  },
+  "st-lawrence": {
+   "t": "safe",
+   "why": "Cold-hardy bare-root from northern NY; spring 2027 orders."
+  },
+  "stark-bros": {
+   "t": "safe",
+   "why": "Ships during dormancy, timed to your hardiness zone."
+  },
+  "starkbros": {
+   "t": "safe",
+   "why": "Ships at planting time for your zone."
+  },
+  "trees-com": {
+   "t": "risky",
+   "why": "Most items ship immediately regardless of season."
+  },
+  "trees-of-antiquity": {
+   "t": "safe",
+   "why": "Bare-root, Jan–May, scheduled by zone."
+  },
+  "tripple-brook": {
+   "t": "safe",
+   "why": "Ships fall by zone, colder zones first, only while it's safe to plant there."
+  },
+  "ty-ty": {
+   "t": "ask",
+   "why": "Georgia, dormant bare-root Dec–May, not timed by zone; ask for a spring date."
+  },
+  "tyty": {
+   "t": "ask",
+   "why": "Georgia, dormant bare-root Dec–May, not timed by zone; ask for a spring date."
+  },
+  "wellspring-gardens": {
+   "t": "risky",
+   "why": "Florida starter plants, no seasonal limits; ships 1–2 days after payment."
+  },
+  "willis": {
+   "t": "ask",
+   "why": "Dormant trees ship from Georgia Dec–Mar; ask for a March date so they don't land on frozen ground."
+  },
+  "willis-orchards": {
+   "t": "ask",
+   "why": "Dormant vines ship from Georgia Dec–Apr; ask for a March date so they don't land on frozen ground."
+  },
+  "strictly-medicinal": {
+   "t": "ask",
+   "why": "Potted plants ship early September to late November and again from mid-March; order early enough to plant before the ground freezes."
+  },
+  "edible-acres": {
+   "t": "safe",
+   "why": "Upstate New York; bare-root divisions in spring (list opens March 1) and fall (September 1)."
+  },
+  "efn": {
+   "t": "unknown",
+   "why": "No shipping season published for root cuttings and tubers. Ask before ordering."
+  },
+  "prairie-moon": {
+   "t": "safe",
+   "why": "Bare-root plants ship April to May and in October."
+  },
+  "territorial-seed": {
+   "t": "unknown",
+   "why": "Ship window for plants, crowns and roots is on each product page; check it before ordering."
+  }
+ }
+}

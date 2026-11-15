@@ -1,0 +1,4714 @@
+{
+ "fruit": "asianpear",
+ "updated": "2026-11-09",
+ "scope": "Named Asian pear cultivars (Pyrus pyrifolia, P. bretschneideri and Asian-type hybrids such as Juicy Jewel) shippable to Annandale, NJ (zone 6b/7a). Trees grafted on callery pear (Pyrus calleryana, invasive in NJ) are left out, and so are Asian × European crosses sold as such (Maxie) and multi-variety combo trees. Most Asian pears need a second variety that blooms at the same time; known bad pairs are Nijisseiki × Kikusui, Shinsui × Kikusui, Hosui × Niitaka and Kosui × Shinsui, and Niitaka can't pollinate others.",
+ "last_run": {
+  "date": "2026-11-09",
+  "summary": "Price changes at Stark Bro's Nurseries: Hosui $57.99 → $64.99. Price changes at Willis Orchard Co.: Chojuro $39.95 → $34.95. New listings at Plant Me Green: Kikusui (sold out), Korean Giant (unconfirmed), Shinko (unconfirmed), Shinseiki (unconfirmed). New listings at One Green World: Yoinashi ($44.95). New listings at Mehrabyan Nursery: Nijisseiki ($29.95). New listings at Burnt Ridge Nursery: Shinseiki (unconfirmed). Found Plant Me Green (potted Kikusui, Korean Giant, Shinko and Shinseiki, $15 flat shipping) and added Yoinashi at One Green World, Twentieth Century at Mehrabyan and Shinseiki at Burnt Ridge. Forestfarm and Blooming Junction had nothing in scope. New seller Plant Me Green (Kikusui sold out.",
+  "gaps": [
+   "burnt-ridge: no per-variety prices (category pages show no price/stock; product pages show price but no stock status)",
+   "gurneys: would not load",
+   "burpee: would not load",
+   "grandpas: would not load",
+   "Burnt Ridge Asian pear category page could not be fetched; Hosui and Tennosui there unverified.",
+   "Plant Me Green rootstock/grafting and per-size prices not stated."
+  ],
+  "checked": [
+   "adams-county",
+   "blue-hill",
+   "cricket-hill",
+   "cummins",
+   "edible-landscaping",
+   "fedco",
+   "grow-organic",
+   "isons",
+   "mehrabyan",
+   "nature-hills",
+   "one-green-world",
+   "perfect-plants",
+   "raintree",
+   "restoring-eden",
+   "roots-to-fruits",
+   "stark-bros",
+   "trees-com",
+   "trees-of-antiquity",
+   "willis"
+  ],
+  "held": [],
+  "notes": [
+   "Found Plant Me Green (potted Kikusui, Korean Giant, Shinko and Shinseiki, $15 flat shipping) and added Yoinashi at One Green World, Twentieth Century at Mehrabyan and Shinseiki at Burnt Ridge",
+   "Forestfarm and Blooming Junction had nothing in scope",
+   "New seller Plant Me Green (Kikusui sold out"
+  ]
+ },
+ "history_log": [
+  "Sep 15: Asian pears first tracked alongside hybrid persimmons (Blue Hill, Bob Wells, One Green World, Just Fruits).",
+  "Oct 4: Asian pears added to Rare Fruit Deals; seeded from 21 sellers.",
+  "Oct 5: Cummins' six held listings confirmed in stock with pricing; Stark Bro's 20th Century & Juicy Jewel and 4 One Green World varieties sold out; Ison's Shinseiki confirmed in stock; added Cricket Hill Garden (CT) with new variety Pai Li.",
+  "Oct 6: Rechecked all 20 nurseries - no restocks or price changes. Trees.com's 20th Century sold out; added Burnt Ridge Chojuro & Korean Giant and a sold-out Fedco Yoinashi; ruled out Louie's Nursery (CA, local delivery only).",
+  "Oct 7: Confirmed most listings unchanged on recheck; Cricket Hill Pai Li and OGW Tsu Li now sold out, OGW Kikusui page gone (discontinued). Added Gurney's and Brighter Blooms (both sold out on Hosui).",
+  "Oct 8: Confirmed Trees of Antiquity's Tsu Li & Ya Li in stock; rechecked 21 nurseries with no other status/price changes; Burnt Ridge site down tonight.",
+  "Oct 9: Cummins restocked Shinko ($45.75); Stark Bro's restocked 20th Century ($64.99, only 4 left); new Edible Landscaping listing for Korean Giant.",
+  "Oct 10: Stark Bro's 20th Century sold out; Hosui on sale $57.99. All other re-checked sellers unchanged; Burnt Ridge unreachable again.",
+  "Oct 11: Korean Giant sold out at One Green World; everything else re-checked held steady; overnight check: Sold out at One Green World: Shinseiki; Price changes at One Green World: Kikusui priced at $39.95",
+  "Oct 12: no changes at the 5 nurseries checked",
+  "Oct 13: no changes at the 3 nurseries checked",
+  "Oct 14: Back in stock at Restoring Eden: Hosui $39.99; Price changes at Stark Bro's Nurseries: Peggy $64.99 → $57.99",
+  "Oct 15: Back in stock at Restoring Eden: Chojuro $39.99, Shinko $39.99, Korean Giant $39.99, Kosui $39.99, Raja $39.99, Shinglo $39.99, Shinseiki $39.99; Sold out at Cummins Nursery: Shinko; Price changes at Roots to Fruits Nursery: Shinseiki $59 → $65, Reddy Robin $47 → $45",
+  "Oct 19: New listings at Mehrabyan Nursery: Atago ($30.45), Hosui ($29.95), Niitaka ($29.95), Korean Giant ($29.95), Yoinashi ($30.45), Kosui ($29.95), Shinko ($29.95), Shinseiki ($29.95) and 2 more; New listings at Hudson Valley Seed Company: Hosui (sold out); New listings at Burpee: Hosui (sold out); Found three new sellers: Mehrabyan Nursery (Ithaca, NY; 10 named Asian pears, all orderable at $29.95-$31.45), Hudson Valley Seed Company (Hosui, sold out) and Burpee (Hosui, sold out); Four Winds Growers had no usable price or shipping terms; New sellers Mehrabyan Nursery (10 varieties), Hudson Valley Seed (Hosui) and Burpee (Hosui)",
+  "Oct 20: Back in stock at One Green World: Korean Giant $34.95, Shinseiki $34.95; Back in stock at Restoring Eden: Nijisseiki $39.99; Adams County Nursery: Atago now sold out, Hosui now sold out, Juicy Jewel now sold out, Kosui now sold out, Niitaka now sold out",
+  "Oct 22: Sold out at Willis Orchard Co.: Shinseiki; Sold out at Cummins Nursery: Korean Giant, Niitaka; Price changes at Stark Bro's Nurseries: Peggy $57.99 → $64.99; Price changes at Willis Orchard Co.: Chojuro $34.95 → $39.95, Shinko $34.95 → $39.95; Price changes at Cummins Nursery: Shinko $45.75 → $50",
+  "Oct 26: Back in stock at Willis Orchard Co.: Shinseiki $34.95",
+  "Oct 29: Back in stock at Cummins Nursery: Korean Giant $42.75, Niitaka $42.75; Price changes at Trees of Antiquity: Atago $55.95 → $52.95, Hosui $55.95 → $52.95; Price changes at Ison's Nursery & Vineyard: Hosui $31.95 → $34.95, Korean Giant $31.95 → $34.95; Price changes at Cummins Nursery: Juicy Jewel $47.50 → $44.50, Yoinashi $46.25 → $43.25, Shinsui $45.75 → $42.75, Shinseiki $45.75 → $42.75, Nijisseiki $45.75 → $41.75; New listings at One Green World: Kosui ($39.95), Niitaka ($39.95), Seuri ($39.95); New listings at Hudson Valley Seed Company: Chojuro (sold out); New listings at Stark Bro's Nurseries: Chojuro (sold out); Checked Nutcracker Nursery (Canada) and Green Acres Nursery Supply (CA/TX stores): neither has NJ-shippable named Asian pear stock; Added Kosui, Niitaka and Seuri at One Green World and Chojuro at Hudson Valley Seed and Stark Bro's; Forestfarm's site could not be fetched; Forestfarm unreachable",
+  "Nov 2: Back in stock at Adams County Nursery: Atago $35, Hosui $35, Juicy Jewel $35, Kosui $35, Niitaka $35; Sold out at Edible Landscaping: Shin Li; Sold out at Trees of Antiquity: Shinko; Sold out at One Green World: Kosui, Niitaka, Seuri; Price changes at Trees of Antiquity: Atago $52.95 → $55.95, Hosui $52.95 → $55.95; Price changes at Cummins Nursery: Hosui $45.75 → $50",
+  "Nov 5: Back in stock at One Green World: Hosui $39.95, Kikusui $39.95, Kosui $39.95",
+  "Nov 9: Price changes at Stark Bro's Nurseries: Hosui $57.99 → $64.99; Price changes at Willis Orchard Co.: Chojuro $39.95 → $34.95; New listings at Plant Me Green: Kikusui (sold out), Korean Giant (unconfirmed), Shinko (unconfirmed), Shinseiki (unconfirmed); New listings at One Green World: Yoinashi ($44.95); New listings at Mehrabyan Nursery: Nijisseiki ($29.95); New listings at Burnt Ridge Nursery: Shinseiki (unconfirmed); Found Plant Me Green (potted Kikusui, Korean Giant, Shinko and Shinseiki, $15 flat shipping) and added Yoinashi at One Green World, Twentieth Century at Mehrabyan and Shinseiki at Burnt Ridge; Forestfarm and Blooming Junction had nothing in scope; New seller Plant Me Green (Kikusui sold out"
+ ],
+ "sources": {
+  "directories": [
+   [
+    "NSW DPI nashi variety pages (pollination groups)",
+    "https://www.dpi.nsw.gov.au/agriculture/horticulture/pomes/other/nashi"
+   ],
+   [
+    "Penn State Extension: Asian pears for the home orchard",
+    "https://extension.psu.edu/asian-pears-in-the-home-orchard-variety-selection"
+   ]
+  ],
+  "checked_no_named_stock": [
+   "Just Fruits and Exotics (grafted on callery pear)",
+   "Bob Wells Nursery (rootstock may be callery; Betulaefolia or Calleryana)",
+   "Food Forest Nursery (grafted on callery pear)",
+   "Century Farm Orchards (no Asian pears listed)",
+   "Hidden Springs Nursery (Korean Giant only inside a mixed $18 pear listing)",
+   "Art's Nursery (Vancouver, BC, Canada - phone-only stock check, no confirmed US/NJ shipping)",
+   "Bower & Branch (zip-gated local-delivery network; Korean Giant showed sold out/unavailable for 08801, rootstock and nationwide shipping unconfirmed)",
+   "Twisted Tree Farm (no official nursery site found selling named Asian pear trees)",
+   "Bay Laurel Nursery (no Asian pear listings found)",
+   "Louie's Nursery, Riverside CA (local delivery/planting service only; no mail-order shipping to NJ found for its Asian pear trees)",
+   "Felix Gillet Institute (only 'Forest Asian Pear' listed, sold out, unclear cultivar status and rootstock, no confirmed NJ shipping)",
+   "Orange Pippin Fruit Trees (online broker that resells via partner nurseries, reportedly Cummins Nursery which is already tracked here; no distinct named stock)",
+   "Whiffletree Farm and Nursery, Ontario Canada (cannot ship outside Canada per CFIA regulations)",
+   "plants.wasconursery.com (a NetPS Plant Finder photo/description page embedded for an unnamed nursery client, not an independent retail seller of Asian pear trees)",
+   "Four Winds Growers (Hosui page shows no price or stock and no NJ shipping terms; site fetch failed)",
+   "Nutcracker Nursery (prices in CAD, Canadian shipping terms; Kosui, Chojuro, Nijisseiki, Shinko, Shinseiki listed but no US/NJ shipping stated)",
+   "Green Acres Nursery Supply (idiggreenacres.com; CA/TX store pickup, Matsuda's Shinseiki bareroot $55, no NJ shipping stated)",
+   "Forestfarm (Williams, OR; no Asian pear/Pyrus found on its Fruits & Nuts pages and its site search was unavailable; no NJ shipping rules stated)",
+   "Blooming Junction (Cornelius, OR; FAQ says it does not ship plants; only a pre-order 20th Century listing and an unpriced Shinko page)"
+  ],
+  "dead": [
+   "Johnson Nursery (site unreachable Oct 4)",
+   "England's Orchard and Nursery (site unreachable for a second night, Oct 5 - DNS failure)",
+   "Rolling River Nursery (site returned a 521 error for a second night, Oct 5)"
+  ],
+  "to_check": [
+   "Starking Hardy Giant at Stark Bro's (still Stark-exclusive branding only, 'from Korea in 1969', out of stock $64.99 as of Oct 7; no source yet ties it to Korean Giant/Olympic/Dan Bae as a synonym vs. a distinct release - leaving as its own unlisted name until sourced)",
+   "Burnt Ridge: Hosui and Tennosui named on its Asian pear page, not yet verified or on file (Shinseiki added Nov 9; Maxie is out of scope)"
+  ]
+ },
+ "nurseries": [
+  {
+   "id": "raintree",
+   "name": "Raintree Nursery",
+   "location": "Morton, WA",
+   "state": "WA",
+   "url": "https://raintreenursery.com/collections/asian-pears",
+   "shipping": {
+    "type": "percent",
+    "confirmed": true,
+    "min": 39.99,
+    "tiers": [
+     [
+      1000000000.0,
+      0.25
+     ]
+    ],
+    "source": "https://raintreenursery.com/pages/shipping-policy"
+   },
+   "note": "Semi-dwarf bare-root trees on OHxF 87, pre-ordered now for spring 2027 shipping. East-zone shipping is 25% with a $39.99 minimum."
+  },
+  {
+   "id": "stark-bros",
+   "name": "Stark Bro's Nurseries",
+   "location": "Louisiana, MO",
+   "state": "MO",
+   "url": "https://www.starkbros.com/tags/asian-pear-trees",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 15.99,
+    "high": 17.99,
+    "source": "https://www.starkbros.com/about/order-and-shipping-policies",
+    "note": "No published rate table; product pages have shown $15.99–$17.99 shipping per order."
+   },
+   "note": "Potted EZ Start trees; ships when it's time to plant locally. Reports 4 more Asian pears out of stock without naming them."
+  },
+  {
+   "id": "one-green-world",
+   "name": "One Green World",
+   "location": "Molalla, OR",
+   "state": "OR",
+   "url": "https://onegreenworld.com/?s=asian+pear&post_type=product",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 20,
+    "high": 25,
+    "source": "https://onegreenworld.com/shipping-information/",
+    "note": "Shipping is “approximately $20–$25 depending on the destination state”, more for tall or heavy plants (UPS, from Portland OR)."
+   },
+   "note": "Trees on Pyrus betulifolia. Listing prices span 1-gallon and bare-root sizes; only Shinseiki's sizes were checked individually."
+  },
+  {
+   "id": "edible-landscaping",
+   "name": "Edible Landscaping",
+   "location": "Afton, VA",
+   "state": "VA",
+   "url": "https://ediblelandscaping.com/collections/asian-pear",
+   "shipping": {
+    "type": "percent",
+    "confirmed": true,
+    "min": 15,
+    "tiers": [
+     [
+      25,
+      0.9
+     ],
+     [
+      50,
+      0.69
+     ],
+     [
+      125,
+      0.49
+     ],
+     [
+      400,
+      0.36
+     ],
+     [
+      1000,
+      0.34
+     ],
+     [
+      3000,
+      0.32
+     ]
+    ],
+    "source": "https://ediblelandscaping.com/pages/shipping-cost"
+   },
+   "note": "Only the 1-gallon semi-dwarf size was available on Oct 4."
+  },
+  {
+   "id": "roots-to-fruits",
+   "name": "Roots to Fruits Nursery",
+   "location": "Gays Mills, WI",
+   "state": "WI",
+   "url": "https://rootstofruitsnursery.com/collections/asian-pear-trees",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 25,
+    "high": 40
+   },
+   "note": "Large hand-selected bare-root (5–7 ft) and container trees on OHxF rootstock; choose fall 2026 or spring 2027 shipping at checkout. Shipping cost not published."
+  },
+  {
+   "id": "trees-of-antiquity",
+   "name": "Trees of Antiquity",
+   "location": "Paso Robles, CA",
+   "state": "CA",
+   "url": "https://www.treesofantiquity.com/collections/pear-trees/pear-type_asian",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 25,
+    "high": 40
+   },
+   "note": "Bare-root trees on Betulaefolia; orders open for the January–May 2027 season. Shipping billed at actual UPS Ground cost."
+  },
+  {
+   "id": "willis",
+   "name": "Willis Orchard Co.",
+   "location": "Georgia",
+   "state": "GA",
+   "url": "https://www.willisorchards.com/category/asian-pear-trees",
+   "shipping": {
+    "type": "table",
+    "confirmed": true,
+    "table": [
+     [
+      99.8,
+      24.95
+     ]
+    ],
+    "over_pct": 0.25,
+    "source": "https://www.willisorchards.com/faqs"
+   },
+   "note": "Trees ship Dec 2026–Mar 2027. Oversize fees “may apply” to trees over 48 in."
+  },
+  {
+   "id": "isons",
+   "name": "Ison's Nursery & Vineyard",
+   "location": "Brooks, GA",
+   "state": "GA",
+   "url": "https://www.isons.com/product-category/fruit-trees/asian-pear-trees/",
+   "shipping": {
+    "type": "table",
+    "confirmed": true,
+    "table": [
+     [
+      15,
+      12.95
+     ],
+     [
+      50,
+      16.95
+     ],
+     [
+      75,
+      18.95
+     ],
+     [
+      99,
+      19.95
+     ]
+    ],
+    "over_pct": 0.22,
+    "source": "https://www.isons.com/faqconc/much-shipping-cost/"
+   },
+   "note": "Bare-root 4–5 ft trees; Asian pears ship January–April (late March/April to cold states unless you ask)."
+  },
+  {
+   "id": "cummins",
+   "name": "Cummins Nursery",
+   "location": "Geneva, NY",
+   "state": "NY",
+   "url": "https://www.cumminsnursery.com/buy-trees/index.php?type=tree&category=Pear&subcategory=Asian",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 25,
+    "high": 40
+   },
+   "note": "Trees on OHxF 97 (Juicy Jewel also on OHxF 87), pre-sold for spring 2027 and 2028; ships 2nd–3rd week of March. UPS cost estimated at checkout."
+  },
+  {
+   "id": "blue-hill",
+   "name": "Blue Hill Wildlife Nursery",
+   "location": "Selinsgrove, PA",
+   "state": "PA",
+   "distance": "~3 hrs drive",
+   "url": "https://bluehillwildlifenursery.com/product-category/pear-trees-for-sale/",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 25,
+    "high": 35
+   },
+   "note": "Two-tree minimum per order. Ships March–April; spring pickup in Selinsgrove. Trees on Pyrus betulifolia."
+  },
+  {
+   "id": "fedco",
+   "name": "Fedco Trees",
+   "location": "Clinton, ME",
+   "state": "ME",
+   "url": "https://sarah.fedcoseeds.com/trees/?item=7350",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 15,
+    "high": 30
+   },
+   "note": "Bare-root 3–6 ft; orders by March 7 ship late March through April."
+  },
+  {
+   "id": "trees-com",
+   "name": "Trees.com (Fast Growing Trees)",
+   "location": "Fort Mill, SC",
+   "state": "SC",
+   "url": "https://www.trees.com/collections/pear-trees",
+   "shipping": {
+    "type": "table",
+    "confirmed": true,
+    "table": [
+     [
+      99,
+      19.95
+     ]
+    ],
+    "over_pct": 0,
+    "source": "https://www.trees.com/products/juicy-jewel-asian-pear-tree"
+   }
+  },
+  {
+   "id": "grow-organic",
+   "name": "Grow Organic (Peaceful Valley)",
+   "location": "Grass Valley, CA",
+   "state": "CA",
+   "url": "https://www.groworganic.com/collections/asian-pears",
+   "shipping": {
+    "type": "flat",
+    "confirmed": true,
+    "amount": 29.99,
+    "source": "https://www.groworganic.com/pages/shipping-policy"
+   },
+   "note": "Bare-root semi-dwarf trees; $29.99 flat, six bare-root trees ship free. Season starts in January."
+  },
+  {
+   "id": "nature-hills",
+   "name": "Nature Hills Nursery",
+   "location": "Omaha, NE",
+   "state": "NE",
+   "url": "https://naturehills.com/collections/pear-trees",
+   "shipping": {
+    "type": "table",
+    "confirmed": true,
+    "table": [
+     [
+      50,
+      9.99
+     ],
+     [
+      100,
+      14.99
+     ],
+     [
+      150,
+      16.99
+     ],
+     [
+      199,
+      24.99
+     ]
+    ],
+    "over_pct": 0
+   },
+   "excluded_states": [
+    "AK",
+    "CA",
+    "HI",
+    "ID",
+    "MT",
+    "OR",
+    "PR",
+    "VI"
+   ]
+  },
+  {
+   "id": "perfect-plants",
+   "name": "Perfect Plants",
+   "location": "Florida",
+   "state": "FL",
+   "url": "https://myperfectplants.com/products/shinko-asian-pear-tree",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 20,
+    "high": 35
+   }
+  },
+  {
+   "id": "adams-county",
+   "name": "Adams County Nursery",
+   "location": "Aspers, PA",
+   "state": "PA",
+   "url": "https://www.acnursery.com/product-category/pear-trees/",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 25,
+    "high": 40
+   },
+   "phone": "717-677-8105",
+   "note": "Mainly a commercial grower; $35 trees with no size, stock or ship season shown online."
+  },
+  {
+   "id": "restoring-eden",
+   "name": "Restoring Eden",
+   "location": "SeaTac & Enumclaw, WA",
+   "state": "WA",
+   "url": "https://restoringeden.co/product-category/fruit-trees/asian-pear/",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 25,
+    "high": 40
+   },
+   "note": "Bare-root or potted; Hosui is on OHxF 97. Stock per variety not shown online."
+  },
+  {
+   "id": "burnt-ridge",
+   "name": "Burnt Ridge Nursery",
+   "location": "Onalaska, WA",
+   "state": "WA",
+   "url": "https://www.burntridgenursery.com/mobile/Asian-Pear-Trees/products/10/",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 23.5,
+    "high": 28
+   },
+   "note": "Bare-root trees ship to the Northeast in early to mid April. Its shipping chart PDF is dated 2020, so it's treated as an estimate.",
+   "unreadable": {
+    "since": "2026-11-02",
+    "nights": 2,
+    "last": "2026-11-09",
+    "reason": "no per-variety prices (category pages show no price/stock; product pages show price but no stock status)"
+   }
+  },
+  {
+   "id": "grandpas",
+   "name": "Grandpa's Orchard",
+   "location": "Coloma, MI",
+   "state": "MI",
+   "url": "https://www.grandpasorchard.com/Tree-Type/Pear-Asian-Varieties",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 25,
+    "high": 40
+   },
+   "note": "Spring 2027 inventory and prices post in early December.",
+   "unreadable": {
+    "since": "2026-10-20",
+    "nights": 7,
+    "last": "2026-11-09",
+    "reason": "would not load"
+   }
+  },
+  {
+   "id": "cricket-hill",
+   "name": "Cricket Hill Garden",
+   "location": "Thomaston, CT",
+   "state": "CT",
+   "url": "https://www.treepeony.com/collections/asian-pear",
+   "note": "Known for tree peonies; also sells a short list of Chinese/Asian pears. Ships via UPS ground within the US; full payment collected at order to reserve plants.",
+   "shipping": {
+    "type": "estimate",
+    "low": 25,
+    "high": 40
+   }
+  },
+  {
+   "id": "gurneys",
+   "name": "Gurney's Seed & Nursery",
+   "url": "https://gurneys.com/product/hosui-asian-pear-tree",
+   "shipping": {
+    "type": "estimate",
+    "low": 25,
+    "high": 40
+   },
+   "note": "Does not ship to HI, AK, APO/FPO, or PO boxes; ships to contiguous US including NJ.",
+   "unreadable": {
+    "since": "2026-11-09",
+    "nights": 1,
+    "last": "2026-11-09",
+    "reason": "would not load"
+   }
+  },
+  {
+   "id": "brighter-blooms",
+   "name": "Brighter Blooms Nursery",
+   "url": "https://www.brighterblooms.com/products/hosui-pear-tree",
+   "shipping": {
+    "type": "table",
+    "table": [
+     [
+      128.99,
+      19.95
+     ]
+    ],
+    "over_pct": 0,
+    "confirmed": true,
+    "source": "https://www.brighterblooms.com/products/hosui-pear-tree"
+   }
+  },
+  {
+   "id": "mehrabyan",
+   "name": "Mehrabyan Nursery",
+   "location": "Ithaca, NY",
+   "state": "NY",
+   "url": "https://www.mehrabyannursery.com/shop/pear-trees/asian-pear-trees/",
+   "shipping": {
+    "type": "estimate",
+    "low": 25,
+    "high": 40
+   },
+   "note": "Bare-root Asian pears on Betulaefolia or OHxF 97, shipping from March. Its site says shipping is 15-25% of the order depending on tree size and distance; its shipping page lists no NJ restriction."
+  },
+  {
+   "id": "hudson-valley-seed",
+   "name": "Hudson Valley Seed Company",
+   "location": "Accord, NY",
+   "state": "NY",
+   "url": "https://shop.hudsonvalleyseed.com/products/hosui-asian-pear-tree",
+   "shipping": {
+    "type": "flat",
+    "confirmed": true,
+    "amount": 45,
+    "source": "https://shop.hudsonvalleyseed.com/products/hosui-asian-pear-tree"
+   },
+   "note": "Flat $45 shipping for up to 8 trees in the contiguous US; trees grown by Full Circus Farm, Pine Plains NY."
+  },
+  {
+   "id": "burpee",
+   "name": "Burpee",
+   "location": "Warminster, PA",
+   "state": "PA",
+   "url": "https://www.burpee.com/products/pear-asian-hosui-prod003499",
+   "shipping": {
+    "type": "estimate",
+    "low": 25,
+    "high": 40
+   },
+   "note": "Sells one Asian pear (Hosui) as a single bare-root plant; shipping terms not read.",
+   "unreadable": {
+    "since": "2026-11-09",
+    "nights": 1,
+    "last": "2026-11-09",
+    "reason": "would not load"
+   }
+  },
+  {
+   "id": "plant-me-green",
+   "name": "Plant Me Green",
+   "location": "Ships from FL, TN and OR",
+   "state": "",
+   "url": "https://plantmegreen.com/collections/asian-pear-trees",
+   "shipping": {
+    "type": "flat",
+    "confirmed": true,
+    "amount": 15,
+    "source": "https://plantmegreen.com/pages/shipping-costs"
+   },
+   "note": "Potted trees (#1 to #7 pots, 'ships all year'); $15 flat-rate FedEx shipping, free over $100. NJ is not on its excluded list (AK, HI, PR, international; CA/AZ limited). Grafting and rootstock not stated on product pages."
+  }
+ ],
+ "varieties": [
+  {
+   "id": "korean-giant",
+   "fruit": "asianpear",
+   "name": "Korean Giant",
+   "type": "korean",
+   "skin": "russet",
+   "tags": [
+    "Korean",
+    "Russet",
+    "Fire blight resistant"
+   ],
+   "aliases": [
+    "Olympic",
+    "Olympic Giant",
+    "Large Korean",
+    "Dan Bae",
+    "Dan Beh",
+    "Don Bae"
+   ],
+   "summary": "Huge, very sweet late pear that stores for months; strong fire blight resistance.",
+   "description": "A Korean pear sold as Olympic, Korean Giant or Dan Bae. Very large (up to about 1 lb) golden-brown russeted fruit, crisp and very sweet, ripening in October and keeping up to 5 months. Precocious and very resistant to fire blight; needs a pollinizer such as Hosui, Shinsui or Yoinashi.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-15",
+   "notes": []
+  },
+  {
+   "id": "shinko",
+   "fruit": "asianpear",
+   "name": "Shinko",
+   "type": "japanese",
+   "skin": "russet",
+   "tags": [
+    "Japanese",
+    "Russet",
+    "Fire blight resistant"
+   ],
+   "aliases": [],
+   "summary": "Large, late, sweet russet pear; among the most fire blight resistant.",
+   "description": "A Japanese pear raised before 1941. Large, round, thick brown russet, juicy and sweet, picked late and keeping 4–5 months. Upright, productive and fire blight tolerant, with abundant pollen that makes it a good pollinizer.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-15",
+   "notes": []
+  },
+  {
+   "id": "hosui",
+   "fruit": "asianpear",
+   "name": "Hosui",
+   "type": "japanese",
+   "skin": "russet",
+   "tags": [
+    "Japanese",
+    "Russet"
+   ],
+   "aliases": [],
+   "summary": "Often rated the best-flavored Asian pear; juicy, sweet-tart, late August.",
+   "description": "A Japanese release from 1972 ((Kikusui × Yakumo) × Yakumo). Medium-large golden-brown russet with very juicy, fine-grained, sweet-tart flesh, ripening mid to late August and storing 3–4 months. Vigorous and spreading; susceptible to fire blight. Pollinize with Shinsui, Nijisseiki or Kosui (not Niitaka).",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-04",
+   "notes": [],
+   "incompatible": [
+    "niitaka"
+   ]
+  },
+  {
+   "id": "shinseiki",
+   "fruit": "asianpear",
+   "name": "Shinseiki",
+   "type": "japanese",
+   "skin": "smooth",
+   "tags": [
+    "Japanese",
+    "Smooth skin"
+   ],
+   "aliases": [
+    "New Century"
+   ],
+   "summary": "Yellow, mild and juicy; one of the most reliably self-fertile.",
+   "description": "A Japanese pear (\"New Century\") from the 1940s. Medium, round, smooth yellow skin and crisp, mild, sweet white flesh, ripening in August and keeping 4–6 months. Tends toward self-fruitful and is widely used as a pollinizer.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-04",
+   "notes": []
+  },
+  {
+   "id": "nijisseiki",
+   "fruit": "asianpear",
+   "name": "Nijisseiki",
+   "type": "japanese",
+   "skin": "smooth",
+   "tags": [
+    "Japanese",
+    "Smooth skin"
+   ],
+   "aliases": [
+    "20th Century",
+    "Twentieth Century",
+    "Nijiseiki"
+   ],
+   "summary": "The classic 20th Century pear: smooth yellow, crisp and mild.",
+   "description": "A chance seedling found in Chiba, Japan in 1898. Round, smooth yellow-green, crisp and mild, ripening in August to September and storing to about January. Heavy setting and needs thinning; skin can crack after rain; one of the most fire blight susceptible. Do not pair with Kikusui.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-04",
+   "notes": [],
+   "incompatible": [
+    "kikusui"
+   ]
+  },
+  {
+   "id": "chojuro",
+   "fruit": "asianpear",
+   "name": "Chojuro",
+   "type": "japanese",
+   "skin": "russet",
+   "tags": [
+    "Japanese",
+    "Russet"
+   ],
+   "aliases": [],
+   "summary": "Butterscotch-flavored russet pear that keeps up to 5 months.",
+   "description": "A chance seedling found by Tatsujiro Toma in Japan in 1889. Medium, flattened, fully russeted fruit, firm and sweet with butterscotch notes, storing up to 5 months. Partly self-fertile and a good partner for Hosui, Nijisseiki, Kosui and Shinsui; susceptible to fire blight.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-04",
+   "notes": []
+  },
+  {
+   "id": "kosui",
+   "fruit": "asianpear",
+   "name": "Kosui",
+   "type": "japanese",
+   "skin": "russet",
+   "tags": [
+    "Japanese",
+    "Russet"
+   ],
+   "aliases": [],
+   "summary": "Small to medium, very juicy and sweet; early.",
+   "description": "A Japanese release from 1959 (Kikusui × Wasekozo). Small to medium, golden-tan, very juicy, high-sugar low-acid fruit ripening mid-August; keeps about 2 months. Susceptible to fire blight. Pollinize with Hosui, Chojuro or Nijisseiki (not Shinsui).",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-04",
+   "notes": [],
+   "incompatible": [
+    "shinsui"
+   ]
+  },
+  {
+   "id": "shinsui",
+   "fruit": "asianpear",
+   "name": "Shinsui",
+   "type": "japanese",
+   "skin": "russet",
+   "tags": [
+    "Japanese",
+    "Russet"
+   ],
+   "aliases": [],
+   "summary": "Very early, sweet and crisp; short storage.",
+   "description": "A Japanese release from 1965 (Kikusui × Kimizukawase). Small to medium golden-brown russet, crisp and sweet, among the first to ripen; short shelf life. Pollinize with Nijisseiki or Chojuro; not Kosui or Kikusui.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-04",
+   "notes": [],
+   "incompatible": [
+    "kosui",
+    "kikusui"
+   ]
+  },
+  {
+   "id": "kikusui",
+   "fruit": "asianpear",
+   "name": "Kikusui",
+   "type": "japanese",
+   "skin": "smooth",
+   "tags": [
+    "Japanese",
+    "Smooth skin"
+   ],
+   "aliases": [
+    "Kikisui"
+   ],
+   "summary": "Yellow-green, sweet-tart, mid-season.",
+   "description": "A Japanese pear from 1927 (Taihaku × Nijisseiki). Medium, smooth yellow-green, high in sugar and acid; skin can crack after rain; stores up to 5 months. Incompatible with Nijisseiki and Shinsui; pair with Chojuro, Hosui or Kosui.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-04",
+   "notes": [],
+   "incompatible": [
+    "nijisseiki",
+    "shinsui"
+   ]
+  },
+  {
+   "id": "niitaka",
+   "fruit": "asianpear",
+   "name": "Niitaka",
+   "type": "japanese",
+   "skin": "russet",
+   "tags": [
+    "Japanese",
+    "Russet"
+   ],
+   "aliases": [
+    "Nitaka"
+   ],
+   "summary": "Large, late russet pear; a poor pollinizer itself.",
+   "description": "A Japanese pear from 1915 (Amanogawa × Imamura Aki). Large, russeted, mild and sweet, picked late and storing up to 5 months. Its pollen is nearly sterile, so it needs a partner but can't serve as one; Hosui is incompatible. Susceptible to fire blight.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-04",
+   "notes": [],
+   "incompatible": [
+    "hosui"
+   ],
+   "poor_pollinizer": true
+  },
+  {
+   "id": "atago",
+   "fruit": "asianpear",
+   "name": "Atago",
+   "type": "japanese",
+   "skin": "russet",
+   "tags": [
+    "Japanese",
+    "Russet"
+   ],
+   "aliases": [],
+   "summary": "Very large, crisp, late keeper.",
+   "description": "A Japanese pear introduced in 1928, from a Nijisseiki seedling. Large to very large golden-brown russet, crisp, harvested mid-September to mid-October and an excellent keeper. Long, profuse bloom makes it a good pollinizer, but it isn't self-fertile; fire blight resistance varies by region.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-04",
+   "notes": []
+  },
+  {
+   "id": "yoinashi",
+   "fruit": "asianpear",
+   "name": "Yoinashi",
+   "type": "japanese",
+   "skin": "russet",
+   "tags": [
+    "Japanese",
+    "Russet"
+   ],
+   "aliases": [],
+   "summary": "Aromatic, butterscotch-flavored russet pear.",
+   "description": "Introduced about 1987 by Fowler Nurseries in California. Large, round, brown russet, crisp and juicy with a butterscotch flavor, ripening between Hosui and Shinko and storing 2–3 months. Somewhat self-fertile; moderate fire blight tolerance.",
+   "breeder": {
+    "name": "Fowler Nurseries (CA)",
+    "kind": "breeder",
+    "short": "Fowler"
+   },
+   "awards": [],
+   "first_seen": "2026-10-04",
+   "notes": []
+  },
+  {
+   "id": "tsu-li",
+   "fruit": "asianpear",
+   "name": "Tsu Li",
+   "type": "chinese",
+   "skin": "smooth",
+   "tags": [
+    "Chinese",
+    "Smooth skin"
+   ],
+   "aliases": [
+    "Tsu-Li"
+   ],
+   "summary": "Old Chinese pear-shaped variety that sweetens in storage.",
+   "description": "An old Chinese heirloom. Medium-large, oval with a neck, thick yellow-green skin, crisp and juicy, improving after months in storage. Blooms early; partly self-fruitful, pairs with Ya Li or Bartlett; somewhat fire blight resistant.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-04",
+   "notes": []
+  },
+  {
+   "id": "ya-li",
+   "fruit": "asianpear",
+   "name": "Ya Li",
+   "type": "chinese",
+   "skin": "smooth",
+   "tags": [
+    "Chinese",
+    "Smooth skin"
+   ],
+   "aliases": [
+    "Yali"
+   ],
+   "summary": "Classic Chinese pear-shaped variety; very early bloom.",
+   "description": "An old Chinese variety (Pyrus bretschneideri). Medium-large, glossy pale yellow-green, mildly sweet and crisp, ripening late. Blooms very early, so late frosts are a risk in NJ; Tsu Li is the usual partner.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-04",
+   "notes": []
+  },
+  {
+   "id": "daisui-li",
+   "fruit": "asianpear",
+   "name": "Daisui Li",
+   "type": "chinese",
+   "skin": "smooth",
+   "tags": [
+    "Chinese",
+    "Smooth skin"
+   ],
+   "aliases": [],
+   "summary": "Very large green pear from UC Davis (Kikusui × Tsu Li).",
+   "description": "Patented in 1988 by Ben T. Iwakiri for the University of California (Kikusui × Tsu Li). Large to very large (12–16 oz), smooth green, firm, crisp and sweet-subacid. Blooms early; not self-fertile.",
+   "breeder": {
+    "name": "University of California, Davis (Ben Iwakiri)",
+    "kind": "university",
+    "short": "UC Davis"
+   },
+   "awards": [],
+   "first_seen": "2026-10-04",
+   "notes": []
+  },
+  {
+   "id": "shin-li",
+   "fruit": "asianpear",
+   "name": "Shin Li",
+   "type": "hybrid",
+   "skin": "smooth",
+   "tags": [
+    "Hybrid",
+    "Smooth skin"
+   ],
+   "aliases": [],
+   "summary": "UC Davis cross of Chinese and Japanese pears.",
+   "description": "Developed at UC Davis as a cross between Chinese and Japanese pear varieties. Limited independent detail gathered so far.",
+   "breeder": {
+    "name": "University of California, Davis",
+    "kind": "university",
+    "short": "UC Davis"
+   },
+   "awards": [],
+   "first_seen": "2026-10-04",
+   "notes": []
+  },
+  {
+   "id": "juicy-jewel",
+   "fruit": "asianpear",
+   "name": "Juicy Jewel",
+   "type": "hybrid",
+   "skin": "smooth",
+   "tags": [
+    "Hybrid",
+    "Smooth skin",
+    "Zone 4"
+   ],
+   "aliases": [
+    "MN121",
+    "Juicy Jewel®"
+   ],
+   "summary": "University of Minnesota's cold-hardy Asian-type pear (zone 4).",
+   "description": "The University of Minnesota's first Asian-type pear (Shinseiki × Summercrisp), hardy to zone 4 and described as relatively free of disease, including fire blight. Crisp Asian-style fruit; needs a cross-pollinator such as Summercrisp.",
+   "breeder": {
+    "name": "University of Minnesota",
+    "kind": "university",
+    "short": "U of Minnesota"
+   },
+   "awards": [],
+   "first_seen": "2026-10-04",
+   "notes": []
+  },
+  {
+   "id": "peggy",
+   "fruit": "asianpear",
+   "name": "Peggy",
+   "type": "korean",
+   "skin": "russet",
+   "tags": [
+    "Korean",
+    "Russet"
+   ],
+   "aliases": [],
+   "summary": "Stark exclusive; sport of the Korean pear Arirang.",
+   "description": "A mutation found on an Arirang branch in Yakima, Washington in 2003 and sold only by Stark Bro's. Needs a pollinator within 100 ft. Limited independent detail gathered so far.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-04",
+   "notes": []
+  },
+  {
+   "id": "guam-chum",
+   "fruit": "asianpear",
+   "name": "Guam Chum",
+   "type": "korean",
+   "skin": "russet",
+   "tags": [
+    "Korean",
+    "Russet"
+   ],
+   "aliases": [],
+   "summary": "Korean pear sold by Edible Landscaping.",
+   "description": "A Korean pear rated for zones 6–8 by Edible Landscaping; not self-fertile. Limited independent detail gathered so far.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-04",
+   "notes": []
+  },
+  {
+   "id": "tennosui",
+   "fruit": "asianpear",
+   "name": "Tennosui",
+   "type": "japanese",
+   "skin": "russet",
+   "tags": [
+    "Japanese",
+    "Russet"
+   ],
+   "aliases": [],
+   "summary": "Low-chill Japanese pear sold as self-fertile.",
+   "description": "A Japanese pear sold as self-fertile with about 400 chill hours. Limited independent detail gathered so far.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-04",
+   "notes": []
+  },
+  {
+   "id": "raja",
+   "fruit": "asianpear",
+   "name": "Raja",
+   "type": "japanese",
+   "skin": "russet",
+   "tags": [
+    "Japanese",
+    "Russet"
+   ],
+   "aliases": [],
+   "summary": "Vigorous tree with golden-brown sweet fruit.",
+   "description": "A golden-brown, sweet Asian pear on a very vigorous tree. Limited independent detail gathered so far.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-04",
+   "notes": []
+  },
+  {
+   "id": "ichiban-nashi",
+   "fruit": "asianpear",
+   "name": "Ichiban Nashi",
+   "type": "japanese",
+   "skin": "russet",
+   "tags": [
+    "Japanese",
+    "Russet"
+   ],
+   "aliases": [],
+   "summary": "Early, mild pear with butterscotch undertones.",
+   "description": "An early Asian pear with medium-large fruit and mild butterscotch undertones; sellers report Pseudomonas resistance. Origin not documented.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-04",
+   "notes": []
+  },
+  {
+   "id": "hamese",
+   "fruit": "asianpear",
+   "name": "Hamese",
+   "type": "japanese",
+   "skin": "smooth",
+   "tags": [
+    "Japanese",
+    "Smooth skin"
+   ],
+   "aliases": [],
+   "summary": "First Asian pear of the season (mid-August).",
+   "description": "Sold by Raintree as the first Asian pear of the season, ripening mid-August, sweet and crisp; needs a pollinizer. Limited independent detail gathered so far.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-04",
+   "notes": []
+  },
+  {
+   "id": "mishirasu",
+   "fruit": "asianpear",
+   "name": "Mishirasu",
+   "type": "japanese",
+   "skin": "russet",
+   "tags": [
+    "Japanese",
+    "Russet"
+   ],
+   "aliases": [],
+   "summary": "Huge, oval, orange-brown fruit.",
+   "description": "Sold by Raintree for its huge oval orange-brown fruit. Limited independent detail gathered so far.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-04",
+   "notes": []
+  },
+  {
+   "id": "seuri",
+   "fruit": "asianpear",
+   "name": "Seuri",
+   "type": "korean",
+   "skin": "smooth",
+   "tags": [
+    "Korean",
+    "Smooth skin"
+   ],
+   "aliases": [],
+   "summary": "Round, bright orange medium pear.",
+   "description": "Sold by Raintree for round, medium, bright orange fruit. Limited independent detail gathered so far.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-04",
+   "notes": []
+  },
+  {
+   "id": "ooharabeni",
+   "fruit": "asianpear",
+   "name": "Ooharabeni",
+   "type": "japanese",
+   "skin": "russet",
+   "tags": [
+    "Japanese",
+    "Russet"
+   ],
+   "aliases": [],
+   "summary": "Asian pear sold by Raintree.",
+   "description": "Sold by Raintree among its Asian pears. Parentage not confirmed; limited independent detail gathered so far.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-04",
+   "notes": []
+  },
+  {
+   "id": "mount-vernon",
+   "fruit": "asianpear",
+   "name": "Mount Vernon",
+   "type": "japanese",
+   "skin": "russet",
+   "tags": [
+    "Japanese",
+    "Russet"
+   ],
+   "aliases": [],
+   "summary": "Asian pear selected at WSU Mount Vernon.",
+   "description": "An Asian pear associated with Washington State University's Mount Vernon station and sold by Raintree. Limited independent detail gathered so far.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-04",
+   "notes": []
+  },
+  {
+   "id": "reddy-robin",
+   "fruit": "asianpear",
+   "name": "Reddy Robin",
+   "type": "japanese",
+   "skin": "russet",
+   "tags": [
+    "Japanese",
+    "Russet"
+   ],
+   "aliases": [
+    "Reddy Robin®"
+   ],
+   "summary": "Red-blushed Asian pear.",
+   "description": "A trademarked Asian pear with red-blushed fruit, sold by Raintree and Roots to Fruits. Parentage not confirmed; limited independent detail gathered so far.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-04",
+   "notes": []
+  },
+  {
+   "id": "shinglo",
+   "fruit": "asianpear",
+   "name": "Shinglo",
+   "type": "japanese",
+   "skin": "smooth",
+   "tags": [
+    "Japanese",
+    "Smooth skin"
+   ],
+   "aliases": [],
+   "summary": "Asian pear sold by Restoring Eden.",
+   "description": "Sold by Restoring Eden. Limited independent detail gathered so far.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-04",
+   "notes": []
+  },
+  {
+   "id": "pai-li",
+   "fruit": "asianpear",
+   "name": "Pai Li",
+   "aliases": [
+    "Bai Li",
+    "Beijing White"
+   ],
+   "summary": "An ancient Chinese pear with large, greenish-yellow fruit that stores well into winter.",
+   "description": "Pai Li (also called Bai Li or Beijing White, 白梨) is an ancient Chinese pear cultivar grown in the Beijing region for centuries. It bears large, rounded, greenish-yellow fruit with sweet, juicy flesh that keeps well in storage. The tree is a vigorous grower reaching about 25 feet, hardy in USDA zones 5-9.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-05",
+   "notes": [],
+   "type": "chinese",
+   "skin": "smooth",
+   "tags": [
+    "Smooth skin"
+   ]
+  }
+ ],
+ "listings": [
+  {
+   "id": "raintree--hamese",
+   "variety": "hamese",
+   "nursery": "raintree",
+   "status": "in_stock",
+   "price": 64.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/products/hamese-a-pear-semi-dwarf",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 64.99,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Pre-order; ships spring 2027 (bare-root)"
+  },
+  {
+   "id": "raintree--mishirasu",
+   "variety": "mishirasu",
+   "nursery": "raintree",
+   "status": "in_stock",
+   "price": 64.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/products/mishirasu-a-pear-semi-dwarf",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 64.99,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Pre-order; ships spring 2027 (bare-root)"
+  },
+  {
+   "id": "raintree--kikusui",
+   "variety": "kikusui",
+   "nursery": "raintree",
+   "status": "in_stock",
+   "price": 64.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/products/kikisui-a-pear-semi-dwarf",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 64.99,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Pre-order; ships spring 2027 (bare-root)",
+   "sold_as": "Kikisui"
+  },
+  {
+   "id": "raintree--ooharabeni",
+   "variety": "ooharabeni",
+   "nursery": "raintree",
+   "status": "in_stock",
+   "price": 64.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/products/ooharabeni-a-pear-semi-dwarf",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 64.99,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Pre-order; ships spring 2027 (bare-root)"
+  },
+  {
+   "id": "raintree--shinseiki",
+   "variety": "shinseiki",
+   "nursery": "raintree",
+   "status": "in_stock",
+   "price": 64.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/products/shinseiki-a-pear-semi-dwarf",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 64.99,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Pre-order; ships spring 2027 (bare-root)"
+  },
+  {
+   "id": "raintree--mount-vernon",
+   "variety": "mount-vernon",
+   "nursery": "raintree",
+   "status": "in_stock",
+   "price": 64.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/products/mount-vernon-a-pear-semi-dwarf",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 64.99,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Pre-order; ships spring 2027 (bare-root)"
+  },
+  {
+   "id": "raintree--tsu-li",
+   "variety": "tsu-li",
+   "nursery": "raintree",
+   "status": "in_stock",
+   "price": 64.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/products/tsu-li-a-pear-semi-dwarf",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 64.99,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Pre-order; ships spring 2027 (bare-root)"
+  },
+  {
+   "id": "raintree--kosui",
+   "variety": "kosui",
+   "nursery": "raintree",
+   "status": "in_stock",
+   "price": 64.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/products/kosui-a-pear-semi-dwarf",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 64.99,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Pre-order; ships spring 2027 (bare-root)"
+  },
+  {
+   "id": "raintree--shinsui",
+   "variety": "shinsui",
+   "nursery": "raintree",
+   "status": "in_stock",
+   "price": 59.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/products/shinsui-a-pear-semi-dwarf",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 59.99,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Pre-order; ships spring 2027 (bare-root)"
+  },
+  {
+   "id": "raintree--chojuro",
+   "variety": "chojuro",
+   "nursery": "raintree",
+   "status": "in_stock",
+   "price": 64.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/products/chojuro-a-pear-semi-dwarf",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 64.99,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Pre-order; ships spring 2027 (bare-root)"
+  },
+  {
+   "id": "raintree--ichiban-nashi",
+   "variety": "ichiban-nashi",
+   "nursery": "raintree",
+   "status": "in_stock",
+   "price": 64.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/products/ichiban-nashi-a-pear-semi-dwarf",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 64.99,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Pre-order; ships spring 2027 (bare-root)"
+  },
+  {
+   "id": "raintree--korean-giant",
+   "variety": "korean-giant",
+   "nursery": "raintree",
+   "status": "in_stock",
+   "price": 64.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/products/korean-giant-pear-semi-dwarf",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 64.99,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Pre-order; ships spring 2027 (bare-root)"
+  },
+  {
+   "id": "raintree--seuri",
+   "variety": "seuri",
+   "nursery": "raintree",
+   "status": "in_stock",
+   "price": 64.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/products/seuri-a-pear-semi-dwarf",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 64.99,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Pre-order; ships spring 2027 (bare-root)"
+  },
+  {
+   "id": "raintree--yoinashi",
+   "variety": "yoinashi",
+   "nursery": "raintree",
+   "status": "in_stock",
+   "price": 64.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/products/yoinashi-a-pear-semi-dwarf",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 64.99,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Pre-order; ships spring 2027 (bare-root)"
+  },
+  {
+   "id": "raintree--atago",
+   "variety": "atago",
+   "nursery": "raintree",
+   "status": "in_stock",
+   "price": 64.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/products/atago-a-pear-semi-dwarf",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 64.99,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Pre-order; ships spring 2027 (bare-root)"
+  },
+  {
+   "id": "raintree--reddy-robin",
+   "variety": "reddy-robin",
+   "nursery": "raintree",
+   "status": "in_stock",
+   "price": 64.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/products/reddy-robin-a-pear-ohxf87",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 64.99,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Pre-order; ships spring 2027 (bare-root)"
+  },
+  {
+   "id": "stark-bros--hosui",
+   "variety": "hosui",
+   "nursery": "stark-bros",
+   "status": "in_stock",
+   "price": 64.99,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://www.starkbros.com/products/fruit-trees/pear-trees/hosui-asian-pear",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Semi-Dwarf on sale at $57.99 (was $64.99) as of Oct 10; Standard $64.99 and Dwarf/Ultra Supreme sizes out of stock."
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 64.99,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-10",
+     "price": 57.99,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-11-09",
+     "price": 64.99,
+     "status": "in_stock"
+    }
+   ],
+   "was_price": null,
+   "on_sale": false
+  },
+  {
+   "id": "stark-bros--shinseiki",
+   "variety": "shinseiki",
+   "nursery": "stark-bros",
+   "status": "in_stock",
+   "price": 74.99,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://www.starkbros.com/products/fruit-trees/pear-trees/new-century-asian-pear",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Dwarf EZ Start; the $64.99 standard is sold out."
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 74.99,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "New Century"
+  },
+  {
+   "id": "stark-bros--peggy",
+   "variety": "peggy",
+   "nursery": "stark-bros",
+   "status": "in_stock",
+   "price": 64.99,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://www.starkbros.com/products/fruit-trees/pear-trees/peggy-asian-pear",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 64.99,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-14",
+     "price": 57.99,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-22",
+     "price": 64.99,
+     "status": "in_stock"
+    }
+   ],
+   "on_sale": false,
+   "was_price": null
+  },
+  {
+   "id": "stark-bros--nijisseiki",
+   "variety": "nijisseiki",
+   "nursery": "stark-bros",
+   "status": "sold_out",
+   "price": 64.99,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://www.starkbros.com/products/fruit-trees/pear-trees/20th-century-asian-pear",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Category page showed $147.99 purchasable, but product page says out of stock / email me; trusting product page"
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 64.99,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-05",
+     "price": 64.99,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-09",
+     "price": 64.99,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-10",
+     "price": 64.99,
+     "status": "sold_out"
+    }
+   ],
+   "sold_as": "20th Century"
+  },
+  {
+   "id": "stark-bros--juicy-jewel",
+   "variety": "juicy-jewel",
+   "nursery": "stark-bros",
+   "status": "sold_out",
+   "price": null,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://www.starkbros.com/products/fruit-trees/pear-trees/juicy-jewel-asian-pear",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Out of stock as of Oct 5; site offers restock email alert."
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": null,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-05",
+     "price": null,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--chojuro",
+   "variety": "chojuro",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 34.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/chojuro-asian-pear/",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Listed as available; cheapest size not checked individually."
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 34.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--daisui-li",
+   "variety": "daisui-li",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 34.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/daisui-li-asian-pear/",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Listed as available; cheapest size not checked individually."
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 34.95,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "Daisui Li™"
+  },
+  {
+   "id": "one-green-world--korean-giant",
+   "variety": "korean-giant",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 34.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/large-korean-asian-pear/",
+   "first_seen": "2026-09-15",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Sold out as of Oct 11; waitlist offered."
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 34.95,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-11",
+     "price": 34.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-20",
+     "price": 34.95,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "Large Korean"
+  },
+  {
+   "id": "one-green-world--nijisseiki",
+   "variety": "nijisseiki",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 34.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/nijisseiki-20th-century-asian-pear/",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Listed as available; cheapest size not checked individually."
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 34.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--raja",
+   "variety": "raja",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 34.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/raja-asian-pear/",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Listed as available; cheapest size not checked individually."
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 34.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--shin-li",
+   "variety": "shin-li",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 34.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/shin-li-asian-pear/",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Listed as available; cheapest size not checked individually."
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 34.95,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "Shin Li™"
+  },
+  {
+   "id": "one-green-world--shinko",
+   "variety": "shinko",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 34.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/shinko-asian-pear/",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Listed as available; cheapest size not checked individually."
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 34.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--shinseiki",
+   "variety": "shinseiki",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 34.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/shinseiki-asian-pear/",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "1-gallon; bare-root $39.95."
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 34.95,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-11",
+     "price": 34.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-20",
+     "price": 34.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--hosui",
+   "variety": "hosui",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 39.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/hosui-asian-pear/",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Out of stock as of Oct 5; waitlist offered, fall shipping only."
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 39.95,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-05",
+     "price": 39.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-11-05",
+     "price": 39.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--tsu-li",
+   "variety": "tsu-li",
+   "nursery": "one-green-world",
+   "status": "sold_out",
+   "price": 39.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/tsu-li-asian-pear/",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Out of stock with waitlist signup as of Oct 7 (product page now loads fully)."
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": null,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-07",
+     "price": 39.95,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--kikusui",
+   "variety": "kikusui",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 39.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/kikisui-asian-pear/",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Product page now returns 404 for a second check; likely discontinued at One Green World."
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": null,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-07",
+     "price": null,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-11",
+     "price": 39.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-11-05",
+     "price": 39.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--ya-li",
+   "variety": "ya-li",
+   "nursery": "one-green-world",
+   "status": "sold_out",
+   "price": 39.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/ya-li-asian-pear/",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Out of stock as of Oct 5; price $39.95-$69.95 by size, waitlist offered."
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": null,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-05",
+     "price": 39.95,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--ichiban-nashi",
+   "variety": "ichiban-nashi",
+   "nursery": "one-green-world",
+   "status": "sold_out",
+   "price": 39.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/ichiban-nashi-asian-pear/",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Out of stock as of Oct 5; price $39.95-$49.95 by size, waitlist offered."
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": null,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-05",
+     "price": 39.95,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--juicy-jewel",
+   "variety": "juicy-jewel",
+   "nursery": "one-green-world",
+   "status": "sold_out",
+   "price": 39.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/juicy-jewel-asian-pear/",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Out of stock as of Oct 5; price $39.95-$49.95 by size, waitlist offered."
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": null,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-05",
+     "price": 39.95,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "edible-landscaping--daisui-li",
+   "variety": "daisui-li",
+   "nursery": "edible-landscaping",
+   "status": "in_stock",
+   "price": 40.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://ediblelandscaping.com/collections/asian-pear/products/daisui-li-pear",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 40.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "edible-landscaping--guam-chum",
+   "variety": "guam-chum",
+   "nursery": "edible-landscaping",
+   "status": "in_stock",
+   "price": 40.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://ediblelandscaping.com/collections/asian-pear/products/guam-chum-korean-pear",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 40.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "edible-landscaping--shin-li",
+   "variety": "shin-li",
+   "nursery": "edible-landscaping",
+   "status": "sold_out",
+   "price": 40.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://ediblelandscaping.com/collections/asian-pear/products/shin-li-pear",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Showing low stock as of Oct 11."
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 40.0,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-11-02",
+     "price": 40.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "edible-landscaping--tennosui",
+   "variety": "tennosui",
+   "nursery": "edible-landscaping",
+   "status": "sold_out",
+   "price": 40.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://ediblelandscaping.com/collections/asian-pear/products/tennosui-pear",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 40.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "roots-to-fruits--hosui",
+   "variety": "hosui",
+   "nursery": "roots-to-fruits",
+   "status": "in_stock",
+   "price": 59.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://rootstofruitsnursery.com/products/housi",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Hand-select bare-root 6–7 ft on OHxF 97."
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 59.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Fall 2026 or spring 2027 (your choice)"
+  },
+  {
+   "id": "roots-to-fruits--shinseiki",
+   "variety": "shinseiki",
+   "nursery": "roots-to-fruits",
+   "status": "in_stock",
+   "price": 65.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://rootstofruitsnursery.com/products/shinseiki-pear",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Only 5G container ($65) available on product page; bare root sizes unavailable"
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 59.0,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-15",
+     "price": 65.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Fall 2026 or spring 2027 (your choice)",
+   "sold_as": "5G container"
+  },
+  {
+   "id": "roots-to-fruits--shinko",
+   "variety": "shinko",
+   "nursery": "roots-to-fruits",
+   "status": "in_stock",
+   "price": 59.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://rootstofruitsnursery.com/products/shinko-pear",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Hand-select bare-root 5–7 ft."
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 59.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Fall 2026 or spring 2027 (your choice)"
+  },
+  {
+   "id": "roots-to-fruits--chojuro",
+   "variety": "chojuro",
+   "nursery": "roots-to-fruits",
+   "status": "in_stock",
+   "price": 59.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://rootstofruitsnursery.com/products/chojuro-pear",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Hand-select bare-root 6–7 ft."
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 59.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Fall 2026 or spring 2027 (your choice)"
+  },
+  {
+   "id": "roots-to-fruits--korean-giant",
+   "variety": "korean-giant",
+   "nursery": "roots-to-fruits",
+   "status": "in_stock",
+   "price": 85.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://rootstofruitsnursery.com/products/olympic-giant-pear-tree",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Only the 7-gal 7–8 ft container was available."
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 85.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Fall 2026 or spring 2027 (your choice)",
+   "sold_as": "7G container"
+  },
+  {
+   "id": "roots-to-fruits--reddy-robin",
+   "variety": "reddy-robin",
+   "nursery": "roots-to-fruits",
+   "status": "in_stock",
+   "price": 45.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://rootstofruitsnursery.com/products/reddy-robin-pear",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Lowest available option 3G container $45; bare root field ready $47 and hand select $59 also available"
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 47.0,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-15",
+     "price": 45.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Fall 2026 or spring 2027 (your choice)",
+   "sold_as": "3G container (lowest available size)"
+  },
+  {
+   "id": "trees-of-antiquity--atago",
+   "variety": "atago",
+   "nursery": "trees-of-antiquity",
+   "status": "in_stock",
+   "price": 55.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.treesofantiquity.com/products/atago-pear-tree",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 55.95,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-29",
+     "price": 52.95,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-11-02",
+     "price": 55.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Ships Jan–May 2027 (bare-root)"
+  },
+  {
+   "id": "trees-of-antiquity--hosui",
+   "variety": "hosui",
+   "nursery": "trees-of-antiquity",
+   "status": "in_stock",
+   "price": 55.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.treesofantiquity.com/products/hosui-pear-tree",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 55.95,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-29",
+     "price": 52.95,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-11-02",
+     "price": 55.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Ships Jan–May 2027 (bare-root)"
+  },
+  {
+   "id": "trees-of-antiquity--nijisseiki",
+   "variety": "nijisseiki",
+   "nursery": "trees-of-antiquity",
+   "status": "in_stock",
+   "price": 55.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.treesofantiquity.com/products/nijiseiki-pear-tree",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 55.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Ships Jan–May 2027 (bare-root)"
+  },
+  {
+   "id": "trees-of-antiquity--shinko",
+   "variety": "shinko",
+   "nursery": "trees-of-antiquity",
+   "status": "sold_out",
+   "price": 55.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.treesofantiquity.com/products/shinko-pear-tree",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 55.95,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-11-02",
+     "price": 55.95,
+     "status": "sold_out"
+    }
+   ],
+   "ships": "Ships Jan–May 2027 (bare-root)"
+  },
+  {
+   "id": "trees-of-antiquity--shinseiki",
+   "variety": "shinseiki",
+   "nursery": "trees-of-antiquity",
+   "status": "in_stock",
+   "price": 55.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.treesofantiquity.com/products/shinseiki-pear-tree",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 55.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Ships Jan–May 2027 (bare-root)"
+  },
+  {
+   "id": "trees-of-antiquity--tsu-li",
+   "variety": "tsu-li",
+   "nursery": "trees-of-antiquity",
+   "status": "in_stock",
+   "price": 55.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.treesofantiquity.com/products/tsu-li-pear-tree",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Confirmed buyable: product page shows an active Add to Cart button, no sold-out notice."
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 55.95,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-08",
+     "price": 55.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "trees-of-antiquity--ya-li",
+   "variety": "ya-li",
+   "nursery": "trees-of-antiquity",
+   "status": "in_stock",
+   "price": 55.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.treesofantiquity.com/products/ya-li-pear-tree",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Confirmed buyable: product page shows an active Add to Cart button, no sold-out notice."
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 55.95,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-08",
+     "price": 55.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "willis--nijisseiki",
+   "variety": "nijisseiki",
+   "nursery": "willis",
+   "status": "in_stock",
+   "price": 34.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://www.willisorchards.com/product/20th-century-asian-pear-tree",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "4–5 ft size."
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 34.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Ships Dec 2026–Mar 2027",
+   "sold_as": "20th Century"
+  },
+  {
+   "id": "willis--chojuro",
+   "variety": "chojuro",
+   "nursery": "willis",
+   "status": "in_stock",
+   "price": 34.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://www.willisorchards.com/product/chojuro-asian-pear-tree",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "4–5 ft size."
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 34.95,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-22",
+     "price": 39.95,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-11-09",
+     "price": 34.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Dec 1 2026 - Mar 15 2027"
+  },
+  {
+   "id": "willis--hosui",
+   "variety": "hosui",
+   "nursery": "willis",
+   "status": "in_stock",
+   "price": 34.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://www.willisorchards.com/product/hosui-asian-pear-tree",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "4–5 ft size."
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 34.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Dec 1 2026 - Mar 15 2027"
+  },
+  {
+   "id": "willis--shinko",
+   "variety": "shinko",
+   "nursery": "willis",
+   "status": "in_stock",
+   "price": 39.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://www.willisorchards.com/product/shinko-asian-pear-tree",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "4–5 ft size."
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 34.95,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-22",
+     "price": 39.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Ships Dec 2026–Mar 2027"
+  },
+  {
+   "id": "willis--shinseiki",
+   "variety": "shinseiki",
+   "nursery": "willis",
+   "status": "in_stock",
+   "price": 34.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://www.willisorchards.com/product/shinseiki-asian-pear-tree",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "4–5 ft size."
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 34.95,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-22",
+     "price": 34.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-26",
+     "price": 34.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Ships 12/01/2026-03/15/2027"
+  },
+  {
+   "id": "willis--korean-giant",
+   "variety": "korean-giant",
+   "nursery": "willis",
+   "status": "in_stock",
+   "price": 99.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.willisorchards.com/product/korean-giant-asian-pear",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Only a ~6 ft, 1–1.25 in caliper size."
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 99.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Ships Dec 15 2026–Mar 2027"
+  },
+  {
+   "id": "isons--nijisseiki",
+   "variety": "nijisseiki",
+   "nursery": "isons",
+   "status": "in_stock",
+   "price": 31.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.isons.com/shop/fruit-trees/asian-pear-trees/20th-century-asian-pear-tree/",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "4–5 ft bare-root."
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 31.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Ships Jan–Apr 2027 (bare-root)",
+   "sold_as": "20th Century"
+  },
+  {
+   "id": "isons--hosui",
+   "variety": "hosui",
+   "nursery": "isons",
+   "status": "in_stock",
+   "price": 34.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.isons.com/shop/fruit-trees/asian-pear-trees/hosui-asian-pear-tree/",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "4–5 ft bare-root."
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 31.95,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-29",
+     "price": 34.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Jan-Apr; colder states late Mar/early Apr"
+  },
+  {
+   "id": "isons--korean-giant",
+   "variety": "korean-giant",
+   "nursery": "isons",
+   "status": "in_stock",
+   "price": 34.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.isons.com/shop/fruit-trees/asian-pear-trees/korean-giant-asian-pear-tree/",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "4–5 ft bare-root."
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 31.95,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-29",
+     "price": 34.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Ships Jan–Apr 2027 (bare-root)"
+  },
+  {
+   "id": "isons--shinko",
+   "variety": "shinko",
+   "nursery": "isons",
+   "status": "in_stock",
+   "price": 31.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.isons.com/shop/fruit-trees/asian-pear-trees/shinko-asian-pear-tree/",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "4–5 ft bare-root."
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 31.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Ships Jan–Apr 2027 (bare-root)"
+  },
+  {
+   "id": "isons--shinseiki",
+   "variety": "shinseiki",
+   "nursery": "isons",
+   "status": "in_stock",
+   "price": 31.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.isons.com/shop/fruit-trees/asian-pear-trees/shenseiki-asian-pear-tree/",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Confirmed in stock Oct 5 at $31.95, 3-4' or 4-5' bare-root."
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 31.95,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-05",
+     "price": 31.95,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "Shenseiki"
+  },
+  {
+   "id": "cummins--korean-giant",
+   "variety": "korean-giant",
+   "nursery": "cummins",
+   "status": "in_stock",
+   "price": 42.75,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.cumminsnursery.com/buy-trees/product-detail.php?type=tree&id=21560",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Grade 1 feathered, 14 left Oct 4."
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 45.75,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-22",
+     "price": 50.0,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-29",
+     "price": 42.75,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Ships mid-March 2027",
+   "sold_as": "Olympic"
+  },
+  {
+   "id": "cummins--hosui",
+   "variety": "hosui",
+   "nursery": "cummins",
+   "status": "in_stock",
+   "price": 50.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.cumminsnursery.com/buy-trees/product-detail.php?type=tree&id=21552",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "55 left for spring 2027."
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 45.75,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-11-02",
+     "price": 50.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Spring 2027"
+  },
+  {
+   "id": "cummins--juicy-jewel",
+   "variety": "juicy-jewel",
+   "nursery": "cummins",
+   "status": "in_stock",
+   "price": 44.5,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.cumminsnursery.com/buy-trees/product-detail.php?type=tree&id=26055",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Spring 2027, Grade 1 'Feathered', 234 in stock as of Oct 5."
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": null,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-05",
+     "price": 47.5,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-29",
+     "price": 44.5,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Spring 2027"
+  },
+  {
+   "id": "cummins--yoinashi",
+   "variety": "yoinashi",
+   "nursery": "cummins",
+   "status": "in_stock",
+   "price": 43.25,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.cumminsnursery.com/buy-trees/product-detail.php?type=tree&id=22229",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Spring 2027, Grade 1 'Feathered', 31 in stock as of Oct 5."
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": null,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-05",
+     "price": 46.25,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-29",
+     "price": 43.25,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "cummins--shinsui",
+   "variety": "shinsui",
+   "nursery": "cummins",
+   "status": "in_stock",
+   "price": 42.75,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.cumminsnursery.com/buy-trees/product-detail.php?type=tree&id=21566",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Spring 2027, Grade 1 'Feathered', 13 in stock as of Oct 5."
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": null,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-05",
+     "price": 45.75,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-29",
+     "price": 42.75,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "cummins--shinseiki",
+   "variety": "shinseiki",
+   "nursery": "cummins",
+   "status": "in_stock",
+   "price": 42.75,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.cumminsnursery.com/buy-trees/product-detail.php?type=tree&id=21565",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Only 5 Grade 1 trees left."
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": null,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-05",
+     "price": 45.75,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-29",
+     "price": 42.75,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Spring 2027"
+  },
+  {
+   "id": "cummins--nijisseiki",
+   "variety": "nijisseiki",
+   "nursery": "cummins",
+   "status": "in_stock",
+   "price": 41.75,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.cumminsnursery.com/buy-trees/product-detail.php?type=tree&id=27042",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Spring 2027, Grade 1 'Feathered', 3 in stock as of Oct 5."
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": null,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-05",
+     "price": 45.75,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-29",
+     "price": 41.75,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "cummins--niitaka",
+   "variety": "niitaka",
+   "nursery": "cummins",
+   "status": "in_stock",
+   "price": 42.75,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.cumminsnursery.com/buy-trees/product-detail.php?type=tree&id=21557",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Spring 2027, Grade 1 'Feathered', 3 in stock as of Oct 5."
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": null,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-05",
+     "price": 45.75,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-22",
+     "price": 50.0,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-29",
+     "price": 42.75,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "cummins--shinko",
+   "variety": "shinko",
+   "nursery": "cummins",
+   "status": "sold_out",
+   "price": 50.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.cumminsnursery.com/buy-trees/product-detail.php?type=tree&id=21564",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Shinko on OHxF 97 (Spring 2027): all grades sold out"
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": null,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-07",
+     "price": 50.0,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-09",
+     "price": 45.75,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-15",
+     "price": 45.75,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-22",
+     "price": 50.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "blue-hill--korean-giant",
+   "variety": "korean-giant",
+   "nursery": "blue-hill",
+   "status": "in_stock",
+   "price": 42.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://bluehillwildlifenursery.com/product/korean-giant-olympic-pear-large/",
+   "first_seen": "2026-09-15",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "2-year 4–6 ft bare-root; two-tree minimum per order."
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 42.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Ships March–April 2027"
+  },
+  {
+   "id": "fedco--hosui",
+   "variety": "hosui",
+   "nursery": "fedco",
+   "status": "in_stock",
+   "price": 38.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://sarah.fedcoseeds.com/trees/?item=7350",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Bare-root 3–6 ft."
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 38.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "spring 2027 (orders by Mar 7 ship ~Mar 31-late Apr)"
+  },
+  {
+   "id": "trees-com--juicy-jewel",
+   "variety": "juicy-jewel",
+   "nursery": "trees-com",
+   "status": "in_stock",
+   "price": 108.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.trees.com/products/juicy-jewel-asian-pear-tree",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "3–4 ft."
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 108.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "trees-com--shinseiki",
+   "variety": "shinseiki",
+   "nursery": "trees-com",
+   "status": "sold_out",
+   "price": 124.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://www.trees.com/products/shinseiki-asian-pear-tree",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 124.95,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "trees-com--hosui",
+   "variety": "hosui",
+   "nursery": "trees-com",
+   "status": "sold_out",
+   "price": 98.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://www.trees.com/products/hosui-asian-pear-tree",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 98.95,
+     "status": "sold_out"
+    }
+   ],
+   "was_price": null
+  },
+  {
+   "id": "trees-com--nijisseiki",
+   "variety": "nijisseiki",
+   "nursery": "trees-com",
+   "status": "sold_out",
+   "price": 98.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://www.trees.com/products/20th-century-asian-pear-tree",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Listed as 'Sold Out' on the collection page Oct 6."
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 98.95,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-06",
+     "price": 98.95,
+     "status": "sold_out"
+    }
+   ],
+   "sold_as": "20th Century",
+   "was_price": null
+  },
+  {
+   "id": "grow-organic--nijisseiki",
+   "variety": "nijisseiki",
+   "nursery": "grow-organic",
+   "status": "sold_out",
+   "price": 69.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.groworganic.com/products/asian-pear-20th-century-semi-dwarf",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 69.99,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "grow-organic--shinseiki",
+   "variety": "shinseiki",
+   "nursery": "grow-organic",
+   "status": "sold_out",
+   "price": 69.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.groworganic.com/products/asian-pear-shinseiki-semi-dwarf",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 69.99,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "grow-organic--hosui",
+   "variety": "hosui",
+   "nursery": "grow-organic",
+   "status": "sold_out",
+   "price": 69.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.groworganic.com/products/asian-pear-hosui-semi-dwarf",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 69.99,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "grow-organic--chojuro",
+   "variety": "chojuro",
+   "nursery": "grow-organic",
+   "status": "sold_out",
+   "price": 59.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.groworganic.com/products/chojuro-asian-pear-tree",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 59.99,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "nature-hills--shinko",
+   "variety": "shinko",
+   "nursery": "nature-hills",
+   "status": "sold_out",
+   "price": 83.92,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://naturehills.com/products/shinko-asian-pear-tree",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 83.92,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "nature-hills--chojuro",
+   "variety": "chojuro",
+   "nursery": "nature-hills",
+   "status": "sold_out",
+   "price": null,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://naturehills.com/chojuro-pear-tree",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Backordered."
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": null,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "nature-hills--shinseiki",
+   "variety": "shinseiki",
+   "nursery": "nature-hills",
+   "status": "sold_out",
+   "price": null,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://naturehills.com/products/shinseiki-pear",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Backordered."
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": null,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "perfect-plants--shinseiki",
+   "variety": "shinseiki",
+   "nursery": "perfect-plants",
+   "status": "sold_out",
+   "price": 149.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://myperfectplants.com/products/shinseiki-asian-pear-tree",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 149.95,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "perfect-plants--shinko",
+   "variety": "shinko",
+   "nursery": "perfect-plants",
+   "status": "sold_out",
+   "price": 139.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://myperfectplants.com/products/shinko-asian-pear-tree",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 139.95,
+     "status": "sold_out"
+    }
+   ],
+   "was_price": null
+  },
+  {
+   "id": "adams-county--atago",
+   "variety": "atago",
+   "nursery": "adams-county",
+   "status": "in_stock",
+   "price": 35.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.acnursery.com/product/atago/",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Sold out since Oct 20."
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 35.0,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-20",
+     "price": 35.0,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-11-02",
+     "price": 35.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "adams-county--hosui",
+   "variety": "hosui",
+   "nursery": "adams-county",
+   "status": "in_stock",
+   "price": 35.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.acnursery.com/product/hosui/",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Sold out since Oct 20."
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 35.0,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-20",
+     "price": 35.0,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-11-02",
+     "price": 35.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "adams-county--juicy-jewel",
+   "variety": "juicy-jewel",
+   "nursery": "adams-county",
+   "status": "in_stock",
+   "price": 35.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.acnursery.com/product/juicy-jewel-mn121-cltv-ppaf/",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Sold out since Oct 20."
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 35.0,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-20",
+     "price": 35.0,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-11-02",
+     "price": 35.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "adams-county--kosui",
+   "variety": "kosui",
+   "nursery": "adams-county",
+   "status": "in_stock",
+   "price": 35.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.acnursery.com/product/kosui/",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Sold out since Oct 20."
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 35.0,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-20",
+     "price": 35.0,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-11-02",
+     "price": 35.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "adams-county--niitaka",
+   "variety": "niitaka",
+   "nursery": "adams-county",
+   "status": "in_stock",
+   "price": 35.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.acnursery.com/product/niitaka/",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Sold out since Oct 20."
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 35.0,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-20",
+     "price": 35.0,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-11-02",
+     "price": 35.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "restoring-eden--hosui",
+   "variety": "hosui",
+   "nursery": "restoring-eden",
+   "status": "in_stock",
+   "price": 39.99,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://restoringeden.co/product/asian-pear-tree-hosui-2/",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Stock not shown online."
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 39.99,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-14",
+     "price": 39.99,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Bare-root pre-order, ships late January"
+  },
+  {
+   "id": "restoring-eden--chojuro",
+   "variety": "chojuro",
+   "nursery": "restoring-eden",
+   "status": "in_stock",
+   "price": 39.99,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "/product/asian-pear-chojuro/",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Product page has Add to cart; variant-level stock not shown"
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 39.99,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-15",
+     "price": 39.99,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "restoring-eden--shinko",
+   "variety": "shinko",
+   "nursery": "restoring-eden",
+   "status": "in_stock",
+   "price": 39.99,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://restoringeden.co/product-category/fruit-trees/asian-pear/",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "WC store API is_in_stock true; variant-level stock not shown"
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 34.99,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-05",
+     "price": 39.99,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-15",
+     "price": 39.99,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "restoring-eden--korean-giant",
+   "variety": "korean-giant",
+   "nursery": "restoring-eden",
+   "status": "in_stock",
+   "price": 39.99,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://restoringeden.co/product-category/fruit-trees/asian-pear/",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "WC store API is_in_stock true; variant-level stock not shown"
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 39.99,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-15",
+     "price": 39.99,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "restoring-eden--kosui",
+   "variety": "kosui",
+   "nursery": "restoring-eden",
+   "status": "in_stock",
+   "price": 39.99,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://restoringeden.co/product-category/fruit-trees/asian-pear/",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "WC store API is_in_stock true; variant-level stock not shown"
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 39.99,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-15",
+     "price": 39.99,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "restoring-eden--nijisseiki",
+   "variety": "nijisseiki",
+   "nursery": "restoring-eden",
+   "status": "in_stock",
+   "price": 39.99,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "/product/asian-pear-tree-20th-century-2/",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Stock not shown online."
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 39.99,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-20",
+     "price": 39.99,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "restoring-eden--raja",
+   "variety": "raja",
+   "nursery": "restoring-eden",
+   "status": "in_stock",
+   "price": 39.99,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://restoringeden.co/product-category/fruit-trees/asian-pear/",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "WC store API is_in_stock true; variant-level stock not shown"
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 39.99,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-15",
+     "price": 39.99,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "restoring-eden--shinglo",
+   "variety": "shinglo",
+   "nursery": "restoring-eden",
+   "status": "in_stock",
+   "price": 39.99,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://restoringeden.co/product-category/fruit-trees/asian-pear/",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "WC store API is_in_stock true; variant-level stock not shown"
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 39.99,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-15",
+     "price": 39.99,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "restoring-eden--shinseiki",
+   "variety": "shinseiki",
+   "nursery": "restoring-eden",
+   "status": "in_stock",
+   "price": 39.99,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://restoringeden.co/product-category/fruit-trees/asian-pear/",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "WC store API is_in_stock true; variant-level stock not shown"
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 39.99,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-15",
+     "price": 39.99,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "burnt-ridge--shinko",
+   "variety": "shinko",
+   "nursery": "burnt-ridge",
+   "status": "unconfirmed",
+   "price": 29.5,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.burntridgenursery.com/mobile/Asian-Pear-Trees/products/10/",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-10-29",
+   "notes": [
+    "Semi-dwarf; winter/spring availability, stock not shown."
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 29.5,
+     "status": "unconfirmed"
+    }
+   ]
+  },
+  {
+   "id": "burnt-ridge--nijisseiki",
+   "variety": "nijisseiki",
+   "nursery": "burnt-ridge",
+   "status": "unconfirmed",
+   "price": 40.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.burntridgenursery.com/mobile/Asian-Pear-Trees/products/10/",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-10-29",
+   "notes": [
+    "Gallon-grown semi-dwarf; stock not shown."
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 40.0,
+     "status": "unconfirmed"
+    }
+   ]
+  },
+  {
+   "id": "grandpas--juicy-jewel",
+   "variety": "juicy-jewel",
+   "nursery": "grandpas",
+   "status": "season_closed",
+   "price": null,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://www.grandpasorchard.com/Tree/Pyrus-pyrifolia-juicy-jewel",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-10-11",
+   "notes": [
+    "Spring 2027 prices post in December."
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": null,
+     "status": "season_closed"
+    }
+   ]
+  },
+  {
+   "id": "cricket-hill--pai-li",
+   "variety": "pai-li",
+   "nursery": "cricket-hill",
+   "status": "sold_out",
+   "price": 38,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.treepeony.com/collections/asian-pear/products/beijing-white-chinese-pear",
+   "first_seen": "2026-10-05",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Sold out as of Oct 7 check."
+   ],
+   "history": [
+    {
+     "date": "2026-10-05",
+     "price": 38,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-07",
+     "price": 38,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "cricket-hill--ya-li",
+   "variety": "ya-li",
+   "nursery": "cricket-hill",
+   "status": "in_stock",
+   "price": 48,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "/products/pear-ya-li",
+   "first_seen": "2026-10-05",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Listed in stock on collection page Oct 5."
+   ],
+   "history": [
+    {
+     "date": "2026-10-05",
+     "price": 48,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "cricket-hill--shinsui",
+   "variety": "shinsui",
+   "nursery": "cricket-hill",
+   "status": "sold_out",
+   "price": 38,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "/products/asian-pear-shinsui",
+   "first_seen": "2026-10-05",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Sold out Oct 5."
+   ],
+   "history": [
+    {
+     "date": "2026-10-05",
+     "price": 38,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "cricket-hill--kosui",
+   "variety": "kosui",
+   "nursery": "cricket-hill",
+   "status": "sold_out",
+   "price": 38,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "/products/asian-pear-kosui",
+   "first_seen": "2026-10-05",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Sold out Oct 5."
+   ],
+   "history": [
+    {
+     "date": "2026-10-05",
+     "price": 38,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "cricket-hill--shinko",
+   "variety": "shinko",
+   "nursery": "cricket-hill",
+   "status": "sold_out",
+   "price": 48,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "/products/asian-pear-shinko",
+   "first_seen": "2026-10-05",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Sold out Oct 5."
+   ],
+   "history": [
+    {
+     "date": "2026-10-05",
+     "price": 48,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "burnt-ridge--chojuro",
+   "variety": "chojuro",
+   "nursery": "burnt-ridge",
+   "status": "unconfirmed",
+   "price": 33.5,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.burntridgenursery.com/mobile/CHOJURO-ASIAN-PEAR-Pyrus-pyrifolia/productinfo/NSASCHO/",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-10-29",
+   "notes": [
+    "New listing found Oct 6. Page shows seasonal 'Winter/Spring' availability; no clear in-stock/sold-out signal."
+   ],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 33.5,
+     "status": "unconfirmed"
+    }
+   ]
+  },
+  {
+   "id": "burnt-ridge--korean-giant",
+   "variety": "korean-giant",
+   "nursery": "burnt-ridge",
+   "status": "unconfirmed",
+   "price": 33.5,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.burntridgenursery.com/mobile/KOREAN-GIANT-ASIAN-PEAR-Don-Bae-Pyrus-pyrifolia/productinfo/NSASKOR/",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-10-29",
+   "notes": [
+    "New listing found Oct 6 (sold as 'Don Bae'). Page shows seasonal 'Winter/Spring, Fall' availability; no clear in-stock/sold-out signal."
+   ],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 33.5,
+     "status": "unconfirmed"
+    }
+   ]
+  },
+  {
+   "id": "fedco--yoinashi",
+   "variety": "yoinashi",
+   "nursery": "fedco",
+   "status": "sold_out",
+   "price": 38.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://sarah.fedcoseeds.com/trees/yoinashi-asian-pear-7355",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "New listing found Oct 6: sold out."
+   ],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 38.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "gurneys--hosui",
+   "variety": "hosui",
+   "nursery": "gurneys",
+   "status": "sold_out",
+   "price": 34.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://gurneys.com/product/hosui-asian-pear-tree",
+   "first_seen": "2026-10-07",
+   "last_checked": "2026-11-02",
+   "notes": "Pre-order, ships spring; page shows sold out",
+   "history": [
+    {
+     "date": "2026-10-07",
+     "price": 34.99,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "brighter-blooms--hosui",
+   "variety": "hosui",
+   "nursery": "brighter-blooms",
+   "status": "sold_out",
+   "price": 110.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.brighterblooms.com/products/hosui-pear-tree",
+   "first_seen": "2026-10-07",
+   "last_checked": "2026-11-02",
+   "notes": [
+    "Listed 'Restocking soon' for the 2-3' size as of Oct 7; other sizes out of stock."
+   ],
+   "history": [
+    {
+     "date": "2026-10-07",
+     "price": 110.99,
+     "status": "sold_out"
+    }
+   ],
+   "was_price": null
+  },
+  {
+   "id": "edible-landscaping--korean-giant",
+   "variety": "korean-giant",
+   "nursery": "edible-landscaping",
+   "status": "in_stock",
+   "price": 23.0,
+   "price_from": true,
+   "price_confirmed": false,
+   "url": "https://ediblelandscaping.com/products/korean-giant-pear",
+   "first_seen": "2026-10-09",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Listed as 'Korean Giant Pear' (Olympic). Quart size shown at $23, up to $105 for 7-gallon pickup-only. No explicit stock count; not marked sold out. Can't ship to CA (not relevant to NJ)."
+   ],
+   "history": [
+    {
+     "date": "2026-10-09",
+     "price": 23.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "mehrabyan--atago",
+   "variety": "atago",
+   "nursery": "mehrabyan",
+   "status": "in_stock",
+   "price": 30.45,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.mehrabyannursery.com/shop/pear-trees/asian-pear-trees/atago-asian-pear-tree/",
+   "first_seen": "2026-10-19",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Add to cart shown Oct 19; no stock count."
+   ],
+   "history": [
+    {
+     "date": "2026-10-19",
+     "price": 30.45,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Ships from March 2027 (dormant bare-root)",
+   "sold_as": "Bare-root, 1-2 yr, 4-6 ft; choose rootstock (Betulaefolia or OHxF 97) at checkout"
+  },
+  {
+   "id": "mehrabyan--hosui",
+   "variety": "hosui",
+   "nursery": "mehrabyan",
+   "status": "in_stock",
+   "price": 29.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.mehrabyannursery.com/shop/pear-trees/asian-pear-trees/hosui-asian-pear-tree/",
+   "first_seen": "2026-10-19",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Add to cart shown Oct 19; no stock count."
+   ],
+   "history": [
+    {
+     "date": "2026-10-19",
+     "price": 29.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "ships March",
+   "sold_as": "Bare-root, 1-2 yr, 4-6 ft; choose rootstock (Betulaefolia or OHxF 97) at checkout"
+  },
+  {
+   "id": "mehrabyan--niitaka",
+   "variety": "niitaka",
+   "nursery": "mehrabyan",
+   "status": "in_stock",
+   "price": 29.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.mehrabyannursery.com/shop/pear-trees/asian-pear-trees/niitaka-asian-pear-tree/",
+   "first_seen": "2026-10-19",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Add to cart shown Oct 19; no stock count."
+   ],
+   "history": [
+    {
+     "date": "2026-10-19",
+     "price": 29.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Ships from March 2027 (dormant bare-root)",
+   "sold_as": "Bare-root, 1-2 yr, 4-6 ft; choose rootstock (Betulaefolia or OHxF 97) at checkout"
+  },
+  {
+   "id": "mehrabyan--korean-giant",
+   "variety": "korean-giant",
+   "nursery": "mehrabyan",
+   "status": "in_stock",
+   "price": 29.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.mehrabyannursery.com/shop/pear-trees/asian-pear-trees/olympic-asian-pear-tree/",
+   "first_seen": "2026-10-19",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Add to cart shown Oct 19; no stock count."
+   ],
+   "history": [
+    {
+     "date": "2026-10-19",
+     "price": 29.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Ships from March 2027 (dormant bare-root)",
+   "sold_as": "Bare-root, 1-2 yr, 4-6 ft; choose rootstock (Betulaefolia or OHxF 97) at checkout"
+  },
+  {
+   "id": "mehrabyan--yoinashi",
+   "variety": "yoinashi",
+   "nursery": "mehrabyan",
+   "status": "in_stock",
+   "price": 30.45,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.mehrabyannursery.com/shop/pear-trees/asian-pear-trees/yoinashi-asian-pear-tree/",
+   "first_seen": "2026-10-19",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Add to cart shown Oct 19; no stock count."
+   ],
+   "history": [
+    {
+     "date": "2026-10-19",
+     "price": 30.45,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Ships from March 2027 (dormant bare-root)",
+   "sold_as": "Bare-root, 1-2 yr, 4-6 ft; choose rootstock (Betulaefolia or OHxF 97) at checkout"
+  },
+  {
+   "id": "mehrabyan--kosui",
+   "variety": "kosui",
+   "nursery": "mehrabyan",
+   "status": "in_stock",
+   "price": 29.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.mehrabyannursery.com/shop/pear-trees/asian-pear-trees/kosui-asian-pear-tree/",
+   "first_seen": "2026-10-19",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Add to cart shown Oct 19; no stock count."
+   ],
+   "history": [
+    {
+     "date": "2026-10-19",
+     "price": 29.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Ships from March 2027 (dormant bare-root)",
+   "sold_as": "Bare-root, 1-2 yr, 4-6 ft; choose rootstock (Betulaefolia or OHxF 97) at checkout"
+  },
+  {
+   "id": "mehrabyan--shinko",
+   "variety": "shinko",
+   "nursery": "mehrabyan",
+   "status": "in_stock",
+   "price": 29.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.mehrabyannursery.com/shop/pear-trees/asian-pear-trees/shinko-asian-pear-tree/",
+   "first_seen": "2026-10-19",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Add to cart shown Oct 19; no stock count."
+   ],
+   "history": [
+    {
+     "date": "2026-10-19",
+     "price": 29.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Ships from March 2027 (dormant bare-root)",
+   "sold_as": "Bare-root, 1-2 yr, 4-6 ft; choose rootstock (Betulaefolia or OHxF 97) at checkout"
+  },
+  {
+   "id": "mehrabyan--shinseiki",
+   "variety": "shinseiki",
+   "nursery": "mehrabyan",
+   "status": "in_stock",
+   "price": 29.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.mehrabyannursery.com/shop/pear-trees/asian-pear-trees/shinseiki-asian-pear-tree/",
+   "first_seen": "2026-10-19",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Add to cart shown Oct 19; no stock count."
+   ],
+   "history": [
+    {
+     "date": "2026-10-19",
+     "price": 29.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Ships from March 2027 (dormant bare-root)",
+   "sold_as": "Bare-root, 1-2 yr, 4-6 ft; choose rootstock (Betulaefolia or OHxF 97) at checkout"
+  },
+  {
+   "id": "mehrabyan--shinsui",
+   "variety": "shinsui",
+   "nursery": "mehrabyan",
+   "status": "in_stock",
+   "price": 29.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.mehrabyannursery.com/shop/pear-trees/asian-pear-trees/shinsui-asian-pear-tree/",
+   "first_seen": "2026-10-19",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Add to cart shown Oct 19; no stock count."
+   ],
+   "history": [
+    {
+     "date": "2026-10-19",
+     "price": 29.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Ships from March 2027 (dormant bare-root)",
+   "sold_as": "Bare-root, 1-2 yr, 4-6 ft; choose rootstock (Betulaefolia or OHxF 97) at checkout"
+  },
+  {
+   "id": "mehrabyan--juicy-jewel",
+   "variety": "juicy-jewel",
+   "nursery": "mehrabyan",
+   "status": "in_stock",
+   "price": 31.45,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.mehrabyannursery.com/shop/pear-trees/asian-pear-trees/juicy-jewel-asian-pear-tree/",
+   "first_seen": "2026-10-19",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Add to cart shown Oct 19; no stock count."
+   ],
+   "history": [
+    {
+     "date": "2026-10-19",
+     "price": 31.45,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Ships from March 2027 (dormant bare-root)",
+   "sold_as": "Bare-root, 1-2 yr, 4-6 ft; choose rootstock (Betulaefolia or OHxF 97) at checkout"
+  },
+  {
+   "id": "hudson-valley-seed--hosui",
+   "variety": "hosui",
+   "nursery": "hudson-valley-seed",
+   "status": "sold_out",
+   "price": 42.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://shop.hudsonvalleyseed.com/products/hosui-asian-pear-tree",
+   "first_seen": "2026-10-19",
+   "last_checked": "2026-11-02",
+   "notes": [
+    "Out of stock Oct 19."
+   ],
+   "history": [
+    {
+     "date": "2026-10-19",
+     "price": 42.95,
+     "status": "sold_out"
+    }
+   ],
+   "sold_as": "Bare-root, 2-yr, 5 ft, OHxF 97, certified organic"
+  },
+  {
+   "id": "burpee--hosui",
+   "variety": "hosui",
+   "nursery": "burpee",
+   "status": "sold_out",
+   "price": 39.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.burpee.com/products/pear-asian-hosui-prod003499",
+   "first_seen": "2026-10-19",
+   "last_checked": "2026-11-05",
+   "notes": [
+    "Temporarily out of stock Oct 19; email notify offered. Burpee does not ship to AK, CA, CO, HI, ID (NJ not excluded)."
+   ],
+   "history": [
+    {
+     "date": "2026-10-19",
+     "price": 39.95,
+     "status": "sold_out"
+    }
+   ],
+   "sold_as": "1 bare-root plant"
+  },
+  {
+   "id": "one-green-world--kosui",
+   "variety": "kosui",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 39.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/kosui-asian-pear/",
+   "first_seen": "2026-10-29",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Product page shows Add to cart and also 'Email me when available'; stock count not stated."
+   ],
+   "history": [
+    {
+     "date": "2026-10-29",
+     "price": 39.95,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-11-02",
+     "price": 39.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-11-05",
+     "price": 39.95,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "Bare root, on Pyrus betulaefolia; fall shipping"
+  },
+  {
+   "id": "one-green-world--niitaka",
+   "variety": "niitaka",
+   "nursery": "one-green-world",
+   "status": "sold_out",
+   "price": 39.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/niitaka-asian-pear/",
+   "first_seen": "2026-10-29",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Product page shows Add to cart and also 'Email me when available'; stock count not stated."
+   ],
+   "history": [
+    {
+     "date": "2026-10-29",
+     "price": 39.95,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-11-02",
+     "price": 39.95,
+     "status": "sold_out"
+    }
+   ],
+   "sold_as": "Bare root, on Pyrus betulaefolia; fall shipping"
+  },
+  {
+   "id": "one-green-world--seuri",
+   "variety": "seuri",
+   "nursery": "one-green-world",
+   "status": "sold_out",
+   "price": 39.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/seuri-asian-pear/",
+   "first_seen": "2026-10-29",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Product page shows Add to cart and also 'Email me when available'; stock count not stated."
+   ],
+   "history": [
+    {
+     "date": "2026-10-29",
+     "price": 39.95,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-11-02",
+     "price": 39.95,
+     "status": "sold_out"
+    }
+   ],
+   "sold_as": "Bare root; fall shipping"
+  },
+  {
+   "id": "hudson-valley-seed--chojuro",
+   "variety": "chojuro",
+   "nursery": "hudson-valley-seed",
+   "status": "sold_out",
+   "price": 42.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://shop.hudsonvalleyseed.com/products/chojuro-asian-pear-tree",
+   "first_seen": "2026-10-29",
+   "last_checked": "2026-11-02",
+   "notes": [
+    "Out of stock Oct 29."
+   ],
+   "history": [
+    {
+     "date": "2026-10-29",
+     "price": 42.95,
+     "status": "sold_out"
+    }
+   ],
+   "sold_as": "Bare-root, 2-yr, 5 ft, OHxF 97"
+  },
+  {
+   "id": "stark-bros--chojuro",
+   "variety": "chojuro",
+   "nursery": "stark-bros",
+   "status": "sold_out",
+   "price": 64.99,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://www.starkbros.com/products/fruit-trees/pear-trees/chojuro-asian-pear",
+   "first_seen": "2026-10-29",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Out of stock Oct 29; email-me option offered."
+   ],
+   "history": [
+    {
+     "date": "2026-10-29",
+     "price": 64.99,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "plant-me-green--kikusui",
+   "variety": "kikusui",
+   "nursery": "plant-me-green",
+   "status": "sold_out",
+   "price": 69.95,
+   "price_from": true,
+   "price_confirmed": false,
+   "url": "https://plantmegreen.com/products/pear-kikusui",
+   "first_seen": "2026-11-09",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Product page shows Sold out; rootstock and grafting not stated."
+   ],
+   "history": [
+    {
+     "date": "2026-11-09",
+     "price": 69.95,
+     "status": "sold_out"
+    }
+   ],
+   "sold_as": "Potted: #1 (2-3 ft), #5 (3-4 ft) or #7 (4-5 ft) pot; per-size prices not shown"
+  },
+  {
+   "id": "plant-me-green--korean-giant",
+   "variety": "korean-giant",
+   "nursery": "plant-me-green",
+   "status": "unconfirmed",
+   "price": 39.95,
+   "price_from": true,
+   "price_confirmed": false,
+   "url": "https://plantmegreen.com/collections/asian-pear-trees/products/pear-trees-korean-giant",
+   "first_seen": "2026-11-09",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Seen on collection page only; stock and rootstock not stated."
+   ],
+   "history": [
+    {
+     "date": "2026-11-09",
+     "price": 39.95,
+     "status": "unconfirmed"
+    }
+   ],
+   "sold_as": "Potted; size options, 'from' price"
+  },
+  {
+   "id": "plant-me-green--shinko",
+   "variety": "shinko",
+   "nursery": "plant-me-green",
+   "status": "unconfirmed",
+   "price": 69.95,
+   "price_from": true,
+   "price_confirmed": false,
+   "url": "https://plantmegreen.com/collections/asian-pear-trees/products/pear-trees-shinko",
+   "first_seen": "2026-11-09",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Seen on collection page only; stock and rootstock not stated."
+   ],
+   "history": [
+    {
+     "date": "2026-11-09",
+     "price": 69.95,
+     "status": "unconfirmed"
+    }
+   ],
+   "sold_as": "Potted; size options, 'from' price"
+  },
+  {
+   "id": "plant-me-green--shinseiki",
+   "variety": "shinseiki",
+   "nursery": "plant-me-green",
+   "status": "unconfirmed",
+   "price": 69.95,
+   "price_from": true,
+   "price_confirmed": false,
+   "url": "https://plantmegreen.com/products/pear-shinseiki",
+   "first_seen": "2026-11-09",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Seen on collection page only; stock and rootstock not stated."
+   ],
+   "history": [
+    {
+     "date": "2026-11-09",
+     "price": 69.95,
+     "status": "unconfirmed"
+    }
+   ],
+   "sold_as": "Potted; size options, 'from' price"
+  },
+  {
+   "id": "one-green-world--yoinashi",
+   "variety": "yoinashi",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 44.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/yoinashi-asian-pear/",
+   "first_seen": "2026-11-09",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Product page shows Add to cart (and an Email me when available link); tagged New Product."
+   ],
+   "history": [
+    {
+     "date": "2026-11-09",
+     "price": 44.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Preorder",
+   "sold_as": "Bare root"
+  },
+  {
+   "id": "mehrabyan--nijisseiki",
+   "variety": "nijisseiki",
+   "nursery": "mehrabyan",
+   "status": "in_stock",
+   "price": 29.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.mehrabyannursery.com/shop/pear-trees/asian-pear-trees/twentieth-century-asian-pear-tree/",
+   "first_seen": "2026-11-09",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Listed as Twentieth Century; Add to cart shown."
+   ],
+   "history": [
+    {
+     "date": "2026-11-09",
+     "price": 29.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Ships from March 2027 (dormant bare-root)",
+   "sold_as": "Bare-root, 4-6 ft; choose rootstock (OHxF 97 or Betulaefolia)"
+  },
+  {
+   "id": "burnt-ridge--shinseiki",
+   "variety": "shinseiki",
+   "nursery": "burnt-ridge",
+   "status": "unconfirmed",
+   "price": 33.5,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.burntridgenursery.com/mobile/SHINSEIKI-ASIAN-PEAR-Pyrus-pyrifolia/productinfo/NSASSHINSE/",
+   "first_seen": "2026-11-09",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Availability listed as Winter/Spring; stock not shown."
+   ],
+   "history": [
+    {
+     "date": "2026-11-09",
+     "price": 33.5,
+     "status": "unconfirmed"
+    }
+   ],
+   "sold_as": "Semi-dwarf, gallon-grown"
+  }
+ ]
+}

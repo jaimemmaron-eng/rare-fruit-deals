@@ -1,0 +1,5344 @@
+{
+ "fruit": "kiwi",
+ "updated": "2026-11-09",
+ "scope": "Named hardy kiwi cultivars: Actinidia arguta (kiwiberry), A. kolomikta and A. polygama (silver vine), including named male pollinators. Fuzzy kiwi (A. deliciosa: Hayward, Saanichton, Elmwood, Jenny and similar) is left out because it isn't reliably hardy in zone 6b. Most hardy kiwis need a male vine nearby; each variety is tagged female, male or self-fertile.",
+ "last_run": {
+  "date": "2026-11-09",
+  "summary": "Back in stock at Raintree Nursery: Ken's Red $24.99. Back in stock at Humble Abode Nursery: Michigan State $25, Dumbarton Oaks $25. Back in stock at Blessings Grow Meadows: Anna $8, Meader $8. Back in stock at Fedco Trees: Geneva 3 $28.90, Meader $28.90. Price changes at Ison's Nursery: Issai $22.95 → $24.95, Anna $22.95 → $24.95.",
+  "gaps": [
+   "burnt-ridge: no per-variety prices",
+   "tripple-brook: no per-variety prices",
+   "indiana-berry: would not load"
+  ],
+  "checked": [
+   "berries-unlimited",
+   "blessings-grow-meadows",
+   "cornell-farm",
+   "east-hill-tree-farm",
+   "edible-landscaping",
+   "fedco-trees",
+   "food-forest-nursery",
+   "grow-organic",
+   "hand-picked-nursery",
+   "hirts-gardens",
+   "honeyberry-usa",
+   "humble-abode",
+   "isons",
+   "logees",
+   "nature-hills",
+   "northeast-edible-nursery",
+   "one-green-world",
+   "planting-justice",
+   "raintree",
+   "rohrs-nursery",
+   "romence-gardens",
+   "sarvodaya-nursery",
+   "scenic-hill-farm",
+   "sowexotic",
+   "stark-bros",
+   "trees-com",
+   "wellspring-gardens",
+   "willis-orchards"
+  ],
+  "held": [],
+  "notes": []
+ },
+ "history_log": [
+  "Sep 25: seeded from Edible Landscaping, Logee's, Stark Bro's, Raintree, Tripple Brook Farm, One Green World, Ison's, Burnt Ridge and Willis Orchards.",
+  "Sep 26: re-checked in-stock sellers (no changes); added Nature Hills, Food Forest Nursery and East Hill Tree Farm (pickup-only, VT).",
+  "Sep 27: re-checked all sellers (no stock/price changes besides East Hill Tree Farm adding a sold-out Clark male); added Northeast Edible Nursery (NJ, bundle-only, out of stock) and Humble Abode Nursery (Ashfield MA, Michigan State in stock at $25); ruled out Grandpa's Orchard, St. Lawrence Nurseries, Richardson Roots and Hidden Springs Nursery (no kiwi).",
+  "Sep 28: re-checked every seller (no stock/price changes); added Spring Hill Nurseries (new variety Ogden Point, pair-only, status unclear) and ruled out Maya Gardens (generic female, no named cultivar); Red Panda Nursery unreachable (409 error), added to to_check.",
+  "Sep 29: re-checked every seller (no stock/price changes at existing sellers besides Spring Hill's Ogden Point now confirmed sold out); added Cornell Farm (Portland OR, Issai sold out) and Hand Picked Nursery (Benson NC, Issai sold out, free domestic shipping); ruled out Victory Nursery (Bay Area CA, local delivery only), Hicks Nurseries (Long Island NY, informational only) and Lone Star Growers (Austin TX, no named female, no mail shipping); Red Panda Nursery still unreachable (409 error).",
+  "Sep 30: re-checked every seller with in-stock listings and most others (no stock/price changes at existing 15 sellers); found new varieties Andrey (male, sold out) and Red Princess (female, in stock $24.95) at One Green World; added Wellspring Gardens (Lakeland FL, Issai in stock $15.99) and New Earth Nursery (GA, Ken's Red sold out $22.95); ruled out Phoenix Perennials (Richmond BC, Canada — no confirmed US shipping); Red Panda Nursery still unreachable (409), Cloud Mountain Farm Center and Pense Berry Farm URLs 404'd.",
+  "Oct 1: re-checked every seller with in-stock listings and most others; One Green World's Red Princess sold out again (one day after restocking); added Hirt's Gardens (Issai in stock $14.99), Pixies Gardens (Issai sold out $49.99) and Planting Justice (Anna in stock $15, $20+30% East Coast shipping confirmed); closed out to_check backlog - Cloud Mountain Farm Center is permanently closed, Pense Berry Farm and Red Panda Nursery have no kiwi inventory.",
+  "Oct 2: re-checked every seller with in-stock listings and most others; One Green World's Red Princess restocked again (third cycle); added two new varieties (Cherry Bomb, Chico State, both sold out at Planting Justice) and two new sellers (Trees.com, SowExotic); ruled out Horsford Gardens and Nursery (pickup/local delivery only).",
+  "Oct 3: re-checked every seller with in-stock listings plus most sold-out ones; Humble Abode's Anna restocked ($25); added two new sellers (Plant Detectives, NJ — Ken's Red sold out $24.99; Classy Groundcovers — Issai unconfirmed, $92.47); ruled out BambooPlants.ca and St. Clair Township (Canadian, no confirmed US shipping); Burnt Ridge, Willis Orchards and Nature Hills remain unconfirmed; One Green World's category page lost per-item stock detail (Red Princess confirmed in stock $24.95 via its own page).",
+  "Oct 4: re-checked all 26 sellers (no price changes); Humble Abode's Anna no longer purchasable (now sold out) and One Green World's Red Princess sold out again; added Blessings Grow Meadows (Metter, GA, Anna & Meader in stock $22) and Sarvodaya Farms & Nursery (Pomona, CA, Ken's Red sold out $40); ruled out SymbiOp Garden Shop (Portland, OR, pickup-only, sold out).",
+  "Oct 5: Restocked Andrey (One Green World), Issai (Classy Groundcovers), Cordifolia & Prolific (Willis Orchards); added 16 sold-out listings at Planting Justice; all 28 nurseries checked, rest unchanged.",
+  "Oct 6: Planting Justice restocked Chang Bai Mountain, Dumbarton Oaks, Hardy Red; OGW's Andrey back on waitlist; added Rohr's Nursery (Prolific) and a second Trees.com Prolific listing; Stark Bro's Arctic Beauty confirmed discontinued.",
+  "Oct 7: Quiet night — 23 nurseries re-checked, no changes to existing listings. Added Grow Organic and Romence Gardens as new Issai sources (Romence at $18.99, in stock).",
+  "Oct 8: Edible Landscaping restocked 74-32, Arbor-Eat-Um, Fifty-Five. One Green World's Andrey, Red Princess and Anna back in stock. Added Indiana Berry and Honeyberry USA (both sold out on named cultivars for now).",
+  "Oct 9: One Green World restocked Geneva and Ken's Red; Planting Justice restocked Red Princess; East Hill Tree Farm has a 1st-year Chang Bai back; Classy Groundcovers' Issai moved to unconfirmed on conflicting stock signals.",
+  "Oct 10: Chang Bai sold out at East Hill Tree Farm; added new seller Berries Unlimited USA (Issai, Prolific).",
+  "Oct 11: One Green World restocked 11 cultivars (Cordifolia, Dumbarton Oaks, Flowercloud, Hardy Red, Issai, Meader Female, MSU, Natasha, Prolific, Rossana, Tatyana); added Broken Arrow Nursery (Issai, Arctic Beauty) and a new Arctic Beauty listing at Classy Groundcovers; overnight check: no changes at the 12 nurseries checked",
+  "Oct 12: no changes at the 6 nurseries checked",
+  "Oct 13: no changes at the 8 nurseries checked",
+  "Oct 14: Sold out at Edible Landscaping: Meader; Price changes at Blessings Grow Meadows: Anna $9.50 → $10, Meader $9.50 → $10; New listings at Scenic Hill Farm Nursery: Issai ($32.95); Found one new seller, Scenic Hill Farm Nursery (OR), with Issai at $32.95 shipped; Grimm's Gardens and Hartmann's retail pages had no confirmable stock or price; Stark Bro's 'Hardy Kiwi Pollinator' names no cultivar, so it was left out",
+  "Oct 15: Back in stock at Honeyberry USA: Meader $20; Berries Unlimited USA: Issai now sold out",
+  "Oct 20: Back in stock at Cornell Farm: Issai $39.95",
+  "Oct 22: Sold out at Edible Landscaping: Ken's Red; Sold out at Raintree Nursery: Dumbarton Oaks, Jumbo; Price changes at Trees.com: Anna priced at $46.95, Meader priced at $46.95",
+  "Oct 24: New listings at Fedco Trees: Michigan State (unconfirmed), Geneva 3 (unconfirmed), Meader (unconfirmed), Anna (unconfirmed); Found Fedco Trees (Maine), a spring-ship seller of Michigan State, Geneva 3, Anna and Meader male kiwiberries; Only Michigan State shows a price ($26); Silver Creek Nursery (Canada, no US shipping shown), Plantlust (a listing site, not a seller) and Fast-Growing Trees (redirects to Trees.com, already on file) had nothing new in scope",
+  "Oct 26: Back in stock at Honeyberry USA: Geneva $20; Back in stock at Fedco Trees: Michigan State $26; Sold out at Raintree Nursery: Ken's Red; Broken Arrow Nursery: Arctic Beauty now sold out",
+  "Oct 29: Back in stock at Planting Justice: Ken's Red $15, Rossana $15; Sold out at Humble Abode Nursery: Michigan State; Sold out at Blessings Grow Meadows: Anna, Meader; Sold out at Planting Justice: Hardy Red; Sold out at Trees.com: Prolific; Price changes at Ison's Nursery: Ken's Red $22.95 → $24.95; Humble Abode now fully sold out (all dropdown varieties); Fedco kiwiberry page shows no per-variety prices/stock; Ellie.fedcoseeds.com item URLs now redirect to other products (7478 is elderberry)",
+  "Nov 2: Back in stock at Planting Justice: Hardy Red $15; Sold out at Planting Justice: Ken's Red, Rossana",
+  "Nov 4: New listings at Planting Justice: Tatyana (sold out); Checked 4 sellers not yet on file; Planting Justice's Tatyana (sold out) is now tracked; Little Red General Store (Geneva 3 sold out, $150 minimum), Quackin' Grass Nursery (CT) and Friends School Plant Sale (MN, in-person) had nothing in scope; Raintree's Jenny and Saanichton are fuzzy kiwi (left out); OGW's 74-46 and Early Cordifolia and Planting Justice's Ananasnaya are already on file under Clark, Cordifolia and Anna; Kiwi search: added Planting Justice Tatyana (sold out, $15)",
+  "Nov 5: Back in stock at Trees.com: Anna $61.95, Meader $61.95; Back in stock at Fedco Trees: Anna $28.90; Price changes at One Green World: Natasha $24.95 → $32.95, Rossana $24.95 → $32.95, Red Princess $24.95 → $32.95; Price changes at Fedco Trees: Michigan State $26 → $28.90",
+  "Nov 9: Back in stock at Raintree Nursery: Ken's Red $24.99; Back in stock at Humble Abode Nursery: Michigan State $25, Dumbarton Oaks $25; Back in stock at Blessings Grow Meadows: Anna $8, Meader $8; Back in stock at Fedco Trees: Geneva 3 $28.90, Meader $28.90; Price changes at Ison's Nursery: Issai $22.95 → $24.95, Anna $22.95 → $24.95"
+ ],
+ "sources": {
+  "directories": [
+   [
+    "U. Minnesota kiwiberry variety notes",
+    "https://fruit.umn.edu/news/choosing-kiwiberry-varieties"
+   ],
+   [
+    "cultivar.guide kiwi origins",
+    "https://cultivar.guide/kiwi"
+   ],
+   [
+    "Ohio State hardy kiwi fact sheet",
+    "https://ohioline.osu.edu/factsheet/hyg-1426"
+   ]
+  ],
+  "checked_no_named_stock": [
+   "Hartmann's Plant Company (MI, wholesale only)",
+   "Grandpa's Orchard (Coloma, MI — apples/pears/stone fruit only, no kiwi)",
+   "St. Lawrence Nurseries (Potsdam, NY — no kiwi in current catalog)",
+   "Richardson Roots (Charlotte, NC area — no kiwi found in catalog)",
+   "Hidden Springs Nursery (Cookeville, TN — no kiwi in shop listing)",
+   "Maya Gardens, Inc. (mayagardensinc.com — sells only a generic unnamed Actinidia arguta female, no named cultivar)",
+   "Victory Nursery (Bay Area, CA — sells Issai only as a $109 male+female combo, local delivery only within the Bay Area, does not ship to NJ)",
+   "Hicks Nurseries (Long Island, NY — Plant Finder is informational only; no named cultivar, price, or stock shown; special-order via phone)",
+   "Lone Star Growers / Lone Star Nursery (Austin, TX — sells only an unnamed male pollinator, no named female; local delivery only, does not ship by mail)",
+   "Phoenix Perennials (Richmond, BC, Canada — sells a named 'Hardy Red' Actinidia arguta, but the listing is pickup/local-shipping focused with no confirmed shipping to the US)",
+   "Pense Berry Farm (penseberryfarm.com) — Ken's Red hardy kiwi product page now 404s; homepage lists berries/grapes/currants/elderberry/honeyberry/asparagus/strawberries/blueberries/figs/tayberries/apples with no kiwi; dropped from catalog",
+   "Red Panda Nursery (redpandanursery.com) — full site sitemap (500+ products) has no Actinidia/kiwi entries; the one kiwi product URL found via search still 409s on every fetch attempt across 4 nights",
+   "Horsford Gardens and Nursery (horsfordnursery.com, VT) — lists Actinidia arguta 'Issai' but checkout shows pickup/local delivery only; no confirmed mail shipping or price found.",
+   "BambooPlants.ca (Ontario, Canada — sells a named 'Hardy Red Kiwi' but no confirmed US/NJ shipping found)",
+   "St. Clair Township (stclairtownship.ca, Ontario, Canada — municipal-domain storefront selling 'Issai'; no verifiable nursery details or confirmed US shipping)",
+   "SymbiOp Garden Shop (Portland, OR — sells Ken's Red hardy kiwi but sold out in both sizes; in-store pickup only, does not ship)",
+   "Whiffletree Farm and Nursery (whiffletreefarmandnursery.ca, Ontario — sells Chang Bai, Geneva 3, Meader and Michigan State bareroot arguta, all currently out of stock, and does not ship outside Canada per CFIA regulations)",
+   "Tradewinds Fruit (tradewindsfruit.com) — sells only hardy kiwi seeds, not plants",
+   "NVK Nurseries (Dundas, ON, Canada) — generic unnamed Actinidia kolomikta female/male only; account login required for price/stock; no confirmed US shipping.",
+   "Prairie Gardens (Bon Accord, AB, Canada) — sells Issai hardy kiwi in stock at $39.95 but is a Canadian garden centre with pickup/local delivery focus; no confirmed shipping to NJ.",
+   "Peaceful Heritage Nursery (Stanford, KY) — sells apple, fig, jujube, mulberry, peach, pear, persimmon, plum, pomegranate, grape, hardy passionfruit, muscadine; no kiwi in catalog.",
+   "Agri-Starts (agri-starts.com) — wholesale tissue-culture propagator, not a retail source for home gardeners; site unreachable to confirm further.",
+   "Briggs Nursery (briggsnursery.com, Elma, WA) — wholesale/trade propagator supplying liners, plugs and garden centers; no retail product listing or price found for hardy kiwi, Oct 9, 2026.",
+   "Dave Wilson Nursery (davewilson.com) — wholesale only (\"We do not accept direct sales to consumers\"); lists Ken's Red but no public retail price or stock.",
+   "Bright Lane Gardens (brightlanegardens.com, Lake Ann, MI) — sells Michigan State (MSU) hardy kiwi for local pickup only in Northern Michigan, no shipping; its Anna/Issai links are third-party Stark Bros affiliate links, not their own stock.",
+   "Arts Nursery (artsnursery.com, Woodland, WA) — site search shows no hardy kiwi/Actinidia listings; categories are Dahlia Tubers, Lily Bulbs, Roses, Herb Seeds, Edibles Grown From Bulbs.",
+   "Wasco Nursery (plants.wasconursery.com, Ohio garden centers) — plant information page only for generic Actinidia arguta; no named cultivar, no online ordering or shipping.",
+   "Grimm's Gardens (grimmsgardens.com, Hiawatha, KS) — Arctic Beauty male kolomikta page shows no price or stock; kiwi not in its fruit-plants category; excludes CA, AK, HI",
+   "Hartmann's Plant Company retail pages (hartmannsplantcompany.com/retail) — retail Meader, Issai, Ana and Geneva 3 kiwiberries show $10–14.60 but no stock figure or shipping terms; Add to Cart not confirmed (checked Oct 14)",
+   "Silver Creek Nursery (silvercreeknursery.ca, Canada) — Arctic and hardy kiwis only as bare-root with flat-rate shipping across Canada; no named cultivars, prices or US shipping shown",
+   "Plantlust (plantlust.com) — plant-info marketplace listing Phoenix Perennials and Lael's Moon Garden; not a seller itself, no price or stock shown; Lael's Moon Garden page showed no kiwi listings or location",
+   "Fast-Growing Trees (fast-growing-trees.com) — redirects to Trees.com, already on file",
+   "Little Red General Store (littleredgeneralstore.com) — Geneva 3 kiwi $25 sold out; ships from Pense Berry Farm (AR) Nov–May with a $150 order minimum, NJ not addressed",
+   "Quackin' Grass Nursery (Brooklyn, CT) — Arctic Beauty male kolomikta page showed no price or stock; NJ shipping not confirmed",
+   "Friends School Plant Sale (St. Paul, MN) — lists Geneva 3 at $11 but is an in-person spring sale (May 7–9, 2027); no mail shipping shown"
+  ],
+  "dead": [
+   "Cloud Mountain Farm Center (cloudmountainfarmcenter.org) — site states it \"is currently closed and no longer accepting orders\""
+  ],
+  "to_check": [
+   "One Green World: silver vine kiwis Hot Pepper, Pavel, Vera's Pride and Pilosula kiwi listed, not on file",
+   "Planting Justice: Allison, Japan 86, Kramer, Male/Rossy hardy kiwi listed (sold out), not on file",
+   "One Green World: 'Hot Pepper', 'Pavel', 'Vera's Pride' silver vine kiwis and 'Pilosula' listed, not on file",
+   "Raintree: kiwi varieties 'Jenny', 'Hayward' (fuzzy), 'Saanichton', 'Arctic Beauty' listed, not on file"
+  ]
+ },
+ "nurseries": [
+  {
+   "id": "edible-landscaping",
+   "name": "Edible Landscaping",
+   "location": "Afton, VA",
+   "state": "VA",
+   "url": "https://ediblelandscaping.com/collections/hardy-kiwi",
+   "shipping": {
+    "type": "percent",
+    "confirmed": true,
+    "min": 15,
+    "tiers": [
+     [
+      25,
+      0.9
+     ],
+     [
+      50,
+      0.69
+     ],
+     [
+      125,
+      0.49
+     ],
+     [
+      400,
+      0.36
+     ],
+     [
+      1000,
+      0.34
+     ],
+     [
+      3000,
+      0.32
+     ]
+    ],
+    "source": "https://ediblelandscaping.com/pages/shipping-cost"
+   },
+   "note": "“From” prices are the smallest size offered; larger potted vines cost more. Also sells an unnamed “Hardy Male Kiwi” ($18+)."
+  },
+  {
+   "id": "logees",
+   "name": "Logee's",
+   "location": "Danielson, CT",
+   "state": "CT",
+   "url": "https://www.logees.com/collections/hardy-kiwi",
+   "shipping": {
+    "type": "table",
+    "confirmed": true,
+    "table": [
+     [
+      15,
+      11.95
+     ],
+     [
+      30,
+      13.95
+     ],
+     [
+      45,
+      15.95
+     ],
+     [
+      60,
+      17.95
+     ],
+     [
+      80,
+      19.95
+     ],
+     [
+      100,
+      22.95
+     ],
+     [
+      125,
+      25.95
+     ],
+     [
+      150,
+      28.95
+     ]
+    ],
+    "over_pct": 0.2,
+    "source": "https://www.logees.com/pages/shippingcharges"
+   },
+   "note": "4-inch pots. Also sells female + male pairs: ‘Anna’ & ‘Clark’ or ‘Ken's Red’ & ‘Clark’ for $29.95 a set."
+  },
+  {
+   "id": "stark-bros",
+   "name": "Stark Bro's Nurseries",
+   "location": "Louisiana, MO",
+   "state": "MO",
+   "url": "https://www.starkbros.com/products/berry-plants/kiwi-berry-vines",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 15.99,
+    "high": 17.99,
+    "source": "https://www.starkbros.com/about/order-and-shipping-policies",
+    "note": "No published rate table; product pages have shown $15.99–$17.99 shipping per order."
+   },
+   "note": "Also sells an unnamed “Hardy Kiwi Pollinator” male ($23.99)."
+  },
+  {
+   "id": "raintree",
+   "name": "Raintree Nursery",
+   "location": "Morton, WA",
+   "state": "WA",
+   "url": "https://raintreenursery.com/collections/kiwi",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 15,
+    "high": 25
+   },
+   "note": "Also sells an unnamed “Male Hardy Kiwi” ($22.99+, in stock Sep 25)."
+  },
+  {
+   "id": "tripple-brook",
+   "name": "Tripple Brook Farm",
+   "location": "Southampton, MA",
+   "state": "MA",
+   "url": "https://tripplebrookfarm.com/product/hardy-kiwi-fruit-actinidia-arguta/",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 15,
+    "high": 25
+   },
+   "note": "Ships in active growth in 1-quart pots; fall shipping by zone, colder regions first. The page lists every cultivar in one $18–$24 range with no per-cultivar stock, so $24 is used as a ceiling.",
+   "unreadable": {
+    "since": "2026-10-12",
+    "nights": 11,
+    "last": "2026-11-09",
+    "reason": "no per-variety prices"
+   }
+  },
+  {
+   "id": "one-green-world",
+   "name": "One Green World",
+   "location": "Molalla, OR",
+   "state": "OR",
+   "url": "https://onegreenworld.com/product-category/vines/kiwis/hardy-kiwis/",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 20,
+    "high": 25,
+    "source": "https://onegreenworld.com/shipping-information/",
+    "note": "Shipping is “approximately $20–$25 depending on the destination state”, more for tall or heavy plants (UPS, from Portland OR)."
+   },
+   "note": "Published $25 flat rate to the East Coast. Every hardy kiwi showed “Join Waitlist” on Sep 25; ships in fall."
+  },
+  {
+   "id": "isons",
+   "name": "Ison's Nursery",
+   "location": "Brooks, GA",
+   "state": "GA",
+   "url": "https://www.isons.com/shop/specialty-fruits/kiwi/hardy-kiwi/kens-red-hardy-kiwi-plant/",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 15,
+    "high": 25
+   },
+   "note": "Kiwi plants ship mid-January through April; colder states from late March."
+  },
+  {
+   "id": "burnt-ridge",
+   "name": "Burnt Ridge Nursery",
+   "location": "Onalaska, WA",
+   "state": "WA",
+   "url": "https://www.burntridgenursery.com/Hardy-Kiwi/products/25/",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 15,
+    "high": 25
+   },
+   "note": "Prices and stock weren't readable on Sep 25.",
+   "unreadable": {
+    "since": "2026-10-15",
+    "nights": 6,
+    "last": "2026-11-09",
+    "reason": "no per-variety prices"
+   }
+  },
+  {
+   "id": "willis-orchards",
+   "name": "Willis Orchards",
+   "location": "Cartersville, GA",
+   "state": "GA",
+   "url": "https://www.willisorchards.com/category/kiwi",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 15,
+    "high": 25
+   },
+   "note": "Stock status not shown on the category page."
+  },
+  {
+   "id": "nature-hills",
+   "name": "Nature Hills Nursery",
+   "location": "Omaha, NE",
+   "state": "NE",
+   "url": "https://www.naturehills.com/issai-hardy-kiwi",
+   "shipping": {
+    "type": "table",
+    "confirmed": true,
+    "table": [
+     [
+      50,
+      9.99
+     ],
+     [
+      99.99,
+      14.99
+     ],
+     [
+      149.99,
+      16.99
+     ],
+     [
+      198.99,
+      24.99
+     ]
+    ],
+    "over_pct": 0.0,
+    "source": "https://naturehills.com/pages/delivery-and-shipping"
+   },
+   "note": "Orders over $199 ship free."
+  },
+  {
+   "id": "food-forest-nursery",
+   "name": "Food Forest Nursery",
+   "location": "unknown, US",
+   "state": null,
+   "url": "https://www.foodforestnursery.com/product/issai-hardy-kiwi-female/",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 15,
+    "high": 25
+   },
+   "note": "Free shipping on orders over $250; no published rate below that."
+  },
+  {
+   "id": "east-hill-tree-farm",
+   "name": "East Hill Tree Farm",
+   "location": "Plainfield, VT",
+   "state": "VT",
+   "url": "https://easthilltreefarm.com/products/hardy-kiwi-potted-vine",
+   "shipping": {
+    "type": "pickup"
+   },
+   "note": "Local pickup only in Plainfield, VT — does not ship plants."
+  },
+  {
+   "id": "northeast-edible-nursery",
+   "name": "Northeast Edible Nursery",
+   "location": "unknown, NJ",
+   "state": "NJ",
+   "url": "https://www.northeastediblenursery.com/product/hardy-kiwi-bundle/",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 15,
+    "high": 25
+   },
+   "note": "Sells hardy kiwi only as a $50 four-plant bundle (Issai, Anna, Geneva, Meader) with no per-plant pricing; the bundle was out of stock on Sep 27."
+  },
+  {
+   "id": "humble-abode",
+   "name": "Humble Abode Nursery",
+   "location": "Ashfield, MA",
+   "state": "MA",
+   "url": "https://humbleabodenursery.com/product/hardy-kiwi/",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 15,
+    "high": 25
+   },
+   "note": "All named hardy kiwi varieties priced at $25 flat. Free shipping over $225 (site policy page not itemized)."
+  },
+  {
+   "id": "spring-hill",
+   "name": "Spring Hill Nurseries",
+   "location": "Fort Wayne, IN",
+   "state": "IN",
+   "url": "https://springhillnursery.com/products/hardy-kiwi-pair",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 15,
+    "high": 25
+   },
+   "note": "Sells 'Ogden Point' hardy kiwi only as a female + unnamed male pollinator pair ($39.99/pair); no per-plant price. Free shipping on orders $125+."
+  },
+  {
+   "id": "cornell-farm",
+   "name": "Cornell Farm",
+   "location": "Portland, OR",
+   "state": "OR",
+   "url": "https://cornellfarms.com/products/kiwi-arguta-issai-5gal-actinidia",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 15,
+    "high": 25
+   },
+   "note": "Primarily store pickup/local delivery (Portland Metro); mail-order shipping terms not clearly published."
+  },
+  {
+   "id": "hand-picked-nursery",
+   "name": "Hand Picked Nursery",
+   "location": "Benson, NC",
+   "state": "NC",
+   "url": "https://www.handpickednursery.com/products/hardy-kiwi-actinidia-arguta-issai-pre-sale",
+   "shipping": {
+    "type": "included",
+    "confirmed": true,
+    "source": "https://www.handpickednursery.com/products/hardy-kiwi-actinidia-arguta-issai-pre-sale"
+   },
+   "note": "Site states \"Free Domestic Shipping.\" Pre-sale listing; sizes from 1 to 10 plants."
+  },
+  {
+   "id": "wellspring-gardens",
+   "name": "Wellspring Gardens",
+   "location": "Lakeland, FL",
+   "state": "FL",
+   "url": "https://wellspringgardens.com/products/kiwi-actinidia-arguta-issai",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 15,
+    "high": 25
+   },
+   "note": "Ships to all 48 contiguous states from Lakeland, FL. Free delivery on orders over $60; per-order rate below that not published."
+  },
+  {
+   "id": "new-earth-nursery",
+   "name": "New Earth Nursery",
+   "location": "Piedmont region, GA",
+   "state": "GA",
+   "url": "https://newearthnursery.com/products/kens-red-hardy-kiwi-actinidia-arguta-kens-red",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 15,
+    "high": 25
+   },
+   "note": "Does not ship to CA, HI, AZ, ID or AK (ships to NJ). Rate calculated in cart; not itemized."
+  },
+  {
+   "id": "hirts-gardens",
+   "name": "Hirt's Gardens",
+   "location": "Wadsworth, OH",
+   "state": "OH",
+   "url": "https://hirts.com/issai-kiwi-vine-hardy-self-fruitful-female-variety-easy-to-grow-2-5-pot/",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 15,
+    "high": 25
+   },
+   "note": "Shipping calculated at checkout by weight and destination; no flat rate published."
+  },
+  {
+   "id": "pixies-gardens",
+   "name": "Pixies Gardens",
+   "location": "Conyers, GA",
+   "state": "GA",
+   "url": "https://www.pixiesgardens.com/products/issai-hardy-kiwi-vine-grown-for-its-attractive-foliage-and-edible-grape-sized-fruit",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 20.99,
+    "high": 46.99
+   },
+   "note": "Published ground-shipping table runs $20.99-$46.99 by order total (free over $99); exact single-plant rate not itemized."
+  },
+  {
+   "id": "planting-justice",
+   "name": "Planting Justice",
+   "location": "Oakland, CA",
+   "state": "CA",
+   "url": "https://plantingjustice.org/collections/hardy-kiwi-actinidia-arguta",
+   "shipping": {
+    "type": "percent",
+    "confirmed": true,
+    "min": 0,
+    "plus": 20,
+    "tiers": [
+     [
+      999999,
+      0.3
+     ]
+    ],
+    "source": "https://plantingjustice.org/policies/shipping-policy",
+    "note": "East of the Rockies: $20 + 30% of the order (West: $17 + 25%)."
+   },
+   "note": "Published East Coast rate is $20 flat + 30% of order subtotal (ships Mon/Tue only via UPS Ground); for a single $15 plant that works out to about $24.50.",
+   "source": "https://plantingjustice.org/pages/help"
+  },
+  {
+   "id": "trees-com",
+   "name": "Trees.com",
+   "location": "unknown, US",
+   "state": null,
+   "url": "https://www.trees.com/products/anna-meader-hardy-kiwi-vine",
+   "shipping": {
+    "type": "table",
+    "confirmed": true,
+    "table": [
+     [
+      99,
+      19.95
+     ]
+    ],
+    "over_pct": 0.0,
+    "source": "https://www.trees.com/products/anna-meader-hardy-kiwi-vine"
+   },
+   "note": "Sells 'Anna' & 'Meader' only as a single $46.95 two-plant pair (one female, one male); no per-plant price. Free shipping over $99, otherwise $19.95. Does not ship to AK, AZ, HI (ships to NJ)."
+  },
+  {
+   "id": "sowexotic",
+   "name": "SowExotic",
+   "location": "unknown, US",
+   "state": null,
+   "url": "https://sowexotic.com/products/kiwi-prolific-actinidia-arguta",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 15,
+    "high": 25
+   },
+   "note": "Shipping calculated at checkout; allow 30-40 days from order to shipment."
+  },
+  {
+   "id": "plant-detectives",
+   "name": "Plant Detectives",
+   "location": "unknown, NJ",
+   "state": "NJ",
+   "url": "https://plantdetectives.com/products/kens-red-hardy-kiwi",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 15,
+    "high": 25
+   },
+   "note": "Phone area code (908) suggests a NJ base; site advertises “Nationwide plant shipping,” no itemized rate found. Also sells an unnamed “Hardy Kiwi (Male)” ($24.99, out of stock)."
+  },
+  {
+   "id": "classy-groundcovers",
+   "name": "Classy Groundcovers",
+   "location": "unknown, US",
+   "state": null,
+   "url": "https://classygroundcovers.com/product/200055",
+   "shipping": {
+    "type": "included",
+    "confirmed": true,
+    "source": "https://classygroundcovers.com/product/200055"
+   },
+   "note": "Site states “FREE SHIPPING!” and lists NJ among states it ships to. Stock signal on the Issai page was contradictory (an “in stock” label alongside an out-of-stock/restock note), and its 2-gallon price is well above other sellers’, so left unconfirmed."
+  },
+  {
+   "id": "blessings-grow-meadows",
+   "name": "Blessings Grow Meadows",
+   "location": "Metter, GA",
+   "state": "GA",
+   "url": "https://blessingsgrowmeadows.com/products/hardy-kiwi-live-plants-actinidia-arguta-anna-female-meader-male-edible-fruit-vine",
+   "shipping": {
+    "type": "flat",
+    "confirmed": true,
+    "amount": 8.99,
+    "source": "https://blessingsgrowmeadows.com/products/hardy-kiwi-live-plants-actinidia-arguta-anna-female-meader-male-edible-fruit-vine"
+   },
+   "note": "Free shipping on orders $75+; otherwise $8.99 flat. Ships to NJ."
+  },
+  {
+   "id": "sarvodaya-nursery",
+   "name": "Sarvodaya Farms & Nursery",
+   "location": "Pomona, CA",
+   "state": "CA",
+   "url": "https://sarvodayainstitute.org/products/kiwi-kens-red-hardy",
+   "shipping": {
+    "type": "estimate",
+    "confirmed": false,
+    "low": 15,
+    "high": 25
+   },
+   "note": "Shippable 'Large Tree Pot' size sold out ($40); a 5-gallon size is in-store pickup only. No shipping destinations or rates published, so NJ coverage is unconfirmed."
+  },
+  {
+   "id": "rohrs-nursery",
+   "name": "Rohr's Nursery",
+   "location": "Canton & Massillon, OH",
+   "state": "OH",
+   "url": "https://rohrsnursery.com/shop/perennial-211530/prolific-kiwi-actinidia-arguta-prolific-3-gallon/",
+   "note": "Free shipping nationwide; excludes AK, HI, MT, ID.",
+   "shipping": {
+    "type": "included",
+    "confirmed": true,
+    "source": "https://rohrsnursery.com/shop/perennial-211530/prolific-kiwi-actinidia-arguta-prolific-3-gallon/"
+   },
+   "excluded_states": [
+    "AK",
+    "HI",
+    "MT",
+    "ID"
+   ]
+  },
+  {
+   "id": "grow-organic",
+   "name": "Grow Organic (Peaceful Valley)",
+   "location": "Grass Valley, CA",
+   "state": "CA",
+   "url": "https://www.groworganic.com/collections/kiwi-vines/products/kiwi-iissai-hardy-kiwi-potted-vine",
+   "shipping": {
+    "type": "estimate",
+    "low": 15,
+    "high": 25
+   }
+  },
+  {
+   "id": "romence-gardens",
+   "name": "Romence Gardens",
+   "location": "Zeeland, MI",
+   "state": "MI",
+   "url": "https://romencegardens.com/products/actinidia-arguta-issai",
+   "shipping": {
+    "type": "estimate",
+    "low": 15,
+    "high": 25
+   }
+  },
+  {
+   "id": "indiana-berry",
+   "name": "Indiana Berry & Plant Co.",
+   "location": "Plymouth, IN",
+   "state": "IN",
+   "url": "https://www.indianaberry.com/novelty-plants/kiwi.html",
+   "shipping": {
+    "type": "estimate",
+    "low": 15,
+    "high": 25
+   },
+   "unreadable": {
+    "since": "2026-10-29",
+    "nights": 3,
+    "last": "2026-11-09",
+    "reason": "would not load"
+   }
+  },
+  {
+   "id": "honeyberry-usa",
+   "name": "Honeyberry USA",
+   "location": "Bagley, MN",
+   "state": "MN",
+   "url": "https://www.honeyberryusa.com/honeyberry-plants-5.html",
+   "shipping": {
+    "type": "estimate",
+    "low": 15,
+    "high": 25
+   },
+   "note": "Ships spring (Apr–May) and fall (mid-Oct–early Nov) windows only."
+  },
+  {
+   "id": "berries-unlimited",
+   "name": "Berries Unlimited USA",
+   "location": "Prairie Grove, AR",
+   "state": "AR",
+   "url": "https://www.berriesunlimited.com/",
+   "note": "Tissue-cultured plants; also sells fuzzy kiwi (out of scope) and wholesale berries.",
+   "shipping": {
+    "type": "estimate",
+    "low": 15,
+    "high": 25
+   }
+  },
+  {
+   "id": "broken-arrow",
+   "name": "Broken Arrow Nursery",
+   "location": "Hamden, CT",
+   "state": "CT",
+   "url": "https://brokenarrownursery.com/actinidia-arguta-issai-issai-hardy-bower-kiwi.html",
+   "shipping": {
+    "type": "estimate",
+    "low": 15,
+    "high": 25
+   },
+   "excluded_states": [
+    "AK",
+    "AZ",
+    "CA",
+    "CO",
+    "FL",
+    "HI",
+    "ID",
+    "MT",
+    "NV",
+    "OR",
+    "UT",
+    "WA"
+   ]
+  },
+  {
+   "id": "scenic-hill-farm",
+   "name": "Scenic Hill Farm Nursery",
+   "location": "Albany, OR",
+   "state": "OR",
+   "url": "https://scenichillfarmnursery.com/products/issai-kiwi-actinidia-arguta-issai-1",
+   "shipping": {
+    "type": "included",
+    "confirmed": true,
+    "source": "https://scenichillfarmnursery.com/products/issai-kiwi-actinidia-arguta-issai-1"
+   },
+   "note": "Site states free shipping to most locations; orders are held when destination temperature is above 89°F or below 20°F. Pot size not listed."
+  },
+  {
+   "id": "fedco-trees",
+   "name": "Fedco Trees",
+   "location": "Waterville, ME",
+   "state": "ME",
+   "url": "https://fedcoseeds.com/trees/kiwiberries",
+   "shipping": {
+    "type": "estimate",
+    "low": 15,
+    "high": 25
+   },
+   "note": "Spring-ship bare-root only. Fedco's restrictions page lists no kiwi or NJ restriction for plants (NJ: roses only). Product pages show no cart button or sold-out label this fall, so stock is unconfirmed."
+  }
+ ],
+ "varieties": [
+  {
+   "id": "anna",
+   "fruit": "kiwi",
+   "name": "Anna",
+   "sex": "female",
+   "species": "arguta",
+   "color": "green",
+   "tags": [
+    "Female"
+   ],
+   "aliases": [
+    "Ananasnaya",
+    "Annanasnaja",
+    "Ana"
+   ],
+   "summary": "The classic Russian hardy kiwi; sweet, aromatic grape-sized fruit. Needs a male.",
+   "description": "Originated in Russia as ‘Ananasnaya’ (“pineapple-like”). One of the most widely grown hardy kiwis in North America, with smooth-skinned, grape-sized green fruit and a sweet, aromatic, tropical flavor; ripens late. Needs a male pollinator nearby.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "issai",
+   "fruit": "kiwi",
+   "name": "Issai",
+   "sex": "self",
+   "species": "arguta",
+   "color": "green",
+   "tags": [
+    "Self-fertile"
+   ],
+   "aliases": [],
+   "summary": "Self-fertile Japanese hardy kiwi: one vine can fruit on its own.",
+   "description": "Originated in Japan. The only widely sold hardy kiwi that sets fruit without a male, on a smaller vine that bears in 2–3 years. Grape-sized green fruit with tropical flavor; less cold-hardy than most in University of Minnesota trials, which isn't a concern in zone 6b.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "kens-red",
+   "fruit": "kiwi",
+   "name": "Ken's Red",
+   "sex": "female",
+   "species": "hybrid",
+   "color": "red",
+   "tags": [
+    "Female",
+    "Hybrid"
+   ],
+   "aliases": [],
+   "summary": "Red-skinned hardy kiwi with some of the largest fruit of the type. Needs a male.",
+   "description": "A hybrid listed by Logee's as Actinidia purpurea × A. melanandra. Large fruit with red skin and red-blushed flesh and a sweet, rich flavor, eaten skin and all. Needs a male hardy kiwi pollinator.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "dumbarton-oaks",
+   "fruit": "kiwi",
+   "name": "Dumbarton Oaks",
+   "sex": "female",
+   "species": "arguta",
+   "color": "green",
+   "tags": [
+    "Female"
+   ],
+   "aliases": [],
+   "summary": "Early hardy kiwi from Georgetown, DC; ribbed fruit like mini pumpkins.",
+   "description": "Selected at Georgetown in Washington, DC. Light green, flattish, ribbed fruit that looks like tiny pumpkins, ripening early (September–October) compared with other hardy kiwis. Needs a male.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "geneva",
+   "fruit": "kiwi",
+   "name": "Geneva",
+   "sex": "female",
+   "species": "arguta",
+   "color": "green",
+   "tags": [
+    "Female"
+   ],
+   "aliases": [],
+   "summary": "Early, sweet hardy kiwi selected in Geneva, New York.",
+   "description": "Selected in Geneva, New York. An early-ripening hardy kiwi with sweet green fruit; a common choice for the Northeast. Needs a male.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "geneva-3",
+   "fruit": "kiwi",
+   "name": "Geneva 3",
+   "sex": "female",
+   "species": "arguta",
+   "color": "green",
+   "tags": [
+    "Female"
+   ],
+   "aliases": [],
+   "summary": "Numbered Geneva selection with tropical-flavored green fruit.",
+   "description": "A numbered selection in the Geneva line. Green fruit with tropical flavors; University of Minnesota lists ‘Meader’ as its pollinator.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "michigan-state",
+   "fruit": "kiwi",
+   "name": "Michigan State",
+   "sex": "female",
+   "species": "arguta",
+   "color": "green",
+   "tags": [
+    "Female"
+   ],
+   "aliases": [
+    "MSU"
+   ],
+   "summary": "Large-fruited hardy kiwi, often sold as MSU.",
+   "description": "Sold as ‘Michigan State’ or ‘MSU’; one of the cultivars in Ohio State University's hardy kiwi trials. Large green fruit. Needs a male.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "fortyniner",
+   "fruit": "kiwi",
+   "name": "Fortyniner",
+   "sex": "female",
+   "species": "arguta",
+   "color": "green",
+   "tags": [
+    "Female"
+   ],
+   "aliases": [],
+   "summary": "Hardy kiwi developed in Chico, California.",
+   "description": "Developed in Chico, California. Green, grape-sized fruit; limited independent detail gathered so far. Needs a male.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "cordifolia",
+   "fruit": "kiwi",
+   "name": "Cordifolia",
+   "sex": "female",
+   "species": "arguta",
+   "color": "green",
+   "tags": [
+    "Female"
+   ],
+   "aliases": [
+    "Early Cordifolia"
+   ],
+   "summary": "Early-ripening hardy kiwi; part of Ohio State's trials.",
+   "description": "Sold as ‘Cordifolia’ or ‘Early Cordifolia’; included in Ohio State University's hardy kiwi trials. Early-ripening green fruit. Needs a male.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "arbor-eat-um",
+   "fruit": "kiwi",
+   "name": "Arbor-Eat-Um",
+   "sex": "female",
+   "species": "arguta",
+   "color": "green",
+   "tags": [
+    "Female"
+   ],
+   "aliases": [
+    "NA-7"
+   ],
+   "summary": "Numbered selection NA-7, sold by Edible Landscaping.",
+   "description": "Sold by Edible Landscaping as ‘Arbor-Eat-Um’ (selection NA-7). Limited independent detail gathered so far. Needs a male.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "fifty-five",
+   "fruit": "kiwi",
+   "name": "Fifty-Five",
+   "sex": "female",
+   "species": "arguta",
+   "color": "green",
+   "tags": [
+    "Female"
+   ],
+   "aliases": [],
+   "summary": "Hardy kiwi sold by Edible Landscaping; limited public detail.",
+   "description": "A female hardy kiwi sold by Edible Landscaping. Limited independent detail gathered so far. Needs a male.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "jumbo",
+   "fruit": "kiwi",
+   "name": "Jumbo",
+   "sex": "female",
+   "species": "arguta",
+   "color": "green",
+   "tags": [
+    "Female"
+   ],
+   "aliases": [],
+   "summary": "Italian hardy kiwi with large, elongated fruit.",
+   "description": "Originated in Italy. Named for its large, elongated fruit, bigger than most hardy kiwis. Needs a male.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "prolific",
+   "fruit": "kiwi",
+   "name": "Prolific",
+   "sex": "female",
+   "species": "arguta",
+   "color": "green",
+   "tags": [
+    "Female"
+   ],
+   "aliases": [],
+   "summary": "Heavy-bearing hardy kiwi; part of Ohio State's trials.",
+   "description": "A heavy-bearing hardy kiwi named for its crops; included in Ohio State University's hardy kiwi trials. Needs a male.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "chang-bai",
+   "fruit": "kiwi",
+   "name": "Chang Bai",
+   "sex": "female",
+   "species": "arguta",
+   "color": "green",
+   "tags": [
+    "Female"
+   ],
+   "aliases": [
+    "Chang Bai Giant",
+    "Chung Bai",
+    "Changbai Mountain"
+   ],
+   "summary": "Large hardy kiwi selected in China near the North Korean border.",
+   "description": "A seedling of ‘Qui’ selected in China near the border with North Korea; sold as ‘Chang Bai’ or ‘Chang Bai Giant’ for its large fruit. Needs a male.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "hardy-red",
+   "fruit": "kiwi",
+   "name": "Hardy Red",
+   "sex": "female",
+   "species": "arguta",
+   "color": "red",
+   "tags": [
+    "Female"
+   ],
+   "aliases": [],
+   "summary": "Red-fleshed hardy kiwi: fruit turns from green to deep red.",
+   "description": "A red-fleshed hardy kiwi whose fruit starts green and develops a deep red color as it ripens. Less cold-hardy in University of Minnesota trials, which isn't a concern in zone 6b. Needs a male.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "natasha",
+   "fruit": "kiwi",
+   "name": "Natasha",
+   "sex": "female",
+   "species": "arguta",
+   "color": "green",
+   "tags": [
+    "Female"
+   ],
+   "aliases": [],
+   "summary": "Russian hardy kiwi from Vladivostok; sweet, mango-tropical flavor.",
+   "description": "Originated near Vladivostok, Russia. Round green fruit (about 13–16 g) with a sweet, mango-tropical flavor; showed reliable cold hardiness and production in University of Minnesota trials. Needs a male (‘Andrey’ is sold as its partner).",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "tatyana",
+   "fruit": "kiwi",
+   "name": "Tatyana",
+   "sex": "female",
+   "species": "arguta",
+   "color": "green",
+   "tags": [
+    "Female"
+   ],
+   "aliases": [],
+   "summary": "Russian hardy kiwi; sweet, round green fruit, reliably cold-hardy.",
+   "description": "A Russian hardy kiwi with round, sweet green fruit (about 13–16 g) that showed reliable cold hardiness and production in University of Minnesota trials. Needs a male.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "rossana",
+   "fruit": "kiwi",
+   "name": "Rossana",
+   "sex": "female",
+   "species": "arguta",
+   "color": "green",
+   "tags": [
+    "Female"
+   ],
+   "aliases": [],
+   "summary": "Italian hardy kiwi selection.",
+   "description": "Selected in Italy. Limited independent detail gathered so far. Needs a male.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "silver-lining",
+   "fruit": "kiwi",
+   "name": "Silver Lining",
+   "sex": "female",
+   "species": "arguta",
+   "color": "green",
+   "tags": [
+    "Female"
+   ],
+   "aliases": [],
+   "summary": "Variegated hardy kiwi grown for its foliage as well as fruit.",
+   "description": "A female hardy kiwi with variegated leaves, sold by One Green World as much for its ornamental foliage as its fruit. Needs a male.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "meader-female",
+   "fruit": "kiwi",
+   "name": "Meader Female",
+   "sex": "female",
+   "species": "arguta",
+   "color": "green",
+   "tags": [
+    "Female"
+   ],
+   "aliases": [],
+   "summary": "Female counterpart sold under the Meader name by One Green World.",
+   "description": "A female hardy kiwi sold by One Green World as ‘Meader Female’, separate from the well-known ‘Meader’ male pollinator. Limited independent detail. Needs a male.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "74-49",
+   "fruit": "kiwi",
+   "name": "74-49",
+   "sex": "female",
+   "species": "arguta",
+   "color": "green",
+   "tags": [
+    "Female"
+   ],
+   "aliases": [],
+   "summary": "Numbered female selection sold by Tripple Brook Farm.",
+   "description": "A numbered female selection sold by Tripple Brook Farm. Limited independent detail gathered so far. Needs a male.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "september-sun",
+   "fruit": "kiwi",
+   "name": "September Sun",
+   "sex": "female",
+   "species": "kolomikta",
+   "color": "green",
+   "tags": [
+    "Female",
+    "A. kolomikta"
+   ],
+   "aliases": [],
+   "summary": "Russian kolomikta; small, very cold-hardy vine.",
+   "description": "An Actinidia kolomikta that originated in Russia. Kolomikta is the hardiest kiwi, with smaller (3–7 g) fruit and more floral, kiwi-like flavor than arguta. Needs a kolomikta male.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "krupnoplodnaya",
+   "fruit": "kiwi",
+   "name": "Krupnoplodnaya",
+   "sex": "female",
+   "species": "kolomikta",
+   "color": "green",
+   "tags": [
+    "Female",
+    "A. kolomikta"
+   ],
+   "aliases": [
+    "Krupnoplodaya",
+    "Krupnopladnaya"
+   ],
+   "summary": "Large-fruited kolomikta; reliably cold-hardy in Minnesota trials.",
+   "description": "An Actinidia kolomikta whose name means “large-fruited”; it bears on the larger side for the species (3–7 g) and was reliably cold-hardy in University of Minnesota trials. Needs a kolomikta male.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "red-beauty",
+   "fruit": "kiwi",
+   "name": "Red Beauty",
+   "sex": "female",
+   "species": "kolomikta",
+   "color": "green",
+   "tags": [
+    "Female",
+    "A. kolomikta"
+   ],
+   "aliases": [],
+   "summary": "Kolomikta sold by Tripple Brook Farm; limited public detail.",
+   "description": "An Actinidia kolomikta sold by Tripple Brook Farm. Limited independent detail gathered so far.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "emerald",
+   "fruit": "kiwi",
+   "name": "Emerald",
+   "sex": "female",
+   "species": "kolomikta",
+   "color": "green",
+   "tags": [
+    "Female",
+    "A. kolomikta"
+   ],
+   "aliases": [],
+   "summary": "Female Arctic Beauty kolomikta sold by Raintree.",
+   "description": "Sold by Raintree as Emerald™ Arctic Beauty, a female Actinidia kolomikta. Needs a kolomikta male such as Pasha™.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "arctic-beauty",
+   "fruit": "kiwi",
+   "name": "Arctic Beauty",
+   "sex": "male",
+   "species": "kolomikta",
+   "color": "green",
+   "tags": [
+    "Male (pollinator)",
+    "A. kolomikta"
+   ],
+   "aliases": [],
+   "summary": "Ornamental male kolomikta with pink, white and green leaves.",
+   "description": "A male Actinidia kolomikta grown for striking pink, white and green variegated leaves; pollinates kolomikta females but bears no fruit itself. Patented (USPP 8624).",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "pasha",
+   "fruit": "kiwi",
+   "name": "Pasha",
+   "sex": "male",
+   "species": "kolomikta",
+   "color": "green",
+   "tags": [
+    "Male (pollinator)",
+    "A. kolomikta"
+   ],
+   "aliases": [],
+   "summary": "Male Arctic Beauty kolomikta pollinator.",
+   "description": "Sold as Pasha™ Arctic Beauty, a male Actinidia kolomikta that pollinates kolomikta females.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "veras-pride",
+   "fruit": "kiwi",
+   "name": "Vera's Pride",
+   "sex": "female",
+   "species": "polygama",
+   "color": "green",
+   "tags": [
+    "Female",
+    "A. polygama"
+   ],
+   "aliases": [],
+   "summary": "Female silver vine (A. polygama) sold by Raintree.",
+   "description": "A female Actinidia polygama (silver vine) sold by Raintree. Silver vine bears small, tart-to-sweet fruit and is famously attractive to cats. Needs a polygama male such as Pavel™.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "hot-pepper",
+   "fruit": "kiwi",
+   "name": "Hot Pepper",
+   "sex": "female",
+   "species": "polygama",
+   "color": "red",
+   "tags": [
+    "Female",
+    "A. polygama"
+   ],
+   "aliases": [],
+   "summary": "Female silver vine (A. polygama) sold by Raintree.",
+   "description": "A female Actinidia polygama (silver vine) sold by Raintree. Needs a polygama male.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "pavel",
+   "fruit": "kiwi",
+   "name": "Pavel",
+   "sex": "male",
+   "species": "polygama",
+   "color": "green",
+   "tags": [
+    "Male (pollinator)",
+    "A. polygama"
+   ],
+   "aliases": [],
+   "summary": "Male silver vine pollinator.",
+   "description": "A male Actinidia polygama (silver vine) sold by Raintree to pollinate silver vine females.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "meader",
+   "fruit": "kiwi",
+   "name": "Meader",
+   "sex": "male",
+   "species": "arguta",
+   "color": "green",
+   "tags": [
+    "Male (pollinator)"
+   ],
+   "aliases": [],
+   "summary": "Widely used male pollinator for hardy kiwi.",
+   "description": "A named male Actinidia arguta widely sold as a pollinator; University of Minnesota lists it for ‘Geneva 3’ and other females. Bears no fruit.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "clark",
+   "fruit": "kiwi",
+   "name": "Clark",
+   "sex": "male",
+   "species": "arguta",
+   "color": "green",
+   "tags": [
+    "Male (pollinator)"
+   ],
+   "aliases": [
+    "74-46"
+   ],
+   "summary": "Male pollinator (selection 74-46) for hardy kiwi.",
+   "description": "A male Actinidia arguta sold as ‘Clark’, also known as selection 74-46; Logee's pairs it with ‘Anna’ and ‘Ken's Red’. Bears no fruit.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "74-32",
+   "fruit": "kiwi",
+   "name": "74-32",
+   "sex": "male",
+   "species": "arguta",
+   "color": "green",
+   "tags": [
+    "Male (pollinator)"
+   ],
+   "aliases": [],
+   "summary": "Numbered male pollinator selection.",
+   "description": "A numbered male Actinidia arguta selection sold as a pollinator. Bears no fruit.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "fairchild",
+   "fruit": "kiwi",
+   "name": "Fairchild",
+   "sex": "male",
+   "species": "arguta",
+   "color": "green",
+   "tags": [
+    "Male (pollinator)"
+   ],
+   "aliases": [
+    "74-52"
+   ],
+   "summary": "Male pollinator (selection 74-52).",
+   "description": "A male Actinidia arguta sold as ‘Fairchild’, also known as selection 74-52. Bears no fruit.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "opitz",
+   "fruit": "kiwi",
+   "name": "Opitz",
+   "sex": "male",
+   "species": "arguta",
+   "color": "green",
+   "tags": [
+    "Male (pollinator)"
+   ],
+   "aliases": [],
+   "summary": "Male pollinator sold by Tripple Brook Farm.",
+   "description": "A male Actinidia arguta sold as a pollinator by Tripple Brook Farm. Bears no fruit.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "flowercloud",
+   "fruit": "kiwi",
+   "name": "Flowercloud",
+   "sex": "male",
+   "species": "arguta",
+   "color": "green",
+   "tags": [
+    "Male (pollinator)"
+   ],
+   "aliases": [],
+   "summary": "Male pollinator sold by One Green World.",
+   "description": "A male Actinidia arguta sold by One Green World as a pollinator. Bears no fruit.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-25",
+   "notes": []
+  },
+  {
+   "id": "ogden-point",
+   "fruit": "kiwi",
+   "name": "Ogden Point",
+   "sex": "female",
+   "species": "arguta",
+   "color": "green",
+   "tags": [
+    "Female"
+   ],
+   "aliases": [],
+   "summary": "Female hardy kiwi sold by Spring Hill Nurseries, paired with a male pollinator.",
+   "description": "A female Actinidia arguta sold by Spring Hill Nurseries as part of a female+male pair. Limited independent detail gathered so far. Needs a male.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-28",
+   "notes": []
+  },
+  {
+   "id": "andrey",
+   "fruit": "kiwi",
+   "name": "Andrey",
+   "sex": "male",
+   "species": "arguta",
+   "color": "green",
+   "tags": [
+    "Male (pollinator)"
+   ],
+   "aliases": [],
+   "summary": "Russian male hardy kiwi pollinator, paired with Natasha and Tatyana.",
+   "description": "A male Actinidia arguta discovered near Vladivostok, Russia alongside the female cultivars 'Natasha' and 'Tatyana', which it is especially suited to pollinate. Bears no fruit; one male can pollinate up to eight females.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-30",
+   "notes": []
+  },
+  {
+   "id": "red-princess",
+   "fruit": "kiwi",
+   "name": "Red Princess",
+   "sex": "female",
+   "species": "arguta",
+   "color": "red",
+   "tags": [
+    "Female"
+   ],
+   "aliases": [],
+   "summary": "Red-and-green-fleshed hardy kiwi sold by One Green World.",
+   "description": "A female Actinidia arguta with bright red-and-green flesh and a sweet-tart, grape-like flavor eaten skin and all. Vigorous vine hardy to -25F (USDA zones 4-9); begins bearing 3-4 years after planting, ripening September-October. Needs a male pollinator.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-09-30",
+   "notes": []
+  },
+  {
+   "id": "cherry-bomb",
+   "fruit": "kiwi",
+   "name": "Cherry Bomb",
+   "sex": "female",
+   "species": "arguta",
+   "color": "red",
+   "tags": [
+    "Female"
+   ],
+   "aliases": [
+    "Cherrybomb"
+   ],
+   "summary": "Red-fruited hardy kiwi, possibly a kolomikta cross. Needs a male.",
+   "description": "A female Actinidia arguta sold as 'Cherry Bomb' (or 'Cherrybomb'); some sellers describe it as possibly a cross with A. kolomikta. Sweet, red-skinned fruit on a vine with large, lush foliage. Needs a male hardy kiwi.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-02",
+   "notes": []
+  },
+  {
+   "id": "chico-state",
+   "fruit": "kiwi",
+   "name": "Chico State",
+   "sex": "female",
+   "species": "arguta",
+   "color": "green",
+   "tags": [
+    "Female"
+   ],
+   "aliases": [
+    "Chico"
+   ],
+   "summary": "Prolific green-fruited hardy kiwi that ripens about a week before Anna.",
+   "description": "A female Actinidia arguta sold as 'Chico State' (or 'Chico'). Described by sellers as a prolific producer of large, sweet green fruit that separates easily from the stem, ripening about a week before 'Anna'. Needs a male.",
+   "breeder": null,
+   "awards": [],
+   "first_seen": "2026-10-02",
+   "notes": []
+  }
+ ],
+ "listings": [
+  {
+   "id": "edible-landscaping--clark",
+   "variety": "clark",
+   "nursery": "edible-landscaping",
+   "status": "in_stock",
+   "price": 8.0,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://ediblelandscaping.com/collections/hardy-kiwi",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 8.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "edible-landscaping--anna",
+   "variety": "anna",
+   "nursery": "edible-landscaping",
+   "status": "in_stock",
+   "price": 8.0,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://ediblelandscaping.com/collections/hardy-kiwi",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 8.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "edible-landscaping--meader",
+   "variety": "meader",
+   "nursery": "edible-landscaping",
+   "status": "sold_out",
+   "price": 8.0,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://ediblelandscaping.com/collections/hardy-kiwi",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 8.0,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-14",
+     "price": 8.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "edible-landscaping--kens-red",
+   "variety": "kens-red",
+   "nursery": "edible-landscaping",
+   "status": "sold_out",
+   "price": 8.0,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://ediblelandscaping.com/collections/hardy-kiwi",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 8.0,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-22",
+     "price": 8.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "edible-landscaping--fortyniner",
+   "variety": "fortyniner",
+   "nursery": "edible-landscaping",
+   "status": "in_stock",
+   "price": 8.0,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://ediblelandscaping.com/collections/hardy-kiwi",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 8.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "edible-landscaping--michigan-state",
+   "variety": "michigan-state",
+   "nursery": "edible-landscaping",
+   "status": "sold_out",
+   "price": 8.0,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://ediblelandscaping.com/collections/hardy-kiwi",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 8.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "edible-landscaping--dumbarton-oaks",
+   "variety": "dumbarton-oaks",
+   "nursery": "edible-landscaping",
+   "status": "sold_out",
+   "price": 8.0,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://ediblelandscaping.com/collections/hardy-kiwi",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 8.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "edible-landscaping--74-32",
+   "variety": "74-32",
+   "nursery": "edible-landscaping",
+   "status": "in_stock",
+   "price": 8.0,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://ediblelandscaping.com/collections/hardy-kiwi",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 8.0,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-08",
+     "price": 8.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "edible-landscaping--geneva",
+   "variety": "geneva",
+   "nursery": "edible-landscaping",
+   "status": "sold_out",
+   "price": 8.0,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://ediblelandscaping.com/collections/hardy-kiwi",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 8.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "edible-landscaping--cordifolia",
+   "variety": "cordifolia",
+   "nursery": "edible-landscaping",
+   "status": "sold_out",
+   "price": 8.0,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://ediblelandscaping.com/collections/hardy-kiwi",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 8.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "edible-landscaping--fairchild",
+   "variety": "fairchild",
+   "nursery": "edible-landscaping",
+   "status": "sold_out",
+   "price": 8.0,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://ediblelandscaping.com/collections/hardy-kiwi",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 8.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "edible-landscaping--arbor-eat-um",
+   "variety": "arbor-eat-um",
+   "nursery": "edible-landscaping",
+   "status": "in_stock",
+   "price": 8.0,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://ediblelandscaping.com/collections/hardy-kiwi",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 8.0,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-08",
+     "price": 8.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "edible-landscaping--fifty-five",
+   "variety": "fifty-five",
+   "nursery": "edible-landscaping",
+   "status": "in_stock",
+   "price": 8.0,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://ediblelandscaping.com/collections/hardy-kiwi",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 8.0,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-08",
+     "price": 8.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "edible-landscaping--geneva-3",
+   "variety": "geneva-3",
+   "nursery": "edible-landscaping",
+   "status": "sold_out",
+   "price": 18.0,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://ediblelandscaping.com/collections/hardy-kiwi",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 18.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "logees--anna",
+   "variety": "anna",
+   "nursery": "logees",
+   "status": "in_stock",
+   "price": 23.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.logees.com/collections/hardy-kiwi",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 23.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "logees--kens-red",
+   "variety": "kens-red",
+   "nursery": "logees",
+   "status": "in_stock",
+   "price": 23.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.logees.com/collections/hardy-kiwi",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 23.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "logees--clark",
+   "variety": "clark",
+   "nursery": "logees",
+   "status": "in_stock",
+   "price": 23.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.logees.com/collections/hardy-kiwi",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 23.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "stark-bros--issai",
+   "variety": "issai",
+   "nursery": "stark-bros",
+   "status": "in_stock",
+   "price": 23.99,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://www.starkbros.com/products/berry-plants/kiwi-berry-vines/issai-hardy-kiwi",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 23.99,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "stark-bros--anna",
+   "variety": "anna",
+   "nursery": "stark-bros",
+   "status": "in_stock",
+   "price": 23.99,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://www.starkbros.com/products/berry-plants/kiwi-berry-vines/anna-hardy-kiwi",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 23.99,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "stark-bros--arctic-beauty",
+   "variety": "arctic-beauty",
+   "nursery": "stark-bros",
+   "status": "sold_out",
+   "price": null,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://www.starkbros.com/products/berry-plants/kiwi-berry-vines/arctic-beauty-kiwi-male",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Stark page says item no longer available"
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": null,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "raintree--anna",
+   "variety": "anna",
+   "nursery": "raintree",
+   "status": "in_stock",
+   "price": 22.99,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/collections/kiwi",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 22.99,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "Annanasnaja"
+  },
+  {
+   "id": "raintree--dumbarton-oaks",
+   "variety": "dumbarton-oaks",
+   "nursery": "raintree",
+   "status": "sold_out",
+   "price": 24.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/collections/kiwi",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 24.99,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-22",
+     "price": 24.99,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "raintree--jumbo",
+   "variety": "jumbo",
+   "nursery": "raintree",
+   "status": "sold_out",
+   "price": 24.99,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/collections/kiwi",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 24.99,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-22",
+     "price": 24.99,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "raintree--kens-red",
+   "variety": "kens-red",
+   "nursery": "raintree",
+   "status": "in_stock",
+   "price": 24.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/collections/kiwi",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 24.99,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-26",
+     "price": 24.99,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-11-09",
+     "price": 24.99,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "raintree--prolific",
+   "variety": "prolific",
+   "nursery": "raintree",
+   "status": "sold_out",
+   "price": 24.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/collections/kiwi",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 24.99,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "raintree--september-sun",
+   "variety": "september-sun",
+   "nursery": "raintree",
+   "status": "sold_out",
+   "price": 24.99,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/collections/kiwi",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 24.99,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "raintree--emerald",
+   "variety": "emerald",
+   "nursery": "raintree",
+   "status": "sold_out",
+   "price": 29.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/collections/kiwi",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 29.99,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "raintree--issai",
+   "variety": "issai",
+   "nursery": "raintree",
+   "status": "sold_out",
+   "price": 24.99,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/collections/kiwi",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 24.99,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "raintree--pasha",
+   "variety": "pasha",
+   "nursery": "raintree",
+   "status": "sold_out",
+   "price": 24.99,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/collections/kiwi",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 24.99,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "raintree--veras-pride",
+   "variety": "veras-pride",
+   "nursery": "raintree",
+   "status": "sold_out",
+   "price": 30.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/collections/kiwi",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 30.99,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "raintree--hot-pepper",
+   "variety": "hot-pepper",
+   "nursery": "raintree",
+   "status": "sold_out",
+   "price": 30.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/collections/kiwi",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 30.99,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "raintree--pavel",
+   "variety": "pavel",
+   "nursery": "raintree",
+   "status": "sold_out",
+   "price": 30.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://raintreenursery.com/collections/kiwi",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 30.99,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "tripple-brook--prolific",
+   "variety": "prolific",
+   "nursery": "tripple-brook",
+   "status": "in_stock",
+   "price": 24.0,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://tripplebrookfarm.com/product/hardy-kiwi-fruit-actinidia-arguta/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-10-11",
+   "notes": [
+    "One $18–$24 price range for every cultivar; stock per cultivar not shown."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 24.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Ships fall by zone, 1-qt pot"
+  },
+  {
+   "id": "tripple-brook--dumbarton-oaks",
+   "variety": "dumbarton-oaks",
+   "nursery": "tripple-brook",
+   "status": "in_stock",
+   "price": 24.0,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://tripplebrookfarm.com/product/hardy-kiwi-fruit-actinidia-arguta/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-10-11",
+   "notes": [
+    "One $18–$24 price range for every cultivar; stock per cultivar not shown."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 24.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Ships fall by zone, 1-qt pot"
+  },
+  {
+   "id": "tripple-brook--geneva-3",
+   "variety": "geneva-3",
+   "nursery": "tripple-brook",
+   "status": "in_stock",
+   "price": 24.0,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://tripplebrookfarm.com/product/hardy-kiwi-fruit-actinidia-arguta/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-10-11",
+   "notes": [
+    "One $18–$24 price range for every cultivar; stock per cultivar not shown."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 24.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Ships fall by zone, 1-qt pot"
+  },
+  {
+   "id": "tripple-brook--meader",
+   "variety": "meader",
+   "nursery": "tripple-brook",
+   "status": "in_stock",
+   "price": 24.0,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://tripplebrookfarm.com/product/hardy-kiwi-fruit-actinidia-arguta/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-10-11",
+   "notes": [
+    "One $18–$24 price range for every cultivar; stock per cultivar not shown."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 24.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Ships fall by zone, 1-qt pot"
+  },
+  {
+   "id": "tripple-brook--michigan-state",
+   "variety": "michigan-state",
+   "nursery": "tripple-brook",
+   "status": "in_stock",
+   "price": 24.0,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://tripplebrookfarm.com/product/hardy-kiwi-fruit-actinidia-arguta/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-10-11",
+   "notes": [
+    "One $18–$24 price range for every cultivar; stock per cultivar not shown."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 24.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Ships fall by zone, 1-qt pot"
+  },
+  {
+   "id": "tripple-brook--chang-bai",
+   "variety": "chang-bai",
+   "nursery": "tripple-brook",
+   "status": "in_stock",
+   "price": 24.0,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://tripplebrookfarm.com/product/hardy-kiwi-fruit-actinidia-arguta/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-10-11",
+   "notes": [
+    "One $18–$24 price range for every cultivar; stock per cultivar not shown."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 24.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Ships fall by zone, 1-qt pot"
+  },
+  {
+   "id": "tripple-brook--clark",
+   "variety": "clark",
+   "nursery": "tripple-brook",
+   "status": "in_stock",
+   "price": 24.0,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://tripplebrookfarm.com/product/hardy-kiwi-fruit-actinidia-arguta/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-10-11",
+   "notes": [
+    "One $18–$24 price range for every cultivar; stock per cultivar not shown."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 24.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Ships fall by zone, 1-qt pot"
+  },
+  {
+   "id": "tripple-brook--opitz",
+   "variety": "opitz",
+   "nursery": "tripple-brook",
+   "status": "in_stock",
+   "price": 24.0,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://tripplebrookfarm.com/product/hardy-kiwi-fruit-actinidia-arguta/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-10-11",
+   "notes": [
+    "One $18–$24 price range for every cultivar; stock per cultivar not shown."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 24.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Ships fall by zone, 1-qt pot"
+  },
+  {
+   "id": "tripple-brook--74-49",
+   "variety": "74-49",
+   "nursery": "tripple-brook",
+   "status": "in_stock",
+   "price": 24.0,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://tripplebrookfarm.com/product/hardy-kiwi-fruit-actinidia-arguta/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-10-11",
+   "notes": [
+    "One $18–$24 price range for every cultivar; stock per cultivar not shown."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 24.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Ships fall by zone, 1-qt pot"
+  },
+  {
+   "id": "tripple-brook--anna",
+   "variety": "anna",
+   "nursery": "tripple-brook",
+   "status": "in_stock",
+   "price": 24.0,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://tripplebrookfarm.com/product/hardy-kiwi-fruit-actinidia-arguta/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-10-11",
+   "notes": [
+    "One $18–$24 price range for every cultivar; stock per cultivar not shown."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 24.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Ships fall by zone, 1-qt pot"
+  },
+  {
+   "id": "tripple-brook--issai",
+   "variety": "issai",
+   "nursery": "tripple-brook",
+   "status": "in_stock",
+   "price": 24.0,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://tripplebrookfarm.com/product/hardy-kiwi-fruit-actinidia-arguta/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-10-11",
+   "notes": [
+    "One $18–$24 price range for every cultivar; stock per cultivar not shown."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 24.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Ships fall by zone, 1-qt pot"
+  },
+  {
+   "id": "tripple-brook--kens-red",
+   "variety": "kens-red",
+   "nursery": "tripple-brook",
+   "status": "in_stock",
+   "price": 24.0,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://tripplebrookfarm.com/product/hardy-kiwi-fruit-actinidia-arguta/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-10-11",
+   "notes": [
+    "One $18–$24 price range for every cultivar; stock per cultivar not shown."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 24.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Ships fall by zone, 1-qt pot"
+  },
+  {
+   "id": "tripple-brook--fairchild",
+   "variety": "fairchild",
+   "nursery": "tripple-brook",
+   "status": "in_stock",
+   "price": 24.0,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://tripplebrookfarm.com/product/hardy-kiwi-fruit-actinidia-arguta/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-10-11",
+   "notes": [
+    "One $18–$24 price range for every cultivar; stock per cultivar not shown."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 24.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Ships fall by zone, 1-qt pot"
+  },
+  {
+   "id": "tripple-brook--krupnoplodnaya",
+   "variety": "krupnoplodnaya",
+   "nursery": "tripple-brook",
+   "status": "in_stock",
+   "price": 32.0,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://tripplebrookfarm.com/product/hardy-kiwi-fruit-kolomikta-vine-actinidia-kolomikta/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-10-11",
+   "notes": [
+    "One $24–$32 price range for every kolomikta; stock per cultivar not shown."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 32.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Ships fall by zone, 1-qt pot"
+  },
+  {
+   "id": "tripple-brook--red-beauty",
+   "variety": "red-beauty",
+   "nursery": "tripple-brook",
+   "status": "in_stock",
+   "price": 32.0,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://tripplebrookfarm.com/product/hardy-kiwi-fruit-kolomikta-vine-actinidia-kolomikta/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-10-11",
+   "notes": [
+    "One $24–$32 price range for every kolomikta; stock per cultivar not shown."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 32.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Ships fall by zone, 1-qt pot"
+  },
+  {
+   "id": "tripple-brook--arctic-beauty",
+   "variety": "arctic-beauty",
+   "nursery": "tripple-brook",
+   "status": "in_stock",
+   "price": 32.0,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://tripplebrookfarm.com/product/hardy-kiwi-fruit-kolomikta-vine-actinidia-kolomikta/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-10-11",
+   "notes": [
+    "One $24–$32 price range for every kolomikta; stock per cultivar not shown."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 32.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Ships fall by zone, 1-qt pot"
+  },
+  {
+   "id": "tripple-brook--pasha",
+   "variety": "pasha",
+   "nursery": "tripple-brook",
+   "status": "in_stock",
+   "price": 32.0,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://tripplebrookfarm.com/product/hardy-kiwi-fruit-kolomikta-vine-actinidia-kolomikta/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-10-11",
+   "notes": [
+    "One $24–$32 price range for every kolomikta; stock per cultivar not shown."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 32.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Ships fall by zone, 1-qt pot"
+  },
+  {
+   "id": "one-green-world--anna",
+   "variety": "anna",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 32.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product-category/vines/kiwis/hardy-kiwis/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Restocked as of Oct 8, 2026, confirmed via the product page's in-stock badge, after being sold out with a waitlist since Sep 25."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 32.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-08",
+     "price": 32.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--dumbarton-oaks",
+   "variety": "dumbarton-oaks",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 24.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product-category/vines/kiwis/hardy-kiwis/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Waitlist open.",
+    "Oct 9, 2026: category page now lists this at $24.95, up from $19.95; product page still shows a waitlist signup, so left as sold out."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 19.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-09",
+     "price": 24.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-11",
+     "price": 24.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--cordifolia",
+   "variety": "cordifolia",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 32.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product-category/vines/kiwis/hardy-kiwis/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Waitlist open."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 32.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-11",
+     "price": 32.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--geneva",
+   "variety": "geneva",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 32.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product-category/vines/kiwis/hardy-kiwis/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Waitlist open.",
+    "Oct 9, 2026: confirmed back in stock via its own product page."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 32.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-09",
+     "price": 32.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--hardy-red",
+   "variety": "hardy-red",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 32.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product-category/vines/kiwis/hardy-kiwis/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Waitlist open."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 32.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-11",
+     "price": 32.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--issai",
+   "variety": "issai",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 19.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product-category/vines/kiwis/hardy-kiwis/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Restocked by Oct 11, 2026; price range $19.95–$69.95 by pot size."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 19.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-11",
+     "price": 19.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--kens-red",
+   "variety": "kens-red",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 32.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product-category/vines/kiwis/hardy-kiwis/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Waitlist open.",
+    "Oct 9, 2026: confirmed back in stock via its own product page; price now $32.95–$34.95 depending on pot size."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 32.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-09",
+     "price": 32.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--meader-female",
+   "variety": "meader-female",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 24.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "/product/meader-female-hardy-kiwi/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Waitlist open."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 24.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-11",
+     "price": 24.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--prolific",
+   "variety": "prolific",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 19.95,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "/product/prolific-female-hardy-kiwi/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Restocked by Oct 11, 2026; price range $19.95–$32.95 by pot size."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 19.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-11",
+     "price": 19.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--chang-bai",
+   "variety": "chang-bai",
+   "nursery": "one-green-world",
+   "status": "sold_out",
+   "price": 24.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product-category/vines/kiwis/hardy-kiwis/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Waitlist open.",
+    "Oct 9, 2026: category page now lists this at $24.95, up from $19.95; product page still shows a waitlist signup, so left as sold out."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 19.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-09",
+     "price": 24.95,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--flowercloud",
+   "variety": "flowercloud",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 32.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product-category/vines/kiwis/hardy-kiwis/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Waitlist open."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 32.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-11",
+     "price": 32.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--michigan-state",
+   "variety": "michigan-state",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 32.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "/product/michigan-state-hardy-kiwi/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Waitlist open."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 32.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-11",
+     "price": 32.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--natasha",
+   "variety": "natasha",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 32.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "/product/natasha-hardy-kiwi/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Waitlist open."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 24.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-11",
+     "price": 24.95,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-11-05",
+     "price": 32.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--rossana",
+   "variety": "rossana",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 32.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "/product/rossana-hardy-kiwi/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Waitlist open."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 24.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-11",
+     "price": 24.95,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-11-05",
+     "price": 32.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--silver-lining",
+   "variety": "silver-lining",
+   "nursery": "one-green-world",
+   "status": "sold_out",
+   "price": 24.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "/product/silver-lining-variegated-hardy-kiwi/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Waitlist open."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 24.95,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--tatyana",
+   "variety": "tatyana",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 32.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "/product/tatyana-russian-hardy-kiwi/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Waitlist open."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 32.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-11",
+     "price": 32.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "isons--kens-red",
+   "variety": "kens-red",
+   "nursery": "isons",
+   "status": "in_stock",
+   "price": 24.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.isons.com/shop/specialty-fruits/kiwi/hardy-kiwi/kens-red-hardy-kiwi-plant/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 22.95,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-29",
+     "price": 24.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Ships Jan–Apr"
+  },
+  {
+   "id": "isons--issai",
+   "variety": "issai",
+   "nursery": "isons",
+   "status": "unconfirmed",
+   "price": 24.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.isons.com/shop/specialty-fruits/kiwi/hardy-kiwi/kens-red-hardy-kiwi-plant/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Listed at $22.95; stock not shown."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 22.95,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-11-09",
+     "price": 24.95,
+     "status": "unconfirmed"
+    }
+   ]
+  },
+  {
+   "id": "isons--anna",
+   "variety": "anna",
+   "nursery": "isons",
+   "status": "unconfirmed",
+   "price": 24.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.isons.com/shop/specialty-fruits/kiwi/hardy-kiwi/kens-red-hardy-kiwi-plant/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Listed at $22.95; stock not shown."
+   ],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 22.95,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-11-09",
+     "price": 24.95,
+     "status": "unconfirmed"
+    }
+   ]
+  },
+  {
+   "id": "burnt-ridge--anna",
+   "variety": "anna",
+   "nursery": "burnt-ridge",
+   "status": "unconfirmed",
+   "price": null,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://www.burntridgenursery.com/Hardy-Kiwi/products/25/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-10-11",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": null,
+     "status": "unconfirmed"
+    }
+   ]
+  },
+  {
+   "id": "burnt-ridge--issai",
+   "variety": "issai",
+   "nursery": "burnt-ridge",
+   "status": "unconfirmed",
+   "price": null,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://www.burntridgenursery.com/Hardy-Kiwi/products/25/",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-10-11",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": null,
+     "status": "unconfirmed"
+    }
+   ]
+  },
+  {
+   "id": "willis-orchards--cordifolia",
+   "variety": "cordifolia",
+   "nursery": "willis-orchards",
+   "status": "in_stock",
+   "price": 39.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.willisorchards.com/category/kiwi",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 39.95,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-05",
+     "price": 39.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "willis-orchards--prolific",
+   "variety": "prolific",
+   "nursery": "willis-orchards",
+   "status": "in_stock",
+   "price": 39.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.willisorchards.com/category/kiwi",
+   "first_seen": "2026-09-25",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-25",
+     "price": 39.95,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-05",
+     "price": 39.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "nature-hills--issai",
+   "variety": "issai",
+   "nursery": "nature-hills",
+   "status": "sold_out",
+   "price": null,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://www.naturehills.com/issai-hardy-kiwi",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Out of stock as of Oct 5, 2026. Page displayed an anomalous $7,641 price (likely a display glitch); not used."
+   ],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": null,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-05",
+     "price": null,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "food-forest-nursery--issai",
+   "variety": "issai",
+   "nursery": "food-forest-nursery",
+   "status": "sold_out",
+   "price": 29.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.foodforestnursery.com/product/issai-hardy-kiwi-female/",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Sold out; Spring 2027 inventory drop opens for signup in June."
+   ],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 29.95,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "east-hill-tree-farm--meader",
+   "variety": "meader",
+   "nursery": "east-hill-tree-farm",
+   "status": "in_stock",
+   "price": 35.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://easthilltreefarm.com/products/hardy-kiwi-potted-vine",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 35.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Local pickup only, Plainfield VT"
+  },
+  {
+   "id": "east-hill-tree-farm--geneva-3",
+   "variety": "geneva-3",
+   "nursery": "east-hill-tree-farm",
+   "status": "in_stock",
+   "price": 35.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://easthilltreefarm.com/products/hardy-kiwi-potted-vine",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 35.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Local pickup only, Plainfield VT"
+  },
+  {
+   "id": "east-hill-tree-farm--tatyana",
+   "variety": "tatyana",
+   "nursery": "east-hill-tree-farm",
+   "status": "in_stock",
+   "price": 35.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://easthilltreefarm.com/products/hardy-kiwi-potted-vine",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 35.0,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Local pickup only, Plainfield VT"
+  },
+  {
+   "id": "east-hill-tree-farm--anna",
+   "variety": "anna",
+   "nursery": "east-hill-tree-farm",
+   "status": "sold_out",
+   "price": 35.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://easthilltreefarm.com/products/hardy-kiwi-potted-vine",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 35.0,
+     "status": "sold_out"
+    }
+   ],
+   "ships": "Local pickup only, Plainfield VT"
+  },
+  {
+   "id": "east-hill-tree-farm--chang-bai",
+   "variety": "chang-bai",
+   "nursery": "east-hill-tree-farm",
+   "status": "sold_out",
+   "price": 35.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://easthilltreefarm.com/products/hardy-kiwi-potted-vine",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Sold out as of Oct 10, 2026 (1st-year potted size, the only size this nursery offers for it, is now unavailable)."
+   ],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 35.0,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-09",
+     "price": 35.0,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-10",
+     "price": 35.0,
+     "status": "sold_out"
+    }
+   ],
+   "ships": "Local pickup only, Plainfield VT"
+  },
+  {
+   "id": "east-hill-tree-farm--dumbarton-oaks",
+   "variety": "dumbarton-oaks",
+   "nursery": "east-hill-tree-farm",
+   "status": "sold_out",
+   "price": 35.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://easthilltreefarm.com/products/hardy-kiwi-potted-vine",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 35.0,
+     "status": "sold_out"
+    }
+   ],
+   "ships": "Local pickup only, Plainfield VT"
+  },
+  {
+   "id": "east-hill-tree-farm--michigan-state",
+   "variety": "michigan-state",
+   "nursery": "east-hill-tree-farm",
+   "status": "sold_out",
+   "price": 35.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://easthilltreefarm.com/products/hardy-kiwi-potted-vine",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 35.0,
+     "status": "sold_out"
+    }
+   ],
+   "ships": "Local pickup only, Plainfield VT"
+  },
+  {
+   "id": "east-hill-tree-farm--red-beauty",
+   "variety": "red-beauty",
+   "nursery": "east-hill-tree-farm",
+   "status": "sold_out",
+   "price": 35.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://easthilltreefarm.com/products/hardy-kiwi-potted-vine",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 35.0,
+     "status": "sold_out"
+    }
+   ],
+   "ships": "Local pickup only, Plainfield VT"
+  },
+  {
+   "id": "east-hill-tree-farm--september-sun",
+   "variety": "september-sun",
+   "nursery": "east-hill-tree-farm",
+   "status": "sold_out",
+   "price": 35.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://easthilltreefarm.com/products/hardy-kiwi-potted-vine",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 35.0,
+     "status": "sold_out"
+    }
+   ],
+   "ships": "Local pickup only, Plainfield VT"
+  },
+  {
+   "id": "east-hill-tree-farm--arctic-beauty",
+   "variety": "arctic-beauty",
+   "nursery": "east-hill-tree-farm",
+   "status": "sold_out",
+   "price": 35.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://easthilltreefarm.com/products/hardy-kiwi-potted-vine",
+   "first_seen": "2026-09-26",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 35.0,
+     "status": "sold_out"
+    }
+   ],
+   "ships": "Local pickup only, Plainfield VT"
+  },
+  {
+   "id": "east-hill-tree-farm--clark",
+   "variety": "clark",
+   "nursery": "east-hill-tree-farm",
+   "status": "sold_out",
+   "price": 35.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://easthilltreefarm.com/products/hardy-kiwi-potted-vine",
+   "first_seen": "2026-09-27",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-27",
+     "price": 35.0,
+     "status": "sold_out"
+    }
+   ],
+   "ships": "Local pickup only, Plainfield VT"
+  },
+  {
+   "id": "northeast-edible-nursery--issai",
+   "variety": "issai",
+   "nursery": "northeast-edible-nursery",
+   "status": "sold_out",
+   "price": null,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://www.northeastediblenursery.com/product/hardy-kiwi-bundle/",
+   "first_seen": "2026-09-27",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Sold only as part of a 4-plant bundle ($50) with Issai, Anna, Geneva and Meader; bundle currently out of stock."
+   ],
+   "history": [
+    {
+     "date": "2026-09-27",
+     "price": null,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "northeast-edible-nursery--anna",
+   "variety": "anna",
+   "nursery": "northeast-edible-nursery",
+   "status": "sold_out",
+   "price": null,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://www.northeastediblenursery.com/product/hardy-kiwi-bundle/",
+   "first_seen": "2026-09-27",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Sold only as part of a 4-plant bundle ($50) with Issai, Anna, Geneva and Meader; bundle currently out of stock."
+   ],
+   "history": [
+    {
+     "date": "2026-09-27",
+     "price": null,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "northeast-edible-nursery--geneva",
+   "variety": "geneva",
+   "nursery": "northeast-edible-nursery",
+   "status": "sold_out",
+   "price": null,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://www.northeastediblenursery.com/product/hardy-kiwi-bundle/",
+   "first_seen": "2026-09-27",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Sold only as part of a 4-plant bundle ($50) with Issai, Anna, Geneva and Meader; bundle currently out of stock."
+   ],
+   "history": [
+    {
+     "date": "2026-09-27",
+     "price": null,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "northeast-edible-nursery--meader",
+   "variety": "meader",
+   "nursery": "northeast-edible-nursery",
+   "status": "sold_out",
+   "price": null,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://www.northeastediblenursery.com/product/hardy-kiwi-bundle/",
+   "first_seen": "2026-09-27",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Sold only as part of a 4-plant bundle ($50) with Issai, Anna, Geneva and Meader; bundle currently out of stock."
+   ],
+   "history": [
+    {
+     "date": "2026-09-27",
+     "price": null,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "humble-abode--michigan-state",
+   "variety": "michigan-state",
+   "nursery": "humble-abode",
+   "status": "in_stock",
+   "price": 25.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://humbleabodenursery.com/product/hardy-kiwi/",
+   "first_seen": "2026-09-27",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-27",
+     "price": 25.0,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-29",
+     "price": 25.0,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-11-09",
+     "price": 25.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "humble-abode--anna",
+   "variety": "anna",
+   "nursery": "humble-abode",
+   "status": "sold_out",
+   "price": 25.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://humbleabodenursery.com/product/hardy-kiwi/",
+   "first_seen": "2026-09-27",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "No longer listed as a purchasable option (removed from the variety dropdown) as of Oct 4."
+   ],
+   "history": [
+    {
+     "date": "2026-09-27",
+     "price": 25.0,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-03",
+     "price": 25.0,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-04",
+     "price": 25.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "humble-abode--geneva-3",
+   "variety": "geneva-3",
+   "nursery": "humble-abode",
+   "status": "sold_out",
+   "price": 25.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://humbleabodenursery.com/product/hardy-kiwi/",
+   "first_seen": "2026-09-27",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-27",
+     "price": 25.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "humble-abode--dumbarton-oaks",
+   "variety": "dumbarton-oaks",
+   "nursery": "humble-abode",
+   "status": "in_stock",
+   "price": 25.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://humbleabodenursery.com/product/hardy-kiwi/",
+   "first_seen": "2026-09-27",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-27",
+     "price": 25.0,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-11-09",
+     "price": 25.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "humble-abode--prolific",
+   "variety": "prolific",
+   "nursery": "humble-abode",
+   "status": "sold_out",
+   "price": 25.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://humbleabodenursery.com/product/hardy-kiwi/",
+   "first_seen": "2026-09-27",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-27",
+     "price": 25.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "humble-abode--chang-bai",
+   "variety": "chang-bai",
+   "nursery": "humble-abode",
+   "status": "sold_out",
+   "price": 25.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://humbleabodenursery.com/product/hardy-kiwi/",
+   "first_seen": "2026-09-27",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-27",
+     "price": 25.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "humble-abode--clark",
+   "variety": "clark",
+   "nursery": "humble-abode",
+   "status": "sold_out",
+   "price": 25.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://humbleabodenursery.com/product/hardy-kiwi/",
+   "first_seen": "2026-09-27",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-27",
+     "price": 25.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "spring-hill--ogden-point",
+   "variety": "ogden-point",
+   "nursery": "spring-hill",
+   "status": "sold_out",
+   "price": 39.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://springhillnursery.com/products/hardy-kiwi-pair",
+   "first_seen": "2026-09-28",
+   "last_checked": "2026-11-02",
+   "notes": [
+    "Sold out as of Oct 5, 2026. Sold only as a pair (2 plants) for $39.99; preorder ships fall 2026 by hardiness zone."
+   ],
+   "history": [
+    {
+     "date": "2026-09-28",
+     "price": null,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-09-29",
+     "price": null,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-05",
+     "price": 39.99,
+     "status": "sold_out"
+    }
+   ],
+   "sold_as": "pair (2 plants)"
+  },
+  {
+   "id": "cornell-farm--issai",
+   "variety": "issai",
+   "nursery": "cornell-farm",
+   "status": "in_stock",
+   "price": 39.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://cornellfarms.com/products/kiwi-arguta-issai-5gal-actinidia",
+   "first_seen": "2026-09-29",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Low stock, 2 left."
+   ],
+   "history": [
+    {
+     "date": "2026-09-29",
+     "price": 82.99,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-20",
+     "price": 39.95,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "5-gallon vine"
+  },
+  {
+   "id": "hand-picked-nursery--issai",
+   "variety": "issai",
+   "nursery": "hand-picked-nursery",
+   "status": "sold_out",
+   "price": 16.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.handpickednursery.com/products/hardy-kiwi-actinidia-arguta-issai-pre-sale",
+   "first_seen": "2026-09-29",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Pre-sale listing, sold out as of Oct 5, 2026. Single-plant price now $16.95 (previously $22.95+)."
+   ],
+   "history": [
+    {
+     "date": "2026-09-29",
+     "price": 16.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-02",
+     "price": 22.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-05",
+     "price": 16.95,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--andrey",
+   "variety": "andrey",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 24.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/andrey-hardy-male-russian-kiwi/",
+   "first_seen": "2026-09-30",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Restocked as of Oct 8, 2026 — this listing has cycled between in stock and waitlist-only several times since late Sep; check before ordering."
+   ],
+   "history": [
+    {
+     "date": "2026-09-30",
+     "price": 24.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-05",
+     "price": 24.95,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-06",
+     "price": 24.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-08",
+     "price": 24.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--red-princess",
+   "variety": "red-princess",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 32.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/red-princess-hardy-kiwi/",
+   "first_seen": "2026-09-30",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "In stock again as of Oct 8, 2026 (at least the fifth flip since Sep 30) — availability has been swinging frequently; check before ordering."
+   ],
+   "history": [
+    {
+     "date": "2026-09-30",
+     "price": 24.95,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-01",
+     "price": 24.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-02",
+     "price": 24.95,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-04",
+     "price": 24.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-08",
+     "price": 24.95,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-11-05",
+     "price": 32.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "wellspring-gardens--issai",
+   "variety": "issai",
+   "nursery": "wellspring-gardens",
+   "status": "in_stock",
+   "price": 15.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://wellspringgardens.com/products/kiwi-actinidia-arguta-issai",
+   "first_seen": "2026-09-30",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-30",
+     "price": 15.99,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "starter plant, 3-inch pot (3-8 in tall)"
+  },
+  {
+   "id": "new-earth-nursery--kens-red",
+   "variety": "kens-red",
+   "nursery": "new-earth-nursery",
+   "status": "sold_out",
+   "price": 22.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://newearthnursery.com/products/kens-red-hardy-kiwi-actinidia-arguta-kens-red",
+   "first_seen": "2026-09-30",
+   "last_checked": "2026-11-02",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-09-30",
+     "price": 22.95,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "hirts-gardens--issai",
+   "variety": "issai",
+   "nursery": "hirts-gardens",
+   "status": "in_stock",
+   "price": 14.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://hirts.com/issai-kiwi-vine-hardy-self-fruitful-female-variety-easy-to-grow-2-5-pot/",
+   "first_seen": "2026-10-01",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Listed as reduced from $17.99."
+   ],
+   "history": [
+    {
+     "date": "2026-10-01",
+     "price": 14.99,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "2.5-inch pot",
+   "was_price": 17.99
+  },
+  {
+   "id": "pixies-gardens--issai",
+   "variety": "issai",
+   "nursery": "pixies-gardens",
+   "status": "sold_out",
+   "price": 49.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.pixiesgardens.com/products/issai-hardy-kiwi-vine-grown-for-its-attractive-foliage-and-edible-grape-sized-fruit",
+   "first_seen": "2026-10-01",
+   "last_checked": "2026-11-02",
+   "notes": [
+    "Both Liner/Starter and 1-gallon sizes sold out."
+   ],
+   "history": [
+    {
+     "date": "2026-10-01",
+     "price": 49.99,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "planting-justice--anna",
+   "variety": "anna",
+   "nursery": "planting-justice",
+   "status": "in_stock",
+   "price": 15.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://plantingjustice.org/collections/hardy-kiwi-actinidia-arguta",
+   "first_seen": "2026-10-01",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Sold as 'Ananasnaya'; nursery also lists many other hardy kiwi names (74-49, Andrey, Cordifolia, Emerald, Flowercloud, Fortyniner, Geneva, Issai, Jumbo, Ken's Red, Meader Male, MSU, Natasha, Red Princess, Rossana) still out of stock as of Oct 6, 2026; Chang Bai Mountain, Dumbarton Oaks and Hardy Red are back in stock."
+   ],
+   "history": [
+    {
+     "date": "2026-10-01",
+     "price": 15.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "trees-com--anna",
+   "variety": "anna",
+   "nursery": "trees-com",
+   "status": "in_stock",
+   "price": 61.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.trees.com/products/anna-meader-hardy-kiwi-vine",
+   "first_seen": "2026-10-02",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Out of stock; site says 'restocking soon.' Sold together with Meader at $46.95 for the pair (not a per-plant price)."
+   ],
+   "history": [
+    {
+     "date": "2026-10-02",
+     "price": null,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-22",
+     "price": 46.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-11-05",
+     "price": 61.95,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "2-gallon pot (sizes 2qt-3gal offered)"
+  },
+  {
+   "id": "trees-com--meader",
+   "variety": "meader",
+   "nursery": "trees-com",
+   "status": "in_stock",
+   "price": 61.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.trees.com/products/anna-meader-hardy-kiwi-vine",
+   "first_seen": "2026-10-02",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Out of stock; site says 'restocking soon.' Sold together with Anna at $46.95 for the pair (not a per-plant price)."
+   ],
+   "history": [
+    {
+     "date": "2026-10-02",
+     "price": null,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-22",
+     "price": 46.95,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-11-05",
+     "price": 61.95,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "2-gallon pot (sizes 2qt-3gal offered)"
+  },
+  {
+   "id": "sowexotic--prolific",
+   "variety": "prolific",
+   "nursery": "sowexotic",
+   "status": "in_stock",
+   "price": 24.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://sowexotic.com/products/kiwi-prolific-actinidia-arguta",
+   "first_seen": "2026-10-02",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Sold in medium coconut coir pot."
+   ],
+   "history": [
+    {
+     "date": "2026-10-02",
+     "price": 24.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Allow 30-40 days from order to shipment",
+   "sold_as": "medium coconut coir pot"
+  },
+  {
+   "id": "planting-justice--cherry-bomb",
+   "variety": "cherry-bomb",
+   "nursery": "planting-justice",
+   "status": "sold_out",
+   "price": 15.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "/products/cherry-bomb-organic",
+   "first_seen": "2026-10-02",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Pre-order; ships when back in stock."
+   ],
+   "history": [
+    {
+     "date": "2026-10-02",
+     "price": 15.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "planting-justice--chico-state",
+   "variety": "chico-state",
+   "nursery": "planting-justice",
+   "status": "sold_out",
+   "price": 15.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://plantingjustice.org/products/chico-organic",
+   "first_seen": "2026-10-02",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Pre-order; ships when back in stock."
+   ],
+   "history": [
+    {
+     "date": "2026-10-02",
+     "price": 15.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "plant-detectives--kens-red",
+   "variety": "kens-red",
+   "nursery": "plant-detectives",
+   "status": "sold_out",
+   "price": 24.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://plantdetectives.com/products/kens-red-hardy-kiwi",
+   "first_seen": "2026-10-03",
+   "last_checked": "2026-11-05",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-03",
+     "price": 24.99,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "classy-groundcovers--issai",
+   "variety": "issai",
+   "nursery": "classy-groundcovers",
+   "status": "unconfirmed",
+   "price": 92.47,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://classygroundcovers.com/product/200055",
+   "first_seen": "2026-10-03",
+   "last_checked": "2026-11-02",
+   "notes": [
+    "Confirmed in stock Oct 5, 2026 at $92.47; nursery includes free shipping.",
+    "Oct 9, 2026: page now shows conflicting signals — an 'In stock' label alongside a separate 'currently out of stock' notice; moved to unconfirmed pending a clearer check."
+   ],
+   "history": [
+    {
+     "date": "2026-10-03",
+     "price": 92.47,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-05",
+     "price": 92.47,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-09",
+     "price": 92.47,
+     "status": "unconfirmed"
+    }
+   ]
+  },
+  {
+   "id": "blessings-grow-meadows--anna",
+   "variety": "anna",
+   "nursery": "blessings-grow-meadows",
+   "status": "in_stock",
+   "price": 8.0,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://blessingsgrowmeadows.com/products/hardy-kiwi-live-plants-actinidia-arguta-anna-female-meader-male-edible-fruit-vine",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Single starter plants (4\"+) from $9.50; Anna+Meader pair (8\"+) $22, (10\"+) $24."
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 22.0,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-06",
+     "price": 9.5,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-14",
+     "price": 10.0,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-29",
+     "price": 10.0,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-11-09",
+     "price": 8.0,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "mini plants under 4 in from $8; 4 in+ starters $10 (sold out)"
+  },
+  {
+   "id": "blessings-grow-meadows--meader",
+   "variety": "meader",
+   "nursery": "blessings-grow-meadows",
+   "status": "in_stock",
+   "price": 8.0,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://blessingsgrowmeadows.com/products/hardy-kiwi-live-plants-actinidia-arguta-anna-female-meader-male-edible-fruit-vine",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Single starter plants (4\"+) from $9.50; Anna+Meader pair (8\"+) $22, (10\"+) $24."
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 22.0,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-06",
+     "price": 9.5,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-14",
+     "price": 10.0,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-29",
+     "price": 10.0,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-11-09",
+     "price": 8.0,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "mini plants under 4 in from $8; 4 in+ starters $10"
+  },
+  {
+   "id": "sarvodaya-nursery--kens-red",
+   "variety": "kens-red",
+   "nursery": "sarvodaya-nursery",
+   "status": "sold_out",
+   "price": 40.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://sarvodayainstitute.org/products/kiwi-kens-red-hardy",
+   "first_seen": "2026-10-04",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Shippable size sold out; a 5-gallon in-store-only option is available at $60."
+   ],
+   "history": [
+    {
+     "date": "2026-10-04",
+     "price": 40.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "planting-justice--chang-bai",
+   "variety": "chang-bai",
+   "nursery": "planting-justice",
+   "status": "in_stock",
+   "price": 15.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://plantingjustice.org/collections/hardy-kiwi-actinidia-arguta",
+   "first_seen": "2026-10-05",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Back in stock on collection page, Oct 6, 2026."
+   ],
+   "history": [
+    {
+     "date": "2026-10-05",
+     "price": 15.0,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-06",
+     "price": 15.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "planting-justice--dumbarton-oaks",
+   "variety": "dumbarton-oaks",
+   "nursery": "planting-justice",
+   "status": "in_stock",
+   "price": 15.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://plantingjustice.org/collections/hardy-kiwi-actinidia-arguta",
+   "first_seen": "2026-10-05",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Back in stock on collection page, Oct 6, 2026."
+   ],
+   "history": [
+    {
+     "date": "2026-10-05",
+     "price": 15.0,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-06",
+     "price": 15.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "planting-justice--hardy-red",
+   "variety": "hardy-red",
+   "nursery": "planting-justice",
+   "status": "in_stock",
+   "price": 15.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://plantingjustice.org/collections/hardy-kiwi-actinidia-arguta",
+   "first_seen": "2026-10-05",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Back in stock on collection page, Oct 6, 2026."
+   ],
+   "history": [
+    {
+     "date": "2026-10-05",
+     "price": 15.0,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-06",
+     "price": 15.0,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-29",
+     "price": 15.0,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-11-02",
+     "price": 15.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "planting-justice--red-princess",
+   "variety": "red-princess",
+   "nursery": "planting-justice",
+   "status": "in_stock",
+   "price": 15.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://plantingjustice.org/collections/hardy-kiwi-actinidia-arguta",
+   "first_seen": "2026-10-05",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Listed on collection page as out of stock, Oct 5, 2026.",
+    "Oct 9, 2026: now listed in stock on collection page."
+   ],
+   "history": [
+    {
+     "date": "2026-10-05",
+     "price": 15.0,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-09",
+     "price": 15.0,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "planting-justice--andrey",
+   "variety": "andrey",
+   "nursery": "planting-justice",
+   "status": "sold_out",
+   "price": 15.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://plantingjustice.org/collections/hardy-kiwi-actinidia-arguta",
+   "first_seen": "2026-10-05",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Listed on collection page as out of stock, Oct 5, 2026."
+   ],
+   "history": [
+    {
+     "date": "2026-10-05",
+     "price": 15.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "planting-justice--cordifolia",
+   "variety": "cordifolia",
+   "nursery": "planting-justice",
+   "status": "sold_out",
+   "price": 15.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://plantingjustice.org/collections/hardy-kiwi-actinidia-arguta",
+   "first_seen": "2026-10-05",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Listed on collection page as out of stock, Oct 5, 2026."
+   ],
+   "history": [
+    {
+     "date": "2026-10-05",
+     "price": 15.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "planting-justice--emerald",
+   "variety": "emerald",
+   "nursery": "planting-justice",
+   "status": "sold_out",
+   "price": 15.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://plantingjustice.org/collections/hardy-kiwi-actinidia-arguta",
+   "first_seen": "2026-10-05",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Listed on collection page as out of stock, Oct 5, 2026."
+   ],
+   "history": [
+    {
+     "date": "2026-10-05",
+     "price": 15.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "planting-justice--flowercloud",
+   "variety": "flowercloud",
+   "nursery": "planting-justice",
+   "status": "sold_out",
+   "price": 15.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://plantingjustice.org/collections/hardy-kiwi-actinidia-arguta",
+   "first_seen": "2026-10-05",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Listed on collection page as out of stock, Oct 5, 2026."
+   ],
+   "history": [
+    {
+     "date": "2026-10-05",
+     "price": 15.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "planting-justice--geneva",
+   "variety": "geneva",
+   "nursery": "planting-justice",
+   "status": "sold_out",
+   "price": 15.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://plantingjustice.org/collections/hardy-kiwi-actinidia-arguta",
+   "first_seen": "2026-10-05",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Listed on collection page as out of stock, Oct 5, 2026."
+   ],
+   "history": [
+    {
+     "date": "2026-10-05",
+     "price": 15.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "planting-justice--issai",
+   "variety": "issai",
+   "nursery": "planting-justice",
+   "status": "sold_out",
+   "price": 15.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://plantingjustice.org/collections/hardy-kiwi-actinidia-arguta",
+   "first_seen": "2026-10-05",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Listed on collection page as out of stock, Oct 5, 2026."
+   ],
+   "history": [
+    {
+     "date": "2026-10-05",
+     "price": 15.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "planting-justice--jumbo",
+   "variety": "jumbo",
+   "nursery": "planting-justice",
+   "status": "sold_out",
+   "price": 15.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://plantingjustice.org/collections/hardy-kiwi-actinidia-arguta",
+   "first_seen": "2026-10-05",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Listed on collection page as out of stock, Oct 5, 2026."
+   ],
+   "history": [
+    {
+     "date": "2026-10-05",
+     "price": 15.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "planting-justice--kens-red",
+   "variety": "kens-red",
+   "nursery": "planting-justice",
+   "status": "sold_out",
+   "price": 15.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://plantingjustice.org/collections/hardy-kiwi-actinidia-arguta",
+   "first_seen": "2026-10-05",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Listed on collection page as out of stock, Oct 5, 2026."
+   ],
+   "history": [
+    {
+     "date": "2026-10-05",
+     "price": 15.0,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-29",
+     "price": 15.0,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-11-02",
+     "price": 15.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "planting-justice--meader",
+   "variety": "meader",
+   "nursery": "planting-justice",
+   "status": "sold_out",
+   "price": 15.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://plantingjustice.org/collections/hardy-kiwi-actinidia-arguta",
+   "first_seen": "2026-10-05",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Listed on collection page as out of stock, Oct 5, 2026."
+   ],
+   "history": [
+    {
+     "date": "2026-10-05",
+     "price": 15.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "planting-justice--michigan-state",
+   "variety": "michigan-state",
+   "nursery": "planting-justice",
+   "status": "sold_out",
+   "price": 15.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://plantingjustice.org/collections/hardy-kiwi-actinidia-arguta",
+   "first_seen": "2026-10-05",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Listed on collection page as out of stock, Oct 5, 2026."
+   ],
+   "history": [
+    {
+     "date": "2026-10-05",
+     "price": 15.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "planting-justice--natasha",
+   "variety": "natasha",
+   "nursery": "planting-justice",
+   "status": "sold_out",
+   "price": 15.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://plantingjustice.org/collections/hardy-kiwi-actinidia-arguta",
+   "first_seen": "2026-10-05",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Listed on collection page as out of stock, Oct 5, 2026."
+   ],
+   "history": [
+    {
+     "date": "2026-10-05",
+     "price": 15.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "planting-justice--rossana",
+   "variety": "rossana",
+   "nursery": "planting-justice",
+   "status": "sold_out",
+   "price": 15.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://plantingjustice.org/collections/hardy-kiwi-actinidia-arguta",
+   "first_seen": "2026-10-05",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Listed on collection page as out of stock, Oct 5, 2026."
+   ],
+   "history": [
+    {
+     "date": "2026-10-05",
+     "price": 15.0,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-29",
+     "price": 15.0,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-11-02",
+     "price": 15.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "rohrs-nursery--prolific",
+   "variety": "prolific",
+   "nursery": "rohrs-nursery",
+   "status": "in_stock",
+   "price": 60.83,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://rohrsnursery.com/shop/perennial-211530/prolific-kiwi-actinidia-arguta-prolific-3-gallon/",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 60.83,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "trees-com--prolific",
+   "variety": "prolific",
+   "nursery": "trees-com",
+   "status": "sold_out",
+   "price": 28.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.trees.com/products/prolific-hardy-kiwi-vine",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 28.95,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-10-29",
+     "price": 28.95,
+     "status": "sold_out"
+    }
+   ],
+   "was_price": null
+  },
+  {
+   "id": "planting-justice--fortyniner",
+   "variety": "fortyniner",
+   "nursery": "planting-justice",
+   "status": "sold_out",
+   "price": 15.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://plantingjustice.org/collections/hardy-kiwi-actinidia-arguta",
+   "first_seen": "2026-10-06",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Listed on collection page as out of stock, Oct 6, 2026."
+   ],
+   "history": [
+    {
+     "date": "2026-10-06",
+     "price": 15.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "grow-organic--issai",
+   "variety": "issai",
+   "nursery": "grow-organic",
+   "status": "sold_out",
+   "price": 39.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.groworganic.com/collections/kiwi-vines/products/kiwi-iissai-hardy-kiwi-potted-vine",
+   "first_seen": "2026-10-07",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Temporarily unavailable (\"sign up for notification\"). Ships to NJ; excludes HI, AK, PR, GU, VI."
+   ],
+   "history": [
+    {
+     "date": "2026-10-07",
+     "price": 39.99,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "romence-gardens--issai",
+   "variety": "issai",
+   "nursery": "romence-gardens",
+   "status": "in_stock",
+   "price": 18.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://romencegardens.com/products/actinidia-arguta-issai",
+   "first_seen": "2026-10-07",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Michigan-based mail-order greenhouse; ships nationally by local frost date."
+   ],
+   "history": [
+    {
+     "date": "2026-10-07",
+     "price": 18.99,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "indiana-berry--anna",
+   "variety": "anna",
+   "nursery": "indiana-berry",
+   "status": "sold_out",
+   "price": 12.6,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.indianaberry.com/novelty-plants/kiwi.html",
+   "first_seen": "2026-10-08",
+   "last_checked": "2026-10-20",
+   "notes": [
+    "Listed \"SOLD OUT 2026 SEASON\" as of Oct 8, 2026."
+   ],
+   "history": [
+    {
+     "date": "2026-10-08",
+     "price": 12.6,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "indiana-berry--michigan-state",
+   "variety": "michigan-state",
+   "nursery": "indiana-berry",
+   "status": "sold_out",
+   "price": null,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://www.indianaberry.com/novelty-plants/kiwi.html",
+   "first_seen": "2026-10-08",
+   "last_checked": "2026-10-20",
+   "notes": [
+    "Sold out as of Oct 8, 2026; price shown only as \"click here for pricing.\""
+   ],
+   "history": [
+    {
+     "date": "2026-10-08",
+     "price": null,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "honeyberry-usa--anna",
+   "variety": "anna",
+   "nursery": "honeyberry-usa",
+   "status": "sold_out",
+   "price": null,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://www.honeyberryusa.com/honeyberry-plants-5.html",
+   "first_seen": "2026-10-08",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Sold out with a wait-list link as of Oct 8, 2026; no price shown."
+   ],
+   "history": [
+    {
+     "date": "2026-10-08",
+     "price": null,
+     "status": "sold_out"
+    }
+   ],
+   "sold_as": "Ananasnaja"
+  },
+  {
+   "id": "honeyberry-usa--geneva",
+   "variety": "geneva",
+   "nursery": "honeyberry-usa",
+   "status": "in_stock",
+   "price": 20,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.honeyberryusa.com/honeyberry-plants-5.html",
+   "first_seen": "2026-10-08",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Sold out with a wait-list link as of Oct 8, 2026; no price shown."
+   ],
+   "history": [
+    {
+     "date": "2026-10-08",
+     "price": null,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-10-26",
+     "price": 20,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "honeyberry-usa--meader",
+   "variety": "meader",
+   "nursery": "honeyberry-usa",
+   "status": "in_stock",
+   "price": 20,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.honeyberryusa.com/honeyberry-plants-5.html",
+   "first_seen": "2026-10-08",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Male kiwi, 1-9 price $20"
+   ],
+   "history": [
+    {
+     "date": "2026-10-08",
+     "price": 20.0,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-15",
+     "price": 20,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "berries-unlimited--issai",
+   "variety": "issai",
+   "nursery": "berries-unlimited",
+   "status": "sold_out",
+   "price": 24.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.berriesunlimited.com/issai-hardy-kiwi/",
+   "first_seen": "2026-10-10",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Product page shows Sold Out button (metadata says instock)"
+   ],
+   "history": [
+    {
+     "date": "2026-10-10",
+     "price": 24.99,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-15",
+     "price": 24.99,
+     "status": "sold_out"
+    }
+   ],
+   "sold_as": "12cm tissue-cultured plant",
+   "was_price": null
+  },
+  {
+   "id": "berries-unlimited--prolific",
+   "variety": "prolific",
+   "nursery": "berries-unlimited",
+   "status": "sold_out",
+   "price": 28.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.berriesunlimited.com/prolific-hardy-kiwi/",
+   "first_seen": "2026-10-10",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Sold out as of Oct 10, 2026."
+   ],
+   "history": [
+    {
+     "date": "2026-10-10",
+     "price": 28.99,
+     "status": "sold_out"
+    }
+   ],
+   "was_price": null
+  },
+  {
+   "id": "one-green-world--clark",
+   "variety": "clark",
+   "nursery": "one-green-world",
+   "status": "sold_out",
+   "price": 32.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product-category/vines/kiwis/hardy-kiwis/",
+   "first_seen": "2026-10-11",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Listed as \"74-46 Male\"; sold out, waitlist available."
+   ],
+   "history": [
+    {
+     "date": "2026-10-11",
+     "price": 32.95,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "one-green-world--meader",
+   "variety": "meader",
+   "nursery": "one-green-world",
+   "status": "sold_out",
+   "price": 24.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "/product/meader-male-hardy-kiwi/",
+   "first_seen": "2026-10-11",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Listed as \"Meader Male\"; sold out, waitlist available."
+   ],
+   "history": [
+    {
+     "date": "2026-10-11",
+     "price": 24.95,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "broken-arrow--issai",
+   "variety": "issai",
+   "nursery": "broken-arrow",
+   "status": "sold_out",
+   "price": 39.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://brokenarrownursery.com/actinidia-arguta-issai-issai-hardy-bower-kiwi.html",
+   "first_seen": "2026-10-11",
+   "last_checked": "2026-11-05",
+   "notes": [
+    "Mail-order status \"Currently Unavailable\" as of Oct 11, 2026; nursery ships fall (Sep–Nov) and spring (Mar–May)."
+   ],
+   "history": [
+    {
+     "date": "2026-10-11",
+     "price": 39.99,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "broken-arrow--arctic-beauty",
+   "variety": "arctic-beauty",
+   "nursery": "broken-arrow",
+   "status": "sold_out",
+   "price": null,
+   "price_from": false,
+   "price_confirmed": false,
+   "url": "https://www.brokenarrownursery.com/actinidia-kolomikta-arctic-beauty-arctic-beauty-male-hardy-kiwi.html",
+   "first_seen": "2026-10-11",
+   "last_checked": "2026-11-05",
+   "notes": [
+    "Shipping currently unavailable (Notify Me) as of Oct 27."
+   ],
+   "history": [
+    {
+     "date": "2026-10-11",
+     "price": null,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-26",
+     "price": null,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "classy-groundcovers--arctic-beauty",
+   "variety": "arctic-beauty",
+   "nursery": "classy-groundcovers",
+   "status": "unconfirmed",
+   "price": 92.47,
+   "price_from": true,
+   "price_confirmed": true,
+   "url": "https://classygroundcovers.com/product/200056",
+   "first_seen": "2026-10-11",
+   "last_checked": "2026-11-02",
+   "notes": [
+    "Page shows conflicting \"In stock\" label and a separate \"out of stock\" notice; unconfirmed."
+   ],
+   "history": [
+    {
+     "date": "2026-10-11",
+     "price": 92.47,
+     "status": "unconfirmed"
+    }
+   ]
+  },
+  {
+   "id": "scenic-hill-farm--issai",
+   "variety": "issai",
+   "nursery": "scenic-hill-farm",
+   "status": "in_stock",
+   "price": 32.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://scenichillfarmnursery.com/products/issai-kiwi-actinidia-arguta-issai-1",
+   "first_seen": "2026-10-14",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Product page shows an Add to Cart button; price is for 1 plant with shipping included (2 plants $42.95). Pot size not stated."
+   ],
+   "history": [
+    {
+     "date": "2026-10-14",
+     "price": 32.95,
+     "status": "in_stock"
+    }
+   ]
+  },
+  {
+   "id": "fedco-trees--michigan-state",
+   "variety": "michigan-state",
+   "nursery": "fedco-trees",
+   "status": "in_stock",
+   "price": 28.9,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "/trees/michigan-state-female-kiwiberry-7533",
+   "first_seen": "2026-10-24",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Fedco says it needs a Meader male; zone 4."
+   ],
+   "history": [
+    {
+     "date": "2026-10-24",
+     "price": 26.0,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-10-26",
+     "price": 26.0,
+     "status": "in_stock"
+    },
+    {
+     "date": "2026-11-05",
+     "price": 28.9,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "spring 2027",
+   "sold_as": "bare-root, well-rooted vine"
+  },
+  {
+   "id": "fedco-trees--geneva-3",
+   "variety": "geneva-3",
+   "nursery": "fedco-trees",
+   "status": "in_stock",
+   "price": 28.9,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "/trees/geneva-3-female-kiwiberry-7531",
+   "first_seen": "2026-10-24",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Price not shown on the product page when checked."
+   ],
+   "history": [
+    {
+     "date": "2026-10-24",
+     "price": null,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-11-09",
+     "price": 28.9,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "spring 2027",
+   "sold_as": "bare-root, well-rooted vine"
+  },
+  {
+   "id": "fedco-trees--meader",
+   "variety": "meader",
+   "nursery": "fedco-trees",
+   "status": "in_stock",
+   "price": 28.9,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "/trees/meader-male-kiwiberry-7532",
+   "first_seen": "2026-10-24",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Price not shown when checked; one Fedco page version said sold out. Pollinates Anna, Geneva 3 and Michigan State, not kolomikta."
+   ],
+   "history": [
+    {
+     "date": "2026-10-24",
+     "price": null,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-11-09",
+     "price": 28.9,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "spring 2027",
+   "sold_as": "bare-root, well-rooted vine"
+  },
+  {
+   "id": "fedco-trees--anna",
+   "variety": "anna",
+   "nursery": "fedco-trees",
+   "status": "in_stock",
+   "price": 28.9,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "/trees/anna-female-kiwiberry-7530",
+   "first_seen": "2026-10-24",
+   "last_checked": "2026-11-09",
+   "notes": [
+    "Listed in Fedco's Kiwiberries category; price not shown when checked."
+   ],
+   "history": [
+    {
+     "date": "2026-10-24",
+     "price": null,
+     "status": "unconfirmed"
+    },
+    {
+     "date": "2026-11-05",
+     "price": 28.9,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "spring 2027",
+   "sold_as": "bare-root, well-rooted vine"
+  },
+  {
+   "id": "planting-justice--tatyana",
+   "variety": "tatyana",
+   "nursery": "planting-justice",
+   "status": "sold_out",
+   "price": 15.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://plantingjustice.org/collections/hardy-kiwi-actinidia-arguta/products/tatyana-russian-conventional",
+   "first_seen": "2026-11-04",
+   "last_checked": "2026-11-09",
+   "notes": [],
+   "history": [
+    {
+     "date": "2026-11-04",
+     "price": 15.0,
+     "status": "sold_out"
+    }
+   ],
+   "sold_as": "1 gallon pot"
+  }
+ ]
+}
