@@ -1,7 +1,7 @@
 <!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#fff;color:#000}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style></head><body>
 <title>Rare Fruit Deals</title>
 <meta name="rfd-data-base" content="data/">
-<meta name="description" content="Rare named fruit plants and perennial vegetables from every seller, with the total cost delivered to your door, checked regularly. Plus a free heirloom seed request builder.">
+<meta name="description" content="Rare named fruit plants and perennial vegetables from every seller, with the total cost delivered to your door, checked regularly.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..900&family=IBM+Plex+Mono:wght@400;600&display=swap">
@@ -616,6 +616,13 @@ html{scroll-padding-top:calc(env(safe-area-inset-top,0px) + var(--nav-h) + 12px)
 .seg button[aria-pressed="true"]{background:var(--ink);color:var(--bg)}
 .vegnote{margin:8px 0 0;font-size:13px;color:var(--soft);max-width:74ch}
 @media (max-width:560px){.vegbar{gap:8px}.vegbar label{flex:1 1 100%}.vegbar select{flex:1}.seg{flex:1 1 100%}.seg button{flex:1;padding:7px 4px}}
+body.gate .mainnav,body.gate .search,body.gate .zipwrap{display:none}
+.zipgate{max-width:520px;margin:48px auto;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:24px 20px}
+.zipgate h1{margin:0 0 8px;font-size:24px;font-weight:900;letter-spacing:-.02em;text-wrap:balance}
+.zipgate p{margin:0 0 14px;color:var(--soft)}
+.zipgate form{display:flex;gap:8px}
+.zipgate input{flex:1;min-width:0;font:600 18px var(--mono);letter-spacing:.08em;padding:10px 12px;border:1px solid var(--line);border-radius:8px;background:var(--card2);color:var(--ink)}
+.zipgate .err{margin:10px 0 0;color:var(--deal);font-weight:700;min-height:1.2em}
 .fhead{margin:18px 0 0}
 .fhead h1{margin:0;font-size:26px;font-weight:900;font-stretch:112%;letter-spacing:-.02em}
 .fhead .latin{font-size:13px;color:var(--soft);font-style:italic;margin:2px 0 0}
@@ -751,19 +758,17 @@ main{overflow-x:clip}
     </div>
     <label class="search"><svg viewBox="0 0 16 16" fill="none" aria-hidden="true"><circle cx="7" cy="7" r="5" stroke="currentColor" stroke-width="1.6"/><path d="M11 11l3.5 3.5" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg>
       <input id="q" type="search" placeholder="Search plants or nurseries" aria-label="Search plant varieties, breeders or nurseries" autocomplete="off"></label>
-    <div class="zipwrap"><button class="shipto" id="zipBtn" aria-haspopup="dialog" aria-expanded="false" aria-controls="zipForm">Deliver to <b id="zip">08801</b><span class="chg">change</span></button>
+    <div class="zipwrap"><button class="shipto" id="zipBtn" aria-haspopup="dialog" aria-expanded="false" aria-controls="zipForm">Deliver to <b id="zip">your ZIP</b><span class="chg">change</span></button>
       <form class="zipbox" id="zipForm" role="dialog" aria-label="Ship-to ZIP code" hidden>
         <label for="zipIn">Your ZIP code</label>
-        <div class="row"><input id="zipIn" inputmode="numeric" autocomplete="postal-code" maxlength="5" placeholder="08801"><button class="btn" type="submit">Update</button></div>
+        <div class="row"><input id="zipIn" inputmode="numeric" autocomplete="postal-code" maxlength="5" placeholder="ZIP code"><button class="btn" type="submit">Update</button></div>
         <p id="zipMsg">Every price on the site includes shipping to this ZIP code. It's saved in this browser.</p>
-        <button type="button" class="linkbtn" id="zipReset">Reset to 08801</button>
       </form></div>
   </div>
 </header>
 <nav class="mainnav" aria-label="Site"><div class="mainnav-in">
   <button class="nv" id="dealsBtn" data-go="home"><svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M5 19c0-8 5-14 15-15-1 10-7 15-15 15z" fill="currentColor"/></svg><span class="lbl">Plants</span></button>
   <button class="nv" id="salesBtn" data-go="sales"><svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M3 12.6V4.5A1.5 1.5 0 014.5 3h8.1a1.5 1.5 0 011.06.44l7.4 7.4a1.5 1.5 0 010 2.12l-8.1 8.1a1.5 1.5 0 01-2.12 0l-7.4-7.4A1.5 1.5 0 013 12.6z" stroke="currentColor" stroke-width="2"/><path d="M8.5 15.5l7-7M9 9.2h.01M15 14.8h.01" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/></svg><span class="lbl">Sales</span><span class="ct" id="salesCt" data-n="0">0</span></button>
-  <button class="nv" id="seedsBtn" data-go="seeds"><svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M12 21v-8M12 13c0-4-2.5-6.5-7-6.5 0 4 2.5 6.5 7 6.5zM12 11c0-4 2.5-7 7-7 0 4.5-2.5 7-7 7z" stroke="currentColor" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/></svg><span class="lbl">Free seeds</span></button>
   <button class="nv wg" id="wagonBtn" data-go="wagon" aria-label="Wagon"><svg viewBox="0 0 30 23" fill="none" aria-hidden="true"><path d="M2.5 6.5h18.5l-2.2 9.2H4.7z" fill="currentColor"/><path d="M21 6.5l6.5-5" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/><circle cx="7.5" cy="19" r="3" fill="currentColor"/><circle cx="16.5" cy="19" r="3" fill="currentColor"/></svg><span class="lbl">Wagon</span><span class="ct" data-n="0">0</span></button>
   <div class="morewrap"><button class="nv" id="moreBtn" aria-haspopup="menu" aria-expanded="false" aria-controls="moreMenu"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="5" cy="12" r="2.2" fill="currentColor"/><circle cx="12" cy="12" r="2.2" fill="currentColor"/><circle cx="19" cy="12" r="2.2" fill="currentColor"/></svg><span class="lbl">More</span></button>
     <div class="moremenu" id="moreMenu" role="menu" hidden>
@@ -1118,14 +1123,14 @@ function initZipUI() {
   const open = on => { form.hidden = !on; btn.setAttribute("aria-expanded", on); if (on) { inp.value = D.shipTo; msg.textContent = tip; msg.className = ""; inp.select(); inp.focus(); } };
   btn.addEventListener("click", () => open(form.hidden));
   inp.addEventListener("input", () => { inp.value = inp.value.replace(/\D/g, "").slice(0, 5); });
-  const go = z => { store.set("rfd.zip", z === HOME_ZIP ? null : z); location.reload(); };
+  const go = z => { store.set("rfd.zip", z); location.reload(); };
   form.addEventListener("submit", e => {
     e.preventDefault(); const z = inp.value.trim();
     if (!validZip(z)) { msg.textContent = "That doesn't look like a US ZIP code. Use 5 digits, like 98101."; msg.className = "err"; inp.focus(); return; }
     if (z === D.shipTo) return open(false);
     msg.textContent = "Repricing for " + z + "…"; msg.className = ""; go(z);
   });
-  $("#zipReset").addEventListener("click", () => go(HOME_ZIP));
+  
   document.addEventListener("keydown", e => { if (e.key === "Escape" && !form.hidden) { open(false); btn.focus(); } });
   document.addEventListener("click", e => { if (!form.hidden && !e.target.closest(".zipwrap")) open(false); });
 }
@@ -1136,7 +1141,7 @@ const D = { fruits: [], meta: {}, files: {}, all: [], byKey: {}, ship: {}, block
 const S = { fruit: "all", q: "", f: new Set(store.get("rfd.filters", []).filter(k => k !== "notmine")), forms: new Set(store.get("rfd.forms", [])), sort: store.get("rfd.sort", "deal"), open: null, starred: new Set(store.get("rfd.starred2", [])), targets: store.get("rfd.targets", {}) || {}, statusOpen: !!store.get("rfd.statusOpen", false) };
 const FILTERS = [
   ["watched", "★ Watching"], ["confirmed", "Confirmed total"], ["award", "Award winners"], ["pedigree", "Famous breeder / university"],
-  ["budget", "Budget price"], ["new", "New this week"], ["shipsnow", "Ships to 08801"], ["drops", "Price drops"], ["sale", "On sale"],
+  ["budget", "Budget price"], ["new", "New this week"], ["shipsnow", "Ships to you"], ["drops", "Price drops"], ["sale", "On sale"],
 ];
 
 // A price check sometimes saves a note as plain text instead of a list; accept both so one odd entry can't blank the page.
@@ -1364,22 +1369,7 @@ function watchCard(v) {
 // ---------------------------------------------------------------- wagon (cart): plan the cheapest set of orders
 const WAGON_SVG = '<svg viewBox="0 0 30 23" fill="none" aria-hidden="true"><path d="M2.5 6.5h18.5l-2.2 9.2H4.7z" fill="currentColor"/><path d="M5.5 9.5h13M6 12.5h12" stroke="var(--hdr)" stroke-opacity=".35" stroke-width="1"/><path d="M21 6.5l6.5-5" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/><circle cx="7.5" cy="19" r="3" fill="currentColor" stroke="var(--card)" stroke-width="1.2"/><circle cx="16.5" cy="19" r="3" fill="currentColor" stroke="var(--card)" stroke-width="1.2"/></svg>';
 // Coupon snapshot: codes reported on coupon sites (WeThrift, SimplyCodes, DontPayFull), not verified. data/coupons.json, if a nightly run adds one, replaces this.
-let COUPONS = {
-  checked: "2026-10-03",
-  stores: {
-    "starkbros.com": [
-      { code: "SAVE1523", what: "15% off orders of $50+", pct: 0.15, min: 50, seen: "reported Sep 2026" },
-      { code: "STARKWEEK10", what: "10% off sitewide", pct: 0.10, seen: "reported Aug 2026" },
-    ],
-    "raintreenursery.com": [
-      { code: "WELCOME10", what: "10% off, new customers", pct: 0.10, seen: "reported Aug 2026" },
-      { code: "WELCOME", what: "$10 off orders of $75+", off: 10, min: 75, seen: "reported Jul 2026" },
-    ],
-    "logees.com": [
-      { code: "EM10OFF75", what: "$10 off orders of $75+ (email code)", off: 10, min: 75, seen: "untested" },
-    ],
-  },
-};
+let COUPONS = { checked: null, stores: {} };   // unverified coupon codes were removed before the public launch
 const W = { items: store.get("rfd.wagon", []).filter(i => i && i.key) };
 S.view = "board"; S.plan = store.get("rfd.wagon.plan", "cheapest"); S.pickup = store.get("rfd.wagon.pickup", false);
 const inWagon = k => W.items.some(i => i.key === k);
@@ -1597,7 +1587,6 @@ function wagonView() {
     else if (b.ship.how === "incl") steps.push(`Ship to ${esc(D.shipTo)}. Shipping is included in the price.`);
     else steps.push(`Ship to ${esc(D.shipTo)}. Expect shipping of ${b.ship.ok ? "" : "about "}${moneyR(b.ship.lo, b.ship.hi)}${b.ship.ok ? "; if the cart shows much more, check the sizes match" : ""}.`);
     if (cp.list.length) steps.push(`Before paying, try ${cp.list.length > 1 ? "these codes, best first" : "this code"}:<div class="codes">${cp.list.map(c => `<span class="code"><b>${esc(c.code)}</b>${esc(c.what)}${c.val >= 1 ? `, ~${money(Math.round(c.val))} here` : c.min ? `, needs $${c.min}+` : ""}<button data-copy="${esc(c.code)}">Copy</button></span>`).join("")}</div>`);
-    else if (g.domain && !pickup) steps.push(`No codes on file for this nursery. <a href="https://www.retailmenot.com/view/${esc(g.domain)}" target="_blank" rel="noopener">Check RetailMeNot</a> before paying.`);
     const notes = [...g.notes];
     if (b.lines.some(l => l.o.price_from)) notes.push("“From” prices are the smallest size; a bigger size costs more.");
     return `<section class="order" aria-label="Order ${i + 1}: ${esc(g.name)}">
@@ -1627,10 +1616,23 @@ function wagonView() {
       ${plan ? `<div class="box"><h3>Plan at a glance</h3><ul>${plan.boxes.map((b, i) => `<li><span>${i + 1}. ${esc(b.g.name)}</span><span class="num">${b.ship.ok ? "" : "~"}${money(Math.round((b.lo + b.hi) / 2))}</span></li>`).join("")}<li style="border-top:1px solid var(--line);padding-top:7px;font-weight:800"><span>Total</span><span class="num" style="color:var(--ink)">${fmt(plan)}</span></li></ul></div>
       <div class="box"><h3>Shopping list</h3><p>Copy it into a note or text it to yourself.</p><textarea class="listtxt" id="wlist" readonly>${esc(text)}</textarea><button class="btn ghost" data-copylist style="margin-top:8px;width:100%">Copy list</button></div>` : ""}
       <div class="box"><h3>How the plan is picked</h3><p>Every way of splitting your plants across the nurseries that stock them is priced, using each nursery's own shipping rule for the whole box, and the cheapest wins. Fewest boxes trades a little money for fewer orders to track.</p><p>Where a nursery doesn't publish shipping, the box is estimated from its one-plant rate plus a few dollars per extra plant.</p></div>
-      <div class="box"><h3>About the codes</h3><p>Codes come from coupon sites and are not verified; many expire within weeks. Snapshot ${fmtDate(COUPONS.checked)}. Only one code usually works per order, and totals above don't assume any of them.</p></div>
     </aside></div>`;
 }
 
+// First visit: prices include shipping, so ask where to deliver before showing any.
+function zipGate() {
+  document.body.classList.add("gate");
+  $("#app").innerHTML = `<section class="zipgate" aria-labelledby="zg-h"><h1 id="zg-h">Where should plants be delivered?</h1>
+    <p>Every price here includes shipping to your door, so we need a ZIP code to show prices. It stays in this browser.</p>
+    <form id="zipGate"><input id="zgIn" inputmode="numeric" autocomplete="postal-code" maxlength="5" placeholder="ZIP code" aria-label="ZIP code"><button class="btn" type="submit">Show prices</button></form>
+    <p class="err" id="zgMsg" role="alert"></p></section>`;
+  const inp = $("#zgIn");
+  inp.addEventListener("input", () => { inp.value = inp.value.replace(/\D/g, "").slice(0, 5); });
+  $("#zipGate").addEventListener("submit", e => { e.preventDefault(); const z = inp.value.trim();
+    if (!validZip(z)) { $("#zgMsg").textContent = "That doesn't look like a US ZIP code. Use 5 digits, like 98101."; inp.focus(); return; }
+    store.set("rfd.zip", z); location.reload(); });
+  inp.focus();
+}
 async function loadCoupons() {
   try {
     const r = await fetch(DATA_BASE + "coupons.json", { cache: "no-cache" });
@@ -2102,6 +2104,7 @@ function vegBar(vs) {
     ${seg("sold", S.vsold)}${seg("named", S.vnamed)}
   </div>`;
 }
+const pubScope = s => String(s || "").replace(/\s*\(Annandale, NJ\)/g, "");
 function matches(v) {
   if (v.crop && S.fruit === v.fruit) {
     if (S.crop && v.crop !== S.crop) return false;
@@ -2302,12 +2305,12 @@ function boardView() {
   : one && !searching ? `
   <div class="fhead"><h1>${esc(one.plural)}</h1>${one.latin ? `<p class="latin">${esc(one.latin)}</p>` : ""}
     ${one.group_by === "crop" ? `<p class="vegnote">Named cultivars are listed separately from the plain species, and seed packets separately from live plants, so a crop can have several rows. Use the filters below to narrow by crop, to named cultivars only, or to plants or seeds.</p>` : ""}
-    ${D.meta[one.id].fd.scope ? `<details><summary>What's included</summary><p>${esc(D.meta[one.id].fd.scope)}</p></details>` : ""}</div>` : "";
+    ${D.meta[one.id].fd.scope ? `<details><summary>What's included</summary><p>${esc(pubScope(D.meta[one.id].fd.scope))}</p></details>` : ""}</div>` : "";
 
   return `${head}
   ${top.length ? `<section aria-labelledby="fp-h"><div class="h2row"><h2 id="fp-h">${one ? "Best deals today" : "Today's best deals"}${tip("best")}</h2></div>
     <div class="fp">${top.map(dealCard).join("")}</div></section>` : ""}
-  ${D.shipTo !== HOME_ZIP ? `<p class="run muted zipnote">Priced for ZIP ${esc(D.shipTo)} (${esc(D.shipState)}): exact where a nursery publishes its rates, otherwise estimated from distance.${D.blocked ? ` ${D.blocked} nurser${D.blocked > 1 ? "ies don't" : "y doesn't"} ship some of these plants to ${esc(D.shipState)}, so those listings are left out.` : ""} <button class="linkbtn" data-zipreset>Back to ${HOME_ZIP}</button></p>` : ""}
+  ${D.shipTo !== HOME_ZIP ? `<p class="run muted zipnote">Priced for ZIP ${esc(D.shipTo)} (${esc(D.shipState)}): exact where a nursery publishes its rates, otherwise estimated from distance.${D.blocked ? ` ${D.blocked} nurser${D.blocked > 1 ? "ies don't" : "y doesn't"} ship some of these plants to ${esc(D.shipState)}, so those listings are left out.` : ""}</p>` : ""}
 
   <section aria-labelledby="all-h">
     <div class="h2row"><h2 id="all-h">${listTitle}</h2><span class="ct">${shownLive.length}${shownLive.length !== live.length ? ` of ${live.length}` : ""} variet${shownLive.length === 1 ? "y" : "ies"} · prices are delivered to ${esc(D.shipTo)}${tip("delivered")}</span></div>
@@ -2369,7 +2372,7 @@ function aboutView() {
       <span><span class="b sale">${ICON.tag}On sale</span> the nursery shows a marked-down price</span>
       <span><span class="flag tm-safe">Safe timing</span> the nursery ships dormant plants or times shipping to the hardiness zone</span>
     </div></div>
-    <div class="box"><h3>What's tracked</h3>${fs.map(f => `<details class="fold"><summary>${esc(f.plural)}</summary><p>${esc(D.meta[f.id].fd.scope || "")}${f.log?.url ? ` <a href="${esc(f.log.url)}" target="_blank" rel="noopener">Full log</a>` : ""}</p></details>`).join("")}
+    <div class="box"><h3>What's tracked</h3>${fs.map(f => `<details class="fold"><summary>${esc(f.plural)}</summary><p>${esc(pubScope(D.meta[f.id].fd.scope))}${f.log?.url ? ` <a href="${esc(f.log.url)}" target="_blank" rel="noopener">Full log</a>` : ""}</p></details>`).join("")}
       ${D.fruits.filter(f => !D.meta[f.id]).length ? `<p style="margin-top:8px">Coming later: ${esc(D.fruits.filter(f => !D.meta[f.id]).map(f => f.plural).join(", "))}.</p>` : ""}</div>
     <div class="box"><h3>Your wagon and watch list</h3><p>${SYNC.on ? "You're signed in as the owner, so these are saved to your account and follow you between devices." : "These are saved in this browser on this device. They won't follow you to another device or browser."}</p></div>
   </div>`;
@@ -2527,7 +2530,7 @@ let qt; $("#q").addEventListener("input", e => { clearTimeout(qt); qt = setTimeo
 function readHash() {
   const h = decodeURIComponent(location.hash.slice(1));
   if (!h) return;
-  if (h === "wagon" || h === "prices" || h === "sales" || h === "seeds" || h === "about") { S.view = h; return; }
+  if (h === "wagon" || h === "prices" || h === "sales" || h === "about") { S.view = h; return; }
   if (D.meta[h]) { S.fruit = h; return; }
   const key = D.byKey[h] ? h : D.all.find(v => v.id === h)?.key;
   if (key) { const v = D.byKey[key]; S.fruit = v.fruit; if (v.inStock) S.open = key; else { S.soldOpen = true; S.soldKey = key; S.keepSold = true; } }
@@ -2539,7 +2542,8 @@ async function load() {
     const reg = await get("fruits.json");
     D.fruits = reg.fruits;
     for (const [id, x] of Object.entries(INLINE_FRUITS)) if (!D.fruits.some(f => f.id === id)) D.fruits.push(x.registry); const want = store.get("rfd.zip", null);
-    D.shipTo = validZip(want || "") ? want : (reg.ship_to || HOME_ZIP); D.shipRegion = regionOfZip(D.shipTo); D.shipState = stateOf(D.shipRegion);
+    if (!validZip(want || "")) { D.shipTo = ""; zipGate(); return; }
+    D.shipTo = want; D.shipRegion = regionOfZip(D.shipTo); D.shipState = stateOf(D.shipRegion);
     $("#zip").textContent = D.shipTo; $("#zipBtn").title = `Prices include shipping to ${D.shipTo} (${D.shipState}). Click to change.`;
     STATUS.no_ship = `Doesn't ship to ${D.shipState}`;
     if (D.shipTo !== HOME_ZIP) { try { const sj = await get("shipping.json"); for (const rec of Object.values(sj.nurseries || {})) for (const id of rec.board_ids || []) D.ship[id] = rec; } catch {} }
@@ -2557,7 +2561,7 @@ async function load() {
     const loaded = live.filter(f => D.meta[f.id]);
     if (loaded.length === 1) S.fruit = loaded[0].id;
     readHash();
-    renderTabs(); render(); updateWagonBtn(); updateGardenBtn(); salesCount(); loadCoupons(); if (!initZipUI.done) { initZipUI(); initZipUI.done = true; }
+    renderTabs(); render(); updateWagonBtn(); updateGardenBtn(); salesCount(); if (!initZipUI.done) { initZipUI(); initZipUI.done = true; }
     if (S.open) document.getElementById(S.open)?.scrollIntoView({ block: "start" });
     else if (S.soldKey) document.getElementById(S.soldKey)?.scrollIntoView({ block: "center" });
   } catch (err) {
