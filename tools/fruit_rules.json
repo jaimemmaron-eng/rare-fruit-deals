@@ -1,0 +1,140 @@
+{
+ "about": "Per-fruit rules for Rare Fruit Deals. The weekly seller search reads the entry for tonight's fruit. Order = discovery rotation.",
+ "rotation_start": "2026-10-21",
+ "order": [
+  "pawpaw",
+  "fig",
+  "raspberry",
+  "kiwi",
+  "persimmon",
+  "gooseberry",
+  "honeyberry",
+  "cornelian",
+  "asianpear",
+  "grape",
+  "chestnut",
+  "perennial"
+ ],
+ "fruits": {
+  "pawpaw": {
+   "log": null,
+   "unit": "tree",
+   "ship_estimate": [
+    20,
+    50
+   ],
+   "scope": "Named, grafted pawpaw (Asimina triloba) cultivars only; skip generic seedlings and unnamed 'select' grades.",
+   "variety_fields": "No extra fields."
+  },
+  "raspberry": {
+   "log": null,
+   "unit": "plant",
+   "ship_estimate": [
+    15,
+    25
+   ],
+   "scope": "Specialty raspberries only: black, purple, gold/yellow, thornless or otherwise unusual named cultivars. Leave out ordinary red types (Heritage, Caroline, Joan J, Polana, Encore, Nova, Latham, Killarney, Himbo Top, Boyne, Prelude, Meeker and similar).",
+   "variety_fields": "color (\"black\"|\"purple\"|\"gold\"|\"red\") sets the berry color in the artwork."
+  },
+  "kiwi": {
+   "log": null,
+   "unit": "plant",
+   "ship_estimate": [
+    15,
+    25
+   ],
+   "scope": "Named hardy kiwi cultivars: Actinidia arguta (kiwiberry), A. kolomikta and A. polygama (silver vine), plus named male pollinators. Leave out fuzzy kiwi (A. deliciosa: Hayward, Saanichton, Elmwood, Jenny and similar) and unnamed/generic vines (mention an unnamed male in the seller's note instead, since buyers need one).",
+   "variety_fields": "sex (\"female\"|\"male\"|\"self\"), species (\"arguta\"|\"kolomikta\"|\"polygama\"|\"hybrid\"), color (\"green\"|\"red\"), tags ([\"Female\"|\"Male (pollinator)\"|\"Self-fertile\"] plus \"A. kolomikta\"/\"A. polygama\"/\"Hybrid\" when not arguta)."
+  },
+  "persimmon": {
+   "log": null,
+   "unit": "tree",
+   "ship_estimate": [
+    20,
+    35
+   ],
+   "scope": "Named, grafted persimmons for zone 6b: American (Diospyros virginiana) cultivars, American x Asian hybrids (Nikita's Gift, Rosseyanka, JT-02, Kasandra and similar), and Asian (D. kaki) cultivars only when a seller rates them hardy to zone 6 or colder (e.g. Saijo, Great Wall). Leave out Asian types rated zone 7+ (Fuyu, Jiro, Hachiya, Giombo, Tamopan and similar) and ungrafted seedlings.",
+   "variety_fields": "type (\"american\"|\"hybrid\"|\"asian\") sets the artwork; tags ([\"American\"], [\"Hybrid\"], or [\"Asian\", \"Zone 6\"])."
+  },
+  "gooseberry": {
+   "log": null,
+   "unit": "plant",
+   "ship_estimate": [
+    12,
+    25
+   ],
+   "scope": "Named gooseberry cultivars for zone 6b: American (Ribes hirtellum-type), European (R. uva-crispa) and hybrids, plus gooseberry x currant hybrids (jostaberry, Jostine, Orus 8 and similar). Leave out plain currants and unnamed species plants. NJ allows gooseberries into Hunterdon County (N.J.A.C. 2:20-2.2), but some sellers refuse to ship any Ribes to NJ: those go in sources.checked_no_named_stock with the reason, never in listings.",
+   "variety_fields": "type (\"american\"|\"european\"|\"hybrid\"), color (\"red\"|\"pink\"|\"green\"|\"yellow\"|\"white\"|\"black\"), tags ([\"American\"], [\"European\"], [\"Hybrid\"] or [\"Gooseberry × currant\"], plus \"Few thorns\" when a source says nearly thornless)."
+  },
+  "honeyberry": {
+   "log": null,
+   "unit": "plant",
+   "ship_estimate": [
+    15,
+    25
+   ],
+   "scope": "Named honeyberry / haskap (Lonicera caerulea) cultivars. Tag each early or late bloomer where sellers agree; in zone 6-7 late bloomers (Boreal series, Maxine Thompson's Japanese types) usually do better than early ones. Keep overlapping names on one variety (Berry Blue = Czech #17 = Berry Smart Blue; Yezberry Solo = Kapu; Yezberry Maxie = Kuchi). Leave out unnamed seedlings.",
+   "variety_fields": "color (\"blue\"), bloom (\"Early bloomer\"|\"Late bloomer\"|null), optional breeder short (1-2 word badge label), tags (the bloom label, plus \"Self-fertile\" only when growers verify it)."
+  },
+  "cornelian": {
+   "log": null,
+   "unit": "tree",
+   "ship_estimate": [
+    25,
+    35
+   ],
+   "scope": "Named cornelian cherry (Cornus mas) cultivars grown for fruit. Leave out unnamed seedlings and ornamental leaf-color forms (Variegata, Tricolor, Aurea, Golden Glory, Saffron Sentinel). Keep trademark and Ukrainian names on one variety (Pioneer = Lukianivskyi, Sunrise = Marina, Red Star = Vydubetskyi, Yellow = Yantarnyi, Elegant = Elehantnyi).",
+   "variety_fields": "color (\"red\"|\"dark\"|\"yellow\"|\"coral\"), optional breeder short, tags (fruit color such as \"Red\", \"Dark red\", \"Near-black\", \"Coral red\", \"Yellow fruit\", plus \"Early\", \"Sweet\" or \"Striped\" when a source says so). checked_no_named_stock entries are plain strings."
+  },
+  "asianpear": {
+   "log": null,
+   "unit": "tree",
+   "ship_estimate": [
+    25,
+    40
+   ],
+   "scope": "Named Asian pear cultivars (Pyrus pyrifolia, P. bretschneideri and Asian-type hybrids such as Juicy Jewel). Leave out trees on callery pear (P. calleryana, invasive in NJ): put such sellers in sources.checked_no_named_stock with that reason. Also leave out Asian x European crosses sold as such (e.g. Maxie), multi-variety combo trees and unnamed trees. Keep trade names as aliases (Korean Giant = Olympic = Dan Bae; Shinseiki = New Century; Nijisseiki = 20th Century).",
+   "variety_fields": "type (\"japanese\"|\"chinese\"|\"korean\"|\"hybrid\"), skin (\"russet\"|\"smooth\"), tags (type label, \"Russet\" or \"Smooth skin\", plus \"Fire blight resistant\" only when an extension source or several sellers say so), optional incompatible [variety ids], poor_pollinizer: true for sterile-pollen types like Niitaka, optional breeder short."
+  },
+  "grape": {
+   "log": null,
+   "unit": "vine",
+   "ship_estimate": [
+    15,
+    25
+   ],
+   "scope": "Named cold-hardy grapes for fresh eating, juice, jelly and wine that survive zone 5-6 winters: American types (Concord, Niagara, Catawba, Delaware, Reliance, Canadice, Mars, Jupiter, Interlaken and similar) and cold-hardy hybrids (Marquette, Frontenac, La Crescent, Brianna, St. Croix, Edelweiss and similar). Leave out muscadines, ungrafted European wine grapes (V. vinifera) and unnamed vines. Orderable-now-ships-in-spring stays in_stock with a ships note.",
+   "variety_fields": "color (\"blue\"|\"red\"|\"green\"|\"black\"), type (\"table\"|\"juice\"|\"wine\"|\"multi\"), seedless (true|false), hardy_to (USDA zone when a source states it), tags (short chips such as \"Seedless\", \"Wine grape\", \"Juice & jelly\", \"Self-fertile\", \"Disease resistant\")."
+  },
+  "fig": {
+   "log": null,
+   "unit": "plant",
+   "ship_estimate": [
+    15,
+    30
+   ],
+   "scope": "Named fig (Ficus carica) cultivars grown in zone 6b/7a, in the ground with winter protection or in pots overwintered indoors. Tag 'Cold hardy' only when a seller or extension source calls the cultivar cold hardy; tag 'Compact' for dwarf/container types. Leave out unnamed seedlings and the ornamental climbing fig (Ficus pumila). Track one price per listing for a real plant (usually the 1-gallon size), not 2-4 inch plugs or cuttings; mention other sizes in notes. Keep known synonyms as aliases (Lattarula = Italian Honey; Brunswick = Magnolia; Violette de Bordeaux = Negronne).",
+   "variety_fields": "color (\"dark\"|\"brown\"|\"green\"|\"yellow\") sets the artwork; tags from [\"Cold hardy\", \"Compact\", \"Striped\"] when a source supports them."
+  },
+  "chestnut": {
+   "log": null,
+   "unit": "tree",
+   "ship_estimate": [
+    20,
+    35
+   ],
+   "scope": "Named chestnut (Castanea) cultivars for zone 6b/7a sold as grafted, layered, tissue-culture or self-rooted trees: Chinese, Japanese, European, European x Japanese and complex hybrids. Also the Dunstan line (sold only as seedlings; tag 'Seedling strain'). Leave out seedlings grown from a named cultivar (e.g. 'Colossal seedling', Food Forest's own-root 'Qing'), unnamed seedlings, horse chestnut (Aesculus) and water chestnut. Track one price per listing for a grafted tree, the 2-4 ft size where offered; note other sizes in sold_as. Grimo Nut Nursery can't ship chestnuts to the US. Keep accents as aliases (Bouche de Betizac, Belle Epine, Precoce Migoule).",
+   "variety_fields": "type (\"chinese\"|\"japanese\"|\"european\"|\"eurojapanese\"|\"hybrid\") sets the artwork; poor_pollinizer: true for pollen-sterile types (Colossal, Bouche de Betizac); tags (type label: \"Chinese\", \"Japanese\", \"European\", \"Euro-Japanese hybrid\" or \"Complex hybrid\", plus \"Pollen sterile\", \"Pollen producer\", \"Early\", \"Blight resistant\" or \"Seedling strain\" when a source says so)."
+  },
+  "perennial": {
+   "log": null,
+   "unit": "plant",
+   "ship_estimate": [
+    8,
+    25
+   ],
+   "scope": "Perennial vegetables that overwinter in the ground in zone 6b/7a and are sold by mail: asparagus, rhubarb, horseradish, sunchoke, walking/Welsh/potato onions, perennial leeks, ramps and bear's garlic, garlic chives, skirret, groundnut, crosnes, sea kale, colewort, Good King Henry, sorrels, patience dock, Turkish rocket, perennial kale, sochan (Rudbeckia laciniata), lovage, Caucasian mountain spinach, nettle, fuki, ostrich fern, earth chestnut, wapato, scorzonera, udo and similar. Track EVERY form: live plants, crowns, tubers, root cuttings and seed packets. Two rules keep rows apart: (1) a named cultivar gets its own variety, separate from the plain species (e.g. 'purple-passion-asparagus' vs 'asparagus'); (2) seed packets get their own variety whose id ends in '-seed' and whose name ends in ' seeds' (e.g. 'skirret-seed'), separate from plants/crowns/tubers. Never put a seed listing on a plant variety or the reverse. Leave out crops that don't survive a zone 6 winter outdoors (yacon, oca, mashua, tree collards, globe artichoke, cardoon), ordinary annual vegetables, culinary herbs (chives, mint, oregano) and ornamental-only cultivars. Say what is sold in sold_as ('seed packet', 'packet of 30 seeds', 'bundle of 10 crowns', 'tubers', 'root cuttings', 'bare-root division', '4-inch pot'); the page reads the form from it. For a seed packet from a seller whose shipping is an estimate, add ship_est [4, 8]. Where a seller only shows commercial minimums (Nourse), note it in sources.add_to_check instead of listing a wholesale price.",
+   "variety_fields": "crop (crop id, e.g. \"asparagus\", \"sea-kale\"; reuse the ids already in the file), crop_name (\"Asparagus\"), latin, named (true for a named cultivar, false for the plain species), sold (\"plant\" for plants/crowns/tubers/cuttings, \"seed\" for seed packets), kind (artwork: \"shoot\"|\"stalk\"|\"root\"|\"tuber\"|\"allium\"|\"leaf\"|\"fern\"), optional color (\"purple\" for purple asparagus), tags ([crop_name, \"Named cultivar\"] for a named cultivar, plus \"Seeds\" for a seed variety). Name a named cultivar with its crop (\"Purple Passion asparagus\"); a plain species is just the crop name (\"Skirret\")."
+  }
+ }
+}

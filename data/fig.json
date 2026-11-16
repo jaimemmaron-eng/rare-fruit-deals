@@ -1,29 +1,22 @@
 {
  "fruit": "fig",
- "updated": "2026-11-09",
+ "updated": "2026-11-15",
  "scope": "Named fig (Ficus carica) cultivars that gardeners grow in zone 6b/7a: in the ground with winter protection (most figs die back and regrow from the roots there), or in pots brought into a garage or cellar for winter. Cultivars sellers describe as cold hardy are tagged. Unnamed seedlings and the ornamental climbing fig (Ficus pumila) are left out. Prices are for one plant of the size noted (usually a 1-gallon pot).",
  "last_run": {
-  "date": "2026-11-09",
-  "summary": "Back in stock at Raintree Nursery: Chicago Hardy $30.99, Brown Turkey $27.99, Sultane $32.99.",
+  "date": "2026-11-15",
+  "summary": "New listings at Trees of Antiquity: Lattarula ($39.95), Violette de Bordeaux ($39.95), Brown Turkey ($39.95), Peter's Honey ($39.95), Panache ($39.95), Conadria ($39.95), Green Ischia ($39.95), Black Mission (sold out). New listings at Sooner Plant Farm: Chicago Hardy ($70). New sellers: Trees of Antiquity (Italian Honey, Violette de Bordeaux, Brown Turkey, Peter's Honey, Panache, Conadria, Verte, Black Mission sold out. $39.95 bareroot for 2027) and Sooner Plant Farm (Chicago Hardy jumbo gallon $70). Silver Run Forest Farm, Bower & Branch, Art's Nursery and Louie's Nursery had nothing in scope. New sellers Trees of Antiquity (7 named figs) and Sooner Plant Farm (Chicago Hardy).",
   "gaps": [
-   "isons: would not load",
-   "gurneys: would not load"
+   "Trees of Antiquity also lists White Genoa, Black Jack, Texas Everbearing, White Kadota, Osborne Prolific and Flanders, not yet added as varieties; its location and NJ shipping are not stated on the page.",
+   "Seedtime fig collection was empty; One Green World pages 2-6 not read."
   ],
-  "checked": [
-   "arbor-day",
-   "edible-landscaping",
-   "one-green-world",
-   "peaceful-heritage",
-   "perfect-plants",
-   "raintree",
-   "roots-to-fruits",
-   "scenic-hill-farm",
-   "stark-bros"
-  ],
-  "held": [
-   "arbor-day--hardy-chicago: price 59.99 -> 114.99 is a 92% move"
-  ],
-  "notes": []
+  "checked": [],
+  "held": [],
+  "notes": [
+   "New sellers: Trees of Antiquity (Italian Honey, Violette de Bordeaux, Brown Turkey, Peter's Honey, Panache, Conadria, Verte, Black Mission sold out",
+   "$39.95 bareroot for 2027) and Sooner Plant Farm (Chicago Hardy jumbo gallon $70)",
+   "Silver Run Forest Farm, Bower & Branch, Art's Nursery and Louie's Nursery had nothing in scope",
+   "New sellers Trees of Antiquity (7 named figs) and Sooner Plant Farm (Chicago Hardy)"
+  ]
  },
  "history_log": [
   "Oct 11: Figs added — 23 varieties, 6 nurseries; overnight check: no changes at the 2 nurseries checked",
@@ -37,7 +30,8 @@
   "Oct 29: no changes at the 3 nurseries checked",
   "Nov 2: Back in stock at Raintree Nursery: Petite Negri $30.99; Sold out at Raintree Nursery: Chicago Hardy, Brown Turkey, Sultane; New listings at Scenic Hill Farm Nursery: Chicago Hardy ($32.95), Desert King ($32.95), Lattarula ($32.95), Little Ruby ($32.95), LSU Purple ($32.95), Olympian ($32.95), Marseilles ($32.95); New listings at Gurney's: Chicago Hardy ($49.99), Fignomenal ($34.99), Violette de Bordeaux (sold out), Peter's Honey (sold out); New listings at Perfect Plants Nursery: Chicago Hardy ($27.99), LSU Purple (sold out), Celeste (sold out), Olympian (sold out), Fignomenal (sold out), Brown Turkey (sold out), Lattarula (sold out), LSU Gold (sold out) and 2 more; New listings at Peaceful Heritage Nursery: Celeste ($54.99), Olympian ($54.99), Violette de Bordeaux ($54.99), Green Ischia ($54.99); Epic Gardening: Chicago Hardy now sold out; Found three new fig sellers: Scenic Hill Farm Nursery (7 varieties, shipping included), Gurney's and Perfect Plants Nursery (new varieties GE Neri, LSU Gold and Black Mission), and added four more Peaceful Heritage figs; Logee's, Willis Orchard, Simply Trees, Kremp and Wildcat Ridge had nothing usable in scope",
   "Nov 5: Sold out at Raintree Nursery: Petite Negri",
-  "Nov 9: Back in stock at Raintree Nursery: Chicago Hardy $30.99, Brown Turkey $27.99, Sultane $32.99"
+  "Nov 9: Back in stock at Raintree Nursery: Chicago Hardy $30.99, Brown Turkey $27.99, Sultane $32.99",
+  "Nov 15: New listings at Trees of Antiquity: Lattarula ($39.95), Violette de Bordeaux ($39.95), Brown Turkey ($39.95), Peter's Honey ($39.95), Panache ($39.95), Conadria ($39.95), Green Ischia ($39.95), Black Mission (sold out); New listings at Sooner Plant Farm: Chicago Hardy ($70); New sellers: Trees of Antiquity (Italian Honey, Violette de Bordeaux, Brown Turkey, Peter's Honey, Panache, Conadria, Verte, Black Mission sold out; $39.95 bareroot for 2027) and Sooner Plant Farm (Chicago Hardy jumbo gallon $70); Silver Run Forest Farm, Bower & Branch, Art's Nursery and Louie's Nursery had nothing in scope; New sellers Trees of Antiquity (7 named figs) and Sooner Plant Farm (Chicago Hardy)"
  ],
  "sources": {
   "directories": [
@@ -53,7 +47,11 @@
    "Willis Orchard Company (Cartersville, GA): 12 named figs shown with 'starting at' prices ($19.95-$29.95) but no sizes or stock per variety; not added.",
    "Simply Trees (Winnsboro, TX): only Brown Turkey seen, as a 3-gallon at $135; not comparable, not added.",
    "Kremp Florist (Willow Grove, PA): about 250 named figs listed as 'in stock' but no prices or NJ shipping terms; not added.",
-   "Wildcat Ridge Farm (NC): lists Brown Turkey, Celeste, Kadota, Desert King and others but no prices or shipping on the page; sells through its own site."
+   "Wildcat Ridge Farm (NC): lists Brown Turkey, Celeste, Kadota, Desert King and others but no prices or shipping on the page; sells through its own site.",
+   "Silver Run Forest Farm (VA): Celeste, Chicago Hardy, Brown Turkey, Marseilles, Kadota at $15 but 'plant or 5 cuttings', no size; not a full plant, not added.",
+   "Bower & Branch: Chicago Hardy only as wholesale bundles ($810, #3/#10 containers); not added.",
+   "Art's Nursery (Surrey, BC): in-store Canadian nursery, no figs or shipping shown.",
+   "Louie's Nursery (Riverside, CA): local garden center, no fig varieties or prices listed."
   ],
   "dead": [],
   "to_check": [
@@ -312,6 +310,32 @@
     "note": "Free shipping on orders over $199; rates for smaller orders are shown only at checkout. Page does not list excluded states."
    },
    "note": "Family-owned farm operating since 1980 (location not stated on the pages read). Figs sold as 1-gallon and 3-gallon; the 1-gallon price is tracked."
+  },
+  {
+   "id": "trees-of-antiquity",
+   "name": "Trees of Antiquity",
+   "location": "",
+   "state": "",
+   "url": "https://www.treesofantiquity.com/collections/fig-trees",
+   "shipping": {
+    "type": "estimate",
+    "low": 15,
+    "high": 30
+   },
+   "note": "Page says figs ship 2-3 ft tall for the 2027 bareroot season; no shipping rules or NJ info stated."
+  },
+  {
+   "id": "sooner-plant-farm",
+   "name": "Sooner Plant Farm",
+   "location": "Park Hill, OK",
+   "state": "OK",
+   "url": "https://www.soonerplantfarm.com/plant/fig-chicago-hardy",
+   "shipping": {
+    "type": "estimate",
+    "low": 15,
+    "high": 30
+   },
+   "note": "Banner: free shipping on shipments $175+. Chicago Hardy page lists only TX as prohibited; no NJ restriction stated."
   }
  ],
  "varieties": [
@@ -2687,6 +2711,221 @@
     }
    ],
    "sold_as": "Medium 1-2 ft (Large 2-4 ft $64.99)"
+  },
+  {
+   "id": "trees-of-antiquity--lattarula",
+   "variety": "lattarula",
+   "nursery": "trees-of-antiquity",
+   "status": "in_stock",
+   "price": 39.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.treesofantiquity.com/collections/fig-trees",
+   "first_seen": "2026-11-15",
+   "last_checked": "2026-11-15",
+   "notes": [
+    "Collection page shows one price for all figs; per-product pages not opened."
+   ],
+   "history": [
+    {
+     "date": "2026-11-15",
+     "price": 39.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "2027 bareroot shipping season",
+   "sold_as": "bareroot tree, 2-3 ft"
+  },
+  {
+   "id": "trees-of-antiquity--violette-de-bordeaux",
+   "variety": "violette-de-bordeaux",
+   "nursery": "trees-of-antiquity",
+   "status": "in_stock",
+   "price": 39.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.treesofantiquity.com/collections/fig-trees",
+   "first_seen": "2026-11-15",
+   "last_checked": "2026-11-15",
+   "notes": [
+    "Collection page shows one price for all figs; per-product pages not opened."
+   ],
+   "history": [
+    {
+     "date": "2026-11-15",
+     "price": 39.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "2027 bareroot shipping season",
+   "sold_as": "bareroot tree, 2-3 ft"
+  },
+  {
+   "id": "trees-of-antiquity--brown-turkey",
+   "variety": "brown-turkey",
+   "nursery": "trees-of-antiquity",
+   "status": "in_stock",
+   "price": 39.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.treesofantiquity.com/collections/fig-trees",
+   "first_seen": "2026-11-15",
+   "last_checked": "2026-11-15",
+   "notes": [
+    "Collection page shows one price for all figs; per-product pages not opened."
+   ],
+   "history": [
+    {
+     "date": "2026-11-15",
+     "price": 39.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "2027 bareroot shipping season",
+   "sold_as": "bareroot tree, 2-3 ft"
+  },
+  {
+   "id": "trees-of-antiquity--peters-honey",
+   "variety": "peters-honey",
+   "nursery": "trees-of-antiquity",
+   "status": "in_stock",
+   "price": 39.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.treesofantiquity.com/collections/fig-trees",
+   "first_seen": "2026-11-15",
+   "last_checked": "2026-11-15",
+   "notes": [
+    "Collection page shows one price for all figs; per-product pages not opened."
+   ],
+   "history": [
+    {
+     "date": "2026-11-15",
+     "price": 39.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "2027 bareroot shipping season",
+   "sold_as": "bareroot tree, 2-3 ft"
+  },
+  {
+   "id": "trees-of-antiquity--panache",
+   "variety": "panache",
+   "nursery": "trees-of-antiquity",
+   "status": "in_stock",
+   "price": 39.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.treesofantiquity.com/collections/fig-trees",
+   "first_seen": "2026-11-15",
+   "last_checked": "2026-11-15",
+   "notes": [
+    "Collection page shows one price for all figs; per-product pages not opened."
+   ],
+   "history": [
+    {
+     "date": "2026-11-15",
+     "price": 39.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "2027 bareroot shipping season",
+   "sold_as": "bareroot tree, 2-3 ft"
+  },
+  {
+   "id": "trees-of-antiquity--conadria",
+   "variety": "conadria",
+   "nursery": "trees-of-antiquity",
+   "status": "in_stock",
+   "price": 39.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.treesofantiquity.com/collections/fig-trees",
+   "first_seen": "2026-11-15",
+   "last_checked": "2026-11-15",
+   "notes": [
+    "Collection page shows one price for all figs; per-product pages not opened."
+   ],
+   "history": [
+    {
+     "date": "2026-11-15",
+     "price": 39.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "2027 bareroot shipping season",
+   "sold_as": "bareroot tree, 2-3 ft"
+  },
+  {
+   "id": "trees-of-antiquity--green-ischia",
+   "variety": "green-ischia",
+   "nursery": "trees-of-antiquity",
+   "status": "in_stock",
+   "price": 39.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.treesofantiquity.com/collections/fig-trees",
+   "first_seen": "2026-11-15",
+   "last_checked": "2026-11-15",
+   "notes": [
+    "Collection page shows one price for all figs; per-product pages not opened."
+   ],
+   "history": [
+    {
+     "date": "2026-11-15",
+     "price": 39.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "2027 bareroot shipping season",
+   "sold_as": "bareroot tree, 2-3 ft"
+  },
+  {
+   "id": "trees-of-antiquity--black-mission",
+   "variety": "black-mission",
+   "nursery": "trees-of-antiquity",
+   "status": "sold_out",
+   "price": 39.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.treesofantiquity.com/collections/fig-trees",
+   "first_seen": "2026-11-15",
+   "last_checked": "2026-11-15",
+   "notes": [
+    "Collection page shows one price for all figs; per-product pages not opened."
+   ],
+   "history": [
+    {
+     "date": "2026-11-15",
+     "price": 39.95,
+     "status": "sold_out"
+    }
+   ],
+   "ships": "2027 bareroot shipping season",
+   "sold_as": "bareroot tree, 2-3 ft"
+  },
+  {
+   "id": "sooner-plant-farm--hardy-chicago",
+   "variety": "hardy-chicago",
+   "nursery": "sooner-plant-farm",
+   "status": "in_stock",
+   "price": 70.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.soonerplantfarm.com/plant/fig-chicago-hardy",
+   "first_seen": "2026-11-15",
+   "last_checked": "2026-11-15",
+   "notes": [
+    "2-gallon Root Pouch $105 also offered."
+   ],
+   "history": [
+    {
+     "date": "2026-11-15",
+     "price": 70.0,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "jumbo gallon pot"
   }
  ]
 }
