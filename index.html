@@ -2541,8 +2541,8 @@ async function load() {
     const get = p => fetch(DATA_BASE + p.replace(/^data\//, ""), { cache: "no-cache" }).then(r => { if (!r.ok) throw new Error(p + " " + r.status); return r.json(); });
     const reg = await get("fruits.json");
     D.fruits = reg.fruits;
-    for (const [id, x] of Object.entries(INLINE_FRUITS)) if (!D.fruits.some(f => f.id === id)) D.fruits.push(x.registry); const want = store.get("rfd.zip", null);
-    if (!validZip(want || "")) { D.shipTo = ""; zipGate(); return; }
+    for (const [id, x] of Object.entries(INLINE_FRUITS)) if (!D.fruits.some(f => f.id === id)) D.fruits.push(x.registry); let want = store.get("rfd.zip", null);
+    if (!validZip(want || "")) want = HOME_ZIP;
     D.shipTo = want; D.shipRegion = regionOfZip(D.shipTo); D.shipState = stateOf(D.shipRegion);
     $("#zip").textContent = D.shipTo; $("#zipBtn").title = `Prices include shipping to ${D.shipTo} (${D.shipState}). Click to change.`;
     STATUS.no_ship = `Doesn't ship to ${D.shipState}`;
