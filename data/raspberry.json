@@ -1,52 +1,21 @@
 {
  "fruit": "raspberry",
- "updated": "2026-11-09",
+ "updated": "2026-11-16",
  "scope": "Specialty raspberries only: black, purple, gold/yellow, thornless or otherwise unusual. Ordinary red types (Heritage, Caroline, Joan J, Polana, Encore, Nova, Latham, Killarney and similar) are deliberately left out.",
  "last_run": {
-  "date": "2026-11-09",
-  "summary": "Back in stock at Nourse Farms: Bristol $6.52, Jewel $6.52, Niwot $7.73, Double Gold $4.70, Anne $3.47. Price changes at Hartmann's Plant Company: Pequot Lakes priced at $25.50. Arbor Day Foundation Tree Nursery: Jewel now sold out.",
+  "date": "2026-11-16",
+  "summary": "Checked five new sellers (Seeds 'n Such, Prairie Gardens, Cornell Farm, Loen Nursery, Pandy's Garden Center) and the NARBA nursery list. None had in-scope named raspberries that ship to NJ at a trackable per-plant price, so no new nurseries or varieties were added. Searched for new specialty-raspberry sellers.",
   "gaps": [
-   "burntridge: no per-variety prices",
-   "bob-wells: would not load",
-   "indiana-berry: would not load",
-   "johnnys-seeds: would not load",
-   "waysidegardens: would not load"
+   "Fedco, Scenic Hill (Anne) and Raintree leads still need product-page checks.",
+   "NARBA list names wholesale/commercial growers (Agri-Starts, North American Plants, Northwest Plant Company, PhyllaTech) not yet checked for retail sales."
   ],
-  "checked": [
-   "arborday",
-   "berries-unlimited",
-   "berryplants",
-   "blessings-grow-meadows",
-   "burpee",
-   "double-a",
-   "edible-landscaping",
-   "fedco",
-   "food-forest",
-   "groworganic",
-   "gurneys",
-   "handpicked",
-   "hartmanns",
-   "hirts",
-   "hollandbulbfarms",
-   "mckay-nursery",
-   "migardener",
-   "naturehills",
-   "nourse-farms",
-   "one-green-world",
-   "peacefulheritage",
-   "pense-berry-farm",
-   "perfectplants",
-   "plantaddicts",
-   "raintree",
-   "scenic-hill",
-   "sooner-plant-farm",
-   "st-lawrence",
-   "stark-bros",
-   "treesdotcom",
-   "tyty"
-  ],
+  "checked": [],
   "held": [],
-  "notes": []
+  "notes": [
+   "Checked five new sellers (Seeds 'n Such, Prairie Gardens, Cornell Farm, Loen Nursery, Pandy's Garden Center) and the NARBA nursery list",
+   "None had in-scope named raspberries that ship to NJ at a trackable per-plant price, so no new nurseries or varieties were added",
+   "Searched for new specialty-raspberry sellers"
+  ]
  },
  "history_log": [
   "Sep 22: seeded from Double A Vineyards, Edible Landscaping, Raintree Nursery and Indiana Berry.",
@@ -79,7 +48,8 @@
   "Nov 2: Back in stock at Pense Berry Farm (Pense Nursery): Bristol $12, Anne $11, Double Gold $11; Sold out at Spring Hill Nursery: Anne; Nourse Farms: Bristol now unconfirmed, Jewel now unconfirmed, Mac Black now sold out, Niwot now unconfirmed, Shekinah 'Tahi' now unconfirmed, Royalty now unconfirmed, Double Gold now unconfirmed, Anne now unconfirmed; McKay Nursery Company: Jewel now unconfirmed",
   "Nov 3: New listings at Willis Orchard Co.: Anne ($14.95), Jewel ($14.95), Cumberland (unconfirmed), Fall Gold (unconfirmed); New listings at Hirt's Gardens: Ohio's Treasure ($14.99); Found two new raspberry sellers with in-scope stock: Willis Orchard (GA; Anne, Jewel, Cumberland, Fall Gold) and Hirt's Gardens (OH; Ohio's Treasure); Patuxent Nursery, Roots to Fruits, Jung Seed, All U Need Garden Supply and Wilco had nothing usable; The older red-raspberry leads were cleared as out of scope",
   "Nov 5: Back in stock at Gurney's Seed & Nursery Co.: Canby Thornless $17.99, Crimson Night $15.99; Back in stock at Willis Orchard Co.: Cumberland $9.95; Sold out at Greenwood Nursery: Cumberland",
-  "Nov 9: Back in stock at Nourse Farms: Bristol $6.52, Jewel $6.52, Niwot $7.73, Double Gold $4.70, Anne $3.47; Price changes at Hartmann's Plant Company: Pequot Lakes priced at $25.50; Arbor Day Foundation Tree Nursery: Jewel now sold out"
+  "Nov 9: Back in stock at Nourse Farms: Bristol $6.52, Jewel $6.52, Niwot $7.73, Double Gold $4.70, Anne $3.47; Price changes at Hartmann's Plant Company: Pequot Lakes priced at $25.50; Arbor Day Foundation Tree Nursery: Jewel now sold out",
+  "Nov 16: Checked five new sellers (Seeds 'n Such, Prairie Gardens, Cornell Farm, Loen Nursery, Pandy's Garden Center) and the NARBA nursery list; None had in-scope named raspberries that ship to NJ at a trackable per-plant price, so no new nurseries or varieties were added; Searched for new specialty-raspberry sellers"
  ],
  "sources": {
   "directories": [
@@ -109,16 +79,18 @@
    "Roots to Fruits Nursery (rootstofruitsnursery.com, Gays Mills WI) - only Polka (red everbearing) found, sold as a 3-pack ($25 bare root) with no published shipping rates; not tracked as a per-plant price.",
    "Jung Seed (jungseed.com) - lists Jewel, Bristol and Double Gold, but its pages show conflicting prices and pack sizes (tissue-culture plugs, bulk tiers, no single-plant price) and no shipping rates; left untracked.",
    "All U Need Garden Supply (alluneedgardensupply.com) - Ohio's Treasure potted plant $49.98 (marked down from $74.97), but no business location, plant size or shipping cost shown.",
-   "Wilco Farm Stores (farmstore.com, McMinnville OR) - Jewel bare-root cane page loads no product, price or shipping info; local farm-store chain."
+   "Wilco Farm Stores (farmstore.com, McMinnville OR) - Jewel bare-root cane page loads no product, price or shipping info; local farm-store chain.",
+   "Seeds 'n Such (seedsnsuch.com, Augusta GA) - sells Anne golden raspberry only as a 5/10/50-plant pack (4.95 for 5); page shows conflicting shipping fees (.99 vs 2 flat) and doesn't say whether it ships to NJ, so not tracked as a per-plant price.",
+   "Prairie Gardens (prairiegardens.org, Bon Accord, Alberta, Canada) - Fall Gold raspberry in a #1 pot for 4.95, but the page is a stale Spring 2024 pre-order notice with no shipping terms; Canadian seller, US shipping unconfirmed.",
+   "Cornell Farm (cornellfarms.com, Portland OR) - Brandywine purple raspberry bare root 5.99, marked Sold Out; page shows only store pickup and Portland-area local delivery, no NJ shipping stated.",
+   "Loen Nursery (loennursery.com, Woodburn OR) - lists Munger black raspberry in #5 containers but is wholesale to the trade only (,500 out-of-state minimum), no retail prices.",
+   "Pandy's Garden Center (pandysgardencenter.com, Elyria OH) - Munger black raspberry 4.99 (#1-#3 pots), sold out and states it is unable to ship this plant; pickup only."
   ],
   "dead": [],
   "to_check": [
    "Fedco Trees: Jewel, Anne and Royalty Purple raspberries listed (ship spring 2027), per-plant prices and stock not shown on the cane-fruit page; need their product pages.",
-   "St. Lawrence Nurseries: Thimbleberry listed, not on file",
-   "Pense Berry Farm / Nourse Farms / Gurneys / Berries Unlimited list further raspberries (Boyne, Caroline, Heritage, Encore, etc.), not on file",
    "Raintree: raspberries 'Heritage', 'Boyne', 'Rosanna', 'Meeker' in stock, 'Glencoe', 'Nova', 'Joan J' sold out, not on file",
-   "Scenic Hill Farm: 'Anne' and 'Boyne' raspberries listed, not on file",
-   "Berry Plants: red raspberries (Prelude, Boyne, Killarney, Latham, Nova, Cascade Delight, Amity, Caroline, Heritage) listed, not on file"
+   "Scenic Hill Farm: 'Anne' and 'Boyne' raspberries listed, not on file"
   ]
  },
  "nurseries": [

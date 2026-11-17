@@ -1,19 +1,13 @@
 {
  "fruit": "cornelian",
- "updated": "2026-11-09",
+ "updated": "2026-11-16",
  "scope": "Named cornelian cherry (Cornus mas) cultivars grown for fruit, shippable to Annandale, NJ (zone 6b/7a; the species is hardy to zone 4). Unnamed seedlings and ornamental leaf-color forms (Variegata, Tricolor, Aurea, Golden Glory, Saffron Sentinel) are left out. US sellers mostly use trademark names for the Ukrainian cultivars (Pioneer = Lukianivskyi, Sunrise = Marina, Red Star = Vydubetskyi, Yellow = Yantarnyi), so the same tree shows up under both names. Plant two different cultivars for a good crop.",
  "last_run": {
-  "date": "2026-11-09",
-  "summary": "Back in stock at Raintree Nursery: Pioneer $49.99, Coral Blaze $49.99. Sold out at Cricket Hill Garden: Sunrise. Price changes at One Green World: Elegant $44.95 → $39.95, Exotica $44.95 → $39.95, Yellow $44.95 → $39.95.",
-  "gaps": [
-   "burnt-ridge: no per-variety prices"
-  ],
+  "date": "2026-11-16",
+  "summary": "No stock or price changes at the 1 nurseries checked.",
+  "gaps": [],
   "checked": [
-   "cricket-hill",
-   "one-green-world",
-   "planting-justice",
-   "raintree",
-   "restoring-eden"
+   "one-green-world"
   ],
   "held": [],
   "notes": []
@@ -40,7 +34,8 @@
   "Nov 2: Back in stock at Cricket Hill Garden: Sunrise $52",
   "Nov 5: no changes at the 7 nurseries checked",
   "Nov 8: No new sellers or varieties tonight: Scenic Hill Farm, Bower & Branch and Big Beautiful Barns sell only unnamed Cornus mas; Cricket Hill's extra cornelian cherry listings are seedlings (aurea strain, open-pollinated Elegant seedling), which are out of scope",
-  "Nov 9: Back in stock at Raintree Nursery: Pioneer $49.99, Coral Blaze $49.99; Sold out at Cricket Hill Garden: Sunrise; Price changes at One Green World: Elegant $44.95 → $39.95, Exotica $44.95 → $39.95, Yellow $44.95 → $39.95"
+  "Nov 9: Back in stock at Raintree Nursery: Pioneer $49.99, Coral Blaze $49.99; Sold out at Cricket Hill Garden: Sunrise; Price changes at One Green World: Elegant $44.95 → $39.95, Exotica $44.95 → $39.95, Yellow $44.95 → $39.95",
+  "Nov 16: no changes at the 1 nurseries checked"
  ],
  "sources": {
   "directories": [
@@ -721,7 +716,7 @@
    "price_confirmed": true,
    "url": "https://onegreenworld.com/product/elegant-cornelian-cherry/",
    "first_seen": "2026-10-03",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-16",
    "notes": [],
    "history": [
     {
@@ -747,7 +742,7 @@
    "price_confirmed": true,
    "url": "https://onegreenworld.com/product/pioneer-cornelian-cherry/",
    "first_seen": "2026-10-03",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-16",
    "notes": [
     "Stock from the category page; product page not individually checked."
    ],
@@ -770,7 +765,7 @@
    "price_confirmed": true,
    "url": "https://onegreenworld.com/product/red-star-cornelian-cherry/",
    "first_seen": "2026-10-03",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-16",
    "notes": [
     "Stock from the category page; product page not individually checked."
    ],
@@ -793,7 +788,7 @@
    "price_confirmed": true,
    "url": "https://onegreenworld.com/product/sunrise-cornelian-cherry-tree/",
    "first_seen": "2026-10-03",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-16",
    "notes": [
     "Stock from the category page; product page not individually checked."
    ],
@@ -816,7 +811,7 @@
    "price_confirmed": true,
    "url": "https://onegreenworld.com/product/red-dawn-cornelian-cherry/",
    "first_seen": "2026-10-03",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-16",
    "notes": [
     "Stock from the category page; product page not individually checked."
    ],
@@ -839,7 +834,7 @@
    "price_confirmed": true,
    "url": "https://onegreenworld.com/product/coral-blaze-cornelian-cherry/",
    "first_seen": "2026-10-03",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-16",
    "notes": [
     "Stock from the category page; product page not individually checked."
    ],
@@ -862,7 +857,7 @@
    "price_confirmed": true,
    "url": "https://onegreenworld.com/product/exotica-cornelian-cherry/",
    "first_seen": "2026-10-03",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-16",
    "notes": [
     "Stock from the category page; product page not individually checked."
    ],
@@ -890,7 +885,7 @@
    "price_confirmed": true,
    "url": "https://onegreenworld.com/product/svitlana-cornelian-cherry/",
    "first_seen": "2026-10-03",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-16",
    "notes": [
     "Stock from the category page; product page not individually checked."
    ],
@@ -913,7 +908,7 @@
    "price_confirmed": true,
    "url": "https://onegreenworld.com/product/yellow-cornelian-cherry-tree/",
    "first_seen": "2026-10-03",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-16",
    "notes": [
     "Stock from the category page; product page not individually checked."
    ],

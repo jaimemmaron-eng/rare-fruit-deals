@@ -1,45 +1,16 @@
 {
  "fruit": "asianpear",
- "updated": "2026-11-09",
+ "updated": "2026-11-16",
  "scope": "Named Asian pear cultivars (Pyrus pyrifolia, P. bretschneideri and Asian-type hybrids such as Juicy Jewel) shippable to Annandale, NJ (zone 6b/7a). Trees grafted on callery pear (Pyrus calleryana, invasive in NJ) are left out, and so are Asian × European crosses sold as such (Maxie) and multi-variety combo trees. Most Asian pears need a second variety that blooms at the same time; known bad pairs are Nijisseiki × Kikusui, Shinsui × Kikusui, Hosui × Niitaka and Kosui × Shinsui, and Niitaka can't pollinate others.",
  "last_run": {
-  "date": "2026-11-09",
-  "summary": "Price changes at Stark Bro's Nurseries: Hosui $57.99 → $64.99. Price changes at Willis Orchard Co.: Chojuro $39.95 → $34.95. New listings at Plant Me Green: Kikusui (sold out), Korean Giant (unconfirmed), Shinko (unconfirmed), Shinseiki (unconfirmed). New listings at One Green World: Yoinashi ($44.95). New listings at Mehrabyan Nursery: Nijisseiki ($29.95). New listings at Burnt Ridge Nursery: Shinseiki (unconfirmed). Found Plant Me Green (potted Kikusui, Korean Giant, Shinko and Shinseiki, $15 flat shipping) and added Yoinashi at One Green World, Twentieth Century at Mehrabyan and Shinseiki at Burnt Ridge. Forestfarm and Blooming Junction had nothing in scope. New seller Plant Me Green (Kikusui sold out.",
-  "gaps": [
-   "burnt-ridge: no per-variety prices (category pages show no price/stock; product pages show price but no stock status)",
-   "gurneys: would not load",
-   "burpee: would not load",
-   "grandpas: would not load",
-   "Burnt Ridge Asian pear category page could not be fetched; Hosui and Tennosui there unverified.",
-   "Plant Me Green rootstock/grafting and per-size prices not stated."
-  ],
+  "date": "2026-11-16",
+  "summary": "Sold out at One Green World: Yoinashi.",
+  "gaps": [],
   "checked": [
-   "adams-county",
-   "blue-hill",
-   "cricket-hill",
-   "cummins",
-   "edible-landscaping",
-   "fedco",
-   "grow-organic",
-   "isons",
-   "mehrabyan",
-   "nature-hills",
-   "one-green-world",
-   "perfect-plants",
-   "raintree",
-   "restoring-eden",
-   "roots-to-fruits",
-   "stark-bros",
-   "trees-com",
-   "trees-of-antiquity",
-   "willis"
+   "one-green-world"
   ],
   "held": [],
-  "notes": [
-   "Found Plant Me Green (potted Kikusui, Korean Giant, Shinko and Shinseiki, $15 flat shipping) and added Yoinashi at One Green World, Twentieth Century at Mehrabyan and Shinseiki at Burnt Ridge",
-   "Forestfarm and Blooming Junction had nothing in scope",
-   "New seller Plant Me Green (Kikusui sold out"
-  ]
+  "notes": []
  },
  "history_log": [
   "Sep 15: Asian pears first tracked alongside hybrid persimmons (Blue Hill, Bob Wells, One Green World, Just Fruits).",
@@ -62,7 +33,8 @@
   "Oct 29: Back in stock at Cummins Nursery: Korean Giant $42.75, Niitaka $42.75; Price changes at Trees of Antiquity: Atago $55.95 → $52.95, Hosui $55.95 → $52.95; Price changes at Ison's Nursery & Vineyard: Hosui $31.95 → $34.95, Korean Giant $31.95 → $34.95; Price changes at Cummins Nursery: Juicy Jewel $47.50 → $44.50, Yoinashi $46.25 → $43.25, Shinsui $45.75 → $42.75, Shinseiki $45.75 → $42.75, Nijisseiki $45.75 → $41.75; New listings at One Green World: Kosui ($39.95), Niitaka ($39.95), Seuri ($39.95); New listings at Hudson Valley Seed Company: Chojuro (sold out); New listings at Stark Bro's Nurseries: Chojuro (sold out); Checked Nutcracker Nursery (Canada) and Green Acres Nursery Supply (CA/TX stores): neither has NJ-shippable named Asian pear stock; Added Kosui, Niitaka and Seuri at One Green World and Chojuro at Hudson Valley Seed and Stark Bro's; Forestfarm's site could not be fetched; Forestfarm unreachable",
   "Nov 2: Back in stock at Adams County Nursery: Atago $35, Hosui $35, Juicy Jewel $35, Kosui $35, Niitaka $35; Sold out at Edible Landscaping: Shin Li; Sold out at Trees of Antiquity: Shinko; Sold out at One Green World: Kosui, Niitaka, Seuri; Price changes at Trees of Antiquity: Atago $52.95 → $55.95, Hosui $52.95 → $55.95; Price changes at Cummins Nursery: Hosui $45.75 → $50",
   "Nov 5: Back in stock at One Green World: Hosui $39.95, Kikusui $39.95, Kosui $39.95",
-  "Nov 9: Price changes at Stark Bro's Nurseries: Hosui $57.99 → $64.99; Price changes at Willis Orchard Co.: Chojuro $39.95 → $34.95; New listings at Plant Me Green: Kikusui (sold out), Korean Giant (unconfirmed), Shinko (unconfirmed), Shinseiki (unconfirmed); New listings at One Green World: Yoinashi ($44.95); New listings at Mehrabyan Nursery: Nijisseiki ($29.95); New listings at Burnt Ridge Nursery: Shinseiki (unconfirmed); Found Plant Me Green (potted Kikusui, Korean Giant, Shinko and Shinseiki, $15 flat shipping) and added Yoinashi at One Green World, Twentieth Century at Mehrabyan and Shinseiki at Burnt Ridge; Forestfarm and Blooming Junction had nothing in scope; New seller Plant Me Green (Kikusui sold out"
+  "Nov 9: Price changes at Stark Bro's Nurseries: Hosui $57.99 → $64.99; Price changes at Willis Orchard Co.: Chojuro $39.95 → $34.95; New listings at Plant Me Green: Kikusui (sold out), Korean Giant (unconfirmed), Shinko (unconfirmed), Shinseiki (unconfirmed); New listings at One Green World: Yoinashi ($44.95); New listings at Mehrabyan Nursery: Nijisseiki ($29.95); New listings at Burnt Ridge Nursery: Shinseiki (unconfirmed); Found Plant Me Green (potted Kikusui, Korean Giant, Shinko and Shinseiki, $15 flat shipping) and added Yoinashi at One Green World, Twentieth Century at Mehrabyan and Shinseiki at Burnt Ridge; Forestfarm and Blooming Junction had nothing in scope; New seller Plant Me Green (Kikusui sold out",
+  "Nov 16: Sold out at One Green World: Yoinashi"
  ],
  "sources": {
   "directories": [
@@ -1697,7 +1669,7 @@
    "price_confirmed": true,
    "url": "https://onegreenworld.com/product/chojuro-asian-pear/",
    "first_seen": "2026-10-04",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-16",
    "notes": [
     "Listed as available; cheapest size not checked individually."
    ],
@@ -1719,7 +1691,7 @@
    "price_confirmed": true,
    "url": "https://onegreenworld.com/product/daisui-li-asian-pear/",
    "first_seen": "2026-10-04",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-16",
    "notes": [
     "Listed as available; cheapest size not checked individually."
    ],
@@ -1742,7 +1714,7 @@
    "price_confirmed": true,
    "url": "https://onegreenworld.com/product/large-korean-asian-pear/",
    "first_seen": "2026-09-15",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-16",
    "notes": [
     "Sold out as of Oct 11; waitlist offered."
    ],
@@ -1775,7 +1747,7 @@
    "price_confirmed": true,
    "url": "https://onegreenworld.com/product/nijisseiki-20th-century-asian-pear/",
    "first_seen": "2026-10-04",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-16",
    "notes": [
     "Listed as available; cheapest size not checked individually."
    ],
@@ -1797,7 +1769,7 @@
    "price_confirmed": true,
    "url": "https://onegreenworld.com/product/raja-asian-pear/",
    "first_seen": "2026-10-04",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-16",
    "notes": [
     "Listed as available; cheapest size not checked individually."
    ],
@@ -1819,7 +1791,7 @@
    "price_confirmed": true,
    "url": "https://onegreenworld.com/product/shin-li-asian-pear/",
    "first_seen": "2026-10-04",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-16",
    "notes": [
     "Listed as available; cheapest size not checked individually."
    ],
@@ -1842,7 +1814,7 @@
    "price_confirmed": true,
    "url": "https://onegreenworld.com/product/shinko-asian-pear/",
    "first_seen": "2026-10-04",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-16",
    "notes": [
     "Listed as available; cheapest size not checked individually."
    ],
@@ -1864,7 +1836,7 @@
    "price_confirmed": true,
    "url": "https://onegreenworld.com/product/shinseiki-asian-pear/",
    "first_seen": "2026-10-04",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-16",
    "notes": [
     "1-gallon; bare-root $39.95."
    ],
@@ -1896,7 +1868,7 @@
    "price_confirmed": true,
    "url": "https://onegreenworld.com/product/hosui-asian-pear/",
    "first_seen": "2026-10-04",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-16",
    "notes": [
     "Out of stock as of Oct 5; waitlist offered, fall shipping only."
    ],
@@ -1928,7 +1900,7 @@
    "price_confirmed": true,
    "url": "https://onegreenworld.com/product/tsu-li-asian-pear/",
    "first_seen": "2026-10-04",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-16",
    "notes": [
     "Out of stock with waitlist signup as of Oct 7 (product page now loads fully)."
    ],
@@ -1955,7 +1927,7 @@
    "price_confirmed": true,
    "url": "https://onegreenworld.com/product/kikisui-asian-pear/",
    "first_seen": "2026-10-04",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-16",
    "notes": [
     "Product page now returns 404 for a second check; likely discontinued at One Green World."
    ],
@@ -1992,7 +1964,7 @@
    "price_confirmed": true,
    "url": "https://onegreenworld.com/product/ya-li-asian-pear/",
    "first_seen": "2026-10-04",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-16",
    "notes": [
     "Out of stock as of Oct 5; price $39.95-$69.95 by size, waitlist offered."
    ],
@@ -2019,7 +1991,7 @@
    "price_confirmed": true,
    "url": "https://onegreenworld.com/product/ichiban-nashi-asian-pear/",
    "first_seen": "2026-10-04",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-16",
    "notes": [
     "Out of stock as of Oct 5; price $39.95-$49.95 by size, waitlist offered."
    ],
@@ -2046,7 +2018,7 @@
    "price_confirmed": true,
    "url": "https://onegreenworld.com/product/juicy-jewel-asian-pear/",
    "first_seen": "2026-10-04",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-16",
    "notes": [
     "Out of stock as of Oct 5; price $39.95-$49.95 by size, waitlist offered."
    ],
@@ -4423,7 +4395,7 @@
    "price_confirmed": true,
    "url": "https://onegreenworld.com/product/kosui-asian-pear/",
    "first_seen": "2026-10-29",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-16",
    "notes": [
     "Product page shows Add to cart and also 'Email me when available'; stock count not stated."
    ],
@@ -4456,7 +4428,7 @@
    "price_confirmed": true,
    "url": "https://onegreenworld.com/product/niitaka-asian-pear/",
    "first_seen": "2026-10-29",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-16",
    "notes": [
     "Product page shows Add to cart and also 'Email me when available'; stock count not stated."
    ],
@@ -4484,7 +4456,7 @@
    "price_confirmed": true,
    "url": "https://onegreenworld.com/product/seuri-asian-pear/",
    "first_seen": "2026-10-29",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-16",
    "notes": [
     "Product page shows Add to cart and also 'Email me when available'; stock count not stated."
    ],
@@ -4643,21 +4615,26 @@
    "id": "one-green-world--yoinashi",
    "variety": "yoinashi",
    "nursery": "one-green-world",
-   "status": "in_stock",
+   "status": "sold_out",
    "price": 44.95,
    "price_from": false,
    "price_confirmed": true,
    "url": "https://onegreenworld.com/product/yoinashi-asian-pear/",
    "first_seen": "2026-11-09",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-16",
    "notes": [
-    "Product page shows Add to cart (and an Email me when available link); tagged New Product."
+    "Sold out as of Nov 16."
    ],
    "history": [
     {
      "date": "2026-11-09",
      "price": 44.95,
      "status": "in_stock"
+    },
+    {
+     "date": "2026-11-16",
+     "price": 44.95,
+     "status": "sold_out"
     }
    ],
    "ships": "Preorder",
