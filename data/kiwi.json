@@ -1,47 +1,23 @@
 {
  "fruit": "kiwi",
- "updated": "2026-11-09",
+ "updated": "2026-11-17",
  "scope": "Named hardy kiwi cultivars: Actinidia arguta (kiwiberry), A. kolomikta and A. polygama (silver vine), including named male pollinators. Fuzzy kiwi (A. deliciosa: Hayward, Saanichton, Elmwood, Jenny and similar) is left out because it isn't reliably hardy in zone 6b. Most hardy kiwis need a male vine nearby; each variety is tagged female, male or self-fertile.",
  "last_run": {
-  "date": "2026-11-09",
-  "summary": "Back in stock at Raintree Nursery: Ken's Red $24.99. Back in stock at Humble Abode Nursery: Michigan State $25, Dumbarton Oaks $25. Back in stock at Blessings Grow Meadows: Anna $8, Meader $8. Back in stock at Fedco Trees: Geneva 3 $28.90, Meader $28.90. Price changes at Ison's Nursery: Issai $22.95 → $24.95, Anna $22.95 → $24.95.",
+  "date": "2026-11-17",
+  "summary": "New listings at One Green World: USDA Male ($24.95). New listings at Planting Justice: Hot Pepper (sold out), Pavel (sold out), Vera's Pride (sold out). New listings at Folk Rock Farm: Anna (sold out), Ken's Red (sold out), Clark (sold out). New: Folk Rock Farm (RI. Anna, Ken's Red, Clark, all sold out until spring 2027), the USDA Male kolomikta at One Green World, and Planting Justice's sold-out silver vines Hot Pepper, Pavel and Vera's Pride. Perfect Plants, Nutcracker Nursery and Pine River Blooms had nothing usable.",
   "gaps": [
-   "burnt-ridge: no per-variety prices",
-   "tripple-brook: no per-variety prices",
-   "indiana-berry: would not load"
+   "One Green World's hardy kiwi page does not list Hot Pepper, Pavel, Vera's Pride or Pilosula; Pilosula not found anywhere.",
+   "Planting Justice 'Rossy' and generic 'Male' not added (unnamed or unclear)."
   ],
   "checked": [
-   "berries-unlimited",
-   "blessings-grow-meadows",
-   "cornell-farm",
-   "east-hill-tree-farm",
-   "edible-landscaping",
-   "fedco-trees",
-   "food-forest-nursery",
-   "grow-organic",
-   "hand-picked-nursery",
-   "hirts-gardens",
-   "honeyberry-usa",
-   "humble-abode",
-   "isons",
-   "logees",
-   "nature-hills",
-   "northeast-edible-nursery",
-   "one-green-world",
-   "planting-justice",
-   "raintree",
-   "rohrs-nursery",
-   "romence-gardens",
-   "sarvodaya-nursery",
-   "scenic-hill-farm",
-   "sowexotic",
-   "stark-bros",
-   "trees-com",
-   "wellspring-gardens",
-   "willis-orchards"
+   "planting-justice"
   ],
   "held": [],
-  "notes": []
+  "notes": [
+   "New: Folk Rock Farm (RI",
+   "Anna, Ken's Red, Clark, all sold out until spring 2027), the USDA Male kolomikta at One Green World, and Planting Justice's sold-out silver vines Hot Pepper, Pavel and Vera's Pride",
+   "Perfect Plants, Nutcracker Nursery and Pine River Blooms had nothing usable"
+  ]
  },
  "history_log": [
   "Sep 25: seeded from Edible Landscaping, Logee's, Stark Bro's, Raintree, Tripple Brook Farm, One Green World, Ison's, Burnt Ridge and Willis Orchards.",
@@ -73,7 +49,8 @@
   "Nov 2: Back in stock at Planting Justice: Hardy Red $15; Sold out at Planting Justice: Ken's Red, Rossana",
   "Nov 4: New listings at Planting Justice: Tatyana (sold out); Checked 4 sellers not yet on file; Planting Justice's Tatyana (sold out) is now tracked; Little Red General Store (Geneva 3 sold out, $150 minimum), Quackin' Grass Nursery (CT) and Friends School Plant Sale (MN, in-person) had nothing in scope; Raintree's Jenny and Saanichton are fuzzy kiwi (left out); OGW's 74-46 and Early Cordifolia and Planting Justice's Ananasnaya are already on file under Clark, Cordifolia and Anna; Kiwi search: added Planting Justice Tatyana (sold out, $15)",
   "Nov 5: Back in stock at Trees.com: Anna $61.95, Meader $61.95; Back in stock at Fedco Trees: Anna $28.90; Price changes at One Green World: Natasha $24.95 → $32.95, Rossana $24.95 → $32.95, Red Princess $24.95 → $32.95; Price changes at Fedco Trees: Michigan State $26 → $28.90",
-  "Nov 9: Back in stock at Raintree Nursery: Ken's Red $24.99; Back in stock at Humble Abode Nursery: Michigan State $25, Dumbarton Oaks $25; Back in stock at Blessings Grow Meadows: Anna $8, Meader $8; Back in stock at Fedco Trees: Geneva 3 $28.90, Meader $28.90; Price changes at Ison's Nursery: Issai $22.95 → $24.95, Anna $22.95 → $24.95"
+  "Nov 9: Back in stock at Raintree Nursery: Ken's Red $24.99; Back in stock at Humble Abode Nursery: Michigan State $25, Dumbarton Oaks $25; Back in stock at Blessings Grow Meadows: Anna $8, Meader $8; Back in stock at Fedco Trees: Geneva 3 $28.90, Meader $28.90; Price changes at Ison's Nursery: Issai $22.95 → $24.95, Anna $22.95 → $24.95",
+  "Nov 17: New listings at One Green World: USDA Male ($24.95); New listings at Planting Justice: Hot Pepper (sold out), Pavel (sold out), Vera's Pride (sold out); New listings at Folk Rock Farm: Anna (sold out), Ken's Red (sold out), Clark (sold out); New: Folk Rock Farm (RI; Anna, Ken's Red, Clark, all sold out until spring 2027), the USDA Male kolomikta at One Green World, and Planting Justice's sold-out silver vines Hot Pepper, Pavel and Vera's Pride; Perfect Plants, Nutcracker Nursery and Pine River Blooms had nothing usable"
  ],
  "sources": {
   "directories": [
@@ -125,17 +102,15 @@
    "Fast-Growing Trees (fast-growing-trees.com) — redirects to Trees.com, already on file",
    "Little Red General Store (littleredgeneralstore.com) — Geneva 3 kiwi $25 sold out; ships from Pense Berry Farm (AR) Nov–May with a $150 order minimum, NJ not addressed",
    "Quackin' Grass Nursery (Brooklyn, CT) — Arctic Beauty male kolomikta page showed no price or stock; NJ shipping not confirmed",
-   "Friends School Plant Sale (St. Paul, MN) — lists Geneva 3 at $11 but is an in-person spring sale (May 7–9, 2027); no mail shipping shown"
+   "Friends School Plant Sale (St. Paul, MN) — lists Geneva 3 at $11 but is an in-person spring sale (May 7–9, 2027); no mail shipping shown",
+   "Perfect Plants Nursery (myperfectplants.com) — sells only a named Prolific in 1-gallon at $35.99, both single and 3-pack sold out; location and NJ shipping not stated; unnamed male only",
+   "Nutcracker Nursery (nutcrackernursery.com, Canada apparently) — lists Anna, Geneva, Michigan State but no prices and says most fruit trees can't ship to the US",
+   "Pine River Blooms (pineriverblooms.com) — spring bundle of 2-inch plugs of Anna, Ken's Red, Issai, Geneva with Clark or Meader; no price, stock or location shown"
   ],
   "dead": [
    "Cloud Mountain Farm Center (cloudmountainfarmcenter.org) — site states it \"is currently closed and no longer accepting orders\""
   ],
-  "to_check": [
-   "One Green World: silver vine kiwis Hot Pepper, Pavel, Vera's Pride and Pilosula kiwi listed, not on file",
-   "Planting Justice: Allison, Japan 86, Kramer, Male/Rossy hardy kiwi listed (sold out), not on file",
-   "One Green World: 'Hot Pepper', 'Pavel', 'Vera's Pride' silver vine kiwis and 'Pilosula' listed, not on file",
-   "Raintree: kiwi varieties 'Jenny', 'Hayward' (fuzzy), 'Saanichton', 'Arctic Beauty' listed, not on file"
-  ]
+  "to_check": []
  },
  "nurseries": [
   {
@@ -772,6 +747,19 @@
     "high": 25
    },
    "note": "Spring-ship bare-root only. Fedco's restrictions page lists no kiwi or NJ restriction for plants (NJ: roses only). Product pages show no cart button or sold-out label this fall, so stock is unconfirmed."
+  },
+  {
+   "id": "folk-rock-farm",
+   "name": "Folk Rock Farm",
+   "location": "Scituate, RI",
+   "state": "RI",
+   "url": "https://www.folkrockfarm.com/fruit/p/hardy-kiwi",
+   "shipping": {
+    "type": "estimate",
+    "low": 15,
+    "high": 25
+   },
+   "note": "Dormant bare-root plants; page says orders placed now ship or are ready for pickup in spring 2027. Shipping terms not read, so shipping is an estimate."
   }
  ],
  "varieties": [
@@ -1547,6 +1535,27 @@
    "awards": [],
    "first_seen": "2026-10-02",
    "notes": []
+  },
+  {
+   "id": "usda-male",
+   "name": "USDA Male",
+   "aliases": [
+    "USDA Male Arctic Beauty"
+   ],
+   "sex": "male",
+   "species": "kolomikta",
+   "color": "green",
+   "tags": [
+    "Male (pollinator)",
+    "A. kolomikta"
+   ],
+   "summary": "New Hampshire male kolomikta selection that pollinates Arctic Beauty females.",
+   "description": "A male Actinidia kolomikta selected in New Hampshire, with somewhat less leaf variegation than Pasha. It flowers heavily and one male can pollinate up to 8 kolomikta females. Bears no fruit; hardy to about -40F (zones 3-7).",
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "fruit": "kiwi",
+   "first_seen": "2026-11-17"
   }
  ],
  "listings": [
@@ -4066,7 +4075,7 @@
    "price_confirmed": true,
    "url": "https://plantingjustice.org/collections/hardy-kiwi-actinidia-arguta",
    "first_seen": "2026-10-01",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-17",
    "notes": [
     "Sold as 'Ananasnaya'; nursery also lists many other hardy kiwi names (74-49, Andrey, Cordifolia, Emerald, Flowercloud, Fortyniner, Geneva, Issai, Jumbo, Ken's Red, Meader Male, MSU, Natasha, Red Princess, Rossana) still out of stock as of Oct 6, 2026; Chang Bai Mountain, Dumbarton Oaks and Hardy Red are back in stock."
    ],
@@ -4178,7 +4187,7 @@
    "price_confirmed": true,
    "url": "/products/cherry-bomb-organic",
    "first_seen": "2026-10-02",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-17",
    "notes": [
     "Pre-order; ships when back in stock."
    ],
@@ -4200,7 +4209,7 @@
    "price_confirmed": true,
    "url": "https://plantingjustice.org/products/chico-organic",
    "first_seen": "2026-10-02",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-17",
    "notes": [
     "Pre-order; ships when back in stock."
    ],
@@ -4383,7 +4392,7 @@
    "price_confirmed": true,
    "url": "https://plantingjustice.org/collections/hardy-kiwi-actinidia-arguta",
    "first_seen": "2026-10-05",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-17",
    "notes": [
     "Back in stock on collection page, Oct 6, 2026."
    ],
@@ -4410,7 +4419,7 @@
    "price_confirmed": true,
    "url": "https://plantingjustice.org/collections/hardy-kiwi-actinidia-arguta",
    "first_seen": "2026-10-05",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-17",
    "notes": [
     "Back in stock on collection page, Oct 6, 2026."
    ],
@@ -4437,7 +4446,7 @@
    "price_confirmed": true,
    "url": "https://plantingjustice.org/collections/hardy-kiwi-actinidia-arguta",
    "first_seen": "2026-10-05",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-17",
    "notes": [
     "Back in stock on collection page, Oct 6, 2026."
    ],
@@ -4474,7 +4483,7 @@
    "price_confirmed": true,
    "url": "https://plantingjustice.org/collections/hardy-kiwi-actinidia-arguta",
    "first_seen": "2026-10-05",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-17",
    "notes": [
     "Listed on collection page as out of stock, Oct 5, 2026.",
     "Oct 9, 2026: now listed in stock on collection page."
@@ -4502,7 +4511,7 @@
    "price_confirmed": true,
    "url": "https://plantingjustice.org/collections/hardy-kiwi-actinidia-arguta",
    "first_seen": "2026-10-05",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-17",
    "notes": [
     "Listed on collection page as out of stock, Oct 5, 2026."
    ],
@@ -4524,7 +4533,7 @@
    "price_confirmed": true,
    "url": "https://plantingjustice.org/collections/hardy-kiwi-actinidia-arguta",
    "first_seen": "2026-10-05",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-17",
    "notes": [
     "Listed on collection page as out of stock, Oct 5, 2026."
    ],
@@ -4546,7 +4555,7 @@
    "price_confirmed": true,
    "url": "https://plantingjustice.org/collections/hardy-kiwi-actinidia-arguta",
    "first_seen": "2026-10-05",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-17",
    "notes": [
     "Listed on collection page as out of stock, Oct 5, 2026."
    ],
@@ -4568,7 +4577,7 @@
    "price_confirmed": true,
    "url": "https://plantingjustice.org/collections/hardy-kiwi-actinidia-arguta",
    "first_seen": "2026-10-05",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-17",
    "notes": [
     "Listed on collection page as out of stock, Oct 5, 2026."
    ],
@@ -4590,7 +4599,7 @@
    "price_confirmed": true,
    "url": "https://plantingjustice.org/collections/hardy-kiwi-actinidia-arguta",
    "first_seen": "2026-10-05",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-17",
    "notes": [
     "Listed on collection page as out of stock, Oct 5, 2026."
    ],
@@ -4612,7 +4621,7 @@
    "price_confirmed": true,
    "url": "https://plantingjustice.org/collections/hardy-kiwi-actinidia-arguta",
    "first_seen": "2026-10-05",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-17",
    "notes": [
     "Listed on collection page as out of stock, Oct 5, 2026."
    ],
@@ -4634,7 +4643,7 @@
    "price_confirmed": true,
    "url": "https://plantingjustice.org/collections/hardy-kiwi-actinidia-arguta",
    "first_seen": "2026-10-05",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-17",
    "notes": [
     "Listed on collection page as out of stock, Oct 5, 2026."
    ],
@@ -4656,7 +4665,7 @@
    "price_confirmed": true,
    "url": "https://plantingjustice.org/collections/hardy-kiwi-actinidia-arguta",
    "first_seen": "2026-10-05",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-17",
    "notes": [
     "Listed on collection page as out of stock, Oct 5, 2026."
    ],
@@ -4688,7 +4697,7 @@
    "price_confirmed": true,
    "url": "https://plantingjustice.org/collections/hardy-kiwi-actinidia-arguta",
    "first_seen": "2026-10-05",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-17",
    "notes": [
     "Listed on collection page as out of stock, Oct 5, 2026."
    ],
@@ -4710,7 +4719,7 @@
    "price_confirmed": true,
    "url": "https://plantingjustice.org/collections/hardy-kiwi-actinidia-arguta",
    "first_seen": "2026-10-05",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-17",
    "notes": [
     "Listed on collection page as out of stock, Oct 5, 2026."
    ],
@@ -4732,7 +4741,7 @@
    "price_confirmed": true,
    "url": "https://plantingjustice.org/collections/hardy-kiwi-actinidia-arguta",
    "first_seen": "2026-10-05",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-17",
    "notes": [
     "Listed on collection page as out of stock, Oct 5, 2026."
    ],
@@ -4754,7 +4763,7 @@
    "price_confirmed": true,
    "url": "https://plantingjustice.org/collections/hardy-kiwi-actinidia-arguta",
    "first_seen": "2026-10-05",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-17",
    "notes": [
     "Listed on collection page as out of stock, Oct 5, 2026."
    ],
@@ -4832,7 +4841,7 @@
    "price_confirmed": true,
    "url": "https://plantingjustice.org/collections/hardy-kiwi-actinidia-arguta",
    "first_seen": "2026-10-06",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-17",
    "notes": [
     "Listed on collection page as out of stock, Oct 6, 2026."
    ],
@@ -5329,7 +5338,7 @@
    "price_confirmed": true,
    "url": "https://plantingjustice.org/collections/hardy-kiwi-actinidia-arguta/products/tatyana-russian-conventional",
    "first_seen": "2026-11-04",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-17",
    "notes": [],
    "history": [
     {
@@ -5339,6 +5348,165 @@
     }
    ],
    "sold_as": "1 gallon pot"
+  },
+  {
+   "id": "one-green-world--usda-male",
+   "variety": "usda-male",
+   "nursery": "one-green-world",
+   "status": "in_stock",
+   "price": 24.95,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://onegreenworld.com/product/usda-male-arctic-beauty-kiwi/",
+   "first_seen": "2026-11-17",
+   "last_checked": "2026-11-17",
+   "notes": [
+    "Page shows both Add to cart and Email me when available; listed as a fall preorder."
+   ],
+   "history": [
+    {
+     "date": "2026-11-17",
+     "price": 24.95,
+     "status": "in_stock"
+    }
+   ],
+   "ships": "Fall preorder",
+   "sold_as": "1-gallon plant"
+  },
+  {
+   "id": "planting-justice--hot-pepper",
+   "variety": "hot-pepper",
+   "nursery": "planting-justice",
+   "status": "sold_out",
+   "price": 17.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://plantingjustice.org/products/hot-pepper-conventional",
+   "first_seen": "2026-11-17",
+   "last_checked": "2026-11-17",
+   "notes": [
+    "Silver vine (A. polygama), female."
+   ],
+   "history": [
+    {
+     "date": "2026-11-17",
+     "price": 17.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "planting-justice--pavel",
+   "variety": "pavel",
+   "nursery": "planting-justice",
+   "status": "sold_out",
+   "price": 15.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://plantingjustice.org/products/pavel-conventional",
+   "first_seen": "2026-11-17",
+   "last_checked": "2026-11-17",
+   "notes": [
+    "Silver vine (A. polygama), male."
+   ],
+   "history": [
+    {
+     "date": "2026-11-17",
+     "price": 15.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "planting-justice--veras-pride",
+   "variety": "veras-pride",
+   "nursery": "planting-justice",
+   "status": "sold_out",
+   "price": 17.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://plantingjustice.org/products/veras-pride-conventional",
+   "first_seen": "2026-11-17",
+   "last_checked": "2026-11-17",
+   "notes": [
+    "Silver vine (A. polygama), female."
+   ],
+   "history": [
+    {
+     "date": "2026-11-17",
+     "price": 17.0,
+     "status": "sold_out"
+    }
+   ]
+  },
+  {
+   "id": "folk-rock-farm--anna",
+   "variety": "anna",
+   "nursery": "folk-rock-farm",
+   "status": "sold_out",
+   "price": 15.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.folkrockfarm.com/fruit/p/hardy-kiwi",
+   "first_seen": "2026-11-17",
+   "last_checked": "2026-11-17",
+   "notes": [
+    "Sold out; plants ordered now ship or are ready for pickup in spring 2027."
+   ],
+   "history": [
+    {
+     "date": "2026-11-17",
+     "price": 15.0,
+     "status": "sold_out"
+    }
+   ],
+   "sold_as": "dormant bare-root plant"
+  },
+  {
+   "id": "folk-rock-farm--kens-red",
+   "variety": "kens-red",
+   "nursery": "folk-rock-farm",
+   "status": "sold_out",
+   "price": 15.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.folkrockfarm.com/fruit/p/hardy-kiwi",
+   "first_seen": "2026-11-17",
+   "last_checked": "2026-11-17",
+   "notes": [
+    "Sold out; plants ordered now ship or are ready for pickup in spring 2027."
+   ],
+   "history": [
+    {
+     "date": "2026-11-17",
+     "price": 15.0,
+     "status": "sold_out"
+    }
+   ],
+   "sold_as": "dormant bare-root plant"
+  },
+  {
+   "id": "folk-rock-farm--clark",
+   "variety": "clark",
+   "nursery": "folk-rock-farm",
+   "status": "sold_out",
+   "price": 10.0,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://www.folkrockfarm.com/fruit/p/hardy-kiwi",
+   "first_seen": "2026-11-17",
+   "last_checked": "2026-11-17",
+   "notes": [
+    "Fruitless male pollinator. Sold out; plants ordered now ship or are ready for pickup in spring 2027."
+   ],
+   "history": [
+    {
+     "date": "2026-11-17",
+     "price": 10.0,
+     "status": "sold_out"
+    }
+   ],
+   "sold_as": "dormant bare-root plant"
   }
  ]
 }
