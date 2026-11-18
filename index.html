@@ -623,6 +623,7 @@ body.gate .mainnav,body.gate .search,body.gate .zipwrap{display:none}
 .zipgate form{display:flex;gap:8px}
 .zipgate input{flex:1;min-width:0;font:600 18px var(--mono);letter-spacing:.08em;padding:10px 12px;border:1px solid var(--line);border-radius:8px;background:var(--card2);color:var(--ink)}
 .zipgate .err{margin:10px 0 0;color:var(--deal);font-weight:700;min-height:1.2em}
+@media (max-width:560px){.mainnav .nv .lbl{font-size:11px;letter-spacing:-.01em}}
 .fhead{margin:18px 0 0}
 .fhead h1{margin:0;font-size:26px;font-weight:900;font-stretch:112%;letter-spacing:-.02em}
 .fhead .latin{font-size:13px;color:var(--soft);font-style:italic;margin:2px 0 0}
@@ -748,6 +749,406 @@ body.gate .mainnav,body.gate .search,body.gate .zipwrap{display:none}
 .chip small{font-weight:600;opacity:.7;font-size:11.5px}
 main{overflow-x:clip}
 
+
+/* ================= redesign (Nov 2026): home, fruit pages, variety profiles, compare ================= */
+:root{--yel:#ffd43b;--hot2:#ff7a2e;--mint:#3ddc84}
+.bleed{margin-inline:calc(50% - 50vw);padding-inline:calc(50vw - 50%)}
+.dark{background:var(--hdr);color:#fff}
+.dark .soft{color:var(--hdr-ink)}
+.mono{font-family:var(--mono);font-variant-numeric:tabular-nums}
+.kicker{font:600 12.5px/1.2 var(--mono);letter-spacing:.05em;text-transform:uppercase;color:var(--yel);margin:0 0 10px;display:inline-flex;gap:8px;align-items:center}
+.livedot{width:8px;height:8px;border-radius:50%;background:var(--mint);animation:rfdPulse 2s infinite}
+@keyframes rfdPulse{0%,100%{box-shadow:0 0 0 0 rgba(61,220,132,.55)}50%{box-shadow:0 0 0 6px rgba(61,220,132,0)}}
+.h2{margin:0;font-size:24px;font-weight:900;font-stretch:112%;letter-spacing:-.02em;line-height:1.15}
+.secthead{display:flex;justify-content:space-between;align-items:baseline;gap:8px 14px;flex-wrap:wrap;margin:34px 0 12px}
+.secthead .ct{color:var(--soft);font-size:14px}
+
+/* ticker */
+.ticker{background:#0f171e;border-top:1px solid var(--hdr-line);overflow:hidden;white-space:nowrap;position:relative;z-index:29}
+.ticker[hidden]{display:none}
+.tk-run{display:inline-flex;gap:34px;padding:6px 0;animation:rfdTick 80s linear infinite;font:500 12.5px var(--mono);color:var(--hdr-ink)}
+.ticker:hover .tk-run{animation-play-state:paused}
+.tk-run a{color:var(--hdr-ink);text-decoration:none}.tk-run a:hover{color:#fff}
+.tk-run b{color:var(--yel);font-weight:700}
+.tk-tag{font-weight:700;margin-right:4px}.tk-tag.dn{color:var(--hot2)}.tk-tag.lo{color:#ff8a80}.tk-tag.sale{color:var(--mint)}.tk-tag.back{color:#8fc3ff}
+@keyframes rfdTick{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+
+/* home hero */
+.hx{padding-top:40px;padding-bottom:44px;border-bottom:4px solid var(--hot2);display:flex;flex-wrap:wrap;gap:32px;align-items:center}
+.hx-main{flex:999 1 460px;min-width:0}
+.hx h1{margin:0;font-size:clamp(34px,5.4vw,62px);line-height:.98;font-weight:900;font-stretch:118%;letter-spacing:-.035em;max-width:14ch;text-wrap:balance}
+.hx p.lead{margin:16px 0 0;font-size:18px;color:var(--hdr-ink);max-width:54ch}
+.counters{display:flex;flex-wrap:wrap;gap:26px;margin-top:24px}
+.counters b{display:block;font:700 32px/1 var(--mono);color:var(--yel)}
+.counters span{font-size:13px;color:var(--hdr-ink)}
+.counters a{color:inherit;text-decoration:none}
+
+/* slot machine */
+.slot{flex:1 1 360px;background:var(--hdr2);border:2px solid var(--hdr-line);border-radius:16px;padding:16px}
+.slot-h{display:flex;justify-content:space-between;align-items:baseline;gap:8px;margin-bottom:12px}
+.slot-h b{font-weight:900;font-stretch:112%;font-size:19px}
+.slot-h span{font:500 12px var(--mono);color:var(--hdr-dim)}
+.reels{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px}
+.reel{background:#fff;color:#15212b;border-radius:10px;height:96px;overflow:hidden;display:flex;flex-direction:column;justify-content:center;padding:8px 10px;box-shadow:inset 0 7px 10px -7px rgba(0,0,0,.45),inset 0 -7px 10px -7px rgba(0,0,0,.45)}
+.reel small{font:600 10.5px var(--mono);color:#5d6d7c;letter-spacing:.04em}
+.reel span{display:block;font-weight:900;font-stretch:105%;font-size:15px;line-height:1.15;margin-top:3px;overflow:hidden;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical}
+.reel span.mono{font-size:22px;color:#d6332a;font-stretch:100%}
+.reel em{font-style:normal;font-size:11.5px;color:#526272;font-weight:600}
+.slot.spun .reel span{animation:rfdReel .6s cubic-bezier(.2,.8,.3,1.25) both}
+.slot.spun .reel:nth-child(2) span{animation-delay:.12s}.slot.spun .reel:nth-child(3) span{animation-delay:.24s}
+@keyframes rfdReel{0%{transform:translateY(-90%);opacity:0;filter:blur(2px)}60%{transform:translateY(8%);opacity:1;filter:none}100%{transform:none}}
+.slot-line{margin:12px 0 14px;font-size:15px;color:var(--hdr-ink);font-style:italic;min-height:44px}
+.slot-acts{display:flex;gap:8px;flex-wrap:wrap}
+.spin{flex:1 1 130px;height:48px;border-radius:10px;border:0;background:var(--hot2);color:#17222c;font-weight:900;font-stretch:115%;font-size:18px;letter-spacing:.04em;cursor:pointer}
+.spin:active{transform:translateY(1px)}
+.slot-go{flex:1 1 150px;height:48px;border-radius:10px;border:2px solid var(--yel);background:none;color:var(--yel);font-weight:800;font-size:15px;cursor:pointer;display:inline-flex;align-items:center;justify-content:center;text-decoration:none}
+.slot-go:hover{text-decoration:none;background:rgba(255,212,59,.1)}
+
+/* "I want the one that…" */
+.needs{display:flex;flex-wrap:wrap;gap:8px}
+.need{display:inline-flex;align-items:center;gap:9px;padding:7px 14px 7px 7px;min-height:44px;border-radius:999px;border:2px solid var(--ink);background:var(--card);color:var(--ink);font-weight:800;font-size:14.5px;cursor:pointer}
+.need:hover{background:var(--card2)}
+.need i{font:700 12.5px var(--mono);font-style:normal;background:var(--ink);color:var(--yel);padding:3px 9px;border-radius:999px;min-width:30px;text-align:center}
+.need[aria-pressed="true"]{background:var(--ink);color:var(--bg)}
+.need[aria-pressed="true"] i{background:var(--hot2);color:#17222c}
+
+/* category tiles */
+.ctiles{display:grid;grid-template-columns:repeat(auto-fill,minmax(178px,1fr));gap:10px}
+.ctile{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px;display:grid;grid-template-columns:44px minmax(0,1fr);gap:2px 10px;align-items:center;cursor:pointer;text-align:left;color:var(--ink);min-height:84px}
+.ctile:hover{border-color:var(--hot2)}
+.ctile .art{grid-row:1/3;width:44px;height:44px;border-radius:10px;background:var(--card2);display:grid;place-items:center}.ctile .art svg{width:32px;height:32px}
+.ctile b{font-weight:900;font-stretch:106%;font-size:16px;line-height:1.15}
+.ctile small{display:flex;justify-content:space-between;gap:6px;font-size:12.5px;color:var(--soft)}
+.ctile small em{font:700 13.5px var(--mono);font-style:normal;color:var(--hot)}
+
+/* how-it-works strip */
+.how{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:10px;margin-top:34px}
+.how div{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 16px;display:grid;grid-template-columns:34px 1fr;gap:2px 10px}
+.how i{grid-row:1/3;width:30px;height:30px;border-radius:50%;background:var(--hot2);color:#17222c;font:900 15px/30px var(--font);font-style:normal;text-align:center}
+.how b{font-weight:850}.how span{font-size:13.5px;color:var(--soft)}
+
+/* fruit hero */
+.fx{padding-top:20px;padding-bottom:28px;display:flex;flex-wrap:wrap;gap:24px;align-items:flex-end}
+.fx-main{flex:999 1 420px;min-width:0}
+.crumb{font-size:13.5px;color:var(--hdr-dim);margin:0 0 10px}
+.crumb a{color:var(--hot2);font-weight:700}
+.fx h1{margin:0;font-size:clamp(34px,5vw,56px);font-weight:900;font-stretch:118%;letter-spacing:-.035em;line-height:1}
+.fx .latin{margin:4px 0 10px;font-style:italic;color:var(--hdr-dim)}
+.fx .intro{margin:0;font-size:17px;color:var(--hdr-ink);max-width:62ch}
+.primer{flex:1 1 360px;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}
+.primer div{background:var(--hdr2);border:1px solid var(--hdr-line);border-radius:10px;padding:9px 13px}
+.primer small{display:block;font:600 11px var(--mono);letter-spacing:.04em;color:var(--hdr-dim);text-transform:uppercase}
+.primer b{font-size:15.5px;line-height:1.25;display:block}
+
+/* first picks */
+.firsts{margin-top:24px;background:var(--deal-bg);border:2px solid var(--hot2);border-radius:14px;padding:18px}
+.firsts p{margin:2px 0 12px;color:var(--soft);font-size:14.5px}
+.firsts-g{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:10px}
+.fpick{background:var(--card);border-radius:10px;padding:13px 14px;display:flex;flex-direction:column;gap:2px;color:var(--ink);text-decoration:none;border:1px solid transparent}
+.fpick:hover{text-decoration:none;border-color:var(--hot2)}
+.fpick b{font-weight:900;font-stretch:106%;font-size:18px}
+.fpick i{font-size:14px;color:var(--soft)}
+.fpick .total{font-size:19px;margin-top:4px}
+
+/* board layout */
+.board{display:flex;flex-wrap:wrap;gap:22px;align-items:flex-start;margin-top:26px}
+.fside{flex:1 1 240px;max-width:100%;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:0}
+.fside>summary{list-style:none;cursor:pointer;padding:14px 16px;display:flex;justify-content:space-between;align-items:center;font-weight:900;font-size:16px}
+.fside>summary::-webkit-details-marker{display:none}
+.fside>summary small{font:600 12px var(--mono);color:var(--soft)}
+.fside-in{padding:0 16px 16px;display:flex;flex-direction:column;gap:16px}
+.fgrp>span{display:block;margin:0 0 7px;font:700 11.5px var(--mono);letter-spacing:.05em;text-transform:uppercase;color:var(--soft)}
+.fgrp>div{display:flex;flex-wrap:wrap;gap:6px}
+.fchip{padding:6px 11px;min-height:38px;border-radius:6px;border:2px solid var(--line);background:var(--card);color:var(--ink);font-weight:700;font-size:13.5px;cursor:pointer}
+.fchip[aria-pressed="true"]{background:var(--ink);border-color:var(--ink);color:var(--bg)}
+.fchip small{font:600 11px var(--mono);color:var(--soft);margin-left:3px}
+.fchip[aria-pressed="true"] small{color:var(--yel)}
+.bmain{flex:999 1 560px;min-width:0}
+.btool{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px 12px;margin-bottom:12px}
+.btool select{border:2px solid var(--line);background:var(--card);border-radius:8px;padding:7px 10px;font-weight:700;font-size:13.5px;min-height:40px}
+.onchips{display:flex;flex-wrap:wrap;gap:6px;margin:-4px 0 12px}
+
+/* variety cards */
+.vgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(262px,1fr));gap:12px}
+.vc{background:var(--card);border:1px solid var(--line);border-radius:12px;overflow:hidden;display:flex;flex-direction:column;transition:border-color .12s,transform .12s}
+.vc:hover{border-color:var(--faint)}
+.vc-hit{display:flex;flex-direction:column;flex:1;color:var(--ink);text-decoration:none}
+.vc-hit:hover{text-decoration:none}
+.vc-art{height:104px;background:var(--card2);display:grid;place-items:center;position:relative;border-bottom:1px solid var(--line)}
+.vc-art svg{width:66px;height:66px}
+.vbadge{position:absolute;left:10px;top:10px;font:900 10.5px/1 var(--font);letter-spacing:.06em;text-transform:uppercase;padding:5px 8px;border-radius:4px}
+.vbadge.hot{background:var(--hot2);color:#17222c}.vbadge.low{background:#d6332a;color:#fff}.vbadge.aw{background:var(--yel);color:#17222c}
+.vbadge.one{background:var(--hdr);color:#fff}.vbadge.sale{background:var(--mint);color:#0d2a18}.vbadge.new{background:#0a62bd;color:#fff}.vbadge.out{background:var(--card);color:var(--soft);border:1px solid var(--line)}
+.vc-fr{position:absolute;right:10px;top:10px;font:600 11px var(--mono);color:var(--soft)}
+.vc-body{padding:12px 14px 0;display:flex;flex-direction:column;gap:5px}
+.vc-nm{font-weight:900;font-stretch:106%;font-size:19px;letter-spacing:-.01em;line-height:1.12}
+.vc-ln{font-size:14px;font-style:italic;font-weight:500;color:var(--ink);line-height:1.35}
+.tchips{display:flex;flex-wrap:wrap;gap:5px;margin-top:2px}
+.tc{font-size:11.5px;font-weight:750;padding:3px 7px;border-radius:4px;background:var(--card2);color:var(--soft);white-space:nowrap}
+.tc.g{background:var(--ok-bg);color:var(--ok)}.tc.w{background:var(--est-bg);color:var(--est)}.tc.id{background:var(--school-bg);color:var(--school)}
+.vc-foot{padding:11px 14px 13px;display:flex;justify-content:space-between;align-items:flex-end;gap:8px;margin-top:10px;border-top:1px dashed var(--line)}
+.vc-pr .total{font-family:var(--mono);font-stretch:100%;font-size:22px;font-weight:700;display:block;line-height:1.05}
+.vc-pr small{display:block;font-size:11.5px;color:var(--soft)}
+.vc-pr small.sv{color:var(--deal);font-weight:800}
+.t-out{color:var(--soft)!important}
+.vc-act{display:flex;gap:6px;align-items:center;flex-wrap:wrap;justify-content:flex-end}
+.cmpb{height:36px;padding:0 10px;border-radius:8px;border:2px solid var(--line);background:var(--card);color:var(--ink);font-weight:750;font-size:12.5px;cursor:pointer;white-space:nowrap}
+.cmpb[aria-pressed="true"]{background:var(--ink);border-color:var(--ink);color:var(--bg)}
+.vc .wadd{white-space:nowrap}
+
+/* profile */
+.px{padding-top:20px;padding-bottom:30px;display:flex;flex-wrap:wrap;gap:28px;align-items:stretch}
+.px-art{flex:1 1 280px;min-height:250px;background:var(--hdr2);border:1px solid var(--hdr-line);border-radius:16px;display:grid;place-items:center;position:relative}
+.px-art svg{width:150px;height:150px}
+.px-art small{position:absolute;left:14px;bottom:12px;font-size:12px;color:var(--hdr-dim)}
+.px-main{flex:1.4 1 420px;min-width:0;display:flex;flex-direction:column}
+.px h1{margin:0;font-size:clamp(34px,5vw,60px);font-weight:900;font-stretch:118%;letter-spacing:-.035em;line-height:.98}
+.px .oneliner{margin:12px 0 0;font-size:21px;font-weight:650;font-style:italic;line-height:1.3;max-width:36ch}
+.px .tchips{margin-top:14px}
+.px .tc{background:var(--hdr2);color:var(--hdr-ink);border:1px solid var(--hdr-line);font-size:12.5px;padding:4px 9px}
+.px .tc.g{background:#1d4a2e;color:#c9f2d6;border-color:#2e6b44}.px .tc.w{background:#4a3a12;color:#ffe7a3;border-color:#6b5520}.px .tc.id{background:#18283d;color:#bcd6f7;border-color:#2a4466}
+.px-buy{margin-top:auto;padding-top:20px;display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:space-between;gap:14px}
+.px-buy small{display:block;font:600 11.5px var(--mono);letter-spacing:.04em;color:var(--hdr-dim);text-transform:uppercase}
+.px-buy .big{font:700 clamp(34px,4vw,44px)/1.05 var(--mono);color:var(--yel)}
+.px-buy .sv{display:block;font-size:14px;font-weight:800;color:var(--hot2)}
+.px-acts{display:flex;gap:8px;flex-wrap:wrap}
+.px-acts .wadd.big{height:50px;padding:0 20px;font-size:15.5px}
+.px-acts .pill,.px-acts .cmpb{height:50px;border-radius:10px;background:none;color:#fff;border:2px solid var(--hdr-dim);padding:0 14px;font-weight:750;font-size:14.5px}
+.px-acts .pill[aria-pressed="true"],.px-acts .cmpb[aria-pressed="true"]{background:#fff;color:var(--hdr);border-color:#fff}
+.jump{background:var(--card);border-bottom:1px solid var(--line)}
+.jump-in{max-width:1180px;margin:0 auto;padding:0 16px;display:flex;gap:2px;overflow-x:auto;scrollbar-width:none}
+.jump a{padding:12px 11px;font-weight:800;font-size:13.5px;color:var(--ink);white-space:nowrap}
+.jump a:hover{color:var(--deal);text-decoration:none}
+.psec{margin-top:34px;scroll-margin-top:140px}
+.fit{display:grid;grid-template-columns:repeat(auto-fit,minmax(290px,1fr));gap:12px;margin-top:12px}
+.fit div{border-radius:12px;padding:16px 18px}
+.fit .yes{background:var(--ok-bg)}.fit .no{background:var(--est-bg)}
+.fit b{display:block;font-weight:900;font-size:16.5px;margin-bottom:8px}.fit .yes b{color:var(--ok)}.fit .no b{color:var(--est)}
+.fit ul{margin:0;padding-left:20px;display:flex;flex-direction:column;gap:5px}
+.two{display:flex;flex-wrap:wrap;gap:16px;align-items:flex-start;margin-top:12px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:18px 20px}
+.two>.card{flex:1 1 340px;min-width:0}
+.facts2{margin:0;display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.5fr)}
+.facts2 dt{padding:9px 0;border-top:1px solid var(--line);color:var(--soft);font-size:14.5px}
+.facts2 dd{margin:0;padding:9px 0;border-top:1px solid var(--line);font-weight:800;font-size:14.5px}
+.facts2 dt:first-of-type,.facts2 dd:first-of-type{border-top:0}
+.story p{margin:0;font-size:16px;line-height:1.6}
+.story .meta{margin-top:14px;display:flex;flex-direction:column;gap:7px;font-size:14.5px}
+.story .meta span>span{color:var(--soft)}
+.sibs{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px}
+.sib{padding:7px 12px;min-height:38px;border-radius:999px;border:1px solid var(--line);background:var(--card2);color:var(--ink);font-weight:700;font-size:13.5px;display:inline-flex;align-items:center}
+.sib:hover{text-decoration:none;border-color:var(--deal)}
+.ph{border-radius:14px;padding:20px;margin-top:12px}
+.ph-stats{display:flex;flex-wrap:wrap;gap:22px;margin:4px 0 8px;align-items:center}
+.ph-stats small{display:block;font:600 11px var(--mono);color:var(--hdr-dim);letter-spacing:.04em}
+.ph-stats b{font:700 24px var(--mono)}
+.ph-verdict{background:var(--hot2);color:#17222c;font-weight:900;padding:5px 10px;border-radius:6px;font-size:13.5px}
+.ph svg{width:100%;height:150px;display:block}
+.ph-x{display:flex;justify-content:space-between;font:500 12px var(--mono);color:var(--hdr-dim);margin-top:4px}
+.ph-foot{display:flex;flex-wrap:wrap;gap:8px 16px;justify-content:space-between;align-items:center;margin-top:14px;padding-top:14px;border-top:1px solid var(--hdr-line);font-size:13.5px;color:var(--hdr-ink)}
+.ph-foot button{background:none;border:0;color:var(--yel);font-weight:800;cursor:pointer;font-size:14px;padding:6px 0}
+.ph .alertset{background:var(--hdr2);border-color:var(--hdr-line);color:#fff}
+.pf-sellers{display:flex;flex-direction:column;gap:8px;margin-top:12px}
+.pf-sellers .offer{border:1px solid var(--line);border-radius:12px;background:var(--card)}
+.pf-sellers .offer.is-best{border:2px solid var(--hot2);background:var(--deal-bg)}
+.pairs{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:10px;margin-top:12px}
+.lead2{margin:4px 0 0;color:var(--soft);font-size:14.5px}
+.oosbox{margin-top:12px}
+
+/* compare */
+.cmpx{padding-top:20px;padding-bottom:24px}
+.cmpx h1{margin:0;font-size:clamp(32px,4.5vw,48px);font-weight:900;font-stretch:118%;letter-spacing:-.03em}
+.ctable{margin-top:18px;overflow-x:auto;background:var(--card);border:1px solid var(--line);border-radius:12px}
+.ctable table{width:100%;border-collapse:collapse;min-width:640px;font-size:14.5px}
+.ctable thead th{background:var(--hdr);color:#fff;text-align:left;padding:16px;vertical-align:bottom}
+.ctable thead a{color:#fff;font-weight:900;font-stretch:108%;font-size:20px}
+.ctable thead i{display:block;font-size:13px;font-weight:500;color:var(--hdr-ink);margin-top:3px}
+.ctable thead button{display:block;background:none;border:0;color:var(--hot2);font-weight:700;font-size:13px;cursor:pointer;padding:6px 0 0}
+.ctable tbody th{text-align:left;padding:11px 16px;border-top:1px solid var(--line);color:var(--soft);font-weight:700;font-size:13.5px;width:170px;vertical-align:top}
+.ctable td{padding:11px 16px;border-top:1px solid var(--line);vertical-align:top;font-weight:600}
+.ctable td.win{background:var(--deal-bg)}
+.ctable td .total{font-family:var(--mono);font-stretch:100%;font-size:18px}
+.ctable td.na{color:var(--faint);font-weight:400}
+
+/* compare tray */
+.tray{position:fixed;left:0;right:0;bottom:0;z-index:40;background:var(--hdr);color:#fff;border-top:3px solid var(--hot2);padding-bottom:env(safe-area-inset-bottom,0px)}
+.tray-in{max-width:1180px;margin:0 auto;padding:10px 16px;display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:8px 12px}
+.tray-in span{font-size:14.5px}
+.tray button,.tray a{height:42px;padding:0 14px;border-radius:8px;font-weight:800;font-size:14.5px;cursor:pointer;display:inline-flex;align-items:center}
+.tray .clr{border:1px solid var(--hdr-dim);background:none;color:#fff}
+.tray .go{border:0;background:var(--hot2);color:#17222c;text-decoration:none}
+body.has-tray main{padding-bottom:110px}
+
+@media (max-width:640px){
+  .hx{padding-top:26px;padding-bottom:30px}
+  .reel{height:88px}.reel span{font-size:13.5px}.reel span.mono{font-size:18px}
+  .jump{top:0}
+  .vgrid{grid-template-columns:minmax(0,1fr)}
+  .vc-hit{display:grid;grid-template-columns:88px minmax(0,1fr)}
+  .vc-art{height:auto;min-height:100%;border-bottom:0;border-right:1px solid var(--line)}
+  .vc-art svg{width:54px;height:54px}.vbadge{left:6px;top:6px;font-size:9.5px;padding:4px 6px}
+  .vc-fr{display:none}
+  .vc-body{padding:10px 12px 0}
+  .vc-nm{font-size:17px}.vc-ln{font-size:13.5px}
+  .vc-foot{padding:9px 12px 11px;margin-top:8px}
+  .vc-act{flex-direction:row}
+  .vc-pr .total{font-size:19px}
+  .cmpb{height:34px;padding:0 8px}
+}
+@media (prefers-reduced-motion:reduce){.tk-run,.livedot,.slot.spun .reel span{animation:none}}
+
+main#app{overflow-x:visible}
+body{overflow-x:clip}
+.vc-pr{min-width:0;flex:1 1 auto}
+.vc-pr .total{white-space:nowrap;font-size:20px}
+.vc-act{flex-direction:column;align-items:flex-end}
+.px-acts .wadd.big{margin:0;border:0;border-radius:10px;background:var(--hot2);color:#17222c;font:900 16px var(--font);gap:8px}
+.px-acts .wadd.big[aria-pressed="true"]{background:var(--yel);color:#17222c}
+@media (max-width:640px){
+  .ctiles{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .ctile{grid-template-columns:36px minmax(0,1fr);padding:10px;min-height:76px}
+  .ctile .art{width:36px;height:36px}.ctile .art svg{width:26px;height:26px}
+  .ctile small{flex-direction:column;gap:0}
+  .vc-act{flex-direction:row}
+}
+
+/* ---------- phone layout (Nov 17) ---------- */
+.sheet-h,.sheet-done{display:none}
+.buybar{display:none}
+@media (max-width:640px){
+  .bar{padding:8px 12px;row-gap:8px}
+  .brand b{font-size:19px}
+  .zipwrap{margin-left:auto;flex:0 0 auto}
+  .shipto{font-size:12px}
+  .ticker .tk-run{font-size:11.5px;padding:4px 0;gap:26px}
+  .hx{padding-top:18px;padding-bottom:20px;gap:16px;border-bottom-width:3px}
+  .kicker{font-size:11px;margin-bottom:8px}
+  .hx h1{font-size:31px}
+  .hx p.lead{font-size:15px;margin-top:10px;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+  .counters{gap:18px;margin-top:14px}.counters b{font-size:24px}.counters span{font-size:12px}
+  .slot{padding:12px;border-radius:14px}
+  .slot-h{margin-bottom:8px}.slot-h b{font-size:17px}
+  .reel{height:78px;padding:6px 8px}
+  .slot-line{margin:8px 0 10px;min-height:0;font-size:14px}
+  .spin,.slot-go{height:44px}
+  .secthead{margin:24px 0 10px}
+  .h2{font-size:21px}
+  .needs{flex-wrap:nowrap;overflow-x:auto;margin-inline:-16px;padding:2px 16px 8px;scrollbar-width:none;-webkit-overflow-scrolling:touch}
+  .needs::-webkit-scrollbar{display:none}
+  .need{flex:0 0 auto;min-height:42px;font-size:14px}
+  .how{display:none}
+  .fx{padding-top:12px;padding-bottom:16px;gap:12px}
+  .fx h1{font-size:32px}
+  .fx .latin{margin:2px 0 6px;font-size:14px}
+  .fx .intro{font-size:14.5px;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+  .primer{display:flex;flex-wrap:nowrap;overflow-x:auto;margin-inline:-16px;padding:0 16px 2px;scrollbar-width:none;gap:6px}
+  .primer::-webkit-scrollbar{display:none}
+  .primer div{flex:0 0 auto;max-width:210px;padding:7px 11px}
+  .primer b{font-size:14px}
+  .firsts{margin-top:14px;padding:12px 14px 14px;border-radius:12px}
+  .firsts .h2{font-size:18px}
+  .firsts p{display:none}
+  .firsts-g{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;margin:10px -14px 0;padding:0 14px 2px;gap:8px;scrollbar-width:none}
+  .firsts-g::-webkit-scrollbar{display:none}
+  .fpick{flex:0 0 78%;scroll-snap-align:start;padding:11px 12px}
+  .fpick b{font-size:16.5px}.fpick i{font-size:13px}
+  .board{margin-top:14px;gap:10px}
+  .fside{flex-basis:100%;border-radius:10px}
+  .fside>summary{padding:11px 14px;font-size:15px;min-height:44px}
+  .fside>summary::after{content:"Show";font:700 13px var(--font);color:var(--deal)}
+  .fside[open]>summary::after{content:""}
+  .fside[open]::before{content:"";position:fixed;inset:0;background:rgba(8,14,20,.55);z-index:69}
+  .fside[open]>.fside-in{position:fixed;left:0;right:0;bottom:0;max-height:80vh;overflow:auto;z-index:70;background:var(--card);border-radius:18px 18px 0 0;box-shadow:0 -12px 40px rgba(0,0,0,.35);padding:0 16px calc(14px + env(safe-area-inset-bottom,0px))}
+  .sheet-h{display:flex;justify-content:space-between;align-items:center;position:sticky;top:0;background:var(--card);padding:14px 0 10px;z-index:1;border-bottom:1px solid var(--line)}
+  .sheet-h b{font-size:18px;font-weight:900}
+  .sheet-h button{background:none;border:0;font-weight:800;color:var(--deal);font-size:15px;min-height:40px;cursor:pointer}
+  .sheet-done{display:block;position:sticky;bottom:0;width:100%;height:50px;border:0;border-radius:12px;background:var(--hot2);color:#17222c;font-weight:900;font-size:16px;cursor:pointer;box-shadow:0 -10px 16px var(--card)}
+  .btool .h2{font-size:19px}
+  .btool select{min-height:40px;font-size:13px}
+  .vc-hit{grid-template-columns:76px minmax(0,1fr)}
+  .vc-art svg{width:48px;height:48px}
+  .vc-body{gap:4px}
+  .vc-foot{align-items:center}
+  .px{padding-top:12px;padding-bottom:20px;gap:0}
+  .px-art{display:none}
+  .px h1{font-size:34px}
+  .px .oneliner{font-size:17.5px;margin-top:8px}
+  .px .tchips{margin-top:10px}
+  .px-buy{padding-top:16px;gap:12px}
+  .px-buy .big{font-size:30px}
+  .px-acts{display:grid;grid-template-columns:1fr 1fr;gap:8px;width:100%}
+  .px-acts .wadd.big{grid-column:1/-1;height:48px;justify-content:center}
+  .px-acts .pill,.px-acts .cmpb{height:44px;justify-content:center;display:inline-flex;align-items:center;gap:6px}
+  .psec{margin-top:24px;scroll-margin-top:80px}
+  .fit{gap:8px}.fit div{padding:13px 14px}
+  .card{padding:14px 16px}
+  .ph{padding:16px}
+  .ph svg{height:110px}
+  .ph-stats{gap:14px}.ph-stats b{font-size:20px}
+  .pairs{display:flex;overflow-x:auto;margin-inline:-16px;padding:0 16px 4px;scroll-snap-type:x mandatory;scrollbar-width:none}
+  .pairs .fpick{flex:0 0 78%;border:1px solid var(--line)}
+  .cmpx{padding-top:12px;padding-bottom:16px}.cmpx h1{font-size:30px}
+  .ctable table{min-width:0;table-layout:fixed}
+  .ctable thead th:first-child,.ctable tbody th{width:92px;position:sticky;left:0;z-index:1}
+  .ctable thead th:first-child{background:var(--hdr)}
+  .ctable tbody th{background:var(--card);font-size:12.5px;padding:10px 8px 10px 12px}
+  .ctable thead th{padding:12px 10px;width:150px}
+  .ctable thead a{font-size:16px}
+  .ctable td{padding:10px;font-size:13.5px;width:150px}
+  .ctable td .total{font-size:15px}
+  .ctable table{width:max-content;min-width:100%}
+  .tray-in{padding:8px 12px;gap:6px}
+  .tray-in>span:first-child{font-size:13px;flex:1 1 100%}
+  .tray-in>span:last-child{flex:1 1 100%}
+  .tray .go{flex:1;justify-content:center}
+  .tray button,.tray a{height:40px}
+  .buybar{display:block;position:fixed;left:0;right:0;bottom:0;z-index:40;background:var(--hdr);color:#fff;border-top:3px solid var(--hot2);padding:8px 12px calc(8px + env(safe-area-inset-bottom,0px))}
+  .buybar-in{display:flex;align-items:center;justify-content:space-between;gap:10px}
+  .buybar small{display:block;font-size:11.5px;color:var(--hdr-dim);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:46vw}
+  .buybar b{font:700 20px var(--mono);color:var(--yel)}
+  .buybar .wadd{margin:0;height:46px;padding:0 16px;border:0;border-radius:10px;background:var(--hot2);color:#17222c;font:900 15px var(--font);flex:0 0 auto}
+  .buybar .wadd[aria-pressed="true"]{background:var(--yel)}
+  body.has-buy main{padding-bottom:96px}
+}
+
+/* hero needs panel (replaces the slot machine, Nov 18) */
+.hx-needs{flex:1 1 380px;min-width:0;background:var(--hdr2);border:2px solid var(--hdr-line);border-radius:16px;padding:18px}
+.hx-needs .h2{color:#fff;margin-bottom:12px}
+.hx-needs .need{background:transparent;color:#fff;border-color:var(--hdr-dim)}
+.hx-needs .need:hover{background:rgba(255,255,255,.08);border-color:var(--hot2)}
+.hx-needs .need i{background:var(--hot2);color:#17222c}
+.tk-run{gap:44px}
+.tk-tag{margin-right:6px}
+@media (max-width:640px){
+  .hx-needs{padding:14px 0 4px;background:none;border:0;border-radius:0}
+  .hx-needs .h2{font-size:20px;margin-bottom:10px}
+  .hx-needs .needs{display:grid;grid-auto-flow:column;grid-template-rows:repeat(2,auto);justify-content:start;gap:8px;padding-bottom:6px}
+  .ticker .tk-run{font-size:12.5px;padding:6px 0;gap:40px}
+}
+.need{white-space:nowrap}
+@media (max-width:640px){
+  .hx p.lead{-webkit-line-clamp:2}
+  .hx-needs .needs{grid-auto-columns:max-content}
+  .hx-needs .need{min-height:40px;padding:5px 12px 5px 6px;font-size:13.5px}
+}
+@media (max-width:640px){.hx p.lead{display:block;-webkit-line-clamp:unset}.lead-more{display:none}}
+
+/* "I want the one that…" on fruit pages (Nov 18) */
+.fx-needs{flex:1 1 100%;min-width:0;border-top:1px solid var(--hdr-line);padding-top:18px;margin-top:4px}
+.fx-needs .h2{color:#fff;font-size:20px;margin-bottom:10px}
+.fx-needs .need{background:transparent;color:#fff;border-color:var(--hdr-dim)}
+.fx-needs .need:hover{background:rgba(255,255,255,.08);border-color:var(--hot2)}
+.fx-needs .need i{background:var(--hot2);color:#17222c}
+.fx-needs .need[aria-pressed="true"]{background:var(--hot2);border-color:var(--hot2);color:#17222c}
+.fx-needs .need[aria-pressed="true"] i{background:#17222c;color:var(--hot2)}
+@media (max-width:640px){
+  .fx-needs{padding-top:12px}
+  .fx-needs .h2{font-size:18px}
+  .fx-needs .needs{display:grid;grid-auto-flow:column;grid-template-rows:repeat(2,auto);grid-auto-columns:max-content;justify-content:start;gap:8px;padding-bottom:4px}
+  .fx-needs .need{min-height:40px;padding:5px 12px 5px 6px;font-size:13.5px}
+}
+
+.sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
 </style>
 
 <header class="top">
@@ -769,13 +1170,11 @@ main{overflow-x:clip}
 <nav class="mainnav" aria-label="Site"><div class="mainnav-in">
   <button class="nv" id="dealsBtn" data-go="home"><svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M5 19c0-8 5-14 15-15-1 10-7 15-15 15z" fill="currentColor"/></svg><span class="lbl">Plants</span></button>
   <button class="nv" id="salesBtn" data-go="sales"><svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M3 12.6V4.5A1.5 1.5 0 014.5 3h8.1a1.5 1.5 0 011.06.44l7.4 7.4a1.5 1.5 0 010 2.12l-8.1 8.1a1.5 1.5 0 01-2.12 0l-7.4-7.4A1.5 1.5 0 013 12.6z" stroke="currentColor" stroke-width="2"/><path d="M8.5 15.5l7-7M9 9.2h.01M15 14.8h.01" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/></svg><span class="lbl">Sales</span><span class="ct" id="salesCt" data-n="0">0</span></button>
+  <button class="nv" id="histBtn" data-go="prices"><svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M3 4v16h18" stroke="currentColor" stroke-width="2" stroke-linecap="round"/><path d="M6.5 9.5h4v4h3.5v3H20" stroke="currentColor" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"/></svg><span class="lbl">Price tracker</span></button>
+  <button class="nv" id="aboutBtn" data-go="about"><svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><circle cx="12" cy="12" r="9" stroke="currentColor" stroke-width="2"/><path d="M9.6 9.3a2.5 2.5 0 114 2c-.9.7-1.6 1.2-1.6 2.4M12 17h.01" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg><span class="lbl">How it works</span></button>
   <button class="nv wg" id="wagonBtn" data-go="wagon" aria-label="Wagon"><svg viewBox="0 0 30 23" fill="none" aria-hidden="true"><path d="M2.5 6.5h18.5l-2.2 9.2H4.7z" fill="currentColor"/><path d="M21 6.5l6.5-5" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/><circle cx="7.5" cy="19" r="3" fill="currentColor"/><circle cx="16.5" cy="19" r="3" fill="currentColor"/></svg><span class="lbl">Wagon</span><span class="ct" data-n="0">0</span></button>
-  <div class="morewrap"><button class="nv" id="moreBtn" aria-haspopup="menu" aria-expanded="false" aria-controls="moreMenu"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="5" cy="12" r="2.2" fill="currentColor"/><circle cx="12" cy="12" r="2.2" fill="currentColor"/><circle cx="19" cy="12" r="2.2" fill="currentColor"/></svg><span class="lbl">More</span></button>
-    <div class="moremenu" id="moreMenu" role="menu" hidden>
-      <button role="menuitem" id="histBtn" data-go="prices"><svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M3 4v16h18" stroke="currentColor" stroke-width="2" stroke-linecap="round"/><path d="M6.5 9.5h4v4h3.5v3H20" stroke="currentColor" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"/></svg><span>Price history</span><small>How each price has moved</small></button>
-      <button role="menuitem" id="aboutBtn" data-go="about"><svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><circle cx="12" cy="12" r="9" stroke="currentColor" stroke-width="2"/><path d="M9.6 9.3a2.5 2.5 0 114 2c-.9.7-1.6 1.2-1.6 2.4M12 17h.01" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg><span>How it works</span><small>Prices, checks and badges</small></button>
-    </div></div>
 </div></nav>
+<div class="ticker" id="ticker" aria-label="Latest price moves" hidden></div>
 <div class="fruitbar" id="fruitbar" hidden><label class="catpick"><span>Category</span><select id="catsel" aria-label="Category"></select></label><div class="tabs-in" id="tabs" role="tablist" aria-label="Categories"></div></div>
 
 <main id="app"><div class="loading">Loading prices…</div></main>
@@ -1139,6 +1538,7 @@ function initZipUI() {
 // every variety is keyed "<fruit>.<variety id>" so two fruits can never collide
 const D = { fruits: [], meta: {}, files: {}, all: [], byKey: {}, ship: {}, blocked: 0, timing: {} };
 const S = { fruit: "all", q: "", f: new Set(store.get("rfd.filters", []).filter(k => k !== "notmine")), forms: new Set(store.get("rfd.forms", [])), sort: store.get("rfd.sort", "deal"), open: null, starred: new Set(store.get("rfd.starred2", [])), targets: store.get("rfd.targets", {}) || {}, statusOpen: !!store.get("rfd.statusOpen", false) };
+S.need = new Set(); S.cmp = (store.get("rfd.cmp", []) || []).filter(Boolean).slice(0, 3); S.spin = null; S.spun = false; S.vkey = null;
 const FILTERS = [
   ["watched", "★ Watching"], ["confirmed", "Confirmed total"], ["award", "Award winners"], ["pedigree", "Famous breeder / university"],
   ["budget", "Budget price"], ["new", "New this week"], ["shipsnow", "Ships to you"], ["drops", "Price drops"], ["sale", "On sale"],
@@ -1620,6 +2020,7 @@ function wagonView() {
 }
 
 // First visit: prices include shipping, so ask where to deliver before showing any.
+let ZIP_MEM = null;
 function zipGate() {
   document.body.classList.add("gate");
   $("#app").innerHTML = `<section class="zipgate" aria-labelledby="zg-h"><h1 id="zg-h">Where should plants be delivered?</h1>
@@ -1630,7 +2031,8 @@ function zipGate() {
   inp.addEventListener("input", () => { inp.value = inp.value.replace(/\D/g, "").slice(0, 5); });
   $("#zipGate").addEventListener("submit", e => { e.preventDefault(); const z = inp.value.trim();
     if (!validZip(z)) { $("#zgMsg").textContent = "That doesn't look like a US ZIP code. Use 5 digits, like 98101."; inp.focus(); return; }
-    store.set("rfd.zip", z); location.reload(); });
+    ZIP_MEM = z; store.set("rfd.zip", z);   // no page reload: it can fail inside an embedded viewer, and storage may be unavailable there
+    document.body.classList.remove("gate"); $("#app").innerHTML = `<div class="loading">Loading prices…</div>`; load(); });
   inp.focus();
 }
 async function loadCoupons() {
@@ -1793,12 +2195,7 @@ function acPick(e) {
   if (e.type === "variety") {
     const v = e.v;
     inp.value = ""; S.q = ""; S.f.clear(); S.forms.clear(); store.set("rfd.filters", []); store.set("rfd.forms", []); S.crop = ""; S.vsold = "all"; S.vnamed = "all";
-    if (S.fruit !== "all" && S.fruit !== v.fruit) S.fruit = v.fruit;
-    S.view = "board";
-    try { history.replaceState(null, "", S.fruit === "all" ? location.pathname : `#${S.fruit}`); } catch {}
-    renderTabs(); updateWagonBtn(); updateGardenBtn(); render();
-    if (v.inStock) toggle(v.key, true);
-    else revealSold(v);
+    openProfile(v.key);
     inp.blur();
   } else if (e.type === "fruit") { inp.value = ""; S.q = ""; setFruit(e.id); inp.blur(); }
   else { setQuery(e.label); inp.blur(); }
@@ -2017,7 +2414,7 @@ function pricesView() {
         ${chg}${ICON.chev}
       </div>${open ? phDetail(v) : ""}</div>`;
   };
-  return `<div class="wg-head"><div><h1><span class="ph-ic">${ICON_CHART}</span>Price history</h1>
+  return `<div class="wg-head"><div><h1><span class="ph-ic">${ICON_CHART}</span>Price tracker</h1>
       <p>How the lowest plant price for each variety has moved, without shipping. Tap a variety for its chart${since ? `. Tracking began ${fmtDate(since)}` : ""}.${tip("history")}</p></div></div>
     <div class="filters" role="group" aria-label="Price filters">${PHF.map(([k, t]) => `<button class="chip" data-phf="${k}" aria-pressed="${S.phf === k}">${t} <small>${({ all: vs.length, drops: nDrop, rises: nRise, lowest: nLow, back: nBack })[k]}</small></button>`).join("")}
       <select id="phsort" aria-label="Sort by">${Object.entries(PHS).map(([k, t]) => `<option value="${k}" ${S.phs === k ? "selected" : ""}>Sort: ${t}</option>`).join("")}</select></div>
@@ -2113,7 +2510,7 @@ function matches(v) {
   }
   const q = S.q.trim().toLowerCase();
   if (q) {
-    const hay = [v.name, v.summary, v.F.name, v.color, v.crop_name, v.latin, ...(v.tags || []), ...(v.aliases || []), v.breeder?.name, ...(v.awards || []), ...v.offers.map(o => o.n.name), ...v.out.map(o => o.n.name)].join(" ").toLowerCase();
+    const hay = [v.name, v.summary, lineOf(v), v.F.name, v.color, v.crop_name, v.latin, ...(v.tags || []), ...(v.aliases || []), v.breeder?.name, ...(v.awards || []), ...v.offers.map(o => o.n.name), ...v.out.map(o => o.n.name)].join(" ").toLowerCase();
     if (!q.split(/\s+/).every(t => hay.includes(t))) return false;
   }
   const b = v.best, f = S.f;
@@ -2222,8 +2619,8 @@ document.addEventListener("keydown", e => { if (e.key === "Escape") { if (tipFor
 // ---------------------------------------------------------------- navigation, paging, filters
 S.crop = ""; S.vsold = "all"; S.vnamed = "all";
 S.lims = {}; S.limSig = ""; S.filtersOpen = false; S.soldOpen = false; S.soldKey = null; S.allOffers = null; S.intro = store.get("rfd.intro", true);
-const NAV_OF = { board: "dealsBtn", sales: "salesBtn", seeds: "seedsBtn", wagon: "wagonBtn", prices: "moreBtn", about: "moreBtn" };
-const SUB_OF = { prices: "histBtn", about: "aboutBtn" };
+const NAV_OF = { variety: "dealsBtn", compare: "dealsBtn", board: "dealsBtn", sales: "salesBtn", seeds: "seedsBtn", wagon: "wagonBtn", prices: "histBtn", about: "aboutBtn" };
+const SUB_OF = {};
 function navState() {
   for (const id of ["dealsBtn", "salesBtn", "seedsBtn", "wagonBtn", "moreBtn", "histBtn", "aboutBtn"]) {
     const b = $("#" + id); if (!b) continue;
@@ -2393,21 +2790,562 @@ function seedsView() {
   document.head.appendChild(s);
 }
 
+
+// ================================================================ redesign (Nov 2026)
+// One-liners, growing traits, the home page, fruit pages, variety profiles and compare.
+const LINES = {"pawpaw.allegheny":"The early one that crops so heavily you'll want to thin it","pawpaw.bennys-favorite":"The festival favorite for classic pawpaw flavor","pawpaw.cricket-hill-garden-select":"The budget house pick, with no known pedigree","pawpaw.dale":"The big-fruited contest winner (per its nursery)","pawpaw.davis":"The Corwin Davis orchard selection, lightly documented","pawpaw.green-river-belle":"The one with a cinnamon finish that sets fruit through rough springs","pawpaw.ixl":"The very-late heirloom that stretches your season","pawpaw.jerrys-big-girl":"The one that grows the biggest pawpaws — some top a pound","pawpaw.kentucky-champion":"The early one with yellow-orange flesh","pawpaw.ksu-atwood":"The productive, disease-resistant all-rounder","pawpaw.ksu-benson":"The low-seed one that shrugs off leaf spot","pawpaw.ksu-chappell":"The fastest-growing KSU tree, with fruit that pulls free of its seeds","pawpaw.ksu-dunnigan":"The newest KSU release, still proving itself","pawpaw.ksu-pompers-choice":"The one that tastes the most tropical","pawpaw.ky-legend-titan":"The giant with pineapple flavor and very few seeds","pawpaw.lehmans-chiffon":"The creamy-textured heavy cropper","pawpaw.lehmans-delight-275-48":"The two-time Biggest Pawpaw champ","pawpaw.mango":"The vigorous one — named mango, but doesn't taste like it","pawpaw.marias-joy-166-13":"The big-fruited one growers can't agree on","pawpaw.mitchell":"The large, round one with an airy texture and excellent flavor","pawpaw.nc-1":"The Canadian-bred one with bold, strong flavor","pawpaw.nyomis-delicious":"The super-sweet, citrusy one with no musky aftertaste","pawpaw.overleese":"The classic that keeps longer after picking than most","pawpaw.pa-golden-3":"The heavy-yielding wild type — eat it fast, it doesn't keep","pawpaw.potomac":"The fast-growing tree that fruits young, with big sweet fruit","pawpaw.prolific":"The mild workhorse parent of many better varieties","pawpaw.rebeccas-gold":"The very late, hardy one for stretching the harvest","pawpaw.saa-zimmerman":"The hardy one that spreads into a patch","pawpaw.shenandoah":"The mildest, most fragrant one — custardy with very few seeds","pawpaw.sunflower":"The self-fertile one, if you only have room for one tree","pawpaw.susquehanna":"The top-flavor, low-seed one that needs a watchful eye for disease","pawpaw.tallahatchie":"Peterson's 7th release, with big clusters and mellow flavor","pawpaw.taytwo":"The named selection we're still researching","pawpaw.tollgate":"The rare find — first time we've seen it in stock","pawpaw.tropical-treat":"The large-fruited Kentucky introduction","pawpaw.valley-east-ve-21":"The very early one that can partly pollinate itself","pawpaw.wabash":"The cannonball-shaped one with rich, creamy flesh","pawpaw.wells":"The rarely grown, steady small-fruited one","pawpaw.halvin":"The big Iowa wild selection that ripens a few weeks after Shenandoah","pawpaw.honeydew":"The freestone one whose seeds pop right out","pawpaw.marshmallow":"The sweetest of England's three freestone siblings","pawpaw.pennsylvania-golden":"The Pennsylvania Golden family under a shortened name","pawpaw.pennsylvania-golden-4":"The small-fruited one that can yield 25–50 lb a tree","pawpaw.prima":"The self-fertile Italian one with mango-apricot flavor","pawpaw.quaker-delight":"The festival winner that ripens earlier than most","pawpaw.regulus":"The extremely heavy bearer with big fruit and few seeds","pawpaw.x-42":"The mystery numbered selection with almost no paper trail","pawpaw.rappahannock":"The mild Peterson release that stores well","pawpaw.cantaloupe":"The late freestone sibling that follows Honeydew and Marshmallow","pawpaw.lehmans-choice":"The two-time Biggest Pawpaw winner","pawpaw.october-moon":"The big, late, festival-winning Lehman selection","pawpaw.ve-19":"The rare Valley East selection no one has tasted notes on yet","pawpaw.mammoth-x":"The disease-resistant giant — fruit over a pound","pawpaw.sri-gold":"The Susquehanna × Sunflower 'Ultra Select'","pawpaw.free-byrd":"The big, custardy Shenandoah seedling with few seeds","pawpaw.horns-white":"The white-skinned one with coconut-cherimoya flavor","pawpaw.al-horn":"The coconut-sweet one that's slow to get going","pawpaw.atria":"The big, tropical-tasting custard-textured cross","pawpaw.caspian":"The very early one with bubblegum notes","pawpaw.mango-x-wabash":"The deliberate Mango × Wabash cross","pawpaw.avatar":"The early yellow-fleshed one with a hazy pedigree","pawpaw.ralphs-whopper":"The big yellow-fleshed Kentucky find","pawpaw.lehmans-legacy-3":"The presumed Lehman line we're still researching","pawpaw.canopus":"The named selection we're still researching","pawpaw.summer-delight":"The named selection we're still researching","pawpaw.windstar":"The named selection we're still researching","pawpaw.taylor":"The named selection we're still researching","pawpaw.saa-overleese":"The Overleese-line selection we're still researching","pawpaw.asterion":"The rare name we're still researching","pawpaw.florence-white":"The rare name we're still researching","pawpaw.sunsprout":"The newly surfaced name we're still researching","pawpaw.ford-amend":"The Raintree listing we're still researching","pawpaw.yuri":"The newly surfaced name we're still researching","pawpaw.275-50":"The numbered Lehman-style selection we're still researching","pawpaw.275-56":"The numbered selection we're still researching","pawpaw.variegata":"The ornamental one grown for white-splashed leaves, not fruit","pawpaw.spilt-milk":"The variegated one, likely more ornamental than fruiting","pawpaw.lynns-favorite":"The special-order rarity we're still researching","pawpaw.sweet-alice":"The special-order rarity we're still researching","pawpaw.sue":"The special-order rarity we're still researching","pawpaw.sunglo":"The special-order rarity we're still researching","pawpaw.pa-golden-1":"The first of John Gordon's Pennsylvania Golden group","pawpaw.pa-golden-2":"The second of John Gordon's Pennsylvania Golden group","pawpaw.halvins-side-winder":"The England's Orchard rarity, separate from Halvin","pawpaw.sweet-virginia":"The limited-quantity England's Orchard rarity","pawpaw.phn-seraphim-r8":"Peaceful Heritage's own grafted house selection","pawpaw.needmore":"The new golden-fleshed one with tropical flavor","raspberry.anne":"The golden one with sweet, apricot-like flavor","raspberry.double-gold":"The peachy-gold one that gives you two crops a year","raspberry.fall-gold":"The dependable old golden one for summer and fall","raspberry.cascade-gold":"The golden one from the Pacific Northwest Cascade series","raspberry.honey-queen":"The honey-colored one we're still learning about","raspberry.bristol":"The classic early blackcap with rich flavor","raspberry.jewel":"The most-planted blackcap — tough against anthracnose","raspberry.niwot":"The black raspberry that fruits twice a season","raspberry.ohios-treasure":"The everbearing blackcap, picking from August into October","raspberry.mac-black":"The late blackcap that stretches your harvest","raspberry.munger":"The old Pacific Northwest blackcap","raspberry.cumberland":"The sweet, reliable heirloom blackcap","raspberry.black-delicious":"The Hartmann's blackcap we're still learning about","raspberry.pequot-lakes":"The Hartmann's blackcap we're still learning about","raspberry.shekinah-tahi":"The black raspberry with no spines at all","raspberry.glencoe":"The thornless purple one that handles cold","raspberry.royalty":"The purple powerhouse with huge yields","raspberry.brandywine":"The tart purple one made for jam","raspberry.purple-dream":"The Hartmann's purple we're still learning about","raspberry.crimson-night":"The one with dark purple canes that looks as good as it tastes","raspberry.english-thornless":"The thornless red that's easy to pick","raspberry.canby-thornless":"The nearly thornless summer red","raspberry.polka":"The red that starts its fall crop extra early","raspberry.emerald-carpet":"The creeping ground cover with little edible berries","raspberry.black-hawk":"The blackcap that shrugs off heat and drought","raspberry.allen":"The big, glossy, aromatic blackcap","raspberry.born-free":"The thornless blackcap with self-fertile fruit","kiwi.anna":"The classic hardy kiwi — sweet, grape-sized and grown everywhere","kiwi.issai":"The self-fertile one — one vine fruits on its own","kiwi.kens-red":"The red-skinned one with some of the biggest hardy kiwis","kiwi.dumbarton-oaks":"The early one with ribbed fruit like mini pumpkins","kiwi.geneva":"The early, extra-sweet one from upstate New York","kiwi.geneva-3":"The Geneva selection with tropical-tasting green fruit","kiwi.michigan-state":"The large-fruited one often sold as MSU","kiwi.fortyniner":"The California-bred hardy kiwi","kiwi.cordifolia":"The early ripener from Ohio State's trials","kiwi.arbor-eat-um":"The numbered NA-7 selection from Edible Landscaping","kiwi.fifty-five":"The Edible Landscaping selection we're still learning about","kiwi.jumbo":"The Italian one with big, long fruit","kiwi.prolific":"The heavy bearer from Ohio State's trials","kiwi.chang-bai":"The big-fruited one from the China–North Korea border","kiwi.hardy-red":"The one whose flesh ripens from green to deep red","kiwi.natasha":"The Russian one with sweet, mango-tropical flavor","kiwi.tatyana":"The Russian one that's reliably cold-hardy","kiwi.rossana":"The Italian selection","kiwi.silver-lining":"The variegated one grown for leaves as much as fruit","kiwi.meader-female":"The female partner sold under the Meader name","kiwi.74-49":"The numbered female selection from Tripple Brook","kiwi.september-sun":"The small, very cold-hardy Arctic kiwi","kiwi.krupnoplodnaya":"The large-fruited Arctic kiwi proven in Minnesota","kiwi.red-beauty":"The Arctic kiwi we're still learning about","kiwi.emerald":"The female Arctic Beauty","kiwi.arctic-beauty":"The pink-white-green male grown as an ornamental pollinator","kiwi.pasha":"The male that pollinates Arctic kiwis","kiwi.veras-pride":"The female silver vine","kiwi.hot-pepper":"The female silver vine with a spicy name","kiwi.pavel":"The male that pollinates silver vines","kiwi.meader":"The go-to male pollinator for hardy kiwi","kiwi.clark":"The male pollinator (74-46) for hardy kiwi","kiwi.74-32":"The numbered male pollinator","kiwi.fairchild":"The male pollinator (74-52) for hardy kiwi","kiwi.opitz":"The male pollinator from Tripple Brook","kiwi.flowercloud":"The male pollinator from One Green World","kiwi.ogden-point":"The female sold as a set with its own male","kiwi.andrey":"The male partner for Natasha and Tatyana","kiwi.red-princess":"The one with red-and-green flesh","kiwi.cherry-bomb":"The red-fruited one that may have Arctic kiwi in it","kiwi.chico-state":"The prolific one that ripens a week before Anna","gooseberry.hinnonmaki-red":"The best-selling red that resists mildew","gooseberry.hinnonmaki-yellow":"The aromatic yellow-green one with apricot notes","gooseberry.invicta":"The heavy-cropping English green with an RHS award","gooseberry.pixwell":"The very hardy pie berry with few thorns","gooseberry.poorman":"The sweet red heirloom good for eating fresh","gooseberry.captivator":"The nearly thornless one with teardrop berries","gooseberry.tixia":"The nearly thornless upright bush that's easy to pick","gooseberry.black-velvet":"The dark purple one that tastes like grapes","gooseberry.jeanne":"The sweet late red that resists mildew and rust","gooseberry.jahns-prairie":"The very hardy one that tolerates shade","gooseberry.amish-red":"The productive, mildew-free heirloom red","gooseberry.glenndale":"The one bred to handle hot summers","gooseberry.welcome":"The few-thorned Minnesota one that resists mildew and rust","gooseberry.sabine":"The few-thorned Ottawa one with pink berries","gooseberry.whitesmith":"The pale green-white English dessert berry","gooseberry.leepared":"The heavy-bearing Finnish red","gooseberry.little-ben":"The compact one that still crops heavily","gooseberry.selby":"The One Green World selection we're still learning about","gooseberry.friend":"The nearly thornless burgundy one from Ukraine","gooseberry.jewel":"The dwarf Polish one with burgundy fruit","gooseberry.oregon-champion":"The 1876 Oregon heirloom","gooseberry.red-jacket":"The vigorous one with red-blushed green berries","gooseberry.whinhams-industry":"The award-winning dark red English dessert berry","gooseberry.leveller":"The classic English yellow dessert berry","gooseberry.orus-8":"The near-black gooseberry–currant cross that resists rust","gooseberry.josta":"The thornless jostaberry that grows like crazy","gooseberry.red-josta":"The red-fruited jostaberry","gooseberry.jostine":"The thornless jostaberry selection","gooseberry.giant-josta":"The big-fruited, rust-resistant jostaberry","gooseberry.shefford":"The thornless one with big, sweet golden berries","gooseberry.red-george":"The compact bush with very dark, sweet berries","gooseberry.siewka-k1":"The compact, disease-resistant Polish red","honeyberry.aurora":"The big, sweet fresh-eating favorite","honeyberry.honey-bee":"The productive one that holds fruit until it's fully ripe","honeyberry.boreal-blizzard":"The biggest of the Saskatchewan line, with real tang","honeyberry.boreal-beast":"The aromatic one that hangs on the bush for weeks","honeyberry.boreal-beauty":"The heavy cropper with heart-shaped berries, last to bloom","honeyberry.borealis":"The compact one with big, sweet berries","honeyberry.indigo-gem":"The sweet, chewy one that ripens among the first","honeyberry.tundra":"The firm one that keeps longest after picking","honeyberry.berry-blue":"The classic pollinator for early bloomers","honeyberry.blue-banana":"The one with long, banana-shaped sweet berries","honeyberry.strawberry-sensation":"The heavy cropper with a strawberry aftertaste","honeyberry.giants-heart":"The extra-sweet heart-shaped one with a smoky plum finish","honeyberry.solo":"The only verified self-fertile honeyberry","honeyberry.maxie":"The late bloomer bred to partner with Solo","honeyberry.keiko":"One of the sweetest — great for wine","honeyberry.tana":"The firm, tart-sweet one that holds on the bush","honeyberry.willa":"The mild, sweet late type that ripens first","honeyberry.blue-moose":"The sweet Russian heavy bearer","honeyberry.blue-diamond":"The big, dark, tart-sweet Russian type","honeyberry.blue-palm":"The tart-sweet one that blooms a week after the earliest","honeyberry.happy-giant":"The big, long, extra-sweet one","honeyberry.blue-moon":"The low, mounding one with soft velvety leaves","honeyberry.blue-velvet":"The one with grey-green velvety leaves","honeyberry.blue-mist":"The hardy Japanese import with bigger berries","honeyberry.blue-pacific":"The compact, spreading Far East one","honeyberry.blue-sea":"The low, spreading bush with big, sweet berries","honeyberry.blue-hokkaido":"The one for places where spring weather swings","honeyberry.blue-pagoda":"The hardy one with teardrop-shaped fruit","honeyberry.blue-belle":"The early bloomer with big oval berries on a 5–6' bush","honeyberry.blue-bird":"The reliably productive early bloomer","honeyberry.blue-horn":"The tart-sweet early bloomer","honeyberry.blue-treasure":"The late Japanese type from Berries Unlimited","honeyberry.honey-glen":"The early-mid season Berries Unlimited newcomer","honeyberry.blue-delight":"The Berries Unlimited variety we're still learning about","honeyberry.blue-typhoon":"The late one with sweet, fluffy berries","honeyberry.blue-stuart":"The very sweet, almost round Russian type","honeyberry.honey-bunch":"The half-sized plant with big, sweet berries","honeyberry.boreal-bliss":"The newest Saskatchewan late bloomer","honeyberry.indigo-treat":"The compact one with long dark berries","honeyberry.chito":"Maxine Thompson's patented Japanese type","honeyberry.taka":"Maxine Thompson's patented Japanese type","honeyberry.kawai":"Maxine Thompson's patented Japanese type — a go-to partner","honeyberry.pirika":"Maxine Thompson's patented Japanese type","honeyberry.blue-forest":"The late bloomer with big, sweet-tart berries","honeyberry.cinderella":"The early bloomer with round, sweet purple-blue berries","honeyberry.blue-sky":"The very early ripener from a Siberian line","honeyberry.sunrise":"The early ripener sold only by Gurney's","honeyberry.early-blue":"The other early ripener sold only by Gurney's","honeyberry.maxines-opus":"The big, sweet-tart mid-season one that pairs with Kawai","honeyberry.smokey-blue":"The compact early bloomer with powder-blue berries","honeyberry.indigo-yum":"The sweet early one hardy to zone 3","honeyberry.blue-lightning":"The dark, sweet-tart Far East early bloomer","honeyberry.honey-beast":"The very big, very sweet American-Russian hybrid","honeyberry.honey-joy":"The very sweet one for eating fresh and freezing","honeyberry.honey-wild":"The easy-to-grow one for eating and cooking","honeyberry.honey-gold":"The very late one with big, round, sweet berries","honeyberry.wild-beast":"The Berries Unlimited pick for eating and freezing","honeyberry.blue-cloud":"The late Japanese-origin Berries Unlimited listing","honeyberry.wildtreasure":"The early-mid Berries Unlimited one in gallon pots","cornelian.elegant":"The heavy cropper sweet enough to eat fresh","cornelian.pioneer":"The big, aromatic one that ripens two weeks before Elegant","cornelian.red-star":"A top producer with glossy dark fruit","cornelian.sunrise":"The orange-streaked one that tastes like the yellow types","cornelian.red-dawn":"The red from Kyiv's breeding program","cornelian.coral-blaze":"The coral one that's among the sweetest","cornelian.exotica":"The Ukrainian one with big, sweet fruit","cornelian.svitlana":"The Kyiv selection named for its breeder","cornelian.yellow":"The amber one with a hint of tropical flavor","cornelian.juliusz":"The Polish arboretum selection","cornelian.ugolek":"The almost-black one — 'little ember'","cornelian.pervenets":"The 'firstborn' Eastern European selection","cornelian.vavilovets":"The Eastern European selection, sold out for now","cornelian.black-plum":"The very dark one, sold out for now","cornelian.redstone":"The red selection, sold out for now","cornelian.yugo-sweet":"The sweet-fruited one, sold out for now","cornelian.aliosha":"The yellow Eastern European one, sold out for now","cornelian.svitliachok":"The yellow 'firefly', sold out for now","cornelian.flava":"The yellow-fruited one, sold out for now","cornelian.starokyivskyi":"The 'Old Kyiv' selection, sold out for now","cornelian.fruchtal":"The named selection, sold out for now","cornelian.dripping-cherries":"The one with a name that says it all, sold out for now","cornelian.vladimirsky":"The Eastern European selection, sold out for now","persimmon.nikitas-gift":"The cold-hardy hybrid with sweet red-orange fruit","persimmon.rosseyanka":"The nearly seedless golden hybrid hardy to zone 5","persimmon.jt-02":"The hybrid whose fruit hangs on into late November","persimmon.kasandra":"The super-sweet hybrid hardy to −11°F","persimmon.sosnovskaya":"The Eastern European hybrid","persimmon.chuchupaka":"The Eastern European hybrid with the fun name","persimmon.journey":"The Future Forest hybrid","persimmon.zhima-khurma":"The hybrid selection we're still learning about","persimmon.saijo":"The small, very sweet Asian one that handles zone 6","persimmon.great-wall":"The Chinese one that's come through −5°F winters","persimmon.prok":"The very large, few-seeded early American","persimmon.yates":"The big, early American — also sold as Juhl","persimmon.meader":"The American one sold for northern gardens","persimmon.early-golden":"The classic early-ripening American","persimmon.john-rick":"The large-fruited American","persimmon.garretson":"The One Green World American we're still learning about","persimmon.mohler":"The One Green World American we're still learning about","persimmon.szukis":"The self-fruitful one that also pollinates its neighbors","persimmon.prairie-dawn":"The Prairie series selection","persimmon.prairie-star":"The Prairie series selection","persimmon.prairie-gem":"The Prairie series selection","persimmon.prairie-sun":"The Prairie series selection","persimmon.ruby":"The named American we're still learning about","persimmon.weber":"The named American we're still learning about","persimmon.100-46":"The Lehman selection with very big, smooth fruit and heavy crops","persimmon.wonderful":"The biggest fruit England's Orchard offers","persimmon.deer-magnet":"The late-dropping one planted for wildlife","persimmon.full-draw":"The self-fruitful wildlife tree with a long drop season","persimmon.deer-luscious":"The wildlife tree that drops from September to December","persimmon.deer-candy":"The wildlife tree that drops in October and November","persimmon.elmo":"The wildlife tree that drops October through December","persimmon.millers":"The wildlife tree that drops October and November","persimmon.morris-burton":"The very late one that drops fruit into February","persimmon.claypool":"The named American we're still learning about","persimmon.barbaras-blush":"The named American we're still learning about","persimmon.h-63a":"The numbered American selection","persimmon.lena":"The named American we're still learning about","persimmon.dollywood":"The named American we're still learning about","persimmon.early-jewel":"The early American","persimmon.catawba-treasure":"The named American we're still learning about","persimmon.dec-goliath":"The Brambleberry Farm American","persimmon.geneva-long":"The Brambleberry Farm American","persimmon.autumn-2":"The Brambleberry Farm American","persimmon.mount-roman-kosh":"The Brambleberry Farm hybrid","persimmon.valeene-beauty":"The Cricket Hill American","persimmon.mp-3":"The numbered hybrid from Interwoven Permaculture","persimmon.morse-persimmon":"The late-dropping Morse Nursery selection","persimmon.september-persimmon":"The early-dropping Morse selection","persimmon.august-persimmon":"The earliest-dropping Morse selection","persimmon.100-45":"The numbered England's Orchard selection","persimmon.steiermark":"The Asian one that needs winter protection in zone 6","persimmon.downingtown-center":"The late-summer Pennsylvania American","persimmon.josephine":"The old Missouri one that drops its fruit all at once","persimmon.korp":"The Future Forest American","persimmon.mckenzie-middle":"The big, late Pennsylvania American","persimmon.nc-10":"The big egg-shaped one from Ontario","persimmon.rich-tooie":"The Tennessee American known for flavor","persimmon.ty-gateway":"The wild Mississippi selection","persimmon.celebrity":"The Beautiful Beginnings American","persimmon.tin-cup":"The self-fruitful one from northwestern New York","asianpear.korean-giant":"The huge, sweet one that stores for months","asianpear.shinko":"The one that best resists fire blight","asianpear.hosui":"The one often called the best-tasting","asianpear.shinseiki":"The self-fertile one — mild and juicy","asianpear.nijisseiki":"The classic smooth yellow '20th Century' pear","asianpear.chojuro":"The butterscotch russet that keeps up to 5 months","asianpear.kosui":"The very juicy, sweet early one","asianpear.shinsui":"The very early one — eat it soon, it doesn't keep","asianpear.kikusui":"The sweet-tart yellow-green mid-season one","asianpear.niitaka":"The big late russet that needs a different pollinator","asianpear.atago":"The very large, crisp late keeper","asianpear.yoinashi":"The aromatic butterscotch russet","asianpear.tsu-li":"The old Chinese one that sweetens in storage","asianpear.ya-li":"The classic Chinese pear that blooms very early","asianpear.daisui-li":"The very large green UC Davis cross","asianpear.shin-li":"The Chinese × Japanese UC Davis cross","asianpear.juicy-jewel":"The cold-hardy one for zone 4","asianpear.peggy":"The Stark exclusive from Korea","asianpear.guam-chum":"The Korean pear from Edible Landscaping","asianpear.tennosui":"The low-chill one sold as self-fertile","asianpear.raja":"The vigorous tree with golden-brown sweet fruit","asianpear.ichiban-nashi":"The early, mild one with butterscotch notes","asianpear.hamese":"The first Asian pear of the season","asianpear.mishirasu":"The huge oval orange-brown one","asianpear.seuri":"The round, bright orange Korean pear","asianpear.ooharabeni":"The Raintree pear we're still learning about","asianpear.mount-vernon":"The WSU Mount Vernon selection","asianpear.reddy-robin":"The red-blushed one","asianpear.shinglo":"The Restoring Eden pear we're still learning about","asianpear.pai-li":"The ancient Chinese pear that keeps into winter","grape.concord":"The classic grape-juice grape","grape.concord-seedless":"Concord flavor with no seeds","grape.niagara":"The standard green grape for juice and sweet wine","grape.catawba":"The spicy pink heritage grape for juice and bubbly","grape.bluebell":"The very cold-hardy Concord-alike that ripens weeks earlier","grape.himrod":"The early, honey-sweet seedless green grape","grape.reliance":"The hardy seedless pink one that tastes like strawberry","grape.canadice":"The early seedless red with a hint of spice","grape.mars":"The very early, disease-resistant seedless blue","grape.jupiter":"The big seedless blue with muscat flavor","grape.venus":"The early seedless blue-black with a muscat touch","grape.einset":"The seedless red with strawberry flavor","grape.vanessa":"The crisp, deep red seedless grape","grape.somerset-seedless":"The cold-hardy seedless red with strawberry crunch","grape.marquis":"The big, sweet pale-yellow seedless that resists disease","grape.neptune":"The seedless green with big clusters and clean flavor","grape.interlaken":"The very early crunchy seedless green-gold","grape.glenora":"The mild seedless blue-black","grape.lakemont":"Himrod's milder seedless sibling","grape.valiant":"The extremely hardy blue grape for jelly and juice — zones 3–8","grape.compassion":"The seedless green from Arkansas","grape.fredonia":"The early Concord-type, two weeks ahead","grape.marquette":"The cold-hardy red wine grape with Pinot Noir style","grape.frontenac":"The very cold-hardy red wine grape with cherry aromas","grape.la-crescent":"The cold-hardy white wine grape with apricot and citrus","grape.brianna":"The golden grape with pineapple-grapefruit flavor","grape.itasca":"The low-acid, high-sugar white wine grape","grape.sabrevois":"The very hardy, disease-resistant red for blending","grape.marechal-foch":"The early French-American red wine grape","grape.st-pepin":"The hardy white wine grape that needs a pollinator","grape.l-acadie-blanc":"The crisp Nova Scotia white wine grape","grape.adalmiina":"The light, floral Swenson white","grape.louise-swenson":"The very hardy white with honey and tangerine notes","grape.prairie-star":"The very hardy, neutral Swenson white","grape.swenson-red":"The big red for eating or white-style wine","grape.st-croix":"The cold-hardy red for light, burgundy-style wine","grape.edelweiss":"The white table grape that also makes sweet wine","grape.delaware":"The early red with small, fruity berries","grape.steuben":"The spicy blue grape for aromatic wines","grape.beta":"Among the hardiest juice-and-jelly grapes","grape.traminette":"The Gewürztraminer-style white that handles winter better","grape.vidal-blanc":"The productive white for late-harvest and ice wine","grape.petite-pearl":"The cold-hardy blue-black red from Tom Plocher","grape.verona":"The late-budding red that dodges spring frost","grape.veritage":"The frost-resistant red from Tom Plocher","grape.thomcord":"The seedless grape that tastes like Concord","grape.saint-theresa":"The mostly seedless purple that survives −30°F","grape.king-of-the-north":"The seeded blue rated hardy to zone 3","grape.corot-noir":"The Cornell red with cherry and berry notes","grape.noiret":"The peppery, Syrah-like Cornell red","grape.cayuga-white":"The productive, disease-resistant Cornell white","fig.hardy-chicago":"The standard cold-climate fig — dies back and still fruits","fig.celeste":"The small, super-sweet 'sugar fig' that keeps bugs out","fig.brown-turkey":"The dependable brown fig with two crops","fig.olympian":"The big purple fig picked for cold tolerance","fig.marseilles":"The pale green one with honey-sweet white flesh","fig.petite-negri":"The compact early fig for pots and short seasons","fig.lsu-purple":"The productive purple from LSU","fig.violette-de-bordeaux":"The compact French one with intense, near-black fruit","fig.green-ischia":"The green one with strawberry-red flesh","fig.conadria":"The California-bred light green fig","fig.orourke":"The amber-fleshed LSU fig","fig.panache":"The green-and-yellow striped 'Tiger' fig","fig.brunswick":"The big bronze heirloom that handles cold","fig.desert-king":"The one that sets a big early crop with no pollinator","fig.lattarula":"The cold-tolerant Italian 'honey fig'","fig.little-ruby":"The dwarf container fig with ruby flesh","fig.dauphine":"The French one with a big early crop","fig.madeleine-des-deux-saisons":"The French white that bears twice a year","fig.sultane":"The dark purple French fig with deep red flesh","fig.peters-honey":"The bright yellow-green one with very sweet flesh","fig.pastilliere":"The small, early, compact French fig","fig.nordland":"The cold-tolerant one said to survive about 10°F","fig.fignomenal":"The patio fig that stays under 3 feet","fig.brooklyn-dark":"The East Coast fig with melon-honey flesh","fig.black-bethlehem":"The Pennsylvania fig with intense strawberry flavor","fig.genes-vashon":"The Puget Sound fig with sweet amber-red flesh","fig.hunt":"The old Georgia fig with violet-brown skin","fig.gabes-gold":"The berry-sweet yellow fig found wild in California","fig.blanche-dargenteuil":"The French one with floral yellow-green fruit, two crops","fig.atreano":"The late-summer green fig with dark amber flesh","fig.jack-lily":"The one that resists splitting in wet autumns","fig.black-spanish":"The naturally dwarf mahogany fig for containers","fig.domenico-tauro":"The Italian one with a big early crop for short seasons","fig.ge-neri":"The rare Italian fig with jammy red flesh","fig.lsu-gold":"The honey-sweet yellow-gold LSU fig","fig.black-mission":"The classic jammy black fig","chestnut.colossal":"The giant easy-peeling nut — but it needs a pollen partner","chestnut.nevada":"The go-to pollinator for Colossal","chestnut.bouche-de-betizac":"The very large early nut that needs a pollen partner","chestnut.marigoule":"The sweet, easy-peeling one with good disease resistance","chestnut.precoce-migoule":"The early one that also makes pollen for its neighbors","chestnut.belle-epine":"The late, large-nutted pollen producer","chestnut.maraval":"The vigorous upright one with big late nuts","chestnut.marsol":"The large-nutted French hybrid","chestnut.marrisard":"The French hybrid we're still learning about","chestnut.bergantz":"The Euro-Japanese hybrid we're still learning about","chestnut.bisalta-2":"The Italian-named Euro-Japanese hybrid","chestnut.primato":"The Italian Euro-Japanese hybrid","chestnut.marron-comballe":"The traditional French marron","chestnut.marron-di-chiusa-pesio":"The Piedmont marrone","chestnut.marron-di-val-di-susa":"The marrone from Italy's Susa Valley","chestnut.marron-di-goujounac":"The French European marron","chestnut.judia":"The Portuguese European chestnut","chestnut.tanzawa":"The Japanese one with big early nuts","chestnut.tsukuba":"Japan's leading chestnut, with big nuts","chestnut.okei":"The Japanese cultivar we're still learning about","chestnut.torakuri":"The large-nutted Japanese type","chestnut.silverleaf":"The Japanese selection also sold as Eurobella","chestnut.gillet":"The Japanese-type hybrid we're still learning about","chestnut.skioka":"The Chinese × European hybrid","chestnut.layeroka":"The Chinese × European hybrid","chestnut.szego":"The complex Japanese × Chinese × chinquapin hybrid","chestnut.sleeping-giant":"The tall timber tree with big sweet nuts, hardy to zone 4","chestnut.gideon":"The easy-peeling Chinese chestnut for zones 4–8","chestnut.mossbarger":"The Kentucky hybrid known for big, steady crops","chestnut.dunstan":"The best-known blight-resistant American hybrid","perennial.asparagus":"The one you plant once and pick for 15+ years","perennial.asparagus-seed":"The cheapest way to start an asparagus bed","perennial.atlas-asparagus":"The green-speared hybrid","perennial.jersey-knight-asparagus":"The all-male New Jersey hybrid","perennial.mary-washington-asparagus":"The open-pollinated American standard","perennial.millennium-asparagus":"The cold-hardy, heavy-yielding all-male hybrid","perennial.purple-passion-asparagus":"The purple one that's sweeter and more tender","perennial.sweet-purple-asparagus":"The purple one sold for extra sweetness","perennial.tallems-asparagus":"The green-speared variety","perennial.walker-deluxe-asparagus":"The green-speared hybrid","perennial.conovers-colossal-asparagus-seed":"The thick-speared 19th-century heirloom","perennial.mary-washington-asparagus-seed":"The American standard, from seed","perennial.millennium-asparagus-seed":"The cold-hardy all-male hybrid, from seed","perennial.precoce-dargenteuil-asparagus-seed":"The early French heirloom grown white","perennial.uc-157-asparagus-seed":"The California hybrid, from saved seed","perennial.crimson-red-rhubarb":"The red-stalked tart-sweet rhubarb","perennial.victoria-rhubarb":"The vigorous old English rhubarb","perennial.horseradish":"The pungent root that spreads — give it its own corner","perennial.variegated-horseradish":"The horseradish with cream-splashed leaves","perennial.sunchoke":"The tall native sunflower with nutty tubers","perennial.red-fuseau-sunchoke":"The smooth red sunchoke that's easy to clean","perennial.stampede-sunchoke":"The early white sunchoke with big tubers","perennial.white-fuseau-sunchoke":"The smooth, long white sunchoke","perennial.white-jewel-sunchoke":"The white-skinned named sunchoke","perennial.walking-onion":"The onion that plants itself — scallions, then top bulbs","perennial.mccullars-white-walking-onion":"The white-bulbed walking onion","perennial.welsh-onion":"The bunching onion that keeps dividing","perennial.welsh-onion-seed":"The bunching onion, from seed","perennial.red-welsh-onion":"The red-based bunching onion","perennial.perennial-leek":"The leek that multiplies and comes back","perennial.babingtons-leek":"The top-setting coastal leek from Britain","perennial.potato-onion":"The multiplier — plant one bulb, harvest a cluster","perennial.bears-garlic":"The woodland wild garlic for shady spots","perennial.bears-garlic-seed":"The woodland wild garlic, from seed","perennial.garlic-chives":"The cut-and-come-again garlic clump","perennial.garlic-chives-seed":"The cut-and-come-again garlic clump, from seed","perennial.han-chung-garlic-chives":"The broad-leaved giant garlic chive","perennial.nodding-onion-seed":"The native wild onion with pink flowers","perennial.skirret":"The old European root with sweet, pencil-thin clusters","perennial.skirret-seed":"The old European root crop, from seed","perennial.groundnut":"The native vine that fixes nitrogen and makes tubers","perennial.crosnes":"The crisp little spiral tubers from a spreading mint relative","perennial.sea-kale":"The coastal one that gives shoots, leaves and broccoli-like buds","perennial.sea-kale-seed":"The coastal sea kale, from seed","perennial.billington-sea-kale":"The named sea kale clone","perennial.colewort":"The giant sea kale relative with clouds of white flowers","perennial.colewort-seed":"The giant sea kale relative, from seed","perennial.good-king-henry":"The old-world perennial spinach","perennial.good-king-henry-seed":"The old-world perennial spinach, from seed","perennial.garden-sorrel":"The lemony green from early spring to frost","perennial.garden-sorrel-seed":"The lemony green, from seed","perennial.belleville-sorrel-seed":"The big-leaved French market sorrel","perennial.french-sorrel":"The milder little shield-leaf sorrel","perennial.french-sorrel-seed":"The milder shield-leaf sorrel, from seed","perennial.red-veined-sorrel-seed":"The red-veined sorrel for salads","perennial.patience-dock-seed":"The very first spring greens of the year","perennial.turkish-rocket":"The mustardy green whose buds cook like broccoli raab","perennial.turkish-rocket-seed":"The mustardy perennial green, from seed","perennial.kosmic-kale":"The cream-edged perennial kale","perennial.taunton-deane-kale":"The tall old English perennial kale","perennial.kaleidoscopic-kale-seed":"The seed mix for breeding your own perennial kale","perennial.next-kaleidoscopic-kale-seed":"The next generation of the Kaleidoscopic mix","perennial.sochan":"The native green long eaten by the Cherokee","perennial.sochan-seed":"The native Cherokee green, from seed","perennial.lovage":"The tall celery-flavored one — leaves, stalks and seeds","perennial.lovage-seed":"The celery-flavored perennial, from seed","perennial.caucasian-spinach":"The climbing spinach that grows in shade","perennial.caucasian-spinach-seed":"The shade-tolerant climbing spinach, from seed","perennial.nettle":"The spring green for cooking and tea (it stings till cooked)","perennial.nettle-seed":"Stinging nettle, from seed","perennial.fuki":"The big-leaved shade plant grown for spring stalks","perennial.ostrich-fern":"The native fern that gives you fiddleheads","perennial.earth-chestnut":"The little tubers that taste like chestnuts","perennial.wapato":"The native arrowhead for pond edges"};
+const lineOf = v => LINES[v.key] || v.summary || "";
+
+// --- traits read from each variety's tags, fields and description
+function hit(t, re) {
+  const g = new RegExp(re.source, "g"); let m;
+  while ((m = g.exec(t))) { const pre = t.slice(Math.max(0, m.index - 12), m.index); if (!/\b(not|non-?|n't|less|no|isn't|without)\s*-?$/.test(pre)) return true; if (g.lastIndex === m.index) g.lastIndex++; }
+  return false;
+}
+function traitsOf(v) {
+  const tags = (v.tags || []).map(s => s.toLowerCase());
+  let t = [...tags, v.summary || "", v.description || ""].join(" . ").toLowerCase().replace(/resists? splitting/g, "holdsup");
+  const k = new Set(), w = new Set(), fr = v.fruit, veg = fr === "perennial";
+  if (v.sex === "male") k.add("male");
+  if (v.sex === "self" || tags.includes("self-fertile") || hit(t, /self[- ](fertile|fruitful|pollinat)/) || hit(t, /without pollination|no pollinat/)) k.add("self");
+  else if (hit(t, /self[- ]compatible|can partly pollinate/)) k.add("selfpart");
+  if (tags.some(x => /resistant/.test(x)) || hit(t, /(disease|blight|mildew|rust|leaf[- ]spot|anthracnose|aphid|phyllosticta)[- ]?(resist|free)|resists? (mildew|rust|disease|blight|leaf)|resistant to|good disease resistance|disease-resistant|resistance to|more resistan/)) k.add("resist");
+  if (v.seedless === true || (fr === "grape" && hit(t, /\bseedless\b/))) k.add("seedless");
+  if (hit(t, /few seeds|low seed|very few seeds|few-seeded|nearly seedless|seed weight|low seed ratio/)) k.add("seeds");
+  if (tags.includes("few thorns") || hit(t, /thornless|spineless|few thorns|nearly thornless/)) k.add("thornless");
+  if (tags.some(x => /cold hardy|zone 4/.test(x)) || (fr === "grape" && v.hardy_to && v.hardy_to <= 4) || hit(t, /very (cold[- ])?hardy|extremely hardy|zone [23]\b|hardy to zone [234]|hardy to (about )?[-−]|survives? (about )?[-−]?\d|cold[- ]hardy|cold[- ]toleran|reliably hardy|handles cold/)) k.add("hardy");
+  if (!veg) {
+    if (tags.includes("early") || hit(t, /(very )?early(?![- ]?(bloom|spring|breba|crop of|producer|20th|season of growth))\b/)) k.add("early");
+    if (hit(t, /\b(very )?late(?![- ]?(bloom|budding|summer|november|jerry|1800|19th))\b|late-dropping|drops (fruit )?into/)) k.add("late");
+  }
+  if (hit(t, /very large|huge|largest|giant|jumbo|\blarge\b|\bbig\b/)) k.add("big");
+  if (tags.includes("compact") || hit(t, /dwarf|compact|containers?|(suited to|made for|for|grown in) pots|patio|half-sized|low,? (mounding|spreading)/)) k.add("compact");
+  if (hit(t, /everbearing|two crops|two harvests|twice a|primocane|fall-bearing|breba|two seasons|bears in two|a breba and/)) k.add("twocrop");
+  if (hit(t, /stores? (well|for months|into|better|up to)|keeps? (up to|for|well|longer)|long shelf|shelf life|late keeper|sweetens in storage/) && !/stores poorly|short storage/.test(t)) k.add("keeps");
+  if (hit(t, /very sweet|sweetest|super[- ]sweet|extra sweet|exceptionally sweet|high sugar|brix|sweeter than most|honey[- ]sweet|sugar fig/)) k.add("sweet");
+  if (hit(t, /heavy (crop|bear|yield|cropper|production)|very productive|highly productive|high yields?|prolific|abundant|high-yielding|heavy-bearing|huge yields|consistently large crops|top producer|most productive/)) k.add("productive");
+  if (hit(t, /\bshade/)) k.add("shade");
+  if (hit(t, /wildlife|\bdeer\b/)) k.add("wildlife");
+  if (hit(t, /\bnative\b/)) k.add("native");
+  if (v.awards?.length || /rhs agm|award/.test(t)) k.add("award");
+  if (hit(t, /\bspreads\b|spreading(?! (form|bush|shrub))|suckers|aggressive|invasive|runners|takes over/)) w.add("spreads");
+  if (hit(t, /crack|\bsplit/)) w.add("cracks");
+  if (/disease[- ]prone|susceptib|less disease|relatively disease/.test(t)) w.add("prone");
+  if (/stores poorly|short storage|doesn't keep/.test(t)) w.add("poorkeep");
+  if (/winter protection|borderline hardy/.test(t)) w.add("protect");
+  if (/ornamental|not fruit|grown for (its )?(white|foliage)/.test(t)) w.add("ornamental");
+  if (/pollen sterile|makes no pollen|female-flowered|needs a pollinat|needs a male|poor pollinizer/.test(t) || tags.includes("pollen sterile")) w.add("needspollen");
+  if (/\bstings?\b|stinging/.test(t)) w.add("stings");
+  return { k, w };
+}
+const CHIP = { self: "Self-fertile", selfpart: "Partly self-fertile", male: "Male pollinator", resist: "Disease resistant", seedless: "Seedless", seeds: "Few seeds",
+  thornless: "Few or no thorns", hardy: "Extra cold-hardy", early: "Early", late: "Late", big: "Big fruit", compact: "Compact", twocrop: "Two crops", keeps: "Keeps well",
+  sweet: "Extra sweet", productive: "Heavy cropper", shade: "Shade tolerant", wildlife: "For wildlife", native: "Native", award: "Award winner" };
+const CHIP_FR = { chestnut: { big: "Big nuts" }, perennial: { big: "Big plants" } };
+const WARN = { spreads: "Spreads", cracks: "Can crack", prone: "Disease prone", poorkeep: "Doesn't keep", protect: "Needs winter protection", ornamental: "Ornamental", needspollen: "Needs a pollinator", stings: "Stings" };
+const CHIP_ORDER = ["self", "selfpart", "male", "seedless", "resist", "thornless", "hardy", "twocrop", "compact", "seeds", "early", "late", "sweet", "big", "keeps", "productive", "shade", "wildlife", "native", "award"];
+const chipLabel = (v, k) => CHIP_FR[v.fruit]?.[k] || CHIP[k];
+function identity(v) {
+  const out = [];
+  if (v.fruit === "grape" && v.type) out.push({ wine: "Wine grape", table: "Table grape", juice: "Juice & jelly", multi: "Multi-use" }[v.type] || "");
+  if (v.fruit === "kiwi" && v.species) out.push({ arguta: "Hardy kiwi", kolomikta: "Arctic kiwi", polygama: "Silver vine", hybrid: "Hybrid kiwi" }[v.species] || "");
+  if (v.fruit === "honeyberry" && v.bloom) out.push(v.bloom);
+  if (v.fruit === "asianpear" && v.type) out.push(capS(v.type) + " pear");
+  if (v.fruit === "chestnut" && v.type) out.push({ eurojapanese: "Euro-Japanese", european: "European", japanese: "Japanese", chinese: "Chinese", hybrid: "Hybrid" }[v.type] || "");
+  if (v.fruit === "persimmon" && v.type) out.push({ american: "American", asian: "Asian", hybrid: "Hybrid" }[v.type] || "");
+  if (v.fruit === "raspberry" && v.color) out.push({ black: "Black", gold: "Golden", purple: "Purple", red: "Red" }[v.color] || "");
+  if (v.crop) { out.push(v.crop_name); if (v.sold === "seed") out.push("Seeds"); }
+  return out.filter(Boolean);
+}
+const capS = s => s ? cap(s) : "";
+function chipsHTML(v, n, ident) {
+  const out = [];
+  if (ident) for (const s of identity(v)) out.push(`<span class="tc id">${esc(s)}</span>`);
+  for (const k of CHIP_ORDER) if (v.tr.k.has(k)) out.push(`<span class="tc${["self", "selfpart", "resist", "seedless", "thornless", "hardy"].includes(k) ? " g" : ""}">${esc(chipLabel(v, k))}</span>`);
+  for (const k of Object.keys(WARN)) if (v.tr.w.has(k)) out.push(`<span class="tc w">${esc(WARN[k])}</span>`);
+  return out.length ? `<span class="tchips">${out.slice(0, n).join("")}</span>` : "";
+}
+
+// --- "I want the one that…"
+const NEEDS = [["self", "can pollinate itself"], ["resist", "resists disease"], ["hardy", "handles hard winters"], ["seedless", "is seedless"], ["thornless", "won't scratch you"],
+  ["compact", "fits a small space or pot"], ["twocrop", "gives two crops a year"], ["early", "ripens early"], ["late", "stretches the season late"], ["seeds", "has fewer seeds"],
+  ["big", "grows big fruit"], ["sweet", "is extra sweet"], ["keeps", "keeps after picking"], ["productive", "crops heavily"], ["shade", "grows in shade"], ["wildlife", "feeds wildlife"],
+  ["native", "is native"], ["award", "won awards"]];
+const NEED_LABEL = Object.fromEntries(NEEDS);
+
+// --- quick facts per fruit (general growing guidance, not per variety)
+const PRIMER = {
+  pawpaw: { intro: "North America's largest native fruit: custardy and tropical-tasting, and almost never in stores. Named varieties are grafted for bigger fruit, better flavor and fewer seeds than wild trees.", f: [["Hardiness", "Zones 5–8"], ["Pollination", "Plant 2 varieties"], ["First fruit", "About 3–5 years"], ["Size", "15–25 ft tree"]] },
+  raspberry: { intro: "The colors you can't buy in the store: black caps, purples and golds. Summer-bearers crop once; everbearers give a second crop in fall.", f: [["Hardiness", "Zones 3–8"], ["Pollination", "Self-fertile"], ["First fruit", "Year 1–2"], ["Size", "4–6 ft canes"]] },
+  kiwi: { intro: "Grape-sized, fuzz-free kiwis you eat skin and all. Hardy kiwi vines are vigorous and long-lived once established.", f: [["Hardiness", "Zones 4–8 (Arctic kiwi colder)"], ["Pollination", "Female + male vine (Issai is self-fertile)"], ["First fruit", "About 3–5 years"], ["Size", "Vigorous vine, needs a trellis"]] },
+  persimmon: { intro: "American persimmons, hardy Asian types and the hybrids between them: honey-sweet fruit that ripens in fall, often after frost.", f: [["Hardiness", "Varies: see each variety"], ["Pollination", "Varies: see each variety"], ["First fruit", "About 3–6 years"], ["Size", "Small to medium tree"]] },
+  gooseberry: { intro: "Sweet-tart dessert and pie berries, plus jostaberry hybrids. Easy, hardy bushes that fruit fast.", f: [["Hardiness", "Zones 3–7"], ["Pollination", "Self-fertile"], ["First fruit", "About 2–3 years"], ["Size", "3–5 ft bush"]] },
+  honeyberry: { intro: "Also called haskap: one of the first fruits of spring, like a blueberry crossed with a raspberry. Extremely cold-hardy.", f: [["Hardiness", "Zones 2–7"], ["Pollination", "Plant 2 with matching bloom times"], ["First fruit", "About 2–3 years"], ["Size", "4–6 ft bush"]] },
+  cornelian: { intro: "Cornus mas: a tough, early-blooming small tree with tart, cherry-like fruit for preserves, syrups and eating fully ripe.", f: [["Hardiness", "Zones 4–8"], ["Pollination", "Better crops with 2 varieties"], ["First fruit", "About 3–5 years"], ["Size", "15–20 ft small tree"]] },
+  asianpear: { intro: "Crisp, juicy, apple-shaped pears that are ready to eat right off the tree. Many keep for months.", f: [["Hardiness", "Zones 5–9 (some to 4)"], ["Pollination", "Plant 2 varieties"], ["First fruit", "About 3–5 years"], ["Size", "Depends on rootstock"]] },
+  grape: { intro: "Cold-hardy table, juice and wine grapes, including seedless types and the University of Minnesota wine grapes.", f: [["Hardiness", "Varies: see each variety"], ["Pollination", "Most are self-fertile"], ["First fruit", "About 3 years"], ["Size", "Vine, needs a trellis"]] },
+  fig: { intro: "Figs that can handle northern winters, plus compact types for pots you can bring inside.", f: [["Hardiness", "Zones 7–10; hardy types to 6 with protection"], ["Pollination", "No pollinator needed"], ["First fruit", "About 1–2 years"], ["Size", "6–15 ft, or a pot"]] },
+  chestnut: { intro: "Big, sweet, easy-peeling nuts from European, Japanese, Chinese and hybrid trees, including blight-resistant types.", f: [["Hardiness", "Zones 4–8 (varies)"], ["Pollination", "Plant 2 that make pollen"], ["First nuts", "About 3–5 years (grafted)"], ["Size", "Large tree"]] },
+  perennial: { intro: "Vegetables you plant once and harvest for years: asparagus, sea kale, skirret, sochan, Turkish rocket and more.", f: [["Hardiness", "Varies by crop"], ["Comes back", "Every year"], ["First harvest", "Often year 2"], ["Sold as", "Plants, roots and seeds"]] },
+};
+const NEEDS_PARTNER = { pawpaw: 1, asianpear: 1, chestnut: 1, honeyberry: 1, cornelian: 1 };
+
+const researching = v => /still researching|still learning|we're still/.test(lineOf(v));
+function fit(v) {
+  const k = v.tr.k, w = v.tr.w, d = (v.description || "").toLowerCase(), good = [], bad = [];
+  if (k.has("self")) good.push("only have room for one plant");
+  if (k.has("seedless")) good.push("want seedless fruit");
+  if (k.has("thornless")) good.push("hate getting scratched at picking time");
+  if (k.has("resist")) good.push("would rather not fuss with disease");
+  if (k.has("hardy")) good.push("garden somewhere with hard winters");
+  if (k.has("compact")) good.push("are short on space or growing in a pot");
+  if (k.has("twocrop")) good.push("want more than one harvest a year");
+  if (k.has("early")) good.push("have a short season or want the first harvest");
+  if (k.has("late")) good.push("want to stretch the harvest later into fall");
+  if (k.has("seeds")) good.push("want more fruit and fewer seeds per bite");
+  if (k.has("big")) good.push(v.fruit === "chestnut" ? "want big nuts" : "want big, impressive fruit");
+  if (k.has("sweet")) good.push("have a sweet tooth");
+  if (k.has("keeps")) good.push("want fruit that keeps after picking");
+  if (k.has("productive")) good.push("want a heavy crop");
+  if (k.has("shade")) good.push("have a shady spot to fill");
+  if (k.has("wildlife")) good.push("are planting for deer and wildlife");
+  if (k.has("native")) good.push("want a native plant");
+  if (k.has("award")) good.push("want proven, award-winning quality");
+  if (k.has("male")) good.push("need a pollinator for female vines");
+  if (v.offers.length >= 5) good.push("want one that's easy to find in stock");
+  if (!good.length) good.push("collect named varieties and want something unusual");
+  if (k.has("male")) bad.push("you want fruit: male vines don't fruit, they pollinate");
+  if (w.has("spreads")) bad.push("you want it to stay put: it spreads");
+  if (w.has("cracks")) bad.push("you get heavy late-summer rain: the fruit can split");
+  if (w.has("prone")) bad.push("you won't keep an eye out for disease");
+  if (w.has("poorkeep")) bad.push("you need fruit that keeps: eat or process it fast");
+  if (w.has("protect")) bad.push("you can't give it winter protection");
+  if (w.has("ornamental")) bad.push("you're after fruit: it's grown more for looks");
+  if (w.has("stings")) bad.push("you don't want to wear gloves to harvest");
+  if (w.has("needspollen")) bad.push("you can only plant one: it needs a pollinating partner");
+  else if (NEEDS_PARTNER[v.fruit] && !k.has("self") && !k.has("selfpart")) bad.push("you can only plant one: it needs a second variety nearby");
+  else if (v.fruit === "kiwi" && v.sex === "female") bad.push("you can only plant one: it needs a male vine nearby");
+  if (/bitter/.test(d)) bad.push("you're sensitive to bitter aftertastes");
+  if (/long, hot season/.test(d)) bad.push("your summers are short or cool");
+  if (/thinning/.test(d)) bad.push("you don't want to thin fruit in a heavy year");
+  if (/inferior|below-average flavor|mixed reviews/.test(d)) bad.push("eating quality is your top priority");
+  if (researching(v) || /limited (public )?(detail|documentation)|no reliable|undocumented|no independent/.test(d)) bad.push("you want a well-documented variety");
+  if (v.offers.length === 1) bad.push("you want a backup seller: only one has it now");
+  return { good: good.slice(0, 6), bad: bad.slice(0, 5) };
+}
+function factsOf(v) {
+  const f = [], k = v.tr.k;
+  for (const s of identity(v)) if (!v.crop) f.push(["Type", s]);
+  if (v.crop) { f.push(["Crop", v.crop_name]); if (v.latin) f.push(["Latin name", v.latin]); f.push(["Sold as", v.sold === "seed" ? "Seed packet" : "Live plant or root"]); f.push(["Named cultivar", v.named ? "Yes" : "No, the plain species"]); }
+  if (v.color && !v.crop) f.push(["Color", capS(v.color)]);
+  if (v.fruit === "grape") { f.push(["Seeds", v.seedless ? "Seedless" : "Seeded"]); if (v.hardy_to) f.push(["Hardy to", `Zone ${v.hardy_to}`]); }
+  if (v.fruit === "kiwi") f.push(["Flowers", v.sex === "male" ? "Male (pollinator, no fruit)" : v.sex === "self" ? "Self-fertile" : "Female (needs a male)"]);
+  if (v.skin) f.push(["Skin", capS(v.skin)]);
+  const ripe = k.has("early") && k.has("late") ? "Early to late" : k.has("early") ? "Early" : k.has("late") ? "Late" : null;
+  if (ripe) f.push([v.fruit === "chestnut" ? "Nuts drop" : "Ripens", ripe]);
+  if (v.fruit !== "kiwi") {
+    const pol = k.has("self") ? "Self-fertile" : k.has("selfpart") ? "Partly self-fertile" : v.tr.w.has("needspollen") ? "Needs a pollinating partner" : NEEDS_PARTNER[v.fruit] ? "Needs a second variety" : null;
+    if (pol) f.push(["Pollination", pol]);
+  }
+  if (v.incompatible?.length) f.push(["Don't pair with", v.incompatible.map(id => D.byKey[`${v.fruit}.${id}`]?.name || id).join(", ")]);
+  if (k.has("resist") || v.tr.w.has("prone")) f.push(["Disease", k.has("resist") ? "Resistant" : "Prone"]);
+  if (k.has("thornless")) f.push(["Thorns", "Few or none"]);
+  if (k.has("hardy")) f.push(["Cold", "Extra cold-hardy"]);
+  if (k.has("seeds")) f.push(["Seeds", "Few"]);
+  if (k.has("keeps") || v.tr.w.has("poorkeep")) f.push(["Storage", k.has("keeps") ? "Keeps well" : "Doesn't keep"]);
+  if (v.tr.w.has("spreads")) f.push(["Habit", "Spreads"]);
+  return f;
+}
+
+// --- partners and look-alikes
+function partnersOf(v) {
+  const pool = D.all.filter(x => x.fruit === v.fruit && x.key !== v.key && x.inStock && !x.best?.suspect);
+  const byFind = (a, b) => b.offers.length - a.offers.length || (a.best?.mid ?? 1e9) - (b.best?.mid ?? 1e9);
+  if (v.fruit === "kiwi" && v.sex !== "self") {
+    const want = v.sex === "male" ? x => x.sex === "female" : x => x.sex === "male";
+    const list = pool.filter(x => want(x) && (x.species === v.species || !v.species)).sort(byFind).slice(0, 4);
+    return { title: v.sex === "male" ? "Female vines it can pollinate" : "Male vines to pollinate it", sub: v.sex === "male" ? "Male vines don't fruit. Plant one with up to about 8 females of the same species." : "Female vines need a male of the same species nearby. One male can serve several females.", list };
+  }
+  if (v.fruit === "honeyberry") {
+    const list = pool.filter(x => !v.bloom || x.bloom === v.bloom).sort(byFind).slice(0, 4);
+    return { title: "Pairs well with", sub: (v.tr.k.has("self") ? "It can fruit on its own, but crops better with a partner that blooms at the same time." : "Honeyberries need a partner that blooms at the same time.") + (v.bloom ? ` These are ${v.bloom.toLowerCase()}s too.` : ""), list };
+  }
+  if (v.fruit === "chestnut") {
+    const list = pool.filter(x => !x.tr.w.has("needspollen")).sort((a, b) => (b.tags || []).includes("Pollen producer") - (a.tags || []).includes("Pollen producer") || byFind(a, b)).slice(0, 4);
+    return { title: "Pairs well with", sub: "Chestnuts need a second tree that makes pollen. These aren't pollen-sterile.", list };
+  }
+  if (v.fruit === "asianpear") {
+    const bad = new Set([...(v.incompatible || []), ...D.all.filter(x => x.fruit === "asianpear" && (x.incompatible || []).includes(v.id)).map(x => x.id)]);
+    const list = pool.filter(x => !bad.has(x.id) && !x.poor_pollinizer).sort(byFind).slice(0, 4);
+    return { title: "Pairs well with", sub: "Asian pears need a second variety that blooms at the same time. These are good matches" + (bad.size ? ", and we left out ones known not to work with it." : "."), list };
+  }
+  if (NEEDS_PARTNER[v.fruit] && !v.tr.k.has("self")) {
+    const same = x => ["early", "late"].filter(r => v.tr.k.has(r)).every(r => x.tr.k.has(r));
+    const list = pool.sort((a, b) => same(b) - same(a) || byFind(a, b)).slice(0, 4);
+    return { title: "Pairs well with", sub: `${v.F.plural} set more fruit with a second, different variety nearby. These are easy to find${["early", "late"].some(r => v.tr.k.has(r)) ? " and ripen in a similar window" : ""}.`, list };
+  }
+  const score = x => [...v.tr.k].filter(t => x.tr.k.has(t)).length + (x.color && x.color === v.color ? 1 : 0) + (x.type && x.type === v.type ? 1 : 0) + (x.crop && x.crop === v.crop ? 3 : 0);
+  return { title: "You might also like", sub: `Other ${v.F.plural.toLowerCase()} with a lot in common.`, list: pool.sort((a, b) => score(b) - score(a) || byFind(a, b)).slice(0, 4) };
+}
+function firstPicks(fid) {
+  const sc = v => v.offers.length * 2 + (v.tr.k.has("resist") ? 3 : 0) + (v.awards?.length ? 2 : 0) + (v.breeder ? 1 : 0) + (v.tr.k.has("self") ? 2 : 0) - v.tr.w.size * 2 - (v.sex === "male" ? 20 : 0) - (researching(v) ? 8 : 0) - (v.sold === "seed" ? 3 : 0);
+  return D.all.filter(v => v.fruit === fid && v.inStock && !v.best.suspect && !v.best.pickup).sort((a, b) => sc(b) - sc(a)).slice(0, 3);
+}
+
+// --- small render helpers
+const fPrice = v => v.inStock ? rowTotal(v.best) : `<span class="total t-out">Sold out</span>`;
+function cardBadge(v) {
+  if (!v.inStock) return `<span class="vbadge out">Sold out</span>`;
+  const so = v.best?.sale ? v.best : null;
+  if (so) return `<span class="vbadge sale">${so.sale.pct ? `${so.sale.pct}% off` : "On sale"}</span>`;
+  const h = v.ph?.badges || [];
+  if (h.includes("lowest")) return `<span class="vbadge low">Lowest seen</span>`;
+  if (h.includes("drop")) return `<span class="vbadge low">Price drop</span>`;
+  if (v.savings >= 10) return `<span class="vbadge hot">${money(Math.round(v.savings))} under next</span>`;
+  if (h.includes("back")) return `<span class="vbadge new">Back in stock</span>`;
+  if (v.awards?.length) return `<span class="vbadge aw">Award winner</span>`;
+  if (v.fresh && !D.meta[v.fruit]?.allFresh) return `<span class="vbadge new">New seller</span>`;
+  if (v.offers.length === 1) return `<span class="vbadge one">Only 1 seller</span>`;
+  return "";
+}
+const cmpBtn = v => { const on = S.cmp.includes(v.key); return `<button class="cmpb" data-cmp="${v.key}" aria-pressed="${on}" aria-label="${on ? "Remove" : "Add"} ${esc(v.name)} ${on ? "from" : "to"} compare">${on ? "✓ Comparing" : "+ Compare"}</button>`; };
+function vcard(v) {
+  const n = v.offers.length, b = v.best;
+  return `<article class="vc">
+    <a class="vc-hit" href="#${v.key}" data-open="${v.key}">
+      <span class="vc-art">${fruitArt(v, v.inStock)}${cardBadge(v)}${S.fruit === "all" || S.view !== "board" ? `<span class="vc-fr">${esc(v.F.name)}</span>` : ""}</span>
+      <span class="vc-body"><span class="vc-nm">${esc(v.name)}${S.starred.has(v.key) ? ` <span class="starred" title="On your watch list">${ICON.star}</span>` : ""}</span>
+        <span class="vc-ln">${esc(lineOf(v))}</span>${chipsHTML(v, 3)}</span>
+    </a>
+    <div class="vc-foot">
+      <span class="vc-pr">${fPrice(v)}${v.inStock ? `<small>${b.pickup ? "pickup only" : "delivered"} · ${n} seller${n > 1 ? "s" : ""}</small>${v.savings >= 3 && !b.suspect ? `<small class="sv">${money(Math.round(v.savings))} less than the next seller</small>` : ""}${b.suspect ? `<small class="warn">check price</small>` : ""}` : `<small>${v.lastSeen ? `last seen ${money(v.lastSeen.price)}` : "no price seen yet"}</small>`}</span>
+      <span class="vc-act">${v.inStock ? wagonBtn(v, "icon") : starBtn(v)}${cmpBtn(v)}</span>
+    </div>
+  </article>`;
+}
+const fpick = v => `<a class="fpick" href="#${v.key}" data-open="${v.key}"><b>${esc(v.name)}</b><i>${esc(lineOf(v))}</i>${v.inStock ? `<span>from ${rowTotal(v.best)}</span>` : `<span class="total t-out">Sold out</span>`}</a>`;
+
+// --- slot machine
+function spinPool() { return D.all.filter(v => v.inStock && !v.best.suspect && v.sex !== "male" && !researching(v) && v.tr.k.size); }
+function slotHTML() {
+  const pool = spinPool(); if (!pool.length) return "";
+  let v = D.byKey[S.spin]; if (!v || !v.inStock) { v = pool[Math.floor(Math.random() * pool.length)]; S.spin = v.key; }
+  const top = CHIP_ORDER.find(k => v.tr.k.has(k));
+  return `<div class="slot${S.spun ? " spun" : ""}" id="slot" aria-live="polite">
+    <div class="slot-h"><b>Variety slot machine</b><span>${pool.length} TO WIN</span></div>
+    <div class="reels">
+      <div class="reel"><small>VARIETY</small><span>${esc(v.name)}<br><em>${esc(v.F.name)}</em></span></div>
+      <div class="reel"><small>BEST TRAIT</small><span>${esc(top ? chipLabel(v, top) : "Rare find")}</span></div>
+      <div class="reel"><small>DELIVERED</small><span class="mono">${money(Math.round(v.best.mid ?? v.best.lo ?? v.best.price))}</span></div>
+    </div>
+    <p class="slot-line">“${esc(lineOf(v))}”</p>
+    <div class="slot-acts"><button class="spin" data-spin>SPIN</button><a class="slot-go" href="#${v.key}" data-open="${v.key}">See its profile →</a></div>
+  </div>`;
+}
+
+// --- ticker of price moves
+function buildTicker() {
+  const el = $("#ticker"); if (!el) return;
+  const items = [];
+  for (const v of D.all) {
+    if (!v.inStock || v.best?.suspect) continue;
+    const h = v.ph?.badges || [], so = v.offers.find(o => o.sale);
+    let tag = null;
+    if (so) tag = ["sale", so.sale.pct ? `${so.sale.pct}% OFF` : "SALE"];
+    else if (h.includes("lowest")) tag = ["lo", "LOWEST"];
+    else if (h.includes("drop")) tag = ["dn", `▼${-v.ph.pct}%`];
+    else if (h.includes("back")) tag = ["back", "BACK"];
+    if (tag) items.push(`<a href="#${v.key}" data-open="${v.key}"><span class="tk-tag ${tag[0]}">${tag[1]}</span>${esc(v.name)} ${esc(v.F.name.toLowerCase())} <b>${money(Math.round(v.best.mid ?? v.best.price))}</b></a>`);
+  }
+  if (items.length < 4) { el.hidden = true; return; }
+  const run = items.slice(0, 24).join("");
+  el.innerHTML = `<div class="tk-run">${run}<span aria-hidden="true" style="display:contents">${run}</span></div>`;
+  el.hidden = false;
+  const setSpeed = () => { const r = el.firstElementChild; if (!r) return; const pxPerSec = innerWidth < 640 ? 24 : 34; r.style.animationDuration = `${Math.max(30, Math.round(r.scrollWidth / 2 / pxPerSec))}s`; };
+  requestAnimationFrame(setSpeed);
+  if (!buildTicker.bound) { buildTicker.bound = true; let t; addEventListener("resize", () => { clearTimeout(t); t = setTimeout(setSpeed, 300); }); }
+}
+
+// --- views
+const isHome = () => S.view === "board" && S.fruit === "all" && !S.q.trim() && !S.f.size && !S.forms.size && !S.need.size;
+function needCounts(vs) { const c = {}; for (const [k] of NEEDS) c[k] = vs.filter(v => v.inStock && v.tr.k.has(k)).length; return c; }
+function homeView() {
+  const live = D.all.filter(v => v.inStock);
+  const nNurs = new Set(D.fruits.filter(f => D.meta[f.id]).flatMap(f => D.meta[f.id].fd.listings.map(l => l.nursery))).size;
+  const back = live.filter(v => v.ph?.badges.includes("back")).length, sales = saleDeals().length;
+  const cnt = needCounts(D.all), needs = NEEDS.filter(([k]) => cnt[k] >= 3).sort((a, b) => cnt[b[0]] - cnt[a[0]]).slice(0, 10);
+  const top = frontpage(live, 8), watchedBack = live.filter(v => S.starred.has(v.key));
+  const runs = D.fruits.filter(f => D.meta[f.id]).map(f => ({ f, r: D.meta[f.id].fd.last_run || {} }));
+  return `<section class="hx dark bleed" aria-labelledby="hero-h">
+    <div class="hx-main">
+      <p class="kicker"><span class="livedot"></span>Prices checked ${fmtDate(runs.map(x => x.r.date).filter(Boolean).sort().pop()) || "regularly"} · ${nNurs} nurseries</p>
+      <h1 id="hero-h">Rare fruit plants, priced to your door.</h1>
+      <p class="lead">Every named variety, every nursery that has it, and what it really costs with shipping to ${esc(D.shipTo)}. <span class="lead-more">Find the one that fits your yard, then grab the best deal.</span></p>
+      <div class="counters">
+        <span><b>${live.length}</b><span>varieties in stock</span></span>
+        <a href="#sales" data-go="sales"><b>${sales}</b><span>on sale now</span></a>
+        <span><b>${back}</b><span>back in stock lately</span></span>
+      </div>
+    </div>
+    <div class="hx-needs" aria-labelledby="need-h">
+      <h2 class="h2" id="need-h">I want the one that…</h2>
+      <div class="needs">${needs.map(([k, l]) => `<button class="need" data-needgo="${k}"><i>${cnt[k]}</i>${esc(l)}</button>`).join("")}</div>
+    </div>
+  </section>
+  ${watchedBack.length ? `<p class="watchback" style="margin-top:18px"><b>★ Back in stock from your watch list:</b> ${watchedBack.map(v => `<a href="#${v.key}" data-open="${v.key}">${esc(v.name)}</a>`).join(", ")}</p>` : ""}
+  <div class="secthead"><h2 class="h2">Pick a fruit${D.fruits.some(f => f.group_by === "crop" && D.meta[f.id]) ? " or vegetable" : ""}</h2><span class="ct">Prices include shipping to ${esc(D.shipTo)}</span></div>
+  <div class="ctiles">${D.fruits.filter(f => D.meta[f.id]).map(f => {
+    const l = live.filter(v => v.fruit === f.id), lows = l.map(v => v.best).filter(b => b && b.lo != null && !b.suspect && !b.pickup).map(b => b.lo).sort((a, b) => a - b);
+    const rep = [...l].sort(SORTS.deal)[0] || D.all.find(v => v.fruit === f.id);
+    return `<button class="ctile" data-fruit="${f.id}"><span class="art">${rep ? fruitArt(rep) : ""}</span><b>${esc(f.plural)}</b><small><span>${l.length ? `${l.length} in stock` : "sold out for now"}</span>${lows.length ? `<em>from ${money(Math.round(lows[0]))}</em>` : ""}</small></button>`;
+  }).join("")}</div>
+  ${top.length ? `<div class="secthead"><h2 class="h2">Hot right now${tip("best")}</h2><a href="#sales" data-go="sales">All ${sales} sales →</a></div><div class="vgrid">${top.map(vcard).join("")}</div>` : ""}
+  <div class="how" aria-label="How it works">
+    <div><i>1</i><b>Find your variety</b><span>Browse a fruit, search, or pick what you need it to do.</span></div>
+    <div><i>2</i><b>Compare every seller</b><span>Prices already include shipping to your door.</span></div>
+    <div><i>3</i><b>Add to your wagon</b><span>It works out the cheapest way to order everything.</span></div>
+  </div>
+  ${statusHTML(runs)}
+  <div class="foot"><p>Prices don't include sales tax, and stock can change during the day, so check the nursery's page before you order.</p><p><a href="#about" data-go="about">How prices and checks work</a></p></div>`;
+}
+
+function fruitView() {
+  const one = S.fruit !== "all" ? D.fruits.find(f => f.id === S.fruit && D.meta[f.id]) : null;
+  const vs = D.all.filter(v => !one || v.fruit === one.id);
+  const live = vs.filter(v => v.inStock), watch = vs.filter(v => !v.inStock);
+  const needOk = v => [...S.need].every(k => v.tr.k.has(k));
+  const shownLive = live.filter(v => matches(v) && needOk(v)).sort(SORTS[S.sort] || SORTS.deal);
+  const shownWatch = watch.filter(v => matches(v) && needOk(v)).sort((a, b) => !!S.starred.has(b.key) - !!S.starred.has(a.key) || (b.awards?.length || 0) - (a.awards?.length || 0) || b.out.length - a.out.length);
+  const searching = !!S.q.trim(), nF = S.f.size + S.forms.size + S.need.size, filtering = searching || nF > 0 || vegFiltering();
+  const fruitsInView = one ? [one] : D.fruits.filter(f => D.meta[f.id]);
+  const budgetNote = fruitsInView.map(f => `${f.plural.toLowerCase()} under $${f.budget_under}`).join(", ");
+  const groups = filterGroups(budgetNote), flabel = Object.fromEntries(groups.flatMap(g => g[1]).map(([k, t]) => [k, t]));
+  const nbase = vs.filter(v => v.inStock && matches(v)), cnt = {};
+  for (const [k] of NEEDS) cnt[k] = nbase.filter(v => v.tr.k.has(k) && [...S.need].every(n => v.tr.k.has(n))).length;
+  const needs = NEEDS.filter(([k]) => cnt[k] > 0 || S.need.has(k));
+  const L = paged(shownLive, "live", 24), Wd = paged(shownWatch, "sold", 12, S.soldKey);
+  const soldOpen = S.soldOpen || (filtering && !shownLive.length && shownWatch.length > 0);
+  const P = one ? PRIMER[one.id] : null;
+  const title = searching ? `Results for “${esc(S.q.trim())}”` : one ? esc(one.plural) : S.need.size ? "Plants that " + [...S.need].map(k => esc(NEED_LABEL[k])).join(" and ") : "All plants";
+  const runs = fruitsInView.map(f => ({ f, r: D.meta[f.id].fd.last_run || {} }));
+  const firsts = one && !filtering ? firstPicks(one.id) : [];
+  const openSide = typeof innerWidth === "number" ? innerWidth > 760 || S.filtersOpen : true;
+  const onChips = [...[...S.need].map(k => `<button class="chip x" data-need="${k}" aria-label="Remove filter">${esc(cap(NEED_LABEL[k]))}</button>`),
+    ...[...S.f].map(k => `<button class="chip x" data-f="${k}" aria-label="Remove filter ${esc(flabel[k] || k)}">${esc(flabel[k] || k)}</button>`),
+    ...[...S.forms].map(k => `<button class="chip x" data-form="${k}" aria-label="Remove filter ${esc(FORM_LABEL[k])}">${esc(FORM_LABEL[k])}</button>`)];
+  return `<section class="fx dark bleed">
+    <div class="fx-main">
+      <p class="crumb"><a href="#" data-go="home">All plants</a>${one || searching || S.need.size ? ` / ${one ? esc(one.plural) : searching ? "Search" : "Filtered"}` : ""}</p>
+      <h1>${title}</h1>
+      ${one?.latin && !searching ? `<p class="latin">${esc(one.latin)}</p>` : ""}
+      ${P && !searching ? `<p class="intro">${esc(P.intro)}</p>` : `<p class="intro">${shownLive.length} in stock${shownWatch.length ? `, ${shownWatch.length} sold out` : ""}. Prices include shipping to ${esc(D.shipTo)}.</p>`}
+    </div>
+    ${P && !searching ? `<div class="primer">${P.f.map(([a, b]) => `<div><small>${esc(a)}</small><b>${esc(b)}</b></div>`).join("")}</div>` : ""}
+    ${needs.length ? `<div class="fx-needs"><h2 class="h2">I want ${one ? `the ${esc(one.name.toLowerCase())}` : "the one"} that…</h2>
+      <div class="needs">${[...needs].sort((a, b) => S.need.has(b[0]) - S.need.has(a[0]) || cnt[b[0]] - cnt[a[0]]).map(([k, l]) => `<button class="need" data-need="${k}" aria-pressed="${S.need.has(k)}"><i>${S.need.has(k) ? "✓" : cnt[k]}</i>${esc(l)}</button>`).join("")}</div></div>` : ""}
+  </section>
+  ${firsts.length ? `<section class="firsts" aria-labelledby="first-h"><h2 class="h2" id="first-h">New to ${esc(one.plural.toLowerCase())}? Start here</h2><p>Easy to find, well documented, and few drawbacks.</p><div class="firsts-g">${firsts.map(fpick).join("")}</div></section>` : ""}
+  ${D.shipTo !== HOME_ZIP ? `<p class="run muted zipnote">Priced for ZIP ${esc(D.shipTo)} (${esc(D.shipState)}): exact where a nursery publishes its rates, otherwise estimated from distance.${D.blocked ? ` ${D.blocked} nurser${D.blocked > 1 ? "ies don't" : "y doesn't"} ship some of these plants to ${esc(D.shipState)}, so those listings are left out.` : ""}</p>` : ""}
+  <div class="board">
+    <details class="fside"${openSide ? " open" : ""} id="fside">
+      <summary>Filters <small>${nF ? `${nF} on` : ""}</small></summary>
+      <div class="fside-in">
+        <div class="sheet-h"><b>Filters</b>${nF ? `<button data-clearf>Clear all</button>` : ""}</div>
+        ${groups.map(([g, items]) => `<div class="fgrp"><span>${g}</span><div>${items.map(([k, t, why]) => `<button class="fchip" data-f="${k}" aria-pressed="${S.f.has(k)}" data-tip="${esc(why)}">${esc(t)}</button>`).join("")}</div></div>`).join("")}
+        <div class="fgrp"><span>Plant form</span><div>${FORMS.map(([k, t]) => `<button class="fchip" data-form="${k}" aria-pressed="${S.forms.has(k)}">${t}</button>`).join("")}</div></div>
+        ${nF ? `<button class="linkbtn" data-clearf>Clear all filters</button>` : ""}
+        <button class="sheet-done" data-closef>Show ${shownLive.length} in stock</button>
+      </div>
+    </details>
+    <section class="bmain" aria-labelledby="all-h">
+      ${one?.group_by === "crop" ? vegBar(vs) : ""}
+      <div class="btool"><h2 class="h2" id="all-h">${shownLive.length} in stock${tip("delivered")}</h2>
+        <select id="sort" aria-label="Sort by">${Object.entries(SORT_LABEL).map(([k, t]) => `<option value="${k}">Sort: ${t}</option>`).join("")}</select></div>
+      ${onChips.length ? `<div class="onchips">${onChips.join("")}<button class="linkbtn" data-clearf>Clear all</button></div>` : ""}
+      ${L.page.length ? `<div class="vgrid">${L.page.map(vcard).join("")}</div>` : `<div class="empty">${shownWatch.length ? "Nothing in stock matches, but there are sold-out matches below." : "Nothing matches."} ${filtering ? `<button class="linkbtn" data-clearf>Clear search and filters</button>` : ""}</div>`}
+      ${L.more}
+      ${shownWatch.length ? `<details class="soldout" id="soldout"${soldOpen ? " open" : ""}>
+        <summary>Sold out everywhere right now <span class="ct">${shownWatch.length} variet${shownWatch.length === 1 ? "y" : "ies"}</span>${ICON.chev}</summary>
+        <p>No nursery we check has these right now. Tap one for its profile, or <b>Watch</b> it to have it called out when it's back.</p>
+        <div class="vgrid">${Wd.page.map(vcard).join("")}</div>${Wd.more}
+      </details>` : ""}
+    </section>
+  </div>
+  ${statusHTML(runs)}
+  <div class="foot"><p>Prices don't include sales tax, and stock can change during the day, so check the nursery's page before you order.</p><p><a href="#about" data-go="about">How prices and checks work</a></p></div>`;
+}
+
+function phChart(h) {
+  const pts = h.low.map((x, i) => ({ i, p: x.p })), ps = pts.filter(x => x.p != null).map(x => x.p);
+  if (ps.length < 2) return "";
+  const lo = Math.min(...ps), hi = Math.max(...ps), pad = Math.max(3, (hi - lo) * .15), W = 600, H = 150, n = pts.length;
+  const X = i => (i / Math.max(1, n - 1)) * W, Y = p => H - 8 - ((p - (lo - pad)) / ((hi + pad) - (lo - pad))) * (H - 20);
+  let d = "", pen = false, first = null, last = null;
+  for (const x of pts) { if (x.p == null) { pen = false; continue; } const y = Y(x.p).toFixed(1); d += pen ? ` H${X(x.i).toFixed(1)} V${y}` : ` M${X(x.i).toFixed(1)} ${y}`; pen = true; first ??= x; last = x; }
+  const area = `M${X(first.i).toFixed(1)} ${H}` + d.replace(/^ M[\d.]+ [\d.]+/, ` L${X(first.i).toFixed(1)} ${Y(first.p).toFixed(1)}`) + ` L${X(last.i).toFixed(1)} ${H} Z`;
+  return `<svg viewBox="0 0 ${W} ${H}" preserveAspectRatio="none" role="img" aria-label="Lowest plant price from ${money(lo)} to ${money(hi)} since ${fmtDate(h.start)}"><path d="${area}" fill="rgba(255,122,46,.16)"/><path d="${d.trim()}" fill="none" stroke="#ff7a2e" stroke-width="3" vector-effect="non-scaling-stroke" stroke-linejoin="round"/></svg>
+    <div class="ph-x"><span>${fmtDate(h.start)}</span><span>${fmtDate(h.today)}</span></div>`;
+}
+function profileView() {
+  const v = D.byKey[S.vkey];
+  if (!v) return `<div class="empty">We couldn't find that variety. <a href="#" data-go="home">Back to all plants</a></div>`;
+  const b = v.best, f = fit(v), facts = factsOf(v), pr = partnersOf(v), h = v.ph, unit = unitOf(v);
+  const sibs = v.breeder ? D.all.filter(x => x.key !== v.key && x.breeder?.name === v.breeder.name).sort((a, c) => c.inStock - a.inStock || a.name.localeCompare(c.name)).slice(0, 12) : [];
+  const offers = shownOffers(v);
+  const notes = [...new Set([...(v.notes || []), ...v.offers.flatMap(o => [...(o.notes || []), o.n.caveat ? `${o.n.name}: ${o.n.caveat}` : "", o.n.note ? `${o.n.name}: ${o.n.note}` : ""])].filter(Boolean))];
+  const outs = v.out.map(o => `<a href="${esc(o.url)}" target="_blank" rel="noopener">${esc(o.n.name)} · ${esc(STATUS[o.status] || o.status)}${o.price != null ? " · " + money(o.price) : ""}</a>`).join("");
+  const verdict = !h || h.allHi == null ? "" : h.allHi === h.allLo ? "Steady price" : h.lastLow != null && h.lastLow <= h.allLo ? "At its lowest" : h.lastLow != null && h.lastLow >= h.allHi ? "At its highest" : "Mid-range";
+  return `<section class="px dark bleed">
+    <div class="px-art" aria-hidden="true">${fruitArt(v, v.inStock)}<small>Fruit photo goes here</small></div>
+    <div class="px-main">
+      <p class="crumb"><a href="#" data-go="home">All plants</a> / <a href="#${v.fruit}" data-fruit="${v.fruit}">${esc(v.F.plural)}</a></p>
+      <p class="kicker">${esc(v.F.name)}${v.breeder ? ` · ${v.breeder.kind === "university" ? "" : "bred by "}${esc(v.breeder.name)}` : ""}</p>
+      <h1>${esc(v.name)}</h1>
+      <p class="oneliner">“${esc(lineOf(v))}”</p>
+      ${chipsHTML(v, 8, true)}
+      <div class="px-buy">
+        ${v.inStock ? `<span><small>Lowest delivered · ${esc(b.n.name)}</small><span class="big">${b.lo == null ? "Ask" : `${b.ok ? "" : "~"}${moneyR(b.lo, b.hi)}`}</span>${v.savings >= 3 ? `<span class="sv">${money(Math.round(v.savings))} less than the next seller</span>` : ""}</span>`
+          : `<span><small>Sold out everywhere right now</small><span class="big">${v.lastSeen ? money(v.lastSeen.price) : "—"}</span><span class="sv">${v.lastSeen ? `last seen at ${esc(v.lastSeen.n.name)}` : "no price seen yet"}</span></span>`}
+        <span class="px-acts">${wagonBtn(v, "big")}${starBtn(v)}${cmpBtn(v)}</span>
+      </div>
+    </div>
+  </section>
+  <nav class="jump bleed" aria-label="On this page"><div class="jump-in">
+    <a href="#p-fit" data-jump="p-fit">Right for you?</a><a href="#p-grow" data-jump="p-grow">Growing profile</a>${h && h.changed !== undefined ? `<a href="#p-price" data-jump="p-price">Price history</a>` : ""}<a href="#p-buy" data-jump="p-buy">Where to buy</a>${pr.list.length ? `<a href="#p-pair" data-jump="p-pair">${esc(pr.title)}</a>` : ""}
+  </div></nav>
+  <section class="psec" id="p-fit"><h2 class="h2">Is ${esc(v.name)} right for you?</h2>
+    <div class="fit"><div class="yes"><b>Great if you…</b><ul>${f.good.map(x => `<li>${esc(x)}</li>`).join("")}</ul></div>
+    <div class="no"><b>Think twice if…</b><ul>${(f.bad.length ? f.bad : ["nothing stands out in what we've gathered so far"]).map(x => `<li>${esc(x)}</li>`).join("")}</ul></div></div>
+  </section>
+  <section class="psec" id="p-grow"><div class="two">
+    <div class="card"><h2 class="h2">Growing profile</h2>
+      ${facts.length ? `<dl class="facts2" style="margin-top:12px">${facts.map(([a, c]) => `<dt>${esc(a)}</dt><dd>${esc(c)}</dd>`).join("")}</dl>` : `<p class="lead2">We haven't gathered growing details for this one yet.</p>`}
+      ${PRIMER[v.fruit] ? `<p class="lead2" style="margin-top:12px">${esc(v.F.plural)} in general: ${PRIMER[v.fruit].f.map(([a, c]) => `${esc(a.toLowerCase())} ${esc(c.charAt(0).toLowerCase() + c.slice(1))}`).join("; ")}.</p>` : ""}
+    </div>
+    <div class="card story"><h2 class="h2">The story</h2>
+      <p style="margin-top:12px">${esc(v.description || v.summary || "")}</p>
+      <div class="meta">
+        ${v.breeder ? `<span><span>${v.breeder.kind === "university" ? "University release" : "Bred by"}:</span> <b>${esc(v.breeder.name)}</b></span>` : ""}
+        ${v.aliases?.length ? `<span><span>Also sold as:</span> <b>${esc(v.aliases.join(", "))}</b></span>` : ""}
+        ${(v.awards || []).map(a => `<span class="b award" style="align-self:flex-start;font-size:12.5px;padding:4px 8px">${ICON.award}${esc(a)}</span>`).join("")}
+      </div>
+      ${sibs.length ? `<p class="lead2" style="margin-top:16px"><b>More from ${esc(v.breeder.name)}</b></p><div class="sibs">${sibs.map(x => `<a class="sib" href="#${x.key}" data-open="${x.key}">${esc(x.name)}</a>`).join("")}</div>` : ""}
+    </div>
+  </div></section>
+  ${h ? `<section class="psec" id="p-price"><div class="ph dark">
+    <div class="secthead" style="margin:0 0 6px"><h2 class="h2">Price history</h2><span class="soft" style="font-size:13px">Lowest in-stock plant price at any seller, before shipping</span></div>
+    <div class="ph-stats">
+      <span><small>NOW</small><b style="color:var(--yel)">${h.lastLow != null ? money(h.lastLow) : "Sold out"}</b></span>
+      ${h.allLo != null ? `<span><small>LOWEST SEEN</small><b style="color:var(--mint)">${money(h.allLo)}</b></span><span><small>HIGHEST SEEN</small><b style="color:#ff8a80">${money(h.allHi)}</b></span>` : ""}
+      ${verdict ? `<span class="ph-verdict">${verdict}</span>` : ""}
+    </div>
+    ${phChart(h)}
+    ${alertHTML(v)}
+    <div class="ph-foot"><span>${S.starred.has(v.key) ? "★ You're watching this one. It's called out at the top of the home page when it's back or cheaper." : "Tap Watch to keep an eye on this one."}</span><button data-hist="${v.key}">Full price tracker →</button></div>
+  </div></section>` : ""}
+  <section class="psec" id="p-buy"><h2 class="h2">Where to buy</h2>
+    <p class="lead2">${offers.length ? `${offers.length} seller${offers.length > 1 ? "s have" : " has"} it in stock, cheapest first. Prices include the plant and shipping to ${esc(D.shipTo)}.${tip("delivered")}` : "No nursery we check has it in stock right now."}</p>
+    ${offers.length ? `<div class="pf-sellers">${offers.map((o, i) => offerHTML(o, i === 0, unit)).join("")}</div>` : ""}
+    ${notes.length ? `<details class="fold"><summary>Notes on sizes and sellers (${notes.length})</summary><ul>${notes.map(n => `<li>${esc(n)}</li>`).join("")}</ul></details>` : ""}
+    ${v.out.length ? `<details class="fold"${v.inStock ? "" : " open"}><summary>${v.inStock ? "Sold out at" : "Listed (sold out) at"} ${v.out.length} other seller${v.out.length > 1 ? "s" : ""}</summary><div class="oos oosbox">${outs}</div></details>` : ""}
+  </section>
+  ${pr.list.length ? `<section class="psec" id="p-pair"><h2 class="h2">${esc(pr.title)}</h2><p class="lead2">${esc(pr.sub)}</p><div class="pairs">${pr.list.map(fpick).join("")}</div></section>` : ""}
+  <div class="foot"><p>Prices don't include sales tax, and stock can change during the day, so check the nursery's page before you order.</p></div>`;
+}
+
+function compareView() {
+  const cv = S.cmp.map(k => D.byKey[k]).filter(Boolean);
+  if (!cv.length) return `<section class="cmpx dark bleed"><h1>Head to head</h1></section><div class="empty">Nothing to compare yet. Tap <b>+ Compare</b> on up to 3 varieties, then come back here.</div>`;
+  const lows = cv.filter(v => v.inStock && v.best.lo != null).map(v => v.best.lo), low = lows.length ? Math.min(...lows) : null;
+  const factMaps = cv.map(v => new Map(factsOf(v)));
+  const factKeys = [...new Set(factMaps.flatMap(m => [...m.keys()]))];
+  const rows = [
+    ["Fruit", v => esc(v.F.name)],
+    ["What it's good for", v => `<i>${esc(lineOf(v))}</i>`],
+    ["Lowest delivered", v => v.inStock ? rowTotal(v.best) : `<span class="total t-out">Sold out</span>`, v => v.inStock && low != null && v.best.lo === low && cv.length > 1],
+    ["Sellers in stock", v => String(v.offers.length)],
+    ["Strengths", v => [...CHIP_ORDER].filter(k => v.tr.k.has(k)).map(k => esc(chipLabel(v, k))).join(", ")],
+    ["Watch-outs", v => Object.keys(WARN).filter(k => v.tr.w.has(k)).map(k => esc(WARN[k])).join(", ")],
+    ...factKeys.map(fk => [fk, (v, i) => esc(factMaps[i].get(fk) || "")]),
+    ["Bred by", v => esc(v.breeder?.name || "")],
+    ["Awards", v => esc((v.awards || []).join("; "))],
+  ];
+  return `<section class="cmpx dark bleed"><p class="crumb"><a href="#" data-go="home">All plants</a> / Compare</p><h1>Head to head</h1></section>
+  <div class="ctable"><table>
+    <thead><tr><th scope="col"><span class="sr">Variety</span></th>${cv.map(v => `<th scope="col"><a href="#${v.key}" data-open="${v.key}">${esc(v.name)}</a><i>${esc(v.F.name)}</i><button data-cmp="${v.key}">Remove</button></th>`).join("")}</tr></thead>
+    <tbody>${rows.map(([lab, fn, win]) => `<tr><th scope="row">${esc(lab)}</th>${cv.map((v, i) => { const val = fn(v, i); return `<td class="${win && win(v) ? "win" : ""}${val ? "" : " na"}">${val || "—"}</td>`; }).join("")}</tr>`).join("")}
+      <tr><th scope="row"></th>${cv.map(v => `<td>${wagonBtn(v, "icon")}</td>`).join("")}</tr></tbody>
+  </table></div>
+  <p class="lead2" style="margin-top:12px">Compare up to 3 at a time, across any fruits. <a href="#" data-cmpclear>Clear all</a></p>`;
+}
+function updateTray() {
+  let t = $("#tray"); if (!t) { t = document.createElement("div"); t.id = "tray"; document.body.appendChild(t); }
+  const cv = S.cmp.map(k => D.byKey[k]).filter(Boolean), show = cv.length && S.view !== "compare" && S.view !== "seeds";
+  document.body.classList.toggle("has-tray", !!show);
+  const pv = S.view === "variety" && !show ? D.byKey[S.vkey] : null;
+  document.body.classList.toggle("has-buy", !!(pv && pv.inStock));
+  if (pv && pv.inStock) {
+    const b = pv.best;
+    t.className = "buybar"; t.hidden = false;
+    t.innerHTML = `<div class="buybar-in"><span><small>${esc(pv.name)} · ${esc(b.n.name)}</small><b>${b.lo == null ? "Ask" : `${b.ok ? "" : "~"}${moneyR(b.lo, b.hi)}`}</b></span>${wagonBtn(pv, "big")}</div>`;
+    return;
+  }
+  t.className = show ? "tray" : ""; t.hidden = !show;
+  t.innerHTML = show ? `<div class="tray-in"><span>Comparing <b>${cv.map(v => esc(v.name)).join(", ")}</b>${cv.length < 3 ? ` <span style="color:var(--hdr-dim)">· add up to ${3 - cv.length} more</span>` : ""}</span><span style="display:flex;gap:8px"><button class="clr" data-cmpclear>Clear</button><a class="go" href="#compare" data-go="compare">Compare ${cv.length > 1 ? cv.length + " " : ""}head to head →</a></span></div>` : "";
+}
+function openProfile(key) {
+  const v = D.byKey[key]; if (!v) return;
+  acClose?.(); S.view = "variety"; S.vkey = key; S.fruit = v.fruit;
+  if (S.q) { S.q = ""; $("#q").value = ""; }
+  try { if (location.hash.slice(1) !== key) history.pushState(null, "", `#${key}`); } catch {}
+  renderTabs(); render(); updateWagonBtn(); window.scrollTo({ top: 0 });
+}
+function routeFromHash() {
+  if (!D.all.length) return;
+  const h = decodeURIComponent(location.hash.slice(1));
+  if (!h) { S.view = "board"; S.fruit = "all"; S.vkey = null; }
+  else if (["wagon", "prices", "sales", "about", "compare", "seeds"].includes(h)) S.view = h;
+  else if (D.meta[h]) { S.view = "board"; S.fruit = h; }
+  else { const key = D.byKey[h] ? h : D.all.find(v => v.id === h)?.key; if (key) { S.view = "variety"; S.vkey = key; S.fruit = D.byKey[key].fruit; } else return; }
+  renderTabs(); render(); updateWagonBtn();
+}
+document.addEventListener("click", e => {
+  const c = e.target.closest?.("[data-cmp]");
+  if (c) { e.preventDefault(); e.stopPropagation(); const k = c.dataset.cmp; if (S.cmp.includes(k)) S.cmp = S.cmp.filter(x => x !== k); else if (S.cmp.length >= 3) { S.cmp = [...S.cmp.slice(1), k]; } else S.cmp = [...S.cmp, k]; store.set("rfd.cmp", S.cmp); render(); return; }
+  if (e.target.closest?.("[data-cmpclear]")) { e.preventDefault(); S.cmp = []; store.set("rfd.cmp", S.cmp); render(); return; }
+  if (e.target.closest?.("[data-spin]")) {
+    const pool = spinPool(); if (!pool.length) return;
+    let v; do { v = pool[Math.floor(Math.random() * pool.length)]; } while (pool.length > 1 && v.key === S.spin);
+    S.spin = v.key; S.spun = true; const el = $("#slot"); if (el) { el.outerHTML = slotHTML(); } return;
+  }
+  const ng = e.target.closest?.("[data-needgo]");
+  if (ng) { S.need = new Set([ng.dataset.needgo]); S.fruit = "all"; S.q = ""; $("#q").value = ""; setView("board"); return; }
+  const nd = e.target.closest?.("[data-need]");
+  if (nd) { const k = nd.dataset.need; S.need.has(k) ? S.need.delete(k) : S.need.add(k); render(); return; }
+  if (e.target.closest?.("[data-closef]") || (e.target.id === "fside" && e.target.open)) { e.preventDefault(); const d = $("#fside"); if (d) { d.open = false; S.filtersOpen = false; d.scrollIntoView({ block: "start" }); } return; }
+  const j = e.target.closest?.("[data-jump]");
+  if (j) { e.preventDefault(); document.getElementById(j.dataset.jump)?.scrollIntoView({ block: "start", behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth" }); return; }
+}, true);
+document.addEventListener("toggle", e => { if (e.target.id === "fside") S.filtersOpen = e.target.open; }, true);
+addEventListener("popstate", routeFromHash);
+
 function render() {
   tipHide();
-  const sig = [S.view, S.fruit, S.q, [...S.f], [...S.forms], S.sort, S.phf, S.phs, S.sf, S.ss, S.crop, S.vsold, S.vnamed].join("|");
+  const sig = [S.view, S.fruit, S.q, [...S.need], [...S.f], [...S.forms], S.sort, S.phf, S.phs, S.sf, S.ss, S.crop, S.vsold, S.vnamed].join("|");
   if (sig !== S.limSig) { S.lims = {}; S.limSig = sig; if (!S.keepSold) S.soldKey = null; }
   S.keepSold = false;
-  navState();
+  navState(); updateTray();
   const app = $("#app"), host = $("#seedsHost");
   host.hidden = S.view !== "seeds"; app.hidden = S.view === "seeds";
-  document.title = ({ wagon: "Wagon · ", prices: "Price history · ", sales: "Sales · ", seeds: "Seeds · ", about: "How it works · " }[S.view] || "") + "Rare Fruit Deals";
+  document.title = ({ wagon: "Wagon · ", prices: "Price tracker · ", sales: "Sales · ", seeds: "Seeds · ", about: "How it works · " }[S.view] || "") + "Rare Fruit Deals";
   if (S.view === "seeds") { seedsView(); return; }
+  if (S.view === "variety") { const v = D.byKey[S.vkey]; document.title = (v ? `${v.name} ${v.F.name.toLowerCase()} · ` : "") + "Rare Fruit Deals"; app.innerHTML = profileView(); return; }
+  if (S.view === "compare") { document.title = "Compare · Rare Fruit Deals"; app.innerHTML = compareView(); return; }
   if (S.view === "wagon") { app.innerHTML = wagonView(); return; }
   if (S.view === "prices") { app.innerHTML = pricesView(); drawCharts(); return; }
   if (S.view === "sales") { app.innerHTML = salesView(); return; }
   if (S.view === "about") { app.innerHTML = aboutView(); return; }
-  app.innerHTML = boardView();
+  app.innerHTML = isHome() ? homeView() : fruitView();
   const s = $("#sort"); if (s) s.value = SORT_LABEL[S.sort] ? S.sort : "deal";
 }
 // a sold-out variety picked from search or a link: open the sold-out section and scroll to it
@@ -2433,15 +3371,8 @@ document.addEventListener("click", e => {
   if (ao) { S.allOffers = ao.dataset.alloffers; render(); return; }
 });
 document.addEventListener("click", e => { const sm = e.target.closest?.("#soldout > summary"); if (sm) S.soldOpen = !sm.parentElement.open; });
-window.addEventListener("hashchange", () => {
-  const h = decodeURIComponent(location.hash.slice(1));
-  if (!D.all.length) return;
-  if (!h) { if (S.view !== "board" || S.fruit !== "all") { S.view = "board"; S.fruit = "all"; S.open = null; renderTabs(); render(); } return; }
-  const before = S.view + "|" + S.fruit + "|" + S.open;
-  if (D.meta[h] || D.byKey[h]) S.view = "board";
-  readHash();
-  if (before !== S.view + "|" + S.fruit + "|" + S.open) { renderTabs(); render(); updateWagonBtn(); updateGardenBtn(); }
-});
+window.addEventListener("hashchange", routeFromHash);
+
 
 function renderTabs() {
   const tabs = [{ id: "all", plural: "All plants" }, ...D.fruits.filter(f => D.meta[f.id])];
@@ -2482,7 +3413,7 @@ document.addEventListener("click", e => {
   const sfb = e.target.closest("[data-sf]");
   if (sfb) { S.sf = S.sf === sfb.dataset.sf && sfb.classList.contains("tile") ? "all" : sfb.dataset.sf; store.set("rfd.sf", S.sf); render(); return; }
   const go = e.target.closest("[data-go]");
-  if (go) { e.preventDefault(); closeMore(); if (S.q) { S.q = ""; $("#q").value = ""; } if (go.dataset.go === "home") { S.fruit = "all"; S.q = ""; $("#q").value = ""; S.open = null; setView("board"); } else setView(go.dataset.go); return; }
+  if (go) { e.preventDefault(); closeMore(); if (S.q) { S.q = ""; $("#q").value = ""; } if (go.dataset.go === "home") { S.need.clear(); S.fruit = "all"; S.q = ""; $("#q").value = ""; S.open = null; setView("board"); } else setView(go.dataset.go); return; }
   const wg = e.target.closest("[data-wagon]");
   if (wg) { e.stopPropagation(); e.preventDefault(); wagonToggle(wg.dataset.wagon); render(); return; }
   const pl = e.target.closest("[data-plan]");
@@ -2500,8 +3431,7 @@ document.addEventListener("click", e => {
   const star = e.target.closest("[data-star]");
   if (star) { e.stopPropagation(); const k = star.dataset.star; S.starred.has(k) ? S.starred.delete(k) : S.starred.add(k); store.set("rfd.starred2", [...S.starred]); render(); return; }
   const op = e.target.closest("[data-open]");
-  if (op) { e.preventDefault(); const v = D.byKey[op.dataset.open];
-    if (v && S.view !== "board") { S.view = "board"; if (S.fruit !== "all" && S.fruit !== v.fruit) S.fruit = v.fruit; try { history.replaceState(null, "", S.fruit === "all" ? location.pathname : `#${S.fruit}`); } catch {} renderTabs(); updateWagonBtn(); updateGardenBtn(); render(); } if (v?.inStock) { S.q = ""; $("#q").value = ""; S.f.clear(); toggle(v.key, true); } else if (v) revealSold(v); return; }
+  if (op) { e.preventDefault(); openProfile(op.dataset.open); return; }
   const tg = e.target.closest("[data-toggle]");
   if (tg) { toggle(tg.dataset.toggle); return; }
   const fchip = e.target.closest("[data-form]");
@@ -2524,16 +3454,16 @@ document.addEventListener("change", e => {
   if (e.target.id === "catsel") { setFruit(e.target.value); return; }
   if (e.target.id === "cropsel") { S.crop = e.target.value; render(); return; }
   if (e.target.id === "sort") { S.sort = e.target.value; store.set("rfd.sort", S.sort); render(); } });
-let qt; $("#q").addEventListener("input", e => { clearTimeout(qt); qt = setTimeout(() => { S.q = e.target.value; if (S.q.trim() && S.fruit !== "all") { S.fruit = "all"; S.open = null; renderTabs(); } if (S.view !== "board" && S.view !== "prices" && (S.view !== "sales" || S.q.trim())) { S.view = "board"; try { history.replaceState(null, "", S.fruit === "all" ? location.pathname : `#${S.fruit}`); } catch {} renderTabs(); updateWagonBtn(); updateGardenBtn(); } render(); }, 120); });
+let qt; $("#q").addEventListener("input", e => { clearTimeout(qt); qt = setTimeout(() => { S.q = e.target.value; if (S.q.trim()) S.need.clear(); if (S.q.trim() && S.fruit !== "all") { S.fruit = "all"; S.open = null; renderTabs(); } if (S.view !== "board" && S.view !== "prices" && (S.view !== "sales" || S.q.trim())) { S.view = "board"; try { history.replaceState(null, "", S.fruit === "all" ? location.pathname : `#${S.fruit}`); } catch {} renderTabs(); updateWagonBtn(); updateGardenBtn(); } render(); }, 120); });
 
 // deep links: #raspberry  ·  #raspberry.jewel  ·  #ksu-benson (older links, any fruit)
 function readHash() {
   const h = decodeURIComponent(location.hash.slice(1));
   if (!h) return;
-  if (h === "wagon" || h === "prices" || h === "sales" || h === "about") { S.view = h; return; }
+  if (["wagon", "prices", "sales", "about", "compare"].includes(h)) { S.view = h; return; }
   if (D.meta[h]) { S.fruit = h; return; }
   const key = D.byKey[h] ? h : D.all.find(v => v.id === h)?.key;
-  if (key) { const v = D.byKey[key]; S.fruit = v.fruit; if (v.inStock) S.open = key; else { S.soldOpen = true; S.soldKey = key; S.keepSold = true; } }
+  if (key) { S.view = "variety"; S.vkey = key; S.fruit = D.byKey[key].fruit; }
 }
 
 async function load() {
@@ -2541,8 +3471,8 @@ async function load() {
     const get = p => fetch(DATA_BASE + p.replace(/^data\//, ""), { cache: "no-cache" }).then(r => { if (!r.ok) throw new Error(p + " " + r.status); return r.json(); });
     const reg = await get("fruits.json");
     D.fruits = reg.fruits;
-    for (const [id, x] of Object.entries(INLINE_FRUITS)) if (!D.fruits.some(f => f.id === id)) D.fruits.push(x.registry); let want = store.get("rfd.zip", null);
-    if (!validZip(want || "")) want = HOME_ZIP;
+    for (const [id, x] of Object.entries(INLINE_FRUITS)) if (!D.fruits.some(f => f.id === id)) D.fruits.push(x.registry); const want = ZIP_MEM || store.get("rfd.zip", null) || HOME_ZIP;
+    if (!validZip(want || "")) { D.shipTo = ""; zipGate(); return; }
     D.shipTo = want; D.shipRegion = regionOfZip(D.shipTo); D.shipState = stateOf(D.shipRegion);
     $("#zip").textContent = D.shipTo; $("#zipBtn").title = `Prices include shipping to ${D.shipTo} (${D.shipState}). Click to change.`;
     STATUS.no_ship = `Doesn't ship to ${D.shipState}`;
@@ -2553,6 +3483,7 @@ async function load() {
     const files = await Promise.all(live.map(f => (f.inline ? Promise.resolve(INLINE_FRUITS[f.id].data) : get(f.data)).then(fd => [f, fd]).catch(() => [f, null])));
     for (const [f, fd] of files) if (fd) { localize(f, fd); D.all.push(...prepare(f, fd)); }
     D.byKey = Object.fromEntries(D.all.map(v => [v.key, v]));
+    for (const v of D.all) { try { v.tr = traitsOf(v); } catch { v.tr = { k: new Set(), w: new Set() }; } }
     for (const v of D.all) { try { v.ph = priceHist(v); } catch { v.ph = null; } }
     buildGroups();
     OWNED = ownedSet();
@@ -2561,7 +3492,7 @@ async function load() {
     const loaded = live.filter(f => D.meta[f.id]);
     if (loaded.length === 1) S.fruit = loaded[0].id;
     readHash();
-    renderTabs(); render(); updateWagonBtn(); updateGardenBtn(); salesCount(); if (!initZipUI.done) { initZipUI(); initZipUI.done = true; }
+    renderTabs(); render(); buildTicker(); updateWagonBtn(); updateGardenBtn(); salesCount(); if (!initZipUI.done) { initZipUI(); initZipUI.done = true; }
     if (S.open) document.getElementById(S.open)?.scrollIntoView({ block: "start" });
     else if (S.soldKey) document.getElementById(S.soldKey)?.scrollIntoView({ block: "center" });
   } catch (err) {
@@ -2588,6 +3519,7 @@ document.addEventListener("click", e => {
 Promise.resolve(load()).finally(() => syncInit());
 })();
 </script>
+
 
 
 
