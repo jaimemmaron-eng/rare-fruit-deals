@@ -1,48 +1,21 @@
 {
  "fruit": "persimmon",
- "updated": "2026-11-09",
+ "updated": "2026-11-18",
  "scope": "Named, grafted persimmons for zone 6b: American persimmon (Diospyros virginiana) cultivars, American × Asian hybrids, and Asian (D. kaki) cultivars only when a seller rates them hardy to zone 6. Most Asian types (Fuyu, Jiro, Hachiya, Giombo, Tamopan and similar) are rated zone 7+ and are left out; so are ungrafted seedlings.",
  "last_run": {
-  "date": "2026-11-09",
-  "summary": "Back in stock at Restoring Eden: Szukis $39.99. Sold out at Edible Landscaping: Prok.",
+  "date": "2026-11-18",
+  "summary": "New listings at Madison Citrus Nursery: Prok (unconfirmed), Sosnovskaya (unconfirmed), Zhima Khurma (NB-02) (unconfirmed), Saijo (unconfirmed), Journey ($44.99), Kasandra ($59.99). New listings at Roots to Fruits Nursery: Rosseyanka (unconfirmed), Prok (unconfirmed), Meader (unconfirmed), Early Golden (unconfirmed), Deer Candy (unconfirmed). Checked six more sellers (Northwoods, Nutcracker, Fedco, Willis Orchard, Ison's, TN Nursery) and none had in-scope named stock. Added six Madison Citrus listings (Prok, Sosnovskaya, Zhima Khurma, Saijo, Journey, Kasandra) and five Roots to Fruits listings (Rosseyanka, Prok, Meader, Early Golden, Deer Candy) for varieties already on file.",
   "gaps": [
-   "burnt-ridge: no per-variety prices",
-   "future-forest: no per-variety prices",
-   "cricket-hill-garden: would not load"
+   "Madison Citrus also sells Pamyati Chernyaeva, Bozhy Dar (UKR-15-30) and Dar Sofiyivky, but no zone rating is given (Bozhy Dar says -12 to -14 without units), so they were not added as varieties.",
+   "Madison Citrus shows 'More Are Growing' with no stock count for most trees, so those are unconfirmed.",
+   "Roots to Fruits page says bare-root trees ship spring 2027; stock not shown."
   ],
-  "checked": [
-   "advanced-nursery-growers",
-   "arbor-day-foundation",
-   "bamboo-plants-ca",
-   "beautiful-beginnings",
-   "blue-hill",
-   "bower-and-branch",
-   "buy-potted-plants",
-   "chestnut-hill",
-   "edible-landscaping",
-   "englands-orchard",
-   "farm-connection",
-   "food-forest-nursery",
-   "hidden-springs",
-   "interwoven-permaculture",
-   "logees",
-   "madison-citrus",
-   "nature-hills",
-   "one-green-world",
-   "perfect-plants",
-   "plant-me-green",
-   "raintree",
-   "restoring-eden",
-   "rock-bridge-trees",
-   "roots-to-fruits",
-   "stark-bros",
-   "trees-com",
-   "trees-of-antiquity"
-  ],
-  "held": [
-   "arbor-day-foundation--saijo: price 44.99 -> 124.99 is a 178% move"
-  ],
-  "notes": []
+  "checked": [],
+  "held": [],
+  "notes": [
+   "Checked six more sellers (Northwoods, Nutcracker, Fedco, Willis Orchard, Ison's, TN Nursery) and none had in-scope named stock",
+   "Added six Madison Citrus listings (Prok, Sosnovskaya, Zhima Khurma, Saijo, Journey, Kasandra) and five Roots to Fruits listings (Rosseyanka, Prok, Meader, Early Golden, Deer Candy) for varieties already on file"
+  ]
  },
  "history_log": [
   "Sep 15: hybrid persimmons first tracked alongside Asian pears (Madison Citrus, One Green World, Stark Bro's).",
@@ -74,7 +47,8 @@
   "Oct 29: England's persimmon page now shows American persimmons at $65 (small) to $95 (XL), higher than the prices on file; Marked in stock where sizes are listed",
   "Nov 2: Back in stock at The Farm Connection: Nikita's Gift $49.95, Early Golden $46.95",
   "Nov 5: Back in stock at Blue Hill Wildlife Nursery: Meader $39.95; Price changes at Burnt Ridge Nursery & Orchards: Deer Magnet $52.25 → $52.50; New listings at Advanced Nursery Growers: Nikita's Gift (sold out); New listings at Restoring Eden: Nikita's Gift ($39.99), Early Golden ($39.99), Meader ($39.99), Prairie Gem ($39.99), Prairie Star ($39.99), Prairie Sun (sold out), Szukis (unconfirmed); Found a new seller, Restoring Eden (WA), with six grafted American and hybrid persimmons at $39.99 (1-gallon); Izel Plants, Foraged, Elmore Roots (does not ship), iGreenThumb and Gurney's had nothing in scope; Added Restoring Eden (WA) with Nikita's Gift, Early Golden, Meader, Prairie Gem, Prairie Star, Prairie Sun (sold out) and Szukis",
-  "Nov 9: Back in stock at Restoring Eden: Szukis $39.99; Sold out at Edible Landscaping: Prok"
+  "Nov 9: Back in stock at Restoring Eden: Szukis $39.99; Sold out at Edible Landscaping: Prok",
+  "Nov 18: New listings at Madison Citrus Nursery: Prok (unconfirmed), Sosnovskaya (unconfirmed), Zhima Khurma (NB-02) (unconfirmed), Saijo (unconfirmed), Journey ($44.99), Kasandra ($59.99); New listings at Roots to Fruits Nursery: Rosseyanka (unconfirmed), Prok (unconfirmed), Meader (unconfirmed), Early Golden (unconfirmed), Deer Candy (unconfirmed); Checked six more sellers (Northwoods, Nutcracker, Fedco, Willis Orchard, Ison's, TN Nursery) and none had in-scope named stock; Added six Madison Citrus listings (Prok, Sosnovskaya, Zhima Khurma, Saijo, Journey, Kasandra) and five Roots to Fruits listings (Rosseyanka, Prok, Meader, Early Golden, Deer Candy) for varieties already on file"
  ],
  "sources": {
   "directories": [
@@ -195,6 +169,30 @@
    [
     "Gurney's",
     "https://www.gurneys.com/products/american_persimmon_ - unnamed 'American' persimmon, not grafted per page, spring ship, sold out"
+   ],
+   [
+    "Northwoods Nursery (Molalla, OR)",
+    "https://www.northwoodsnursery.com/ordering-info/ - lists Early Golden, Meader, Szukis, Nikita's Gift but sells wholesale only (00 minimum, 10 plants per variety)"
+   ],
+   [
+    "Nutcracker Nursery (Quebec)",
+    "https://nutcrackernursery.com/products/grafted-persimmon-tree-prairie-sun - Prairie Sun, CAD price, sold out; ships within Canada only"
+   ],
+   [
+    "Fedco Trees",
+    "https://fedcoseeds.com/trees/persimmons - only unnamed ungrafted American persimmon seedlings, spring ship"
+   ],
+   [
+    "Willis Orchard Co.",
+    "https://willisorchards.com/category/persimmon-trees - only an unnamed American persimmon plus Asian types rated zone 7-10 (Fuyu, Hachiya, Saijo, etc.)"
+   ],
+   [
+    "Ison's Nursery",
+    "https://www.isons.com/shop/fruit-trees/persimmons/ - Asian types only (Fuyu, Hachiya, Tamopan, Tanenashi), zone 7+"
+   ],
+   [
+    "TN Nursery",
+    "https://www.tnnursery.net/blogs/garden-blog/persimmon-tree-for-sale - only generic native persimmon seedlings and Fuyu (zone 7-9)"
    ]
   ],
   "dead": [],
@@ -223,11 +221,8 @@
    "England's Orchard: Kasandra, Rosseyanka listed in Asian hybrids; Nikita's Gift not listed on page",
    "Edible Landscaping: Hana Fuyu, TamKam, Hachiya, Jiro persimmons listed, not on file",
    "England's Orchard: 'Celebrity','Deer Candy','Early Jewel','Barbra's Blush','J-59 Claypool','Zima khurma','Mikkusu kaki','Korea Kaki','Picudo' persimmon listed, not on file",
-   "Roots to Fruits: Prok, Meader, Early Golden, Deer Candy and Rosseyanka persimmons listed, not on file",
    "One Green World: Tamopan, Robin, Raven, Phoenix, Oriole, Maru, Jiro, Sweet Fuyu, Miss Kim persimmons listed, not on file",
-   "Madison Citrus: many persimmons listed (Vaniglia, Tecumseh, Lampadino, Korean, Jo Choo, etc.), not on file",
    "England's Orchard: Deer Candy, Celebrity, Early Jewel and others listed, not on file",
-   "Roots to Fruits: Rosseyanka, Prok, Meader, Early Golden, Deer Candy persimmons listed, not on file",
    "Chestnut Hill: Fuyu and American seedling persimmon listed, not on file",
    "Interwoven Permaculture: Tam Kam, Gwang Yang listed, not on file",
    "Elmore Roots: Meader persimmon listed, not on file",
@@ -235,8 +230,7 @@
    "Edible Landscaping: Hychia/Hachiya, Ichi-Ki-Kei-Jiro, Tam Kam, Maekawa Jiro, Hana Fuyu, Wase Fuyu, Jiro persimmons listed, not on file",
    "Restoring Eden: Calliope, Cardinal, Oriole, Phoenix, Robin persimmons listed, not on file",
    "Raintree: persimmons 'Izu', 'Hachiya', 'Chocolate', 'Coffeecake' listed in stock, 'Oriole', 'Cardinal', 'Jiro Fuyu' sold out, not on file",
-   "Stark Bro's: 'Tanenashi' ($79.99) and 'Ichi-Ki-Kei-Jiro' ($199.99) persimmons listed, not on file",
-   "Roots to Fruits: Rosseyanka, Prok, Meader, Early Golden and Deer Candy persimmons listed (5-6' bare root $47), not on file"
+   "Stark Bro's: 'Tanenashi' ($79.99) and 'Ichi-Ki-Kei-Jiro' ($199.99) persimmons listed, not on file"
   ]
  },
  "nurseries": [
@@ -928,7 +922,8 @@
     "Hybrid"
    ],
    "aliases": [
-    "NB-02"
+    "NB-02",
+    "Zima Khurma"
    ],
    "summary": "Hybrid selection NB-02; limited public detail.",
    "description": "A hybrid persimmon sold as NB-02 ‘Zhima Khurma’ by Future Forest Plants. Limited independent detail gathered so far.",
@@ -5825,6 +5820,259 @@
     }
    ],
    "sold_as": "1-gallon, grafted on American persimmon rootstock"
+  },
+  {
+   "id": "madison-citrus--prok",
+   "variety": "prok",
+   "nursery": "madison-citrus",
+   "status": "unconfirmed",
+   "price": 34.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://madisoncitrusnursery.com/products/prok-persimmon-tree-for-sale",
+   "first_seen": "2026-11-18",
+   "last_checked": "2026-11-18",
+   "notes": [
+    "Page shows 'More Are Growing' with no stock count; status unconfirmed."
+   ],
+   "history": [
+    {
+     "date": "2026-11-18",
+     "price": 34.99,
+     "status": "unconfirmed"
+    }
+   ],
+   "sold_as": "1-gallon grafted tree, 18-30 in"
+  },
+  {
+   "id": "madison-citrus--sosnovskaya",
+   "variety": "sosnovskaya",
+   "nursery": "madison-citrus",
+   "status": "unconfirmed",
+   "price": 34.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://madisoncitrusnursery.com/products/sosnovskaya-persimmon-tree-for-sale",
+   "first_seen": "2026-11-18",
+   "last_checked": "2026-11-18",
+   "notes": [
+    "Page shows 'More Are Growing' with no stock count; status unconfirmed."
+   ],
+   "history": [
+    {
+     "date": "2026-11-18",
+     "price": 34.99,
+     "status": "unconfirmed"
+    }
+   ],
+   "sold_as": "1-gallon grafted tree, 18-30 in"
+  },
+  {
+   "id": "madison-citrus--zhima-khurma",
+   "variety": "zhima-khurma",
+   "nursery": "madison-citrus",
+   "status": "unconfirmed",
+   "price": 34.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://madisoncitrusnursery.com/products/zima-khurma-persimmon-tree-for-sale",
+   "first_seen": "2026-11-18",
+   "last_checked": "2026-11-18",
+   "notes": [
+    "Page shows 'More Are Growing' with no stock count; status unconfirmed. Listed as 'Zima Khurma'."
+   ],
+   "history": [
+    {
+     "date": "2026-11-18",
+     "price": 34.99,
+     "status": "unconfirmed"
+    }
+   ],
+   "sold_as": "1-gallon grafted tree, 18-30 in"
+  },
+  {
+   "id": "madison-citrus--saijo",
+   "variety": "saijo",
+   "nursery": "madison-citrus",
+   "status": "unconfirmed",
+   "price": 34.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://madisoncitrusnursery.com/products/saijo-persimmon-tree-for-sale",
+   "first_seen": "2026-11-18",
+   "last_checked": "2026-11-18",
+   "notes": [
+    "Page shows 'More Are Growing' with no stock count; status unconfirmed."
+   ],
+   "history": [
+    {
+     "date": "2026-11-18",
+     "price": 34.99,
+     "status": "unconfirmed"
+    }
+   ],
+   "sold_as": "1-gallon grafted tree, 18-30 in"
+  },
+  {
+   "id": "madison-citrus--journey",
+   "variety": "journey",
+   "nursery": "madison-citrus",
+   "status": "in_stock",
+   "price": 44.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://madisoncitrusnursery.com/products/journey-persimmon-tree-for-sale",
+   "first_seen": "2026-11-18",
+   "last_checked": "2026-11-18",
+   "notes": [
+    "Page says 5 available."
+   ],
+   "history": [
+    {
+     "date": "2026-11-18",
+     "price": 44.99,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "1-gallon grafted tree, 18-30 in"
+  },
+  {
+   "id": "madison-citrus--kasandra",
+   "variety": "kasandra",
+   "nursery": "madison-citrus",
+   "status": "in_stock",
+   "price": 59.99,
+   "price_from": false,
+   "price_confirmed": true,
+   "url": "https://madisoncitrusnursery.com/products/kasandra-persimmon-tree-for-sale",
+   "first_seen": "2026-11-18",
+   "last_checked": "2026-11-18",
+   "notes": [
+    "Page says 3 available."
+   ],
+   "history": [
+    {
+     "date": "2026-11-18",
+     "price": 59.99,
+     "status": "in_stock"
+    }
+   ],
+   "sold_as": "1-gallon grafted tree, 18-30 in"
+  },
+  {
+   "id": "roots-to-fruits--rosseyanka",
+   "variety": "rosseyanka",
+   "nursery": "roots-to-fruits",
+   "status": "unconfirmed",
+   "price": 47.0,
+   "price_from": true,
+   "price_confirmed": false,
+   "url": "https://rootstofruitsnursery.com/collections/persimmons-1/products/rosseyanka-persimmon",
+   "first_seen": "2026-11-18",
+   "last_checked": "2026-11-18",
+   "notes": [
+    "Page says trees ship in spring 2027; stock not shown."
+   ],
+   "history": [
+    {
+     "date": "2026-11-18",
+     "price": 47.0,
+     "status": "unconfirmed"
+    }
+   ],
+   "sold_as": "5-6 ft bare-root grafted tree (price range $47-$65 by size)"
+  },
+  {
+   "id": "roots-to-fruits--prok",
+   "variety": "prok",
+   "nursery": "roots-to-fruits",
+   "status": "unconfirmed",
+   "price": 47.0,
+   "price_from": true,
+   "price_confirmed": false,
+   "url": "https://rootstofruitsnursery.com/collections/persimmons-1/products/prok-persimmon",
+   "first_seen": "2026-11-18",
+   "last_checked": "2026-11-18",
+   "notes": [
+    "Page says trees ship in spring 2027; stock not shown."
+   ],
+   "history": [
+    {
+     "date": "2026-11-18",
+     "price": 47.0,
+     "status": "unconfirmed"
+    }
+   ],
+   "sold_as": "5-6 ft bare-root grafted tree (price range $47-$65 by size)"
+  },
+  {
+   "id": "roots-to-fruits--meader",
+   "variety": "meader",
+   "nursery": "roots-to-fruits",
+   "status": "unconfirmed",
+   "price": 47.0,
+   "price_from": true,
+   "price_confirmed": false,
+   "url": "https://rootstofruitsnursery.com/collections/persimmons-1/products/meader-persimmon-tree",
+   "first_seen": "2026-11-18",
+   "last_checked": "2026-11-18",
+   "notes": [
+    "Page says trees ship in spring 2027; stock not shown."
+   ],
+   "history": [
+    {
+     "date": "2026-11-18",
+     "price": 47.0,
+     "status": "unconfirmed"
+    }
+   ],
+   "sold_as": "5-6 ft bare-root grafted tree (price range $47-$65 by size)"
+  },
+  {
+   "id": "roots-to-fruits--early-golden",
+   "variety": "early-golden",
+   "nursery": "roots-to-fruits",
+   "status": "unconfirmed",
+   "price": 47.0,
+   "price_from": true,
+   "price_confirmed": false,
+   "url": "https://rootstofruitsnursery.com/collections/persimmons-1/products/early-golden-persimmon",
+   "first_seen": "2026-11-18",
+   "last_checked": "2026-11-18",
+   "notes": [
+    "Page says trees ship in spring 2027; stock not shown."
+   ],
+   "history": [
+    {
+     "date": "2026-11-18",
+     "price": 47.0,
+     "status": "unconfirmed"
+    }
+   ],
+   "sold_as": "5-6 ft bare-root grafted tree (price range $47-$65 by size)"
+  },
+  {
+   "id": "roots-to-fruits--deer-candy",
+   "variety": "deer-candy",
+   "nursery": "roots-to-fruits",
+   "status": "unconfirmed",
+   "price": 47.0,
+   "price_from": true,
+   "price_confirmed": false,
+   "url": "https://rootstofruitsnursery.com/collections/persimmons-1/products/deer-candy-persimmon",
+   "first_seen": "2026-11-18",
+   "last_checked": "2026-11-18",
+   "notes": [
+    "Page says trees ship in spring 2027; stock not shown."
+   ],
+   "history": [
+    {
+     "date": "2026-11-18",
+     "price": 47.0,
+     "status": "unconfirmed"
+    }
+   ],
+   "sold_as": "5-6 ft bare-root grafted tree (price range $47-$65 by size)"
   }
  ]
 }

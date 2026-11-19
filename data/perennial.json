@@ -1,41 +1,24 @@
 {
  "fruit": "perennial",
- "updated": "2026-11-13",
+ "updated": "2026-11-19",
  "scope": "Perennial vegetables that overwinter in the ground in zone 6b/7a (Annandale, NJ) and are sold by mail: asparagus, rhubarb, horseradish, sunchokes, perennial onions and leeks, skirret, groundnut, crosnes, sea kale, Good King Henry, sorrels, Turkish rocket, perennial kale, sochan, lovage, Caucasian mountain spinach, nettles, fuki, ostrich fern and similar crops. Every form is tracked: live plants, crowns, tubers, root cuttings and seed packets. Named cultivars are listed separately from the plain species, and seed packets are listed separately from plants. Left out: crops that don't survive a zone 6 winter outdoors (yacon, oca, mashua, tree collards, globe artichoke), ordinary annual vegetables, and culinary herbs.",
  "last_run": {
-  "date": "2026-11-13",
-  "summary": "New listings at One Green World: Sea kale ($13.95), Colewort (sold out), Skirret (sold out), Sunchoke ($12.95), Victoria rhubarb (sold out), Purple Passion asparagus ($19.95), Sweet Purple asparagus (sold out), Mary Washington asparagus (sold out) and 8 more. New listings at Planting Justice: Horseradish ($8), Red Welsh onion ($9), Welsh onion ($8), Stinging nettle ($8), McCullar's White walking onion ($10), Han Chung garlic chives ($10), Good King Henry (sold out), Perennial leek (sold out) and 20 more. New listings at Strictly Medicinal Seeds: Skirret ($13.60), Good King Henry (sold out), French sorrel (sold out), Walking onion ($9.90), Bear's garlic (sold out), Garlic chives ($13.60), Lovage ($13.60), Asparagus ($13.60) and 14 more. New listings at Experimental Farm Network: Turkish rocket seeds (sold out), Skirret seeds (sold out), Good King Henry seeds (sold out), Homesteader's Kaleidoscopic Perennial kale seeds ($5), The Next Homesteader's Kaleidoscopic Perennial kale seeds ($5.25), Welsh onion seeds ($4), Nodding onion seeds ($4), Garlic chives seeds ($3.75) and 8 more. New listings at Truelove Seeds: Skirret seeds ($5), Stinging nettle seeds ($5). New listings at Prairie Moon Nursery: Sochan seeds ($3.50). New listings at Sow True Seed: Sochan seeds (sold out). New listings at Cultivariable: Skirret seeds (sold out). New listings at Baker Creek Heirloom Seeds: Mary Washington asparagus seeds ($3.25), Conover's Colossal asparagus seeds ($4), Précoce d'Argenteuil asparagus seeds ($4), Green de Belleville sorrel seeds ($3.50), Red-veined sorrel seeds ($3.50). New listings at Territorial Seed Company: Sea kale ($24.95), Kosmic Kale ($8.65), Walking onion ($19.95), Sunchoke ($24.95), Crimson Red rhubarb ($20.95), Millennium asparagus ($44.95), Purple Passion asparagus ($44.95), Walker Deluxe asparagus ($44.95) and 7 more. New listings at Edible Acres: Sochan (sold out), Sea kale (sold out), Good King Henry (sold out), Horseradish (sold out), Garden sorrel (sold out), Groundnut (sold out), Crosnes (sold out), Turkish rocket (sold out) and 2 more. New listings at Fedco Seeds: Garden sorrel seeds (closed for the season), Turkish rocket seeds (closed for the season), Good King Henry seeds (sold out), Sea kale seeds (sold out), Caucasian mountain spinach seeds (sold out), Skirret seeds (sold out). New listings at Fedco Trees: Millennium asparagus (unconfirmed). New listings at Plant Detectives: Sochan ($19.99). New listings at Johnny's Selected Seeds: Mary Washington asparagus ($53), Tallems asparagus ($53.35), Millennium asparagus ($55.25). New listings at Grow Organic: Purple Passion asparagus (sold out), Atlas asparagus (sold out), Mary Washington asparagus (sold out), Crimson Red rhubarb (sold out), Horseradish (sold out), Sunchoke (sold out). New listings at Raintree Nursery: Purple Passion asparagus (sold out), Millennium asparagus (sold out). Added three new sellers, Johnny's Selected Seeds (Mary Washington, Tallems and Millennium asparagus crowns), Grow Organic (Purple Passion, Atlas and Mary Washington asparagus, Crimson Red rhubarb, horseradish cuttings, sunchoke tubers) and Raintree Nursery (Purple Passion and Millennium asparagus). Grow Organic and Raintree are sold out until spring pre-order.",
+  "date": "2026-11-19",
+  "summary": "Catalog deep dive on perennial vegetables added six asparagus (Jersey Giant, Jersey Supreme, Apollo, Viking, Pacific Purple, Pacific 2000), five rhubarbs (Canada Red, Valentine, MacDonald, Cherry Red, Timperley Early) and four sunchokes (Dwarf Sunray, Jack's Copperclad, Beaver Valley Purple, Clearwater).",
   "gaps": [
-   "nourse: site shows commercial minimum quantities only",
-   "southern-exposure: perennial onions page wouldn't load",
-   "raintree: search blocked",
-   "Southern Exposure, Twisted Tree Farm, Perfect Circle Farm, Prairie Moon ramps and the NJ native nurseries were not reached tonight.",
-   "Johnny's, Grow Organic and Raintree shipping costs are not published on the pages read."
+   "Rhubarb hardiness and origins mostly undocumented in the sources opened; Timperley Early has only one source (Wikipedia list)",
+   "Skorospelka, Golden Nugget, Smooth Garnet, Glaskin's Perpetual and Jersey Gem/General seen but not added (thin or unopened sources)",
+   "'Fuseau' added as an alias of White Fuseau on the assumption that the plain name means the white form"
   ],
-  "checked": [
-   "baker-creek",
-   "cultivariable",
-   "edible-acres",
-   "efn",
-   "fedco-seeds",
-   "fedco-trees",
-   "one-green-world",
-   "plant-detectives",
-   "planting-justice",
-   "prairie-moon",
-   "sow-true-seed",
-   "strictly-medicinal",
-   "territorial-seed",
-   "truelove-seeds"
-  ],
+  "checked": [],
   "held": [],
   "notes": [
-   "Added three new sellers, Johnny's Selected Seeds (Mary Washington, Tallems and Millennium asparagus crowns), Grow Organic (Purple Passion, Atlas and Mary Washington asparagus, Crimson Red rhubarb, horseradish cuttings, sunchoke tubers) and Raintree Nursery (Purple Passion and Millennium asparagus)",
-   "Grow Organic and Raintree are sold out until spring pre-order"
+   "Catalog deep dive on perennial vegetables added six asparagus (Jersey Giant, Jersey Supreme, Apollo, Viking, Pacific Purple, Pacific 2000), five rhubarbs (Canada Red, Valentine, MacDonald, Cherry Red, Timperley Early) and four sunchokes (Dwarf Sunray, Jack's Copperclad, Beaver Valley Purple, Clearwater)"
   ]
  },
  "history_log": [
-  "Nov 13: New listings at One Green World: Sea kale ($13.95), Colewort (sold out), Skirret (sold out), Sunchoke ($12.95), Victoria rhubarb (sold out), Purple Passion asparagus ($19.95), Sweet Purple asparagus (sold out), Mary Washington asparagus (sold out) and 8 more; New listings at Planting Justice: Horseradish ($8), Red Welsh onion ($9), Welsh onion ($8), Stinging nettle ($8), McCullar's White walking onion ($10), Han Chung garlic chives ($10), Good King Henry (sold out), Perennial leek (sold out) and 20 more; New listings at Strictly Medicinal Seeds: Skirret ($13.60), Good King Henry (sold out), French sorrel (sold out), Walking onion ($9.90), Bear's garlic (sold out), Garlic chives ($13.60), Lovage ($13.60), Asparagus ($13.60) and 14 more; New listings at Experimental Farm Network: Turkish rocket seeds (sold out), Skirret seeds (sold out), Good King Henry seeds (sold out), Homesteader's Kaleidoscopic Perennial kale seeds ($5), The Next Homesteader's Kaleidoscopic Perennial kale seeds ($5.25), Welsh onion seeds ($4), Nodding onion seeds ($4), Garlic chives seeds ($3.75) and 8 more; New listings at Truelove Seeds: Skirret seeds ($5), Stinging nettle seeds ($5); New listings at Prairie Moon Nursery: Sochan seeds ($3.50); New listings at Sow True Seed: Sochan seeds (sold out); New listings at Cultivariable: Skirret seeds (sold out); New listings at Baker Creek Heirloom Seeds: Mary Washington asparagus seeds ($3.25), Conover's Colossal asparagus seeds ($4), Précoce d'Argenteuil asparagus seeds ($4), Green de Belleville sorrel seeds ($3.50), Red-veined sorrel seeds ($3.50); New listings at Territorial Seed Company: Sea kale ($24.95), Kosmic Kale ($8.65), Walking onion ($19.95), Sunchoke ($24.95), Crimson Red rhubarb ($20.95), Millennium asparagus ($44.95), Purple Passion asparagus ($44.95), Walker Deluxe asparagus ($44.95) and 7 more; New listings at Edible Acres: Sochan (sold out), Sea kale (sold out), Good King Henry (sold out), Horseradish (sold out), Garden sorrel (sold out), Groundnut (sold out), Crosnes (sold out), Turkish rocket (sold out) and 2 more; New listings at Fedco Seeds: Garden sorrel seeds (closed for the season), Turkish rocket seeds (closed for the season), Good King Henry seeds (sold out), Sea kale seeds (sold out), Caucasian mountain spinach seeds (sold out), Skirret seeds (sold out); New listings at Fedco Trees: Millennium asparagus (unconfirmed); New listings at Plant Detectives: Sochan ($19.99); New listings at Johnny's Selected Seeds: Mary Washington asparagus ($53), Tallems asparagus ($53.35), Millennium asparagus ($55.25); New listings at Grow Organic: Purple Passion asparagus (sold out), Atlas asparagus (sold out), Mary Washington asparagus (sold out), Crimson Red rhubarb (sold out), Horseradish (sold out), Sunchoke (sold out); New listings at Raintree Nursery: Purple Passion asparagus (sold out), Millennium asparagus (sold out); Added three new sellers, Johnny's Selected Seeds (Mary Washington, Tallems and Millennium asparagus crowns), Grow Organic (Purple Passion, Atlas and Mary Washington asparagus, Crimson Red rhubarb, horseradish cuttings, sunchoke tubers) and Raintree Nursery (Purple Passion and Millennium asparagus); Grow Organic and Raintree are sold out until spring pre-order"
+  "Nov 13: New listings at One Green World: Sea kale ($13.95), Colewort (sold out), Skirret (sold out), Sunchoke ($12.95), Victoria rhubarb (sold out), Purple Passion asparagus ($19.95), Sweet Purple asparagus (sold out), Mary Washington asparagus (sold out) and 8 more; New listings at Planting Justice: Horseradish ($8), Red Welsh onion ($9), Welsh onion ($8), Stinging nettle ($8), McCullar's White walking onion ($10), Han Chung garlic chives ($10), Good King Henry (sold out), Perennial leek (sold out) and 20 more; New listings at Strictly Medicinal Seeds: Skirret ($13.60), Good King Henry (sold out), French sorrel (sold out), Walking onion ($9.90), Bear's garlic (sold out), Garlic chives ($13.60), Lovage ($13.60), Asparagus ($13.60) and 14 more; New listings at Experimental Farm Network: Turkish rocket seeds (sold out), Skirret seeds (sold out), Good King Henry seeds (sold out), Homesteader's Kaleidoscopic Perennial kale seeds ($5), The Next Homesteader's Kaleidoscopic Perennial kale seeds ($5.25), Welsh onion seeds ($4), Nodding onion seeds ($4), Garlic chives seeds ($3.75) and 8 more; New listings at Truelove Seeds: Skirret seeds ($5), Stinging nettle seeds ($5); New listings at Prairie Moon Nursery: Sochan seeds ($3.50); New listings at Sow True Seed: Sochan seeds (sold out); New listings at Cultivariable: Skirret seeds (sold out); New listings at Baker Creek Heirloom Seeds: Mary Washington asparagus seeds ($3.25), Conover's Colossal asparagus seeds ($4), Précoce d'Argenteuil asparagus seeds ($4), Green de Belleville sorrel seeds ($3.50), Red-veined sorrel seeds ($3.50); New listings at Territorial Seed Company: Sea kale ($24.95), Kosmic Kale ($8.65), Walking onion ($19.95), Sunchoke ($24.95), Crimson Red rhubarb ($20.95), Millennium asparagus ($44.95), Purple Passion asparagus ($44.95), Walker Deluxe asparagus ($44.95) and 7 more; New listings at Edible Acres: Sochan (sold out), Sea kale (sold out), Good King Henry (sold out), Horseradish (sold out), Garden sorrel (sold out), Groundnut (sold out), Crosnes (sold out), Turkish rocket (sold out) and 2 more; New listings at Fedco Seeds: Garden sorrel seeds (closed for the season), Turkish rocket seeds (closed for the season), Good King Henry seeds (sold out), Sea kale seeds (sold out), Caucasian mountain spinach seeds (sold out), Skirret seeds (sold out); New listings at Fedco Trees: Millennium asparagus (unconfirmed); New listings at Plant Detectives: Sochan ($19.99); New listings at Johnny's Selected Seeds: Mary Washington asparagus ($53), Tallems asparagus ($53.35), Millennium asparagus ($55.25); New listings at Grow Organic: Purple Passion asparagus (sold out), Atlas asparagus (sold out), Mary Washington asparagus (sold out), Crimson Red rhubarb (sold out), Horseradish (sold out), Sunchoke (sold out); New listings at Raintree Nursery: Purple Passion asparagus (sold out), Millennium asparagus (sold out); Added three new sellers, Johnny's Selected Seeds (Mary Washington, Tallems and Millennium asparagus crowns), Grow Organic (Purple Passion, Atlas and Mary Washington asparagus, Crimson Red rhubarb, horseradish cuttings, sunchoke tubers) and Raintree Nursery (Purple Passion and Millennium asparagus); Grow Organic and Raintree are sold out until spring pre-order",
+  "Nov 19: Catalog deep dive on perennial vegetables added six asparagus (Jersey Giant, Jersey Supreme, Apollo, Viking, Pacific Purple, Pacific 2000), five rhubarbs (Canada Red, Valentine, MacDonald, Cherry Red, Timperley Early) and four sunchokes (Dwarf Sunray, Jack's Copperclad, Beaver Valley Purple, Clearwater)"
  ],
  "sources": {
   "directories": [
@@ -69,7 +52,8 @@
    "Territorial Seed: confirm how many crowns or roots are in each asparagus and horseradish bundle.",
    "Stark Bro's: asparagus crowns, rhubarb, horseradish (page wouldn't load Nov 13).",
    "Johnny's Selected Seeds: rhubarb and horseradish pages (only asparagus checked Nov 13).",
-   "Raintree Nursery: other perennial vegetable pages (only the collection page was read Nov 13)."
+   "Raintree Nursery: other perennial vegetable pages (only the collection page was read Nov 13).",
+   "Prairie Gardens (Alberta): 'Beaver Valley Purple' sunchoke appears in search results, not on file (Canadian; check US shipping)"
   ],
   "dead": []
  },
@@ -834,7 +818,9 @@
     "Sunchoke",
     "Named cultivar"
    ],
-   "aliases": [],
+   "aliases": [
+    "Fuseau"
+   ],
    "summary": "Smooth, elongated white tubers.",
    "description": "Variety with smooth, elongated white tubers and few knobs. North American sunflower relative, 6 to 10 feet tall, that makes knobby edible tubers. Very productive, and it comes back from any tuber left in the ground. Also sold as Jerusalem artichoke. Hardy to zone 3.",
    "breeder": null,
@@ -1897,6 +1883,431 @@
    "awards": [],
    "first_seen": "2026-11-13",
    "notes": []
+  },
+  {
+   "id": "jersey-giant-asparagus",
+   "name": "Jersey Giant asparagus",
+   "crop": "asparagus",
+   "crop_name": "Asparagus",
+   "latin": "Asparagus officinalis",
+   "kind": "shoot",
+   "named": true,
+   "sold": "plant",
+   "tags": [
+    "Asparagus",
+    "Named cultivar"
+   ],
+   "aliases": [],
+   "summary": "All-male Rutgers hybrid with rust resistance and Fusarium tolerance.",
+   "description": "All-male hybrid patented by Rutgers University in 1985, bred in New Jersey. Green spears; in Rutgers trials on Fusarium-infested New Jersey soil it gave about double the marketable yield of Mary Washington. Disease-resistant to rust, with good field tolerance to Fusarium crown and root rot, and widely adapted.",
+   "one_liner": "The all-male Rutgers hybrid bred on New Jersey soil",
+   "refs": [
+    "https://patents.google.com/patent/USPP5551"
+   ],
+   "breeder": {
+    "name": "Rutgers University",
+    "kind": "university",
+    "short": "Rutgers"
+   },
+   "awards": [],
+   "notes": [],
+   "fruit": "perennial",
+   "first_seen": "2026-11-19"
+  },
+  {
+   "id": "jersey-supreme-asparagus",
+   "name": "Jersey Supreme asparagus",
+   "crop": "asparagus",
+   "crop_name": "Asparagus",
+   "latin": "Asparagus officinalis",
+   "kind": "shoot",
+   "named": true,
+   "sold": "plant",
+   "tags": [
+    "Asparagus",
+    "Named cultivar"
+   ],
+   "aliases": [],
+   "summary": "Early, high-yielding all-male hybrid with rust resistance.",
+   "description": "All-male F1 hybrid from Jersey Asparagus Farms, listed in 2002. Early-ripening, high-yielding green spears of medium to medium-large size, with slightly purple bracts in cool weather. Disease-resistant to rust and adapted to both warm and cool temperate climates.",
+   "one_liner": "The early all-male hybrid, about a week ahead of Jersey Knight",
+   "refs": [
+    "https://cucurbitbreeding.wordpress.ncsu.edu/2016/05/23/asparagus/"
+   ],
+   "breeder": {
+    "name": "Jersey Asparagus Farms",
+    "kind": "breeder",
+    "short": "Jersey Asparagus"
+   },
+   "awards": [],
+   "notes": [],
+   "fruit": "perennial",
+   "first_seen": "2026-11-19"
+  },
+  {
+   "id": "apollo-asparagus",
+   "name": "Apollo asparagus",
+   "crop": "asparagus",
+   "crop_name": "Asparagus",
+   "latin": "Asparagus officinalis",
+   "kind": "shoot",
+   "named": true,
+   "sold": "plant",
+   "tags": [
+    "Asparagus",
+    "Named cultivar"
+   ],
+   "aliases": [],
+   "summary": "Early, vigorous hybrid with tight purple-tinged tips.",
+   "description": "Hybrid from California Asparagus Seed and Transplants. Early-ripening and vigorous, with green spears that taper to a tight head tinged purple at the tip. Disease-resistant to Fusarium and asparagus rust.",
+   "one_liner": "The early, vigorous one with rust and Fusarium resistance",
+   "refs": [
+    "https://cucurbitbreeding.wordpress.ncsu.edu/2016/05/23/asparagus/"
+   ],
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "fruit": "perennial",
+   "first_seen": "2026-11-19"
+  },
+  {
+   "id": "viking-asparagus",
+   "name": "Viking asparagus",
+   "crop": "asparagus",
+   "crop_name": "Asparagus",
+   "latin": "Asparagus officinalis",
+   "kind": "shoot",
+   "named": true,
+   "sold": "plant",
+   "tags": [
+    "Asparagus",
+    "Named cultivar"
+   ],
+   "aliases": [],
+   "summary": "Old Canadian selection of Mary Washington with large spears.",
+   "description": "Selected from Mary Washington stock at the Horticultural Experiment Station in Vineland, Ontario, and released in 1945. Large, slightly paler green spears on vigorous plants with heavy yields, and considerable resistance to rust. Generally adapted.",
+   "one_liner": "The old Ontario selection with big spears and heavy yields",
+   "refs": [
+    "https://cucurbitbreeding.wordpress.ncsu.edu/2016/05/23/asparagus/"
+   ],
+   "breeder": {
+    "name": "Horticultural Experiment Station, Vineland, Ontario",
+    "kind": "university",
+    "short": "Vineland"
+   },
+   "awards": [],
+   "notes": [],
+   "fruit": "perennial",
+   "first_seen": "2026-11-19"
+  },
+  {
+   "id": "pacific-purple-asparagus",
+   "name": "Pacific Purple asparagus",
+   "crop": "asparagus",
+   "crop_name": "Asparagus",
+   "latin": "Asparagus officinalis",
+   "kind": "shoot",
+   "named": true,
+   "sold": "plant",
+   "tags": [
+    "Asparagus",
+    "Named cultivar"
+   ],
+   "aliases": [],
+   "summary": "Sweet, low-fiber purple asparagus from New Zealand.",
+   "description": "Purple asparagus bred by Aspara Pacific in New Zealand. Thick purple spears with very high sugar content and low fiber, tender enough to eat raw, and one of the highest-yielding purple types. Sellers report good Fusarium resistance; seed-grown plants include females, so crowns are the usual way to buy it.",
+   "one_liner": "The sweet purple one from New Zealand, tender enough to eat raw",
+   "refs": [
+    "https://victoriananursery.co.uk/Asparagus-Plant-Pacific-Purple",
+    "https://www.plantsofdistinction.co.uk/vegetables-a-z/vegetables-a-z/asparagus-pacific-purple-f1-0101"
+   ],
+   "breeder": {
+    "name": "Aspara Pacific",
+    "kind": "breeder",
+    "short": "Aspara Pacific"
+   },
+   "awards": [],
+   "notes": [],
+   "color": "purple",
+   "fruit": "perennial",
+   "first_seen": "2026-11-19"
+  },
+  {
+   "id": "pacific-2000-asparagus",
+   "name": "Pacific 2000 asparagus",
+   "crop": "asparagus",
+   "crop_name": "Asparagus",
+   "latin": "Asparagus officinalis",
+   "kind": "shoot",
+   "named": true,
+   "sold": "plant",
+   "tags": [
+    "Asparagus",
+    "Named cultivar"
+   ],
+   "aliases": [],
+   "summary": "All-male New Zealand hybrid with tender, stringless green spears.",
+   "description": "Vigorous all-male asparagus bred in New Zealand. Thick, upright, uniform mid-green spears, noted for flavor and a tender, stringless texture, with heavy yields. Long-lived crowns take two to five years to reach full production.",
+   "one_liner": "The all-male New Zealand green known for tender, stringless spears",
+   "refs": [
+    "https://www.rhs.org.uk/plants/269532/asparagus-officinalis-pacific-2000/details"
+   ],
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "fruit": "perennial",
+   "first_seen": "2026-11-19"
+  },
+  {
+   "id": "canada-red-rhubarb",
+   "name": "Canada Red rhubarb",
+   "crop": "rhubarb",
+   "crop_name": "Rhubarb",
+   "latin": "Rheum × hybridum",
+   "kind": "stalk",
+   "named": true,
+   "sold": "plant",
+   "tags": [
+    "Rhubarb",
+    "Named cultivar"
+   ],
+   "aliases": [
+    "Chipman's Canada Red",
+    "Chipman's Canadian Red"
+   ],
+   "summary": "Short, slender, very sweet red stalks with few seed stalks.",
+   "description": "Red-stalked rhubarb first introduced in Canada and long popular. Stalks are shorter and more slender than most but tender and very sweet, with good red color and few seed stalks.",
+   "one_liner": "The sweet red Canadian one that rarely goes to seed",
+   "refs": [
+    "https://hort.extension.wisc.edu/articles/rhubarb-rheum-rhabarbarum/",
+    "https://en.wikipedia.org/wiki/List_of_rhubarb_cultivars"
+   ],
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "fruit": "perennial",
+   "first_seen": "2026-11-19"
+  },
+  {
+   "id": "valentine-rhubarb",
+   "name": "Valentine rhubarb",
+   "crop": "rhubarb",
+   "crop_name": "Rhubarb",
+   "latin": "Rheum × hybridum",
+   "kind": "stalk",
+   "named": true,
+   "sold": "plant",
+   "tags": [
+    "Rhubarb",
+    "Named cultivar"
+   ],
+   "aliases": [],
+   "summary": "Broad, deep red, low-acid stalks that stay rosy when cooked.",
+   "description": "Red rhubarb with broad, deep red stalks that keep a rosy color when cooked. Much less acid than green-stalked and many other red varieties, with few or no seed stalks, and good for freezing. Recommended for home gardens by Iowa State.",
+   "one_liner": "The low-acid red one that keeps its color in the pie",
+   "refs": [
+    "https://hort.extension.wisc.edu/articles/rhubarb-rheum-rhabarbarum/",
+    "https://en.wikipedia.org/wiki/List_of_rhubarb_cultivars",
+    "https://yardandgarden.extension.iastate.edu/faq/what-are-best-rhubarb-varieties-home-gardens"
+   ],
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "fruit": "perennial",
+   "first_seen": "2026-11-19"
+  },
+  {
+   "id": "macdonald-rhubarb",
+   "name": "MacDonald rhubarb",
+   "crop": "rhubarb",
+   "crop_name": "Rhubarb",
+   "latin": "Rheum × hybridum",
+   "kind": "stalk",
+   "named": true,
+   "sold": "plant",
+   "tags": [
+    "Rhubarb",
+    "Named cultivar"
+   ],
+   "aliases": [
+    "Macdonald"
+   ],
+   "summary": "Productive red rhubarb with tender-skinned, brilliant red stalks.",
+   "description": "Red-stalked rhubarb that produces well, with tender skin on brilliant red stalks and excellent flavor. Recommended as a red-stalked choice for home gardens by Iowa State.",
+   "one_liner": "The productive one with tender, brilliant red stalks",
+   "refs": [
+    "https://hort.extension.wisc.edu/articles/rhubarb-rheum-rhabarbarum/",
+    "https://yardandgarden.extension.iastate.edu/faq/what-are-best-rhubarb-varieties-home-gardens",
+    "https://en.wikipedia.org/wiki/List_of_rhubarb_cultivars"
+   ],
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "fruit": "perennial",
+   "first_seen": "2026-11-19"
+  },
+  {
+   "id": "cherry-red-rhubarb",
+   "name": "Cherry Red rhubarb",
+   "crop": "rhubarb",
+   "crop_name": "Rhubarb",
+   "latin": "Rheum × hybridum",
+   "kind": "stalk",
+   "named": true,
+   "sold": "plant",
+   "tags": [
+    "Rhubarb",
+    "Named cultivar"
+   ],
+   "aliases": [
+    "Cherry",
+    "Early Cherry"
+   ],
+   "summary": "Vigorous rhubarb with long, thick stalks red inside and out.",
+   "description": "Vigorous rhubarb with long, thick stalks that are rich red inside and out. Juicy and tender; Wisconsin Extension calls it sweet, while other descriptions call it tart.",
+   "one_liner": "The big one with stalks red all the way through",
+   "refs": [
+    "https://hort.extension.wisc.edu/articles/rhubarb-rheum-rhabarbarum/",
+    "https://en.wikipedia.org/wiki/List_of_rhubarb_cultivars"
+   ],
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "fruit": "perennial",
+   "first_seen": "2026-11-19"
+  },
+  {
+   "id": "timperley-early-rhubarb",
+   "name": "Timperley Early rhubarb",
+   "crop": "rhubarb",
+   "crop_name": "Rhubarb",
+   "latin": "Rheum × hybridum",
+   "kind": "stalk",
+   "named": true,
+   "sold": "plant",
+   "tags": [
+    "Rhubarb",
+    "Named cultivar"
+   ],
+   "aliases": [],
+   "summary": "Very early English rhubarb with thick, red-to-green stems.",
+   "description": "Old English rhubarb known for very early growth in spring. High-yielding, with thick stems that run from deep red at the base to light green flecked with red.",
+   "one_liner": "The very early one for the first rhubarb of spring",
+   "refs": [
+    "https://en.wikipedia.org/wiki/List_of_rhubarb_cultivars"
+   ],
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "fruit": "perennial",
+   "first_seen": "2026-11-19"
+  },
+  {
+   "id": "dwarf-sunray-sunchoke",
+   "name": "Dwarf Sunray sunchoke",
+   "crop": "sunchoke",
+   "crop_name": "Sunchoke",
+   "latin": "Helianthus tuberosus",
+   "kind": "tuber",
+   "named": true,
+   "sold": "plant",
+   "tags": [
+    "Sunchoke",
+    "Named cultivar"
+   ],
+   "aliases": [],
+   "summary": "White-tubered type that flowers freely; heavy yields in an Ohio trial.",
+   "description": "White-skinned sunchoke that flowers freely and is sold for flower borders as a shorter type, though in an Ohio State trial it reached about 8 feet. In that trial it made the largest average tubers and about 16 lb of tubers per plant, and bloomed from early summer.",
+   "one_liner": "The free-flowering white one with big tubers",
+   "refs": [
+    "https://ohioline.osu.edu/factsheet/anr-0170",
+    "https://garden.org/learn/howto/grow/sunroots/"
+   ],
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "fruit": "perennial",
+   "first_seen": "2026-11-19"
+  },
+  {
+   "id": "jacks-copperclad-sunchoke",
+   "name": "Jack's Copperclad sunchoke",
+   "crop": "sunchoke",
+   "crop_name": "Sunchoke",
+   "latin": "Helianthus tuberosus",
+   "kind": "tuber",
+   "named": true,
+   "sold": "plant",
+   "tags": [
+    "Sunchoke",
+    "Named cultivar"
+   ],
+   "aliases": [],
+   "summary": "Short, slow-growing type with dark red tubers.",
+   "description": "Red-skinned sunchoke with a darker red hue than most. In an Ohio State trial it was the shortest and slowest-growing variety, under 4 feet by fall, low-branching and suited to small gardens or containers, with small tubers and a lighter yield.",
+   "one_liner": "The short red one for small gardens and containers",
+   "refs": [
+    "https://ohioline.osu.edu/factsheet/anr-0170"
+   ],
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "fruit": "perennial",
+   "first_seen": "2026-11-19"
+  },
+  {
+   "id": "beaver-valley-purple-sunchoke",
+   "name": "Beaver Valley Purple sunchoke",
+   "crop": "sunchoke",
+   "crop_name": "Sunchoke",
+   "latin": "Helianthus tuberosus",
+   "kind": "tuber",
+   "named": true,
+   "sold": "plant",
+   "tags": [
+    "Sunchoke",
+    "Named cultivar"
+   ],
+   "aliases": [
+    "Beaver Valley"
+   ],
+   "summary": "Red-purple tubers on a mid-height, low-branching plant.",
+   "description": "Red-skinned sunchoke passed around by small permaculture farms. In an Ohio State trial it grew to about 6.5 feet, branched low and suited small gardens, bloomed in July, and gave a modest yield of medium tubers.",
+   "one_liner": "The mid-height red one for smaller gardens",
+   "refs": [
+    "https://ohioline.osu.edu/factsheet/anr-0170"
+   ],
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "fruit": "perennial",
+   "first_seen": "2026-11-19"
+  },
+  {
+   "id": "clearwater-sunchoke",
+   "name": "Clearwater sunchoke",
+   "crop": "sunchoke",
+   "crop_name": "Sunchoke",
+   "latin": "Helianthus tuberosus",
+   "kind": "tuber",
+   "named": true,
+   "sold": "plant",
+   "tags": [
+    "Sunchoke",
+    "Named cultivar"
+   ],
+   "aliases": [],
+   "summary": "Long tubers with fewer knobs, easier to clean.",
+   "description": "Sunchoke selection with relatively long tubers and fewer knobs than French Mammoth White, making them easier to clean and peel. Like other sunchokes it is very hardy and comes back from tubers left in the ground.",
+   "one_liner": "The smoother one that's easier to scrub and peel",
+   "refs": [
+    "https://gardening.usask.ca/gardening-advice/gardenline-nested-pages/food-plant-pages/vegetables/jerusalem-artichoke.php"
+   ],
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "fruit": "perennial",
+   "first_seen": "2026-11-19"
   }
  ],
  "listings": [
