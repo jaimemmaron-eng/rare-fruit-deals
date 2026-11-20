@@ -1,13 +1,13 @@
 {
  "fruit": "asianpear",
- "updated": "2026-11-16",
+ "updated": "2026-11-19",
  "scope": "Named Asian pear cultivars (Pyrus pyrifolia, P. bretschneideri and Asian-type hybrids such as Juicy Jewel) shippable to Annandale, NJ (zone 6b/7a). Trees grafted on callery pear (Pyrus calleryana, invasive in NJ) are left out, and so are Asian × European crosses sold as such (Maxie) and multi-variety combo trees. Most Asian pears need a second variety that blooms at the same time; known bad pairs are Nijisseiki × Kikusui, Shinsui × Kikusui, Hosui × Niitaka and Kosui × Shinsui, and Niitaka can't pollinate others.",
  "last_run": {
-  "date": "2026-11-16",
-  "summary": "Sold out at One Green World: Yoinashi.",
+  "date": "2026-11-19",
+  "summary": "No stock or price changes at the 1 nurseries checked.",
   "gaps": [],
   "checked": [
-   "one-green-world"
+   "restoring-eden"
   ],
   "held": [],
   "notes": []
@@ -34,7 +34,8 @@
   "Nov 2: Back in stock at Adams County Nursery: Atago $35, Hosui $35, Juicy Jewel $35, Kosui $35, Niitaka $35; Sold out at Edible Landscaping: Shin Li; Sold out at Trees of Antiquity: Shinko; Sold out at One Green World: Kosui, Niitaka, Seuri; Price changes at Trees of Antiquity: Atago $52.95 → $55.95, Hosui $52.95 → $55.95; Price changes at Cummins Nursery: Hosui $45.75 → $50",
   "Nov 5: Back in stock at One Green World: Hosui $39.95, Kikusui $39.95, Kosui $39.95",
   "Nov 9: Price changes at Stark Bro's Nurseries: Hosui $57.99 → $64.99; Price changes at Willis Orchard Co.: Chojuro $39.95 → $34.95; New listings at Plant Me Green: Kikusui (sold out), Korean Giant (unconfirmed), Shinko (unconfirmed), Shinseiki (unconfirmed); New listings at One Green World: Yoinashi ($44.95); New listings at Mehrabyan Nursery: Nijisseiki ($29.95); New listings at Burnt Ridge Nursery: Shinseiki (unconfirmed); Found Plant Me Green (potted Kikusui, Korean Giant, Shinko and Shinseiki, $15 flat shipping) and added Yoinashi at One Green World, Twentieth Century at Mehrabyan and Shinseiki at Burnt Ridge; Forestfarm and Blooming Junction had nothing in scope; New seller Plant Me Green (Kikusui sold out",
-  "Nov 16: Sold out at One Green World: Yoinashi"
+  "Nov 16: Sold out at One Green World: Yoinashi",
+  "Nov 19: no changes at the 1 nurseries checked"
  ],
  "sources": {
   "directories": [
@@ -3548,7 +3549,7 @@
    "price_confirmed": true,
    "url": "https://restoringeden.co/product/asian-pear-tree-hosui-2/",
    "first_seen": "2026-10-04",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-19",
    "notes": [
     "Stock not shown online."
    ],
@@ -3576,7 +3577,7 @@
    "price_confirmed": true,
    "url": "/product/asian-pear-chojuro/",
    "first_seen": "2026-10-04",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-19",
    "notes": [
     "Product page has Add to cart; variant-level stock not shown"
    ],
@@ -3603,7 +3604,7 @@
    "price_confirmed": true,
    "url": "https://restoringeden.co/product-category/fruit-trees/asian-pear/",
    "first_seen": "2026-10-04",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-19",
    "notes": [
     "WC store API is_in_stock true; variant-level stock not shown"
    ],
@@ -3635,7 +3636,7 @@
    "price_confirmed": true,
    "url": "https://restoringeden.co/product-category/fruit-trees/asian-pear/",
    "first_seen": "2026-10-04",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-19",
    "notes": [
     "WC store API is_in_stock true; variant-level stock not shown"
    ],
@@ -3662,7 +3663,7 @@
    "price_confirmed": true,
    "url": "https://restoringeden.co/product-category/fruit-trees/asian-pear/",
    "first_seen": "2026-10-04",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-19",
    "notes": [
     "WC store API is_in_stock true; variant-level stock not shown"
    ],
@@ -3689,7 +3690,7 @@
    "price_confirmed": true,
    "url": "/product/asian-pear-tree-20th-century-2/",
    "first_seen": "2026-10-04",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-19",
    "notes": [
     "Stock not shown online."
    ],
@@ -3716,7 +3717,7 @@
    "price_confirmed": true,
    "url": "https://restoringeden.co/product-category/fruit-trees/asian-pear/",
    "first_seen": "2026-10-04",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-19",
    "notes": [
     "WC store API is_in_stock true; variant-level stock not shown"
    ],
@@ -3743,7 +3744,7 @@
    "price_confirmed": true,
    "url": "https://restoringeden.co/product-category/fruit-trees/asian-pear/",
    "first_seen": "2026-10-04",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-19",
    "notes": [
     "WC store API is_in_stock true; variant-level stock not shown"
    ],
@@ -3770,7 +3771,7 @@
    "price_confirmed": true,
    "url": "https://restoringeden.co/product-category/fruit-trees/asian-pear/",
    "first_seen": "2026-10-04",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-19",
    "notes": [
     "WC store API is_in_stock true; variant-level stock not shown"
    ],

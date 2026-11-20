@@ -1,22 +1,18 @@
 {
  "fruit": "pawpaw",
- "updated": "2026-11-14",
+ "updated": "2026-11-19",
  "scope": "Named, grafted pawpaw (Asimina triloba) cultivars only; generic seedlings and unnamed “select” grades are left out.",
  "last_run": {
-  "date": "2026-11-14",
-  "summary": "New listings at Green Mammoth Nursery: Allegheny (sold out), Potomac (sold out), Wabash (sold out), Tallahatchie (sold out), Rappahannock (sold out), KSU Chappell (sold out), KSU Dunnigan (sold out), KSU Pomper's Choice (sold out) and 18 more. New listings at Perry Paw Paws: Sweet Alice (sold out). New listings at West Farm Nursery: Lehman's Delight (275-48) (closed for the season). No new sellers with named pawpaws. Valley View Woodlands, Lily Patch Farm, Napa Orchard and Pawpawschule had nothing usable in scope. Cleared the parked leads: Green Mammoth's full 2027 grafted list, West Farm's Lehman's Delight and Perry Paw Paws' Sweet Alice are now on file. The Bob Wells, Edible Landscaping, Elmore Roots and Mehrabyan items are generic seedlings.",
+  "date": "2026-11-19",
+  "summary": "No stock or price changes at the 1 nurseries checked.",
   "gaps": [
-   "Perry Paw Paws' Jerry's Delight (250-30) was not seen on page 4 of its shop (pages 1-3 and 5 unread tonight); West Farm and Green Mammoth also list varieties not on file (Jerry's Delight 250-30, Betria, Danae's Creekside, Golden Moon) that need a sourced description before adding.",
-   "Valley View Woodlands' page blocks automated reading."
+   "one-green-world: stock status unclear: store API and product pages disagree"
   ],
-  "checked": [],
+  "checked": [
+   "restoring-eden"
+  ],
   "held": [],
-  "notes": [
-   "No new sellers with named pawpaws",
-   "Valley View Woodlands, Lily Patch Farm, Napa Orchard and Pawpawschule had nothing usable in scope",
-   "Cleared the parked leads: Green Mammoth's full 2027 grafted list, West Farm's Lehman's Delight and Perry Paw Paws' Sweet Alice are now on file",
-   "The Bob Wells, Edible Landscaping, Elmore Roots and Mehrabyan items are generic seedlings"
-  ]
+  "notes": []
  },
  "history_log": [
   "Sep 15: seeded (Perry Paw Paws, Madison Citrus Nursery, One Green World).",
@@ -57,7 +53,8 @@
   "Nov 5: no changes at the 16 nurseries checked",
   "Nov 9: Price changes at Perry Paw Paws: Valley East (VE-21) priced at $59.99, NC-1 priced at $59.99, Allegheny priced at $59.99",
   "Nov 12: New listings at Raintree Nursery: Mango ($37.99), NC-1 ($37.99), Potomac ($35.99), Rebecca's Gold ($37.99), Allegheny ($37.99); New listings at Perry Paw Paws: Mango (sold out), Florence White (sold out), Jerry's Big Girl (sold out), Lehman's Chiffon (sold out), Maria's Joy (166-13) (sold out), KSU Atwood (sold out), KSU Benson (sold out), Marshmallow (sold out) and 2 more; New listings at Restoring Eden: Valley East (VE-21) ($39.99), Jerry's Big Girl (sold out), Benny's Favorite (sold out); New listings at One Green World: Benny's Favorite ($32.95), Valley East (VE-21) ($39.95), Jerry's Big Girl (sold out); New listings at Trees of Joy: Maria's Joy (166-13) (sold out), Allegheny (sold out), KSU Benson (sold out), KSU Chappell (sold out), Taytwo (sold out); New listings at Sublime Gardens: Shenandoah (sold out); Checked 6 new sellers: Sublime Gardens (WA, pickup only) has a Shenandoah, while Feralwood, Edgewood, Possibility Place, Nativ and Garden for Wildlife had nothing in scope; Added missing named listings at Raintree, Perry Paw Paws, Restoring Eden, One Green World and Trees of Joy, and cleared the parked leads; VE-21, Benny's Favorite, Jerry's Big Girl)",
-  "Nov 14: New listings at Green Mammoth Nursery: Allegheny (sold out), Potomac (sold out), Wabash (sold out), Tallahatchie (sold out), Rappahannock (sold out), KSU Chappell (sold out), KSU Dunnigan (sold out), KSU Pomper's Choice (sold out) and 18 more; New listings at Perry Paw Paws: Sweet Alice (sold out); New listings at West Farm Nursery: Lehman's Delight (275-48) (closed for the season); No new sellers with named pawpaws; Valley View Woodlands, Lily Patch Farm, Napa Orchard and Pawpawschule had nothing usable in scope; Cleared the parked leads: Green Mammoth's full 2027 grafted list, West Farm's Lehman's Delight and Perry Paw Paws' Sweet Alice are now on file; The Bob Wells, Edible Landscaping, Elmore Roots and Mehrabyan items are generic seedlings"
+  "Nov 14: New listings at Green Mammoth Nursery: Allegheny (sold out), Potomac (sold out), Wabash (sold out), Tallahatchie (sold out), Rappahannock (sold out), KSU Chappell (sold out), KSU Dunnigan (sold out), KSU Pomper's Choice (sold out) and 18 more; New listings at Perry Paw Paws: Sweet Alice (sold out); New listings at West Farm Nursery: Lehman's Delight (275-48) (closed for the season); No new sellers with named pawpaws; Valley View Woodlands, Lily Patch Farm, Napa Orchard and Pawpawschule had nothing usable in scope; Cleared the parked leads: Green Mammoth's full 2027 grafted list, West Farm's Lehman's Delight and Perry Paw Paws' Sweet Alice are now on file; The Bob Wells, Edible Landscaping, Elmore Roots and Mehrabyan items are generic seedlings",
+  "Nov 19: no changes at the 1 nurseries checked"
  ],
  "sources": {
   "directories": [
@@ -479,7 +476,13 @@
     "source": "https://onegreenworld.com/shipping-information/",
     "note": "Shipping is “approximately $20–$25 depending on the destination state”, more for tall or heavy plants (UPS, from Portland OR)."
    },
-   "note": "Prolific not shown on the latest category page; a $69.80 “Pawpaw Tree Bundle” is also sold out."
+   "note": "Prolific not shown on the latest category page; a $69.80 “Pawpaw Tree Bundle” is also sold out.",
+   "unreadable": {
+    "since": "2026-11-19",
+    "nights": 1,
+    "last": "2026-11-19",
+    "reason": "stock status unclear: store API and product pages disagree"
+   }
   },
   {
    "id": "raintree",
@@ -3605,7 +3608,7 @@
    "price_confirmed": true,
    "url": "https://restoringeden.co/product-category/fruit-trees/pawpaw/",
    "first_seen": "2026-09-24",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-19",
    "notes": [],
    "ship_est": [
     25.0,
@@ -8846,7 +8849,7 @@
    "price_confirmed": true,
    "url": "https://restoringeden.co/product-category/fruit-trees/pawpaw/",
    "first_seen": "2026-09-18",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-19",
    "notes": [],
    "history": [
     {
@@ -8871,7 +8874,7 @@
    "price_confirmed": true,
    "url": "https://restoringeden.co/product-category/fruit-trees/pawpaw/",
    "first_seen": "2026-09-18",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-19",
    "notes": [],
    "history": [
     {
@@ -8902,7 +8905,7 @@
    "price_confirmed": true,
    "url": "https://restoringeden.co/product-category/fruit-trees/pawpaw/",
    "first_seen": "2026-09-18",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-19",
    "notes": [],
    "history": [
     {
@@ -8933,7 +8936,7 @@
    "price_confirmed": true,
    "url": "https://restoringeden.co/product-category/fruit-trees/pawpaw/",
    "first_seen": "2026-09-18",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-19",
    "notes": [],
    "history": [
     {
@@ -8958,7 +8961,7 @@
    "price_confirmed": true,
    "url": "https://restoringeden.co/product-category/fruit-trees/pawpaw/",
    "first_seen": "2026-09-18",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-19",
    "notes": [],
    "history": [
     {
@@ -8983,7 +8986,7 @@
    "price_confirmed": true,
    "url": "https://restoringeden.co/product-category/fruit-trees/pawpaw/",
    "first_seen": "2026-09-18",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-19",
    "notes": [],
    "history": [
     {
@@ -9014,7 +9017,7 @@
    "price_confirmed": true,
    "url": "https://restoringeden.co/product-category/fruit-trees/pawpaw/",
    "first_seen": "2026-09-18",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-19",
    "notes": [],
    "history": [
     {
@@ -9034,7 +9037,7 @@
    "price_confirmed": true,
    "url": "https://restoringeden.co/product-category/fruit-trees/pawpaw/",
    "first_seen": "2026-09-18",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-19",
    "notes": [],
    "history": [
     {
@@ -9065,7 +9068,7 @@
    "price_confirmed": true,
    "url": "https://restoringeden.co/product-category/fruit-trees/pawpaw/",
    "first_seen": "2026-09-18",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-19",
    "notes": [],
    "history": [
     {
@@ -9090,7 +9093,7 @@
    "price_confirmed": true,
    "url": "https://restoringeden.co/product-category/fruit-trees/pawpaw/",
    "first_seen": "2026-09-18",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-19",
    "notes": [
     "WC store API is_in_stock true"
    ],
@@ -9128,7 +9131,7 @@
    "price_confirmed": true,
    "url": "https://restoringeden.co/product-category/fruit-trees/pawpaw/",
    "first_seen": "2026-09-18",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-19",
    "notes": [],
    "history": [
     {
@@ -9148,7 +9151,7 @@
    "price_confirmed": true,
    "url": "https://restoringeden.co/product-category/fruit-trees/pawpaw/",
    "first_seen": "2026-09-18",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-19",
    "notes": [],
    "history": [
     {
@@ -9168,7 +9171,7 @@
    "price_confirmed": true,
    "url": "https://restoringeden.co/product-category/fruit-trees/pawpaw/",
    "first_seen": "2026-09-18",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-19",
    "notes": [],
    "history": [
     {
@@ -9199,7 +9202,7 @@
    "price_confirmed": true,
    "url": "https://restoringeden.co/product-category/fruit-trees/pawpaw/",
    "first_seen": "2026-09-18",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-19",
    "notes": [],
    "history": [
     {
@@ -9230,7 +9233,7 @@
    "price_confirmed": true,
    "url": "https://restoringeden.co/product-category/fruit-trees/pawpaw/",
    "first_seen": "2026-09-18",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-19",
    "notes": [],
    "history": [
     {
@@ -9261,7 +9264,7 @@
    "price_confirmed": true,
    "url": "https://restoringeden.co/product-category/fruit-trees/pawpaw/",
    "first_seen": "2026-09-18",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-19",
    "notes": [],
    "history": [
     {
@@ -9281,7 +9284,7 @@
    "price_confirmed": true,
    "url": "https://restoringeden.co/product-category/fruit-trees/pawpaw/",
    "first_seen": "2026-09-18",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-19",
    "notes": [],
    "history": [
     {
@@ -9306,7 +9309,7 @@
    "price_confirmed": true,
    "url": "https://restoringeden.co/product-category/fruit-trees/pawpaw/",
    "first_seen": "2026-09-18",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-19",
    "notes": [],
    "history": [
     {
@@ -12700,7 +12703,7 @@
    "price_confirmed": true,
    "url": "https://restoringeden.co/product/pawpaw-ve-21/",
    "first_seen": "2026-11-12",
-   "last_checked": "2026-11-12",
+   "last_checked": "2026-11-19",
    "notes": [],
    "history": [
     {
@@ -12722,7 +12725,7 @@
    "price_confirmed": true,
    "url": "https://restoringeden.co/product/pawpaw-250-39/",
    "first_seen": "2026-11-12",
-   "last_checked": "2026-11-12",
+   "last_checked": "2026-11-19",
    "notes": [
     "Listed as '250-39', also known as Jerry's Big Girl."
    ],
@@ -12745,7 +12748,7 @@
    "price_confirmed": true,
    "url": "https://restoringeden.co/product/pawpaw-275-56/",
    "first_seen": "2026-11-12",
-   "last_checked": "2026-11-12",
+   "last_checked": "2026-11-19",
    "notes": [
     "Listed as '275-56'; the page says growers call it Benny's Favorite."
    ],

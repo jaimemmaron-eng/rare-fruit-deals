@@ -1,21 +1,16 @@
 {
  "fruit": "persimmon",
- "updated": "2026-11-18",
+ "updated": "2026-11-19",
  "scope": "Named, grafted persimmons for zone 6b: American persimmon (Diospyros virginiana) cultivars, American × Asian hybrids, and Asian (D. kaki) cultivars only when a seller rates them hardy to zone 6. Most Asian types (Fuyu, Jiro, Hachiya, Giombo, Tamopan and similar) are rated zone 7+ and are left out; so are ungrafted seedlings.",
  "last_run": {
-  "date": "2026-11-18",
-  "summary": "New listings at Madison Citrus Nursery: Prok (unconfirmed), Sosnovskaya (unconfirmed), Zhima Khurma (NB-02) (unconfirmed), Saijo (unconfirmed), Journey ($44.99), Kasandra ($59.99). New listings at Roots to Fruits Nursery: Rosseyanka (unconfirmed), Prok (unconfirmed), Meader (unconfirmed), Early Golden (unconfirmed), Deer Candy (unconfirmed). Checked six more sellers (Northwoods, Nutcracker, Fedco, Willis Orchard, Ison's, TN Nursery) and none had in-scope named stock. Added six Madison Citrus listings (Prok, Sosnovskaya, Zhima Khurma, Saijo, Journey, Kasandra) and five Roots to Fruits listings (Rosseyanka, Prok, Meader, Early Golden, Deer Candy) for varieties already on file.",
-  "gaps": [
-   "Madison Citrus also sells Pamyati Chernyaeva, Bozhy Dar (UKR-15-30) and Dar Sofiyivky, but no zone rating is given (Bozhy Dar says -12 to -14 without units), so they were not added as varieties.",
-   "Madison Citrus shows 'More Are Growing' with no stock count for most trees, so those are unconfirmed.",
-   "Roots to Fruits page says bare-root trees ship spring 2027; stock not shown."
+  "date": "2026-11-19",
+  "summary": "Sold out at Restoring Eden: Meader.",
+  "gaps": [],
+  "checked": [
+   "restoring-eden"
   ],
-  "checked": [],
   "held": [],
-  "notes": [
-   "Checked six more sellers (Northwoods, Nutcracker, Fedco, Willis Orchard, Ison's, TN Nursery) and none had in-scope named stock",
-   "Added six Madison Citrus listings (Prok, Sosnovskaya, Zhima Khurma, Saijo, Journey, Kasandra) and five Roots to Fruits listings (Rosseyanka, Prok, Meader, Early Golden, Deer Candy) for varieties already on file"
-  ]
+  "notes": []
  },
  "history_log": [
   "Sep 15: hybrid persimmons first tracked alongside Asian pears (Madison Citrus, One Green World, Stark Bro's).",
@@ -48,7 +43,8 @@
   "Nov 2: Back in stock at The Farm Connection: Nikita's Gift $49.95, Early Golden $46.95",
   "Nov 5: Back in stock at Blue Hill Wildlife Nursery: Meader $39.95; Price changes at Burnt Ridge Nursery & Orchards: Deer Magnet $52.25 → $52.50; New listings at Advanced Nursery Growers: Nikita's Gift (sold out); New listings at Restoring Eden: Nikita's Gift ($39.99), Early Golden ($39.99), Meader ($39.99), Prairie Gem ($39.99), Prairie Star ($39.99), Prairie Sun (sold out), Szukis (unconfirmed); Found a new seller, Restoring Eden (WA), with six grafted American and hybrid persimmons at $39.99 (1-gallon); Izel Plants, Foraged, Elmore Roots (does not ship), iGreenThumb and Gurney's had nothing in scope; Added Restoring Eden (WA) with Nikita's Gift, Early Golden, Meader, Prairie Gem, Prairie Star, Prairie Sun (sold out) and Szukis",
   "Nov 9: Back in stock at Restoring Eden: Szukis $39.99; Sold out at Edible Landscaping: Prok",
-  "Nov 18: New listings at Madison Citrus Nursery: Prok (unconfirmed), Sosnovskaya (unconfirmed), Zhima Khurma (NB-02) (unconfirmed), Saijo (unconfirmed), Journey ($44.99), Kasandra ($59.99); New listings at Roots to Fruits Nursery: Rosseyanka (unconfirmed), Prok (unconfirmed), Meader (unconfirmed), Early Golden (unconfirmed), Deer Candy (unconfirmed); Checked six more sellers (Northwoods, Nutcracker, Fedco, Willis Orchard, Ison's, TN Nursery) and none had in-scope named stock; Added six Madison Citrus listings (Prok, Sosnovskaya, Zhima Khurma, Saijo, Journey, Kasandra) and five Roots to Fruits listings (Rosseyanka, Prok, Meader, Early Golden, Deer Candy) for varieties already on file"
+  "Nov 18: New listings at Madison Citrus Nursery: Prok (unconfirmed), Sosnovskaya (unconfirmed), Zhima Khurma (NB-02) (unconfirmed), Saijo (unconfirmed), Journey ($44.99), Kasandra ($59.99); New listings at Roots to Fruits Nursery: Rosseyanka (unconfirmed), Prok (unconfirmed), Meader (unconfirmed), Early Golden (unconfirmed), Deer Candy (unconfirmed); Checked six more sellers (Northwoods, Nutcracker, Fedco, Willis Orchard, Ison's, TN Nursery) and none had in-scope named stock; Added six Madison Citrus listings (Prok, Sosnovskaya, Zhima Khurma, Saijo, Journey, Kasandra) and five Roots to Fruits listings (Rosseyanka, Prok, Meader, Early Golden, Deer Candy) for varieties already on file",
+  "Nov 19: Sold out at Restoring Eden: Meader"
  ],
  "sources": {
   "directories": [
@@ -5677,7 +5673,7 @@
    "price_confirmed": true,
    "url": "https://restoringeden.co/product/persimmon-nikitas-gift-4-5-tall/",
    "first_seen": "2026-11-05",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-19",
    "notes": [],
    "history": [
     {
@@ -5698,7 +5694,7 @@
    "price_confirmed": true,
    "url": "https://restoringeden.co/product/american-persimmon-tree-early-golden/",
    "first_seen": "2026-11-05",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-19",
    "notes": [],
    "history": [
     {
@@ -5713,19 +5709,24 @@
    "id": "restoring-eden--meader",
    "variety": "meader",
    "nursery": "restoring-eden",
-   "status": "in_stock",
+   "status": "sold_out",
    "price": 39.99,
    "price_from": false,
    "price_confirmed": true,
    "url": "https://restoringeden.co/product/american-persimmon-tree-meader/",
    "first_seen": "2026-11-05",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-19",
    "notes": [],
    "history": [
     {
      "date": "2026-11-05",
      "price": 39.99,
      "status": "in_stock"
+    },
+    {
+     "date": "2026-11-19",
+     "price": 39.99,
+     "status": "sold_out"
     }
    ],
    "sold_as": "1-gallon, grafted on American persimmon rootstock"
@@ -5740,7 +5741,7 @@
    "price_confirmed": true,
    "url": "https://restoringeden.co/product/persimmon-prairie-gem/",
    "first_seen": "2026-11-05",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-19",
    "notes": [],
    "history": [
     {
@@ -5761,7 +5762,7 @@
    "price_confirmed": true,
    "url": "https://restoringeden.co/product/american-persimmon-tree-prairie-star/",
    "first_seen": "2026-11-05",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-19",
    "notes": [],
    "history": [
     {
@@ -5782,7 +5783,7 @@
    "price_confirmed": true,
    "url": "https://restoringeden.co/product/american-persimmon-tree-prairie-sun/",
    "first_seen": "2026-11-05",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-19",
    "notes": [],
    "history": [
     {
@@ -5803,7 +5804,7 @@
    "price_confirmed": false,
    "url": "https://restoringeden.co/product/american-persimmon-tree-szukis/",
    "first_seen": "2026-11-05",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-19",
    "notes": [
     "Stock status could not be read from the product page."
    ],

@@ -1,34 +1,13 @@
 {
  "fruit": "honeyberry",
- "updated": "2026-11-09",
+ "updated": "2026-11-19",
  "scope": "Named honeyberry / haskap (Lonicera caerulea) cultivars, shippable to Annandale, NJ (zone 6b/7a). Nearly all need a second variety that blooms at the same time, so each variety is tagged early or late bloomer where sellers agree. In zone 6–7, late bloomers (the Boreal series and the Japanese types from Maxine Thompson) usually do better; early bloomers like Tundra and Indigo Gem can open too soon and get caught by late freezes. Names overlap: Berry Blue = Czech #17 = Berry Smart Blue; Yezberry Solo = Kapu; Yezberry Maxie = Kuchi.",
  "last_run": {
-  "date": "2026-11-09",
-  "summary": "Back in stock at Stark Bro's Nurseries: Boreal Blizzard $21.99, Borealis $21.99. Back in stock at Weaver Family Farms Nursery: Aurora $39.99. Price changes at One Green World: Tundra $21.95 → $24.95, Honey Bee $21.95 → $24.95, Cinderella $21.95 → $24.95.",
-  "gaps": [
-   "burnt-ridge: no per-variety prices",
-   "gurneys: would not load",
-   "mckay-nursery: would not load",
-   "indiana-berry: would not load",
-   "native-foods-nursery: no per-variety prices",
-   "park-seed: would not load"
-  ],
+  "date": "2026-11-19",
+  "summary": "Back in stock at Restoring Eden: Blue Moon $24.99.",
+  "gaps": [],
   "checked": [
-   "berries-unlimited",
-   "edible-landscaping",
-   "food-forest-nursery",
-   "honeyberry-usa",
-   "isons",
-   "logees",
-   "nature-hills",
-   "one-green-world",
-   "peaceful-heritage",
-   "plant-addicts",
-   "raintree",
-   "restoring-eden",
-   "stark-bros",
-   "trees-com",
-   "weaver-family-farms"
+   "restoring-eden"
   ],
   "held": [],
   "notes": []
@@ -55,7 +34,8 @@
   "Nov 2: Back in stock at Honeyberry USA: Indigo Treat $15",
   "Nov 5: Back in stock at Restoring Eden: Blue Forest $24.99; Sold out at Restoring Eden: Blue Moon",
   "Nov 7: New listings at Berries Unlimited: Honey Wild (unconfirmed), Honey Gold (unconfirmed), Wild Beast (unconfirmed), Blue Cloud (unconfirmed), WildTreasure (unconfirmed), Blue Moose (unconfirmed), Happy Giant (unconfirmed); New listings at Grimm's Gardens: Borealis (sold out), Tundra (sold out), Aurora (unconfirmed); New listings at Nature Hills Nursery: Tundra (sold out), Borealis (sold out); New listings at Plant Addicts: Yezberry Honey Bunch (sold out); New sellers: Grimm's Gardens, Nature Hills Nursery (now showing Tundra and Borealis, backordered) and Plant Addicts (Yezberry Honey Bunch, sold out); Added Berries Unlimited's Honey Wild, Honey Gold, Wild Beast, Blue Cloud and WildTreasure, plus Blue Moose and Happy Giant listings",
-  "Nov 9: Back in stock at Stark Bro's Nurseries: Boreal Blizzard $21.99, Borealis $21.99; Back in stock at Weaver Family Farms Nursery: Aurora $39.99; Price changes at One Green World: Tundra $21.95 → $24.95, Honey Bee $21.95 → $24.95, Cinderella $21.95 → $24.95"
+  "Nov 9: Back in stock at Stark Bro's Nurseries: Boreal Blizzard $21.99, Borealis $21.99; Back in stock at Weaver Family Farms Nursery: Aurora $39.99; Price changes at One Green World: Tundra $21.95 → $24.95, Honey Bee $21.95 → $24.95, Cinderella $21.95 → $24.95",
+  "Nov 19: Back in stock at Restoring Eden: Blue Moon $24.99"
  ],
  "sources": {
   "directories": [
@@ -4027,7 +4007,7 @@
    "price_confirmed": true,
    "url": "https://restoringeden.co/product-category/berries/honeyberry/",
    "first_seen": "2026-10-07",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-19",
    "notes": [
     "WC store API is_in_stock false"
    ],
@@ -4065,7 +4045,7 @@
    "price_confirmed": true,
    "url": "https://restoringeden.co/product-category/berries/honeyberry/",
    "first_seen": "2026-10-07",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-19",
    "notes": [
     "Listed at $24.99; category page didn't show a clear stock indicator."
    ],
@@ -4092,7 +4072,7 @@
    "price_confirmed": true,
    "url": "https://restoringeden.co/product-category/berries/honeyberry/",
    "first_seen": "2026-10-07",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-19",
    "notes": [
     "WC store API is_in_stock true"
    ],
@@ -4131,7 +4111,7 @@
    "price_confirmed": true,
    "url": "https://restoringeden.co/product-category/berries/honeyberry/",
    "first_seen": "2026-10-07",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-19",
    "notes": [
     "WC store API is_in_stock true"
    ],
@@ -4164,13 +4144,13 @@
    "id": "restoring-eden--blue-moon",
    "variety": "blue-moon",
    "nursery": "restoring-eden",
-   "status": "sold_out",
+   "status": "in_stock",
    "price": 24.99,
    "price_from": false,
    "price_confirmed": true,
    "url": "https://restoringeden.co/product-category/berries/honeyberry/",
    "first_seen": "2026-10-07",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-19",
    "notes": [
     "WC store API is_in_stock true"
    ],
@@ -4189,6 +4169,11 @@
      "date": "2026-11-05",
      "price": 24.99,
      "status": "sold_out"
+    },
+    {
+     "date": "2026-11-19",
+     "price": 24.99,
+     "status": "in_stock"
     }
    ]
   },
@@ -4202,7 +4187,7 @@
    "price_confirmed": true,
    "url": "https://restoringeden.co/product-category/berries/honeyberry/",
    "first_seen": "2026-10-07",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-19",
    "notes": [
     "WC store API is_in_stock true"
    ],
@@ -4241,7 +4226,7 @@
    "price_confirmed": true,
    "url": "https://restoringeden.co/product-category/berries/honeyberry/",
    "first_seen": "2026-10-07",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-19",
    "notes": [
     "WC store API is_in_stock true"
    ],
@@ -4280,7 +4265,7 @@
    "price_confirmed": true,
    "url": "https://restoringeden.co/product-category/berries/honeyberry/",
    "first_seen": "2026-10-07",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-19",
    "notes": [
     "WC store API is_in_stock true"
    ],
@@ -4307,7 +4292,7 @@
    "price_confirmed": true,
    "url": "https://restoringeden.co/product-category/berries/honeyberry/",
    "first_seen": "2026-10-07",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-19",
    "notes": [
     "WC store API is_in_stock false"
    ],
@@ -4334,7 +4319,7 @@
    "price_confirmed": true,
    "url": "https://restoringeden.co/product-category/berries/honeyberry/",
    "first_seen": "2026-10-07",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-19",
    "notes": [
     "WC store API is_in_stock true"
    ],
@@ -4373,7 +4358,7 @@
    "price_confirmed": true,
    "url": "https://restoringeden.co/product-category/berries/honeyberry/",
    "first_seen": "2026-10-07",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-19",
    "notes": [
     "WC store API is_in_stock false"
    ],
@@ -4411,7 +4396,7 @@
    "price_confirmed": true,
    "url": "https://restoringeden.co/product-category/berries/honeyberry/",
    "first_seen": "2026-10-07",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-19",
    "notes": [
     "WC store API is_in_stock false"
    ],
@@ -4449,7 +4434,7 @@
    "price_confirmed": true,
    "url": "https://restoringeden.co/product-category/berries/honeyberry/",
    "first_seen": "2026-10-07",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-19",
    "notes": [
     "WC store API is_in_stock false"
    ],
@@ -4476,7 +4461,7 @@
    "price_confirmed": true,
    "url": "https://restoringeden.co/product-category/berries/honeyberry/",
    "first_seen": "2026-10-07",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-19",
    "notes": [
     "WC store API is_in_stock false"
    ],
@@ -4514,7 +4499,7 @@
    "price_confirmed": true,
    "url": "https://restoringeden.co/product-category/berries/honeyberry/",
    "first_seen": "2026-10-07",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-19",
    "notes": [
     "WC store API is_in_stock false"
    ],
@@ -4541,7 +4526,7 @@
    "price_confirmed": true,
    "url": "https://restoringeden.co/product-category/berries/honeyberry/",
    "first_seen": "2026-10-07",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-19",
    "notes": [
     "WC store API is_in_stock false"
    ],

@@ -1,43 +1,13 @@
 {
  "fruit": "gooseberry",
- "updated": "2026-11-09",
+ "updated": "2026-11-19",
  "scope": "Named gooseberry cultivars for zone 6b: American (Ribes hirtellum-type), European (R. uva-crispa) and American × European hybrids, plus gooseberry × currant hybrids (jostaberry and similar). Plain currants and unnamed species plants are left out. NJ allows gooseberries into Hunterdon County; only a few Sussex, Passaic and Morris County townships are closed to them.",
  "last_run": {
-  "date": "2026-11-09",
-  "summary": "Back in stock at Raintree Nursery: Invicta $19.99. Sold out at Secret Orchard Nursery: Jostaberry (Josta).",
-  "gaps": [
-   "burnt-ridge: no per-variety prices",
-   "isons: would not load",
-   "gurneys: would not load",
-   "bob-wells: would not load",
-   "nourse: would not load"
-  ],
+  "date": "2026-11-19",
+  "summary": "Price changes at Restoring Eden: Hinnonmaki Red $14.99 → $22.99.",
+  "gaps": [],
   "checked": [
-   "buy-shrubs-and-trees",
-   "cornell-farms",
-   "double-a",
-   "edible-landscaping",
-   "elmore-roots",
-   "food-forest",
-   "grow-organic",
-   "hartmanns",
-   "migardener",
-   "montana-fruit-trees",
-   "nature-hills",
-   "northeast-edible",
-   "one-green-world",
-   "peaceful-heritage",
-   "plant-addicts",
-   "raintree",
-   "restoring-eden",
-   "scenic-hill",
-   "secret-orchard",
-   "silver-run",
-   "st-lawrence",
-   "stark-bros",
-   "twisted-tree",
-   "wanderlust",
-   "whitman"
+   "restoring-eden"
   ],
   "held": [],
   "notes": []
@@ -72,7 +42,8 @@
   "Nov 2: Back in stock at Secret Orchard Nursery: Jostaberry (Josta) $14.99",
   "Nov 5: Price changes at Buy Shrubs and Trees: Hinnonmaki Red $49.95 → $29.95, Pixwell $49.95 → $29.95",
   "Nov 6: New listings at Cornell Farms: Hinnonmaki Yellow ($24.99), Little Ben (sold out), Black Velvet (sold out), Jahn's Prairie (sold out), Selby (sold out), Jostaberry (Josta) (sold out); Found one new in-scope seller: Cornell Farms (Portland, OR), with Hinnonmaki Yellow in stock (1 gal, $24.99, low stock) and five other listings sold out; Platt Hill, Devil Mountain, Phoenix Perennials, Whiffletree, Portland Nursery and Vermont Edible Landscapes had nothing shippable or checkable; Whitman's 'Lepaa Red' lead is already an alias of Hinnonmaki Red; New seller Cornell Farms (OR) added with Hinnonmaki Yellow, Little Ben, Black Velvet, Jahn's Prairie, Selby, Josta",
-  "Nov 9: Back in stock at Raintree Nursery: Invicta $19.99; Sold out at Secret Orchard Nursery: Jostaberry (Josta)"
+  "Nov 9: Back in stock at Raintree Nursery: Invicta $19.99; Sold out at Secret Orchard Nursery: Jostaberry (Josta)",
+  "Nov 19: Price changes at Restoring Eden: Hinnonmaki Red $14.99 → $22.99"
  ],
  "sources": {
   "directories": [
@@ -3760,7 +3731,7 @@
    "price_confirmed": true,
    "url": "https://restoringeden.co/product/gooseberry-captivator/",
    "first_seen": "2026-09-28",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-19",
    "notes": [],
    "history": [
     {
@@ -3791,7 +3762,7 @@
    "price_confirmed": true,
    "url": "https://restoringeden.co/product/gooseberry-hinnomaki-yellow/",
    "first_seen": "2026-09-28",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-19",
    "notes": [],
    "history": [
     {
@@ -3811,7 +3782,7 @@
    "price_confirmed": true,
    "url": "https://restoringeden.co/product/gooseberry-amish-red/",
    "first_seen": "2026-09-28",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-19",
    "notes": [
     "WC store API is_in_stock false"
    ],
@@ -3849,7 +3820,7 @@
    "price_confirmed": true,
    "url": "https://restoringeden.co/product/gooseberry-black-velvet/",
    "first_seen": "2026-09-28",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-19",
    "notes": [
     "WC store API is_in_stock false"
    ],
@@ -3876,7 +3847,7 @@
    "price_confirmed": true,
    "url": "https://restoringeden.co/product/gooseberry-friend/",
    "first_seen": "2026-09-28",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-19",
    "notes": [
     "WC store API is_in_stock false"
    ],
@@ -3898,12 +3869,12 @@
    "variety": "hinnonmaki-red",
    "nursery": "restoring-eden",
    "status": "sold_out",
-   "price": 14.99,
+   "price": 22.99,
    "price_from": false,
    "price_confirmed": true,
    "url": "https://restoringeden.co/product/gooseberry-hinnonmaki-red/",
    "first_seen": "2026-09-28",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-19",
    "notes": [
     "WC store API is_in_stock false"
    ],
@@ -3916,6 +3887,11 @@
     {
      "date": "2026-10-15",
      "price": 14.99,
+     "status": "sold_out"
+    },
+    {
+     "date": "2026-11-19",
+     "price": 22.99,
      "status": "sold_out"
     }
    ]
@@ -3930,7 +3906,7 @@
    "price_confirmed": true,
    "url": "https://restoringeden.co/product/gooseberry-invicta/",
    "first_seen": "2026-09-28",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-19",
    "notes": [
     "WC store API is_in_stock true"
    ],
@@ -3968,7 +3944,7 @@
    "price_confirmed": true,
    "url": "https://restoringeden.co/product/gooseberry-jahns-prairie/",
    "first_seen": "2026-09-28",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-19",
    "notes": [
     "WC store API is_in_stock true"
    ],
@@ -4007,7 +3983,7 @@
    "price_confirmed": true,
    "url": "https://restoringeden.co/product/gooseberry-jeanne/",
    "first_seen": "2026-09-28",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-19",
    "notes": [
     "WC store API is_in_stock false"
    ],
@@ -4034,7 +4010,7 @@
    "price_confirmed": true,
    "url": "https://restoringeden.co/product/gooseberry-orus-8/",
    "first_seen": "2026-09-28",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-19",
    "notes": [
     "WC store API is_in_stock true"
    ],
@@ -4072,7 +4048,7 @@
    "price_confirmed": true,
    "url": "https://restoringeden.co/product/gooseberry-pixwell/",
    "first_seen": "2026-09-28",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-19",
    "notes": [
     "WC store API is_in_stock false"
    ],
@@ -4110,7 +4086,7 @@
    "price_confirmed": true,
    "url": "https://restoringeden.co/product/gooseberry-poorman/",
    "first_seen": "2026-09-28",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-19",
    "notes": [
     "WC store API is_in_stock false"
    ],
@@ -4148,7 +4124,7 @@
    "price_confirmed": true,
    "url": "https://restoringeden.co/product/gooseberry-sabine/",
    "first_seen": "2026-09-28",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-19",
    "notes": [
     "WC store API is_in_stock true"
    ],
@@ -4186,7 +4162,7 @@
    "price_confirmed": true,
    "url": "https://restoringeden.co/product/gooseberry-selby/",
    "first_seen": "2026-09-28",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-19",
    "notes": [
     "WC store API is_in_stock true"
    ],
@@ -4225,7 +4201,7 @@
    "price_confirmed": true,
    "url": "https://restoringeden.co/product/gooseberry-shefford/",
    "first_seen": "2026-09-28",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-19",
    "notes": [
     "WC store API is_in_stock true"
    ],
@@ -4264,7 +4240,7 @@
    "price_confirmed": true,
    "url": "https://restoringeden.co/product/gooseberry-welcome/",
    "first_seen": "2026-09-28",
-   "last_checked": "2026-11-09",
+   "last_checked": "2026-11-19",
    "notes": [
     "WC store API is_in_stock false"
    ],
