@@ -1,21 +1,21 @@
 {
  "fruit": "fig",
- "updated": "2026-11-15",
+ "updated": "2026-11-21",
  "scope": "Named fig (Ficus carica) cultivars that gardeners grow in zone 6b/7a: in the ground with winter protection (most figs die back and regrow from the roots there), or in pots brought into a garage or cellar for winter. Cultivars sellers describe as cold hardy are tagged. Unnamed seedlings and the ornamental climbing fig (Ficus pumila) are left out. Prices are for one plant of the size noted (usually a 1-gallon pot).",
  "last_run": {
-  "date": "2026-11-15",
-  "summary": "New listings at Trees of Antiquity: Lattarula ($39.95), Violette de Bordeaux ($39.95), Brown Turkey ($39.95), Peter's Honey ($39.95), Panache ($39.95), Conadria ($39.95), Green Ischia ($39.95), Black Mission (sold out). New listings at Sooner Plant Farm: Chicago Hardy ($70). New sellers: Trees of Antiquity (Italian Honey, Violette de Bordeaux, Brown Turkey, Peter's Honey, Panache, Conadria, Verte, Black Mission sold out. $39.95 bareroot for 2027) and Sooner Plant Farm (Chicago Hardy jumbo gallon $70). Silver Run Forest Farm, Bower & Branch, Art's Nursery and Louie's Nursery had nothing in scope. New sellers Trees of Antiquity (7 named figs) and Sooner Plant Farm (Chicago Hardy).",
+  "date": "2026-11-21",
+  "summary": "Added 15 fig cultivars from Alabama, Texas A&M, LSU and UC sources: Champagne, LSU Tiger, Alma, Kadota, Sal's, Osborn Prolific, Excel, Tena, Flanders, Sierra, Beall, Adriatic, Nero, Mary Lane and Early Violet. Added synonyms to six figs on file.",
   "gaps": [
-   "Trees of Antiquity also lists White Genoa, Black Jack, Texas Everbearing, White Kadota, Osborne Prolific and Flanders, not yet added as varieties; its location and NJ shipping are not stated on the page.",
-   "Seedtime fig collection was empty; One Green World pages 2-6 not read."
+   "UF/IFAS EDIS MG214 fig cultivar page could not be fetched.",
+   "Calimyrna and caprifigs (Gillette) left out: need caprification, not practical here.",
+   "Black Jack left out: its listed synonym Black Spanish conflicts with the Black Spanish on file.",
+   "Not yet added, one source only: Blue Giant, Bournabat, Lemon (Texas), Jurupa, Gulbun, Pasquale, Royal Vineyard, Sequoia, LSU Scott's Black."
   ],
   "checked": [],
   "held": [],
   "notes": [
-   "New sellers: Trees of Antiquity (Italian Honey, Violette de Bordeaux, Brown Turkey, Peter's Honey, Panache, Conadria, Verte, Black Mission sold out",
-   "$39.95 bareroot for 2027) and Sooner Plant Farm (Chicago Hardy jumbo gallon $70)",
-   "Silver Run Forest Farm, Bower & Branch, Art's Nursery and Louie's Nursery had nothing in scope",
-   "New sellers Trees of Antiquity (7 named figs) and Sooner Plant Farm (Chicago Hardy)"
+   "Added 15 fig cultivars from Alabama, Texas A&M, LSU and UC sources: Champagne, LSU Tiger, Alma, Kadota, Sal's, Osborn Prolific, Excel, Tena, Flanders, Sierra, Beall, Adriatic, Nero, Mary Lane and Early Violet",
+   "Added synonyms to six figs on file"
   ]
  },
  "history_log": [
@@ -31,7 +31,8 @@
   "Nov 2: Back in stock at Raintree Nursery: Petite Negri $30.99; Sold out at Raintree Nursery: Chicago Hardy, Brown Turkey, Sultane; New listings at Scenic Hill Farm Nursery: Chicago Hardy ($32.95), Desert King ($32.95), Lattarula ($32.95), Little Ruby ($32.95), LSU Purple ($32.95), Olympian ($32.95), Marseilles ($32.95); New listings at Gurney's: Chicago Hardy ($49.99), Fignomenal ($34.99), Violette de Bordeaux (sold out), Peter's Honey (sold out); New listings at Perfect Plants Nursery: Chicago Hardy ($27.99), LSU Purple (sold out), Celeste (sold out), Olympian (sold out), Fignomenal (sold out), Brown Turkey (sold out), Lattarula (sold out), LSU Gold (sold out) and 2 more; New listings at Peaceful Heritage Nursery: Celeste ($54.99), Olympian ($54.99), Violette de Bordeaux ($54.99), Green Ischia ($54.99); Epic Gardening: Chicago Hardy now sold out; Found three new fig sellers: Scenic Hill Farm Nursery (7 varieties, shipping included), Gurney's and Perfect Plants Nursery (new varieties GE Neri, LSU Gold and Black Mission), and added four more Peaceful Heritage figs; Logee's, Willis Orchard, Simply Trees, Kremp and Wildcat Ridge had nothing usable in scope",
   "Nov 5: Sold out at Raintree Nursery: Petite Negri",
   "Nov 9: Back in stock at Raintree Nursery: Chicago Hardy $30.99, Brown Turkey $27.99, Sultane $32.99",
-  "Nov 15: New listings at Trees of Antiquity: Lattarula ($39.95), Violette de Bordeaux ($39.95), Brown Turkey ($39.95), Peter's Honey ($39.95), Panache ($39.95), Conadria ($39.95), Green Ischia ($39.95), Black Mission (sold out); New listings at Sooner Plant Farm: Chicago Hardy ($70); New sellers: Trees of Antiquity (Italian Honey, Violette de Bordeaux, Brown Turkey, Peter's Honey, Panache, Conadria, Verte, Black Mission sold out; $39.95 bareroot for 2027) and Sooner Plant Farm (Chicago Hardy jumbo gallon $70); Silver Run Forest Farm, Bower & Branch, Art's Nursery and Louie's Nursery had nothing in scope; New sellers Trees of Antiquity (7 named figs) and Sooner Plant Farm (Chicago Hardy)"
+  "Nov 15: New listings at Trees of Antiquity: Lattarula ($39.95), Violette de Bordeaux ($39.95), Brown Turkey ($39.95), Peter's Honey ($39.95), Panache ($39.95), Conadria ($39.95), Green Ischia ($39.95), Black Mission (sold out); New listings at Sooner Plant Farm: Chicago Hardy ($70); New sellers: Trees of Antiquity (Italian Honey, Violette de Bordeaux, Brown Turkey, Peter's Honey, Panache, Conadria, Verte, Black Mission sold out; $39.95 bareroot for 2027) and Sooner Plant Farm (Chicago Hardy jumbo gallon $70); Silver Run Forest Farm, Bower & Branch, Art's Nursery and Louie's Nursery had nothing in scope; New sellers Trees of Antiquity (7 named figs) and Sooner Plant Farm (Chicago Hardy)",
+  "Nov 21: Added 15 fig cultivars from Alabama, Texas A&M, LSU and UC sources: Champagne, LSU Tiger, Alma, Kadota, Sal's, Osborn Prolific, Excel, Tena, Flanders, Sierra, Beall, Adriatic, Nero, Mary Lane and Early Violet; Added synonyms to six figs on file"
  ],
  "sources": {
   "directories": [
@@ -72,7 +73,8 @@
    "Peaceful Heritage: Battaglia Green and LSU Everbearing figs listed, not on file",
    "Roots to Fruits: 'LSU Fig' listed, not on file",
    "One Green World: 'Sconosciuto', 'Princessa', 'Luv', 'Saint Germain', 'Calderona', 'San Biagio', 'Pastilliere', 'Bass Favorite', 'Madeira Island Black' figs listed, not on file",
-   "Roots to Fruits: 'LSU' fig listed (1G container only), not on file"
+   "Roots to Fruits: 'LSU' fig listed (1G container only), not on file",
+   "Peaceful Heritage: 'Alma' fig appears listed (search result), not checked"
   ]
  },
  "nurseries": [
@@ -367,7 +369,9 @@
    ],
    "aliases": [
     "Celestial",
-    "Sugar Fig"
+    "Sugar Fig",
+    "Malta",
+    "Tennessee Mountain Fig"
    ],
    "summary": "Small, very sweet violet-brown 'sugar fig' with a closed eye.",
    "description": "A Southern heirloom producing small violet-brown figs with very sweet amber-pink flesh; the closed eye helps keep out insects and rain. Hardier than most figs once established and often grown in zone 6–7 with winter protection. Ripens mid-summer.",
@@ -385,7 +389,10 @@
     "Cold hardy"
    ],
    "aliases": [
-    "English Brown Turkey"
+    "English Brown Turkey",
+    "Texas Everbearing",
+    "Southeastern Brown Turkey",
+    "Eastern Brown Turkey"
    ],
    "summary": "Common, dependable brown fig that bears a breba and a main crop.",
    "description": "Medium to large copper-brown figs with pinkish amber flesh and a mild, sweet flavor. A vigorous, productive tree that regrows readily after winter dieback, which makes it a common choice for northern gardens with some protection. Fruit quality varies somewhat among the strains sold under this name.",
@@ -469,7 +476,9 @@
    ],
    "aliases": [
     "Negronne",
-    "Violette de Bordeaux Negronne"
+    "Violette de Bordeaux Negronne",
+    "Bordeaux",
+    "Beer's Black"
    ],
    "summary": "Small, intensely flavored near-black fig from France; compact tree.",
    "description": "A French heirloom with small blackish-purple figs and deep red, jammy, rich flesh. The tree stays compact, so it works well in a pot, and it fruits on new wood after dieback. Often counted among the best-flavored dark figs.",
@@ -551,7 +560,9 @@
     "Cold hardy"
    ],
    "aliases": [
-    "Magnolia"
+    "Magnolia",
+    "Dalmatian",
+    "Madonna"
    ],
    "summary": "Large bronze-skinned fig with amber flesh; an old hardy variety.",
    "description": "An old variety, also sold as Magnolia, with large bronze to light brown figs and amber-pink flesh. Known for regrowing from the roots after cold winters. Good fresh and excellent for preserves.",
@@ -567,7 +578,8 @@
    "color": "green",
    "tags": [],
    "aliases": [
-    "King"
+    "King",
+    "White King"
    ],
    "summary": "Green fig that sets a big early breba crop without pollination.",
    "description": "Bears a large breba crop of green figs with strawberry-red flesh on last year's wood, ripening in early summer. Does well in cool-summer climates, but because its main crop is on old wood, winter dieback costs the year's crop in zone 6b unless the tree is protected.",
@@ -903,7 +915,10 @@
   {
    "id": "black-mission",
    "name": "Black Mission",
-   "aliases": [],
+   "aliases": [
+    "Mission",
+    "Franciscana"
+   ],
    "color": "dark",
    "tags": [],
    "summary": "Classic dark purple-black fig with strawberry-colored, jammy flesh.",
@@ -913,6 +928,336 @@
    "notes": [],
    "fruit": "fig",
    "first_seen": "2026-11-02"
+  },
+  {
+   "id": "champagne",
+   "name": "Champagne",
+   "aliases": [
+    "Golden Celeste"
+   ],
+   "color": "yellow",
+   "tags": [],
+   "summary": "Yellow LSU fig with gold-to-caramel flesh and better leaf-disease resistance than Celeste.",
+   "description": "Developed by the Louisiana Agricultural Experiment Station and released by the LSU AgCenter in 2007, after being known informally as 'Golden Celeste'. Yellow-skinned figs, somewhat larger than Celeste, have gold-to-caramel flesh and ripen at about the same time as Celeste, in early July in Baton Rouge. It is a common fig that needs no pollination, is slightly more resistant than Celeste to defoliation from fig rust and leaf spot, and the eye is only partly closed; LSU notes good cold resistance.",
+   "one_liner": "The yellow Celeste-type that holds its leaves better",
+   "refs": [
+    "https://sciencedaily.com/releases/2010/09/100920172734.htm",
+    "https://apps.lsuagcenter.com/news_archive/2015/June/headline_news/Figs-remain-popular-Louisiana-fruit.htm",
+    "https://www.lsuagcenter.com/profiles/mhferguson/articles/page1649168758782"
+   ],
+   "breeder": {
+    "name": "LSU AgCenter (Louisiana Agricultural Experiment Station) fig breeding program",
+    "kind": "university",
+    "source": "https://sciencedaily.com/releases/2010/09/100920172734.htm"
+   },
+   "awards": [],
+   "notes": [],
+   "fruit": "fig",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "id": "lsu-tiger",
+   "name": "LSU Tiger",
+   "aliases": [],
+   "color": "brown",
+   "tags": [
+    "Striped"
+   ],
+   "summary": "LSU fig with stripes on ripening fruit, on a smaller tree than Celeste.",
+   "description": "Released by the LSU AgCenter in 2007 and named for the stripes that show on the fruit as it ripens. Figs are 30 to 50 percent larger than Celeste, borne on a relatively small tree, about half the size of a mature Celeste, with a long fruiting period. LSU sources disagree on timing, one saying it ripens about a week after Celeste and another a week earlier; the eye is not as tightly closed as Celeste's.",
+   "one_liner": "The striped LSU fig on a compact, smaller tree",
+   "refs": [
+    "https://apps.lsuagcenter.com/news_archive/2015/June/headline_news/Figs-remain-popular-Louisiana-fruit.htm",
+    "https://www.lsuagcenter.com/profiles/mhferguson/articles/page1649168758782"
+   ],
+   "breeder": {
+    "name": "LSU AgCenter (Louisiana Agricultural Experiment Station) fig breeding program",
+    "kind": "university",
+    "source": "https://apps.lsuagcenter.com/news_archive/2015/June/headline_news/Figs-remain-popular-Louisiana-fruit.htm"
+   },
+   "awards": [],
+   "notes": [
+    "Not the same as Panache, which is also sold as 'Tiger'."
+   ],
+   "fruit": "fig",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "id": "alma",
+   "name": "Alma",
+   "aliases": [],
+   "color": "brown",
+   "tags": [],
+   "summary": "Late-season golden-brown Texas fig with rich, sweet amber flesh.",
+   "description": "Bred by Texas A&M and released in 1975. Small to medium, pear-shaped golden-brown figs with amber flesh and a closed eye have a very sweet, rich flavor, though the skin is unattractive, and Alabama Extension rates them highly resistant to fruit rots. A late-ripening, very productive tree that bears young; Texas A&M calls it very frost-sensitive, especially when young, and best within about 200 miles of the Gulf, so at zone 6b it is a pot fig.",
+   "one_liner": "The late, rot-resistant Texas fig with very sweet flesh",
+   "refs": [
+    "https://www.aces.edu/blog/topics/crop-production/fig-production-guide/",
+    "https://agrilifeextension.tamu.edu/wp-content/uploads/2025/05/Figs.pdf",
+    "https://www.lsuagcenter.com/profiles/mhferguson/articles/page1649168758782"
+   ],
+   "breeder": {
+    "name": "Texas A&M",
+    "kind": "university",
+    "source": "https://www.aces.edu/blog/topics/crop-production/fig-production-guide/"
+   },
+   "awards": [],
+   "notes": [],
+   "fruit": "fig",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "id": "kadota",
+   "name": "Kadota",
+   "aliases": [
+    "Dottato"
+   ],
+   "color": "green",
+   "tags": [],
+   "summary": "Classic greenish-white all-purpose fig with amber flesh.",
+   "description": "A long-grown commercial California fig of the common type, also known as Dottato. Small to medium greenish-white to greenish-yellow figs with amber flesh and a medium eye are rich, sweet and used fresh, dried and canned; the breba crop is light to good and the main crop abundant. Vigorous, best in the Southwest and drier parts of the South, and rated fairly hardy by Alabama Extension.",
+   "one_liner": "The classic green all-purpose fig for drying and canning",
+   "refs": [
+    "https://www.aces.edu/blog/topics/crop-production/fig-production-guide/",
+    "https://www.ucanr.edu/node/153884"
+   ],
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "fruit": "fig",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "id": "sals",
+   "name": "Sal's",
+   "aliases": [],
+   "color": "dark",
+   "tags": [
+    "Cold hardy"
+   ],
+   "summary": "Small black fig from Long Island, said to be hardier than Celeste.",
+   "description": "A small to medium black fig of unknown origin, introduced by a local nursery on Long Island. Alabama Extension calls it well adapted to the Northeast and extremely hardy, seemingly somewhat hardier than Celeste, with good flavor. Plants are vigorous and productive.",
+   "one_liner": "The very cold-hardy black fig from Long Island",
+   "refs": [
+    "https://www.aces.edu/blog/topics/crop-production/fig-production-guide/"
+   ],
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "fruit": "fig",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "id": "osborn-prolific",
+   "name": "Osborn Prolific",
+   "aliases": [
+    "Osborne Prolific",
+    "Osborne's Prolific",
+    "Hardy Prolific"
+   ],
+   "color": "brown",
+   "tags": [
+    "Cold hardy"
+   ],
+   "summary": "Very productive bronze fig with sweet, rich amber flesh.",
+   "description": "Medium-sized bronze to brown figs with amber to light strawberry flesh and a sweet, rich flavor. Alabama Extension calls it hardy, very productive and well adapted in all fig-growing areas.",
+   "one_liner": "The very productive bronze fig that does well almost anywhere",
+   "refs": [
+    "https://www.aces.edu/blog/topics/crop-production/fig-production-guide/"
+   ],
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "fruit": "fig",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "id": "excel",
+   "name": "Excel",
+   "aliases": [
+    "Kadota Hybrid"
+   ],
+   "color": "yellow",
+   "tags": [],
+   "summary": "Condit-bred yellow fig with amber flesh and superb flavor.",
+   "description": "Bred by Ira Condit and released in 1975, and sometimes called Kadota Hybrid. Medium yellow figs, round to slightly flattened, have amber flesh with superb flavor. Well adapted in California; Alabama Extension says it seems very hardy.",
+   "one_liner": "The yellow California hybrid with superb flavor",
+   "refs": [
+    "https://www.aces.edu/blog/topics/crop-production/fig-production-guide/"
+   ],
+   "breeder": {
+    "name": "Ira Condit",
+    "kind": "breeder",
+    "source": "https://www.aces.edu/blog/topics/crop-production/fig-production-guide/"
+   },
+   "awards": [],
+   "notes": [],
+   "fruit": "fig",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "id": "tena",
+   "name": "Tena",
+   "aliases": [],
+   "color": "green",
+   "tags": [],
+   "summary": "Very sweet greenish-yellow Condit fig with light strawberry flesh.",
+   "description": "Bred by Ira Condit and released in 1975. Medium to large greenish-yellow figs with light strawberry flesh are very sweet but not rich, and are grouped with the Adriatic-type drying figs in California. Widely adapted but prefers hot, dry weather; somewhat hardy.",
+   "one_liner": "The very sweet green fig for hot, dry summers",
+   "refs": [
+    "https://www.aces.edu/blog/topics/crop-production/fig-production-guide/",
+    "https://www.ucanr.edu/node/153884"
+   ],
+   "breeder": {
+    "name": "Ira Condit",
+    "kind": "breeder",
+    "source": "https://www.aces.edu/blog/topics/crop-production/fig-production-guide/"
+   },
+   "awards": [],
+   "notes": [],
+   "fruit": "fig",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "id": "flanders",
+   "name": "Flanders",
+   "aliases": [],
+   "color": "green",
+   "tags": [
+    "Striped"
+   ],
+   "summary": "Violet-striped greenish-yellow Condit fig with amber flesh.",
+   "description": "Bred and released by Ira Condit in 1975. Medium greenish-yellow, pear-shaped figs with a long slender neck carry violet stripes and have amber flesh with fine flavor. Plants are vigorous but not particularly hardy, doing best on the West Coast.",
+   "one_liner": "The violet-striped green fig with fine flavor",
+   "refs": [
+    "https://www.aces.edu/blog/topics/crop-production/fig-production-guide/"
+   ],
+   "breeder": {
+    "name": "Ira Condit",
+    "kind": "breeder",
+    "source": "https://www.aces.edu/blog/topics/crop-production/fig-production-guide/"
+   },
+   "awards": [],
+   "notes": [],
+   "fruit": "fig",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "id": "sierra",
+   "name": "Sierra",
+   "aliases": [],
+   "color": "green",
+   "tags": [],
+   "summary": "University of California fig with amber flesh and a very tight eye.",
+   "description": "Released by the University of California in 2005. Yellow-green figs with amber flesh and a very tight eye have very good flavor; the breba crop is light, while the main crop is abundant and holds medium-to-large size well into fall. A common fig that needs no pollination.",
+   "one_liner": "The UC fig whose main crop keeps its size into fall",
+   "refs": [
+    "https://www.ucanr.edu/node/153884"
+   ],
+   "breeder": {
+    "name": "University of California",
+    "kind": "university",
+    "source": "https://www.ucanr.edu/node/153884"
+   },
+   "awards": [],
+   "notes": [],
+   "fruit": "fig",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "id": "beall",
+   "name": "Beall",
+   "aliases": [],
+   "color": "dark",
+   "tags": [],
+   "summary": "Purplish-black California seedling fig with amber flesh.",
+   "description": "Found as a chance seedling in California in the 1920s. Medium to large purplish-black figs with amber flesh have very good flavor, with necked brebas and an oblate to pear-shaped main crop. Alabama Extension says it is well adapted in California and hardy in the South.",
+   "one_liner": "The black California seedling with very good flavor",
+   "refs": [
+    "https://www.aces.edu/blog/topics/crop-production/fig-production-guide/"
+   ],
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "fruit": "fig",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "id": "adriatic",
+   "name": "Adriatic",
+   "aliases": [
+    "Verdone"
+   ],
+   "color": "green",
+   "tags": [],
+   "summary": "Green drying fig with light strawberry flesh.",
+   "description": "Medium-sized green to greenish-yellow, top-shaped figs with light strawberry flesh and good flavor; one of the Adriatic-type figs California uses for drying and fig paste. Alabama Extension rates it fairly hardy but notes it is very subject to mosaic virus.",
+   "one_liner": "The green drying fig with strawberry flesh",
+   "refs": [
+    "https://www.aces.edu/blog/topics/crop-production/fig-production-guide/",
+    "https://www.ucanr.edu/node/153884"
+   ],
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "fruit": "fig",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "id": "nero",
+   "name": "Nero",
+   "aliases": [
+    "Brogiotto Nero"
+   ],
+   "color": "dark",
+   "tags": [],
+   "summary": "Large purplish-black fig with pink flesh and rich flavor.",
+   "description": "Large purplish-black figs, flattened at the tip, have light pink flesh and very good to excellent, fairly sweet and rich flavor; the eye is medium and open. Alabama Extension calls it well adapted in the Southwest and South.",
+   "one_liner": "The large black fig with rich pink flesh",
+   "refs": [
+    "https://www.aces.edu/blog/topics/crop-production/fig-production-guide/"
+   ],
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "fruit": "fig",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "id": "mary-lane",
+   "name": "Mary Lane",
+   "aliases": [],
+   "color": "yellow",
+   "tags": [],
+   "summary": "Juicy yellow fig described as seedless.",
+   "description": "A medium yellow fig of unknown identity said to have originated in California. Round, slightly flattened figs are very juicy and sweet and are described as seedless, so few seeds. Alabama Extension says it is well adapted in all fig areas.",
+   "one_liner": "The juicy yellow fig with few seeds",
+   "refs": [
+    "https://www.aces.edu/blog/topics/crop-production/fig-production-guide/"
+   ],
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "fruit": "fig",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "id": "early-violet",
+   "name": "Early Violet",
+   "aliases": [],
+   "color": "brown",
+   "tags": [],
+   "summary": "Very small chocolate-brown fig with an early main crop.",
+   "description": "Small to very small chocolate-brown figs with amber to pink flesh and fair to good quality. It sets no breba crop, but the main crop is early-ripening. Alabama Extension notes it is susceptible to mosaic virus.",
+   "one_liner": "The tiny early fig for a head start on the main crop",
+   "refs": [
+    "https://www.aces.edu/blog/topics/crop-production/fig-production-guide/"
+   ],
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "fruit": "fig",
+   "first_seen": "2026-11-21"
   }
  ],
  "listings": [
