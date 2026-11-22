@@ -1,20 +1,22 @@
 {
  "fruit": "raspberry",
- "updated": "2026-11-16",
+ "updated": "2026-11-22",
  "scope": "Specialty raspberries only: black, purple, gold/yellow, thornless or otherwise unusual. Ordinary red types (Heritage, Caroline, Joan J, Polana, Encore, Nova, Latham, Killarney and similar) are deliberately left out.",
  "last_run": {
-  "date": "2026-11-16",
-  "summary": "Checked five new sellers (Seeds 'n Such, Prairie Gardens, Cornell Farm, Loen Nursery, Pandy's Garden Center) and the NARBA nursery list. None had in-scope named raspberries that ship to NJ at a trackable per-plant price, so no new nurseries or varieties were added. Searched for new specialty-raspberry sellers.",
+  "date": "2026-11-22",
+  "summary": "Catalog: added gold Kiwigold, Graton Gold and Goldie. Black Allegany, Huron, Dundee and New Logan. Purple Sodus, Clyde, Amethyst and Estate. And the thornless red Glen Ample.",
   "gaps": [
-   "Fedco, Scenic Hill (Anne) and Raintree leads still need product-page checks.",
-   "NARBA list names wholesale/commercial growers (Agri-Starts, North American Plants, Northwest Plant Company, PhyllaTech) not yet checked for retail sales."
+   "worldfloradb.net (Goldie) blocked by bot protection; Goldie's breeder/date not documented",
+   "GRIN 'Black Logan' accession has no description, so not added and not linked to New Logan",
+   "Stark Bro's Kiwigold page says no longer offered"
   ],
   "checked": [],
   "held": [],
   "notes": [
-   "Checked five new sellers (Seeds 'n Such, Prairie Gardens, Cornell Farm, Loen Nursery, Pandy's Garden Center) and the NARBA nursery list",
-   "None had in-scope named raspberries that ship to NJ at a trackable per-plant price, so no new nurseries or varieties were added",
-   "Searched for new specialty-raspberry sellers"
+   "Catalog: added gold Kiwigold, Graton Gold and Goldie",
+   "Black Allegany, Huron, Dundee and New Logan",
+   "Purple Sodus, Clyde, Amethyst and Estate",
+   "And the thornless red Glen Ample"
   ]
  },
  "history_log": [
@@ -49,7 +51,8 @@
   "Nov 3: New listings at Willis Orchard Co.: Anne ($14.95), Jewel ($14.95), Cumberland (unconfirmed), Fall Gold (unconfirmed); New listings at Hirt's Gardens: Ohio's Treasure ($14.99); Found two new raspberry sellers with in-scope stock: Willis Orchard (GA; Anne, Jewel, Cumberland, Fall Gold) and Hirt's Gardens (OH; Ohio's Treasure); Patuxent Nursery, Roots to Fruits, Jung Seed, All U Need Garden Supply and Wilco had nothing usable; The older red-raspberry leads were cleared as out of scope",
   "Nov 5: Back in stock at Gurney's Seed & Nursery Co.: Canby Thornless $17.99, Crimson Night $15.99; Back in stock at Willis Orchard Co.: Cumberland $9.95; Sold out at Greenwood Nursery: Cumberland",
   "Nov 9: Back in stock at Nourse Farms: Bristol $6.52, Jewel $6.52, Niwot $7.73, Double Gold $4.70, Anne $3.47; Price changes at Hartmann's Plant Company: Pequot Lakes priced at $25.50; Arbor Day Foundation Tree Nursery: Jewel now sold out",
-  "Nov 16: Checked five new sellers (Seeds 'n Such, Prairie Gardens, Cornell Farm, Loen Nursery, Pandy's Garden Center) and the NARBA nursery list; None had in-scope named raspberries that ship to NJ at a trackable per-plant price, so no new nurseries or varieties were added; Searched for new specialty-raspberry sellers"
+  "Nov 16: Checked five new sellers (Seeds 'n Such, Prairie Gardens, Cornell Farm, Loen Nursery, Pandy's Garden Center) and the NARBA nursery list; None had in-scope named raspberries that ship to NJ at a trackable per-plant price, so no new nurseries or varieties were added; Searched for new specialty-raspberry sellers",
+  "Nov 22: Catalog: added gold Kiwigold, Graton Gold and Goldie; Black Allegany, Huron, Dundee and New Logan; Purple Sodus, Clyde, Amethyst and Estate; And the thornless red Glen Ample"
  ],
  "sources": {
   "directories": [
@@ -1278,6 +1281,240 @@
    "awards": [],
    "first_seen": "2026-09-28",
    "notes": []
+  },
+  {
+   "id": "kiwigold",
+   "name": "Kiwigold",
+   "aliases": [],
+   "color": "gold",
+   "summary": "Fall-bearing yellow sport of Heritage found in New Zealand.",
+   "description": "A naturally occurring sport of 'Heritage' found in 1985 on Chris Thomas's farm in Morrinsville, New Zealand, and patented in 2000. It is a fall-bearing (primocane) raspberry with yellow to apricot-yellow, medium-sized berries that are sweeter than Heritage and ripen at the same time, late in the season. The plant is vigorous with spiny canes, tolerant of powdery mildew and immune to raspberry bushy dwarf virus.",
+   "one_liner": "The golden Heritage for a sweet late-summer-to-fall crop",
+   "refs": [
+    "https://patents.google.com/patent/USPP11313",
+    "https://extension.oregonstate.edu/pub/pnw-655"
+   ],
+   "breeder": {
+    "name": "Christopher Thomas",
+    "kind": "breeder"
+   },
+   "awards": [],
+   "notes": [],
+   "fruit": "raspberry",
+   "first_seen": "2026-11-22"
+  },
+  {
+   "id": "graton-gold",
+   "name": "Graton Gold",
+   "aliases": [],
+   "color": "gold",
+   "summary": "Everbearing orange-gold sport of Heritage from Sonoma County, California.",
+   "description": "Discovered in 1987 by David Dixon in a field of 'Heritage' at Sebastopol, California, and patented in 1991. An everbearing raspberry with a small early-summer crop on old canes and a heavier fall crop on new canes, carrying medium-sized orange-gold berries with a typical raspberry flavor and firmer fruit than Fall Gold. Upright canes reach 5 to 7 feet and are covered in small prickles.",
+   "one_liner": "The orange-gold Heritage sport that crops twice a year",
+   "refs": [
+    "https://patents.google.com/patent/USPP7625"
+   ],
+   "breeder": {
+    "name": "David Dixon",
+    "kind": "breeder"
+   },
+   "awards": [],
+   "notes": [],
+   "fruit": "raspberry",
+   "first_seen": "2026-11-22"
+  },
+  {
+   "id": "goldie",
+   "name": "Goldie",
+   "aliases": [],
+   "color": "gold",
+   "summary": "Deep apricot-colored, fall-bearing sport of Heritage.",
+   "description": "A sport of 'Heritage' that differs from it only in fruit color, typically a deep apricot. Like Heritage it is a vigorous fall-bearing (primocane) raspberry that ripens late, giving a short season in cold climates, and it is immune to raspberry bushy dwarf virus.",
+   "one_liner": "The apricot-colored Heritage sport for a fall crop",
+   "refs": [
+    "https://extension.oregonstate.edu/pub/pnw-655",
+    "https://leereich.com/2024/09/gilded-berries.html"
+   ],
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "fruit": "raspberry",
+   "first_seen": "2026-11-22"
+  },
+  {
+   "id": "allegany",
+   "name": "Allegany",
+   "aliases": [],
+   "color": "black",
+   "summary": "Large, firm black raspberry from the University of Maryland.",
+   "description": "Developed by I.C. Haut at the University of Maryland from (Manteo selfed) x Dundee and introduced in 1970. Large, firm, good-quality black berries ripen a few days after Cumberland, in midseason. The plant is very vigorous and productive and resistant to cane spot.",
+   "one_liner": "The big, firm Maryland black cap with cane-spot resistance",
+   "refs": [
+    "https://npgstest.ars-grin.gov/gringlobal/accessiondetail?id=1448719"
+   ],
+   "breeder": {
+    "name": "I.C. Haut, University of Maryland",
+    "kind": "university"
+   },
+   "awards": [],
+   "notes": [],
+   "fruit": "raspberry",
+   "first_seen": "2026-11-22"
+  },
+  {
+   "id": "huron",
+   "name": "Huron",
+   "aliases": [],
+   "color": "black",
+   "summary": "Midseason black raspberry from the Geneva, New York station.",
+   "description": "Bred by George L. Slate at the New York State Agricultural Experiment Station from Rachel x Dundee and introduced in 1965. Bright, firm, good-quality black berries ripen midseason. The plant is vigorous and productive, with few spines.",
+   "one_liner": "The all-round Geneva black cap with a midseason crop",
+   "refs": [
+    "https://npgstest.ars-grin.gov/gringlobal/accessiondetail?id=1448708"
+   ],
+   "breeder": {
+    "name": "George L. Slate, NY State Agricultural Experiment Station (Geneva)",
+    "kind": "university"
+   },
+   "awards": [],
+   "notes": [],
+   "fruit": "raspberry",
+   "first_seen": "2026-11-22"
+  },
+  {
+   "id": "dundee",
+   "name": "Dundee",
+   "aliases": [],
+   "color": "black",
+   "summary": "Large, glossy heirloom black raspberry from Geneva, New York (1927).",
+   "description": "Introduced in 1927 by Richard Wellington of the New York State Agricultural Experiment Station from Smith No. 1 x Palmer, and later a parent of Jewel, Huron and Allegany. Large, glossy, attractive black berries are moderately firm and mildly subacid, of very good quality. The plant is tall, vigorous and productive.",
+   "one_liner": "The 1927 Geneva heirloom behind several later black caps",
+   "refs": [
+    "https://npgstest.ars-grin.gov/gringlobal/accessiondetail?id=1448742"
+   ],
+   "breeder": {
+    "name": "Richard Wellington, NY State Agricultural Experiment Station (Geneva)",
+    "kind": "university"
+   },
+   "awards": [],
+   "notes": [],
+   "fruit": "raspberry",
+   "first_seen": "2026-11-22"
+  },
+  {
+   "id": "new-logan",
+   "name": "New Logan",
+   "aliases": [],
+   "color": "black",
+   "summary": "Early, heavy-yielding old black raspberry from Pennsylvania.",
+   "description": "A selection of the native black raspberry that seems to have originated in Pennsylvania in the 1920s. It is early-ripening, about 10 days before Cumberland, with large, bright black, firm berries that are easy to pick, and it yields heavily.",
+   "one_liner": "The early old black cap that ripens ahead of Cumberland",
+   "refs": [
+    "https://npgstest.ars-grin.gov/gringlobal/accessiondetail?id=1448713"
+   ],
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "fruit": "raspberry",
+   "first_seen": "2026-11-22"
+  },
+  {
+   "id": "sodus",
+   "name": "Sodus",
+   "aliases": [],
+   "color": "purple",
+   "summary": "Large, firm purple raspberry from Geneva, New York (1935).",
+   "description": "Bred by G.L. Slate at the New York State Agricultural Experiment Station from Dundee (black) x Newburgh (red) and introduced in 1935. Large, firm purple berries are sprightly and of good quality. The plant is vigorous, productive and winter-hardy, more drought-tolerant than Columbian, but susceptible to verticillium wilt.",
+   "one_liner": "The hardy old Geneva purple with large, sprightly berries",
+   "refs": [
+    "https://npgstest.ars-grin.gov/gringlobal/accessiondetail?id=1448302"
+   ],
+   "breeder": {
+    "name": "G.L. Slate, NY State Agricultural Experiment Station (Geneva)",
+    "kind": "university"
+   },
+   "awards": [],
+   "notes": [],
+   "fruit": "raspberry",
+   "first_seen": "2026-11-22"
+  },
+  {
+   "id": "clyde",
+   "name": "Clyde",
+   "aliases": [],
+   "color": "purple",
+   "summary": "Vigorous, late purple raspberry bred to replace Sodus and Marion.",
+   "description": "Bred by G.L. Slate and J.P. Watson at the New York State Agricultural Experiment Station from Bristol x NY 17861 and introduced in 1961. Its dark purple berries are similar in size, firmness and flavor to Sodus and ripen late in the season. Vigorous canes arch to the ground and it is tolerant of anthracnose.",
+   "one_liner": "The vigorous late purple with anthracnose tolerance",
+   "refs": [
+    "https://journal.americanpomological.org/index.php/jofaps/article/view/635",
+    "https://npgstest.ars-grin.gov/gringlobal/accessiondetail.aspx?id=1448237"
+   ],
+   "breeder": {
+    "name": "G.L. Slate and J.P. Watson, NY State Agricultural Experiment Station (Geneva)",
+    "kind": "university"
+   },
+   "awards": [],
+   "notes": [],
+   "fruit": "raspberry",
+   "first_seen": "2026-11-22"
+  },
+  {
+   "id": "amethyst",
+   "name": "Amethyst",
+   "aliases": [],
+   "color": "purple",
+   "summary": "Glossy, firm purple raspberry from Iowa State that doesn't sucker.",
+   "description": "Bred by E.L. Denisen at Iowa State University from Robertson (black) x Cuthbert (red) and introduced in 1968. Large, oval, glossy purple berries are firm and attractive and ripen in early July in central Iowa over two to three weeks. The upright plant is very vigorous, hardy and very productive, does not sucker, and tolerates cane spot.",
+   "one_liner": "The hardy Iowa purple that stays put instead of suckering",
+   "refs": [
+    "https://npgstest.ars-grin.gov/gringlobal/accessiondetail.aspx?id=1448279"
+   ],
+   "breeder": {
+    "name": "E.L. Denisen, Iowa State University",
+    "kind": "university"
+   },
+   "awards": [],
+   "notes": [],
+   "fruit": "raspberry",
+   "first_seen": "2026-11-22"
+  },
+  {
+   "id": "estate",
+   "name": "Estate",
+   "aliases": [],
+   "color": "purple",
+   "summary": "Sweet, upright purple raspberry, redder than Royalty.",
+   "description": "A large, round purple raspberry tested for five years in several northern states, with more uniform drupelets than Royalty or Brandywine and a lighter, redder color. It is distinctly sweeter, ripens 3 to 5 days later than Brandywine, is about as winter-hardy as either, and grows more upright with very little suckering.",
+   "one_liner": "The sweeter, upright purple that ripens just after Brandywine",
+   "refs": [
+    "https://npgstest.ars-grin.gov/gringlobal/accessiondetail?id=1574258"
+   ],
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "fruit": "raspberry",
+   "first_seen": "2026-11-22"
+  },
+  {
+   "id": "glen-ample",
+   "name": "Glen Ample",
+   "aliases": [],
+   "color": "red",
+   "summary": "Spine-free red raspberry from Scotland.",
+   "description": "A floricane (summer-bearing) red raspberry from the Scottish Crop Research Institute, released in 1998. Canes are upright, vigorous and spine-free (thornless), and the large fruit ripens late in the summer season. It is resistant to the raspberry aphid.",
+   "one_liner": "The thornless Scottish red that's easy on the hands",
+   "refs": [
+    "https://ontario.ca/page/raspberry-variety-description"
+   ],
+   "breeder": {
+    "name": "Scottish Crop Research Institute",
+    "kind": "university"
+   },
+   "awards": [],
+   "notes": [],
+   "fruit": "raspberry",
+   "first_seen": "2026-11-22"
   }
  ],
  "listings": [
