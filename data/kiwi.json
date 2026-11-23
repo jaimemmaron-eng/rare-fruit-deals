@@ -1,22 +1,21 @@
 {
  "fruit": "kiwi",
- "updated": "2026-11-17",
+ "updated": "2026-11-23",
  "scope": "Named hardy kiwi cultivars: Actinidia arguta (kiwiberry), A. kolomikta and A. polygama (silver vine), including named male pollinators. Fuzzy kiwi (A. deliciosa: Hayward, Saanichton, Elmwood, Jenny and similar) is left out because it isn't reliably hardy in zone 6b. Most hardy kiwis need a male vine nearby; each variety is tagged female, male or self-fertile.",
  "last_run": {
-  "date": "2026-11-17",
-  "summary": "New listings at One Green World: USDA Male ($24.95). New listings at Planting Justice: Hot Pepper (sold out), Pavel (sold out), Vera's Pride (sold out). New listings at Folk Rock Farm: Anna (sold out), Ken's Red (sold out), Clark (sold out). New: Folk Rock Farm (RI. Anna, Ken's Red, Clark, all sold out until spring 2027), the USDA Male kolomikta at One Green World, and Planting Justice's sold-out silver vines Hot Pepper, Pavel and Vera's Pride. Perfect Plants, Nutcracker Nursery and Pine River Blooms had nothing usable.",
+  "date": "2026-11-23",
+  "summary": "Catalog: added Dr. Szymanowski, Adam, Vitakola and Bailey's (kolomikta), Weiki and Weiki Male, Bingo, Purpurna Sadowa, Rogow, Scarlet September and Vitikiwi (European arguta), and New Zealand's Hortgem Tahi, Rua and Wha.",
   "gaps": [
-   "One Green World's hardy kiwi page does not list Hot Pepper, Pavel, Vera's Pride or Pilosula; Pilosula not found anywhere.",
-   "Planting Justice 'Rossy' and generic 'Male' not added (unnamed or unclear)."
+   "'Sentyabraskaya'/'Sientiabrskaja' (kolomikta, Clematis and Marosz 2009) may be the same as 'September Sun' on file; no source links them, so not added.",
+   "Russian kolomikta cultivars named in Krakhmaleva et al. 2024 (Leningradskaya Krupnoplodnaya, Pamyati Kolbasinoj, Universitetskaya, Narodnaya, etc.) lack English descriptions; not added.",
+   "Clematis names 'Domino', 'Lucy' and Hokey Pokey with no description; not added.",
+   "'Broadmore' and 'Aromatnaya' (One Green World) not researched tonight."
   ],
-  "checked": [
-   "planting-justice"
-  ],
+  "checked": [],
   "held": [],
   "notes": [
-   "New: Folk Rock Farm (RI",
-   "Anna, Ken's Red, Clark, all sold out until spring 2027), the USDA Male kolomikta at One Green World, and Planting Justice's sold-out silver vines Hot Pepper, Pavel and Vera's Pride",
-   "Perfect Plants, Nutcracker Nursery and Pine River Blooms had nothing usable"
+   "Catalog: added Dr",
+   "Szymanowski, Adam, Vitakola and Bailey's (kolomikta), Weiki and Weiki Male, Bingo, Purpurna Sadowa, Rogow, Scarlet September and Vitikiwi (European arguta), and New Zealand's Hortgem Tahi, Rua and Wha"
   ]
  },
  "history_log": [
@@ -50,7 +49,8 @@
   "Nov 4: New listings at Planting Justice: Tatyana (sold out); Checked 4 sellers not yet on file; Planting Justice's Tatyana (sold out) is now tracked; Little Red General Store (Geneva 3 sold out, $150 minimum), Quackin' Grass Nursery (CT) and Friends School Plant Sale (MN, in-person) had nothing in scope; Raintree's Jenny and Saanichton are fuzzy kiwi (left out); OGW's 74-46 and Early Cordifolia and Planting Justice's Ananasnaya are already on file under Clark, Cordifolia and Anna; Kiwi search: added Planting Justice Tatyana (sold out, $15)",
   "Nov 5: Back in stock at Trees.com: Anna $61.95, Meader $61.95; Back in stock at Fedco Trees: Anna $28.90; Price changes at One Green World: Natasha $24.95 → $32.95, Rossana $24.95 → $32.95, Red Princess $24.95 → $32.95; Price changes at Fedco Trees: Michigan State $26 → $28.90",
   "Nov 9: Back in stock at Raintree Nursery: Ken's Red $24.99; Back in stock at Humble Abode Nursery: Michigan State $25, Dumbarton Oaks $25; Back in stock at Blessings Grow Meadows: Anna $8, Meader $8; Back in stock at Fedco Trees: Geneva 3 $28.90, Meader $28.90; Price changes at Ison's Nursery: Issai $22.95 → $24.95, Anna $22.95 → $24.95",
-  "Nov 17: New listings at One Green World: USDA Male ($24.95); New listings at Planting Justice: Hot Pepper (sold out), Pavel (sold out), Vera's Pride (sold out); New listings at Folk Rock Farm: Anna (sold out), Ken's Red (sold out), Clark (sold out); New: Folk Rock Farm (RI; Anna, Ken's Red, Clark, all sold out until spring 2027), the USDA Male kolomikta at One Green World, and Planting Justice's sold-out silver vines Hot Pepper, Pavel and Vera's Pride; Perfect Plants, Nutcracker Nursery and Pine River Blooms had nothing usable"
+  "Nov 17: New listings at One Green World: USDA Male ($24.95); New listings at Planting Justice: Hot Pepper (sold out), Pavel (sold out), Vera's Pride (sold out); New listings at Folk Rock Farm: Anna (sold out), Ken's Red (sold out), Clark (sold out); New: Folk Rock Farm (RI; Anna, Ken's Red, Clark, all sold out until spring 2027), the USDA Male kolomikta at One Green World, and Planting Justice's sold-out silver vines Hot Pepper, Pavel and Vera's Pride; Perfect Plants, Nutcracker Nursery and Pine River Blooms had nothing usable",
+  "Nov 23: Catalog: added Dr; Szymanowski, Adam, Vitakola and Bailey's (kolomikta), Weiki and Weiki Male, Bingo, Purpurna Sadowa, Rogow, Scarlet September and Vitikiwi (European arguta), and New Zealand's Hortgem Tahi, Rua and Wha"
  ],
  "sources": {
   "directories": [
@@ -110,7 +110,10 @@
   "dead": [
    "Cloud Mountain Farm Center (cloudmountainfarmcenter.org) — site states it \"is currently closed and no longer accepting orders\""
   ],
-  "to_check": []
+  "to_check": [
+   "One Green World: 'Bailey's Arctic Beauty' listed ($24.95, fall preorder), not on file",
+   "One Green World: 'Broadmore' and 'Aromatnaya' Arctic Beauty kiwis linked from its site, not on file"
+  ]
  },
  "nurseries": [
   {
@@ -1556,6 +1559,363 @@
    "notes": [],
    "fruit": "kiwi",
    "first_seen": "2026-11-17"
+  },
+  {
+   "id": "dr-szymanowski",
+   "name": "Dr. Szymanowski",
+   "aliases": [
+    "Dr Szymanowski",
+    "Doctor Szymanowski"
+   ],
+   "sex": "self",
+   "species": "kolomikta",
+   "color": "green",
+   "tags": [
+    "Self-fertile",
+    "A. kolomikta"
+   ],
+   "summary": "Polish kolomikta with variegated leaves, sold as self-fertile.",
+   "description": "A Polish Actinidia kolomikta selection named after a horticulturist, with leaves splashed pink and white on mature plants. Small (about 2 cm) sweet green-yellow fruit ripens in late summer to early fall; nurseries sell it as self-fertile, though a Polish study reported it acted as a female, so a kolomikta male may still help. Very cold-hardy: it was among the least winter-damaged cultivars in a central-Poland hardiness trial, but slow-growing.",
+   "one_liner": "The very cold-hardy kolomikta sold as self-fertile",
+   "refs": [
+    "https://secretgarden.ro/en/products/kiwi-actinidia-kolomikta-dr-szymanowski",
+    "https://agro.icm.edu.pl/agro/element/bwmeta1.element.agro-2cb31879-d284-40f1-a909-f10ec9e00984/c/1630-3994-1-PB_179.pdf",
+    "https://www.clematis.com.pl/en/vines-in-garden/kiwiberryandotherfruitplants/actinidia-kolomikta0/"
+   ],
+   "breeder": null,
+   "awards": [],
+   "notes": [
+    "Self-fertility is disputed: sellers and a Russian botanic-garden paper call it self-fertile/hermaphroditic, but a Polish study quoted on Growing Fruit found it female-acting."
+   ],
+   "fruit": "kiwi",
+   "first_seen": "2026-11-23"
+  },
+  {
+   "id": "adam",
+   "name": "Adam",
+   "aliases": [],
+   "sex": "male",
+   "species": "kolomikta",
+   "color": "green",
+   "tags": [
+    "Male (pollinator)",
+    "A. kolomikta"
+   ],
+   "summary": "Polish male kolomikta grown as a pollinator and for its pink-and-white leaves.",
+   "description": "A male Actinidia kolomikta selected by Szczepan Marczyński in Poland and introduced in 2001. It bears no fruit but flowers with white, slightly scented blooms in early summer and pollinates all kolomikta females; older plants show creamy-white leaf variegation that flushes pink in summer.",
+   "one_liner": "The variegated male that pollinates any kolomikta",
+   "refs": [
+    "https://www.clematis.com.pl/en/vines-in-garden/kiwiberryandotherfruitplants/actinidia-kolomikta0/",
+    "https://www.rhs.org.uk/plants/345658/actinidia-kolomikta-adam-m/details"
+   ],
+   "breeder": {
+    "name": "Szczepan Marczyński",
+    "kind": "breeder",
+    "source": "https://www.clematis.com.pl/en/vines-in-garden/kiwiberryandotherfruitplants/actinidia-kolomikta0/"
+   },
+   "awards": [],
+   "notes": [],
+   "fruit": "kiwi",
+   "first_seen": "2026-11-23"
+  },
+  {
+   "id": "vitakola",
+   "name": "Vitakola",
+   "aliases": [],
+   "sex": "female",
+   "species": "kolomikta",
+   "color": "green",
+   "tags": [
+    "Female",
+    "A. kolomikta"
+   ],
+   "summary": "Czech kolomikta with unusually large fruit for the species.",
+   "description": "A Czech Actinidia kolomikta cultivar noted for fruit that is exceptionally large for the species, tasty and borne in heavy crops. It also has ornamental variegated leaves and lemon-scented flowers. Needs a kolomikta male.",
+   "one_liner": "The kolomikta with unusually big fruit for the species",
+   "refs": [
+    "https://www.clematis.com.pl/en/vines-in-garden/kiwiberryandotherfruitplants/actinidia-kolomikta0/"
+   ],
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "fruit": "kiwi",
+   "first_seen": "2026-11-23"
+  },
+  {
+   "id": "bailey-s",
+   "name": "Bailey's",
+   "aliases": [
+    "Bailey's Arctic Beauty",
+    "Baileys"
+   ],
+   "sex": "self",
+   "species": "kolomikta",
+   "color": "green",
+   "tags": [
+    "Self-fertile",
+    "A. kolomikta"
+   ],
+   "summary": "Self-fertile kolomikta (Arctic Beauty) sold by One Green World.",
+   "description": "An Actinidia kolomikta sold by One Green World as Bailey's Arctic Beauty, described as self-fertile, though yields are said to improve with a Pasha male nearby. Sweet green fruit eaten skin and all ripens in August, and the leaves are variegated green, white and pink. Very cold-hardy, to about -40F (zones 3-7).",
+   "one_liner": "The self-fertile Arctic Beauty, for a one-vine kolomikta",
+   "refs": [
+    "https://onegreenworld.com/product/baileys-arctic-beauty-kiwi/",
+    "https://growingfruit.org/t/self-fruitful-actinidia-kolomikta-varieties/78340"
+   ],
+   "breeder": null,
+   "awards": [],
+   "notes": [
+    "A Growing Fruit forum member suspects it may be a renamed Dr. Szymanowski; unconfirmed."
+   ],
+   "fruit": "kiwi",
+   "first_seen": "2026-11-23"
+  },
+  {
+   "id": "weiki",
+   "name": "Weiki",
+   "aliases": [
+    "Weiki Female"
+   ],
+   "sex": "female",
+   "species": "arguta",
+   "color": "green",
+   "tags": [
+    "Female"
+   ],
+   "summary": "German hardy kiwi with medium green fruit that hangs on the vine.",
+   "description": "A German Actinidia arguta grown in both female and male forms; the female is very productive. Medium green fruit (about 2.5-3 cm) takes a dark brown blush in sun, ripens late (October) and does not drop. Hardy to about -30C (-22F), with red leaf stalks. Needs a male such as Weiki Male.",
+   "one_liner": "The late, heavy-bearing hardy kiwi whose fruit doesn't drop",
+   "refs": [
+    "https://www.clematis.com.pl/en/vines-in-garden/climbers/507-actinidia0/",
+    "https://agro.icm.edu.pl/agro/element/bwmeta1.element.agro-2cb31879-d284-40f1-a909-f10ec9e00984/c/1630-3994-1-PB_179.pdf"
+   ],
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "fruit": "kiwi",
+   "first_seen": "2026-11-23"
+  },
+  {
+   "id": "weiki-male",
+   "name": "Weiki Male",
+   "aliases": [],
+   "sex": "male",
+   "species": "arguta",
+   "color": "green",
+   "tags": [
+    "Male (pollinator)"
+   ],
+   "summary": "German male hardy kiwi used to pollinate arguta females.",
+   "description": "The male form of the German Actinidia arguta 'Weiki', grown to pollinate arguta females; it bears no fruit. Creamy-white, slightly scented flowers appear in early summer on a vine with red twining stems. RHS rates it hardy throughout the UK and northern Europe.",
+   "one_liner": "The male that pollinates any arguta female",
+   "refs": [
+    "https://www.rhs.org.uk/plants/139845/actinidia-arguta-weiki-m/details",
+    "https://www.clematis.com.pl/en/vines-in-garden/climbers/507-actinidia0/",
+    "https://victoriananursery.co.uk/Kiwi-Weiki/"
+   ],
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "fruit": "kiwi",
+   "first_seen": "2026-11-23"
+  },
+  {
+   "id": "bingo",
+   "name": "Bingo",
+   "aliases": [],
+   "sex": "female",
+   "species": "arguta",
+   "color": "red",
+   "tags": [
+    "Female"
+   ],
+   "summary": "Polish hardy kiwi with pineapple-flavored fruit.",
+   "description": "A Polish Actinidia arguta (protected by plant breeders' rights) bearing plentiful, sweet, aromatic fruit with a pineapple flavor. A European seller describes the roughly 3 cm fruit as dark pink with yellow flesh, ripening September to October, on a very hardy vine. Not self-fertile; needs a male.",
+   "one_liner": "The pineapple-flavored Polish one",
+   "refs": [
+    "https://www.clematis.com.pl/en/vines-in-garden/climbers/507-actinidia0/",
+    "https://www.promessedefleurs.ie/fruit-trees/fruit-trees-a-to-z/hardy-kiwi-bingo-female-actinidia-arguta.html"
+   ],
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "fruit": "kiwi",
+   "first_seen": "2026-11-23"
+  },
+  {
+   "id": "purpurna-sadowa",
+   "name": "Purpurna Sadowa",
+   "aliases": [
+    "Purpurna",
+    "Purpurnaja Sadowaja"
+   ],
+   "sex": "female",
+   "species": "arguta",
+   "color": "red",
+   "tags": [
+    "Female"
+   ],
+   "summary": "Ukrainian purple kiwi, red in full sun.",
+   "description": "A Ukrainian female, probably from Actinidia purpurea seedlings or an arguta x purpurea cross (RHS lists it under A. arguta var. purpurea). Oval fruit about 3.5 cm long turns purple-red in full sun and stays green in shade; it keeps well and ripens mid-September to mid-October. Hardy to about -25C (-13F). Needs a male.",
+   "one_liner": "The purple-red one that keeps well",
+   "refs": [
+    "https://www.clematis.com.pl/en/vines-in-garden/climbers/507-actinidia0/",
+    "https://www.rhs.org.uk/plants/317418/actinidia-arguta-var-purpurea-purpurna-sadowa-(f-f)/details"
+   ],
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "fruit": "kiwi",
+   "first_seen": "2026-11-23"
+  },
+  {
+   "id": "rogow",
+   "name": "Rogow",
+   "aliases": [
+    "Rogów"
+   ],
+   "sex": "female",
+   "species": "arguta",
+   "color": "green",
+   "tags": [
+    "Female"
+   ],
+   "summary": "Polish hardy kiwi selected at the Rogów Arboretum.",
+   "description": "A Polish Actinidia arguta female selected at the Arboretum in Rogów. Very productive, with green fruit about 2.5-3 cm long that ripens late September to early October. Hardy to about -30C (-22F). Needs a male.",
+   "one_liner": "The productive Polish one from Rogów",
+   "refs": [
+    "https://www.clematis.com.pl/en/vines-in-garden/climbers/507-actinidia0/"
+   ],
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "fruit": "kiwi",
+   "first_seen": "2026-11-23"
+  },
+  {
+   "id": "scarlet-september",
+   "name": "Scarlet September",
+   "aliases": [
+    "Scarlet September Kiwi"
+   ],
+   "sex": "female",
+   "species": "arguta",
+   "color": "red",
+   "tags": [
+    "Female"
+   ],
+   "summary": "Polish red hardy kiwi, the earliest to ripen.",
+   "description": "A Polish Actinidia arguta sold under the trade name Scarlet September Kiwi, with sweet red fruit. Its nursery calls it the earliest of all its cultivars to ripen, from late August to mid-September. Pollination needs are not stated by the source; most arguta need a male.",
+   "one_liner": "The early red one that starts the season in August",
+   "refs": [
+    "https://www.clematis.com.pl/en/vines-in-garden/climbers/507-actinidia0/"
+   ],
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "fruit": "kiwi",
+   "first_seen": "2026-11-23"
+  },
+  {
+   "id": "vitikiwi",
+   "name": "Vitikiwi",
+   "aliases": [],
+   "sex": "self",
+   "species": "arguta",
+   "color": "green",
+   "tags": [
+    "Self-fertile"
+   ],
+   "summary": "Hardy kiwi that sets usually seedless fruit without pollination.",
+   "description": "An Actinidia arguta sold under the trade name Vitikiwi that is parthenocarpic, setting fruit without pollination, so it needs no male. Productive from its first or second year, with green, usually seedless fruit (few seeds) ripening in October.",
+   "one_liner": "The one that fruits with no male and few seeds",
+   "refs": [
+    "https://www.clematis.com.pl/en/vines-in-garden/climbers/507-actinidia0/"
+   ],
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "fruit": "kiwi",
+   "first_seen": "2026-11-23"
+  },
+  {
+   "id": "hortgem-tahi",
+   "name": "Hortgem Tahi",
+   "aliases": [],
+   "sex": "female",
+   "species": "arguta",
+   "color": "green",
+   "tags": [
+    "Female"
+   ],
+   "summary": "New Zealand kiwiberry bred for sweet, early, long-storing fruit.",
+   "description": "Bred in New Zealand by HortResearch from a 1987 cross and selected in 1998. Small green, hairless fruit averages about 11 g with high sugar (about 20 Brix) and a sweet, aromatic flavor; it is early-ripening (about three months from flowering) and stores 10-12 weeks chilled. Strong vine that bears from year two. Needs a male.",
+   "one_liner": "The very sweet commercial kiwiberry that stores for weeks",
+   "refs": [
+    "https://patents.google.com/patent/USPP13815",
+    "https://www.rhs.org.uk/plants/312909/actinidia-hortgem-tahi-f/details"
+   ],
+   "breeder": {
+    "name": "Horticulture and Food Research Institute of New Zealand (HortResearch, now Plant & Food Research)",
+    "kind": "university",
+    "source": "https://patents.google.com/patent/USPP13815"
+   },
+   "awards": [],
+   "notes": [],
+   "fruit": "kiwi",
+   "first_seen": "2026-11-23"
+  },
+  {
+   "id": "hortgem-rua",
+   "name": "Hortgem Rua",
+   "aliases": [],
+   "sex": "female",
+   "species": "arguta",
+   "color": "red",
+   "tags": [
+    "Female"
+   ],
+   "summary": "New Zealand kiwiberry with red-centered flesh.",
+   "description": "Bred in New Zealand by HortResearch from a cross made in 1987 and selected in 1998. Oblong fruit averages about 16 g, with skin that blushes red-purple and a red center at maturity; the flesh is tender and sweet-aromatic, with a shorter storage life (3-5 weeks chilled). Medium-vigor vine that bears from year two. Needs a male.",
+   "one_liner": "The red-centered kiwiberry from New Zealand",
+   "refs": [
+    "https://patents.google.com/patent/USPP14625"
+   ],
+   "breeder": {
+    "name": "Horticulture and Food Research Institute of New Zealand (HortResearch, now Plant & Food Research)",
+    "kind": "university",
+    "source": "https://patents.google.com/patent/USPP14625"
+   },
+   "awards": [],
+   "notes": [],
+   "fruit": "kiwi",
+   "first_seen": "2026-11-23"
+  },
+  {
+   "id": "hortgem-wha",
+   "name": "Hortgem Wha",
+   "aliases": [],
+   "sex": "female",
+   "species": "arguta",
+   "color": "green",
+   "tags": [
+    "Female"
+   ],
+   "summary": "New Zealand kiwiberry, a sister to Hortgem Tahi.",
+   "description": "Bred in New Zealand by HortResearch from a cross with Japanese seed-family parentage, selected in 1998. Small oblong green fruit (about 8-10 g) is sweet and aromatic (about 17 Brix), early-ripening, and stores 6-8 weeks chilled. Strong vine that bears from year two. Needs a male.",
+   "one_liner": "The small, sweet, early kiwiberry from New Zealand",
+   "refs": [
+    "https://patents.google.com/patent/USPP14320"
+   ],
+   "breeder": {
+    "name": "Horticulture and Food Research Institute of New Zealand (HortResearch, now Plant & Food Research)",
+    "kind": "university",
+    "source": "https://patents.google.com/patent/USPP14320"
+   },
+   "awards": [],
+   "notes": [],
+   "fruit": "kiwi",
+   "first_seen": "2026-11-23"
   }
  ],
  "listings": [
