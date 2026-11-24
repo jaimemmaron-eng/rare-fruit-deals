@@ -1,16 +1,22 @@
 {
  "fruit": "persimmon",
- "updated": "2026-11-19",
+ "updated": "2026-11-24",
  "scope": "Named, grafted persimmons for zone 6b: American persimmon (Diospyros virginiana) cultivars, American × Asian hybrids, and Asian (D. kaki) cultivars only when a seller rates them hardy to zone 6. Most Asian types (Fuyu, Jiro, Hachiya, Giombo, Tamopan and similar) are rated zone 7+ and are left out; so are ungrafted seedlings.",
  "last_run": {
-  "date": "2026-11-19",
-  "summary": "Sold out at Restoring Eden: Meader.",
-  "gaps": [],
-  "checked": [
-   "restoring-eden"
+  "date": "2026-11-24",
+  "summary": "Added 15 persimmons from cultivar histories and seller pages: American Killen, Wabash, Penland, Florence, Buhrman, Lambert, Keener, Golden Supreme, Ennis, Craggs, Knowles and SFES, plus zone-6-rated Asian Tecumseh, Miss Kim and Tam Kam. Lehman Delight noted as another name for 100-46.",
+  "gaps": [
+   "England's Orchard (nuttrees.net) unreadable (redirect loop/blocked)",
+   "Beardstown, Kitch, Zirochka, Sestronka, Gora Hoverla: single or forum-only sources, not added",
+   "Pieper/Pipher naming unresolved; Hess and Beavers Big unconfirmed",
+   "Korean 'bird' series (Oriole, Cardinal, Robin, Phoenix, Calliope, Raven) rated zone 7 only: out of scope"
   ],
+  "checked": [],
   "held": [],
-  "notes": []
+  "notes": [
+   "Added 15 persimmons from cultivar histories and seller pages: American Killen, Wabash, Penland, Florence, Buhrman, Lambert, Keener, Golden Supreme, Ennis, Craggs, Knowles and SFES, plus zone-6-rated Asian Tecumseh, Miss Kim and Tam Kam",
+   "Lehman Delight noted as another name for 100-46"
+  ]
  },
  "history_log": [
   "Sep 15: hybrid persimmons first tracked alongside Asian pears (Madison Citrus, One Green World, Stark Bro's).",
@@ -44,7 +50,8 @@
   "Nov 5: Back in stock at Blue Hill Wildlife Nursery: Meader $39.95; Price changes at Burnt Ridge Nursery & Orchards: Deer Magnet $52.25 → $52.50; New listings at Advanced Nursery Growers: Nikita's Gift (sold out); New listings at Restoring Eden: Nikita's Gift ($39.99), Early Golden ($39.99), Meader ($39.99), Prairie Gem ($39.99), Prairie Star ($39.99), Prairie Sun (sold out), Szukis (unconfirmed); Found a new seller, Restoring Eden (WA), with six grafted American and hybrid persimmons at $39.99 (1-gallon); Izel Plants, Foraged, Elmore Roots (does not ship), iGreenThumb and Gurney's had nothing in scope; Added Restoring Eden (WA) with Nikita's Gift, Early Golden, Meader, Prairie Gem, Prairie Star, Prairie Sun (sold out) and Szukis",
   "Nov 9: Back in stock at Restoring Eden: Szukis $39.99; Sold out at Edible Landscaping: Prok",
   "Nov 18: New listings at Madison Citrus Nursery: Prok (unconfirmed), Sosnovskaya (unconfirmed), Zhima Khurma (NB-02) (unconfirmed), Saijo (unconfirmed), Journey ($44.99), Kasandra ($59.99); New listings at Roots to Fruits Nursery: Rosseyanka (unconfirmed), Prok (unconfirmed), Meader (unconfirmed), Early Golden (unconfirmed), Deer Candy (unconfirmed); Checked six more sellers (Northwoods, Nutcracker, Fedco, Willis Orchard, Ison's, TN Nursery) and none had in-scope named stock; Added six Madison Citrus listings (Prok, Sosnovskaya, Zhima Khurma, Saijo, Journey, Kasandra) and five Roots to Fruits listings (Rosseyanka, Prok, Meader, Early Golden, Deer Candy) for varieties already on file",
-  "Nov 19: Sold out at Restoring Eden: Meader"
+  "Nov 19: Sold out at Restoring Eden: Meader",
+  "Nov 24: Added 15 persimmons from cultivar histories and seller pages: American Killen, Wabash, Penland, Florence, Buhrman, Lambert, Keener, Golden Supreme, Ennis, Craggs, Knowles and SFES, plus zone-6-rated Asian Tecumseh, Miss Kim and Tam Kam; Lehman Delight noted as another name for 100-46"
  ],
  "sources": {
   "directories": [
@@ -226,7 +233,10 @@
    "Edible Landscaping: Hychia/Hachiya, Ichi-Ki-Kei-Jiro, Tam Kam, Maekawa Jiro, Hana Fuyu, Wase Fuyu, Jiro persimmons listed, not on file",
    "Restoring Eden: Calliope, Cardinal, Oriole, Phoenix, Robin persimmons listed, not on file",
    "Raintree: persimmons 'Izu', 'Hachiya', 'Chocolate', 'Coffeecake' listed in stock, 'Oriole', 'Cardinal', 'Jiro Fuyu' sold out, not on file",
-   "Stark Bro's: 'Tanenashi' ($79.99) and 'Ichi-Ki-Kei-Jiro' ($199.99) persimmons listed, not on file"
+   "Stark Bro's: 'Tanenashi' ($79.99) and 'Ichi-Ki-Kei-Jiro' ($199.99) persimmons listed, not on file",
+   "Future Forest Plants: Keener, Buhrman, Lambert, SFES, Kitch, Beardstown, Zirochka, Kuro Kuma, Giboshi persimmons listed",
+   "Peaceful Heritage: Keener and Lehman's Delight persimmon scionwood listed (scion only)",
+   "Edible Landscaping: Tecumseh, Miss Kim, Tam Kam persimmons listed"
   ]
  },
  "nurseries": [
@@ -1203,7 +1213,10 @@
    "tags": [
     "American"
    ],
-   "aliases": [],
+   "aliases": [
+    "Lehman Delight",
+    "Lehman's Delight"
+   ],
    "summary": "Jerry Lehman selection; very large, smooth fruit, heavy crops.",
    "description": "A numbered selection from Jerry Lehman's breeding work in Terre Haute, Indiana. Very large fruit with smooth flesh on a heavy-producing tree.",
    "breeder": {
@@ -1514,7 +1527,9 @@
    "tags": [
     "Hybrid"
    ],
-   "aliases": [],
+   "aliases": [
+    "Gora Roman Kosh"
+   ],
    "summary": "American × Asian hybrid persimmon sold by Brambleberry Farm.",
    "description": "An American × Asian hybrid persimmon (D. virginiana × kaki) offered by Brambleberry Farm. Limited independent detail gathered so far.",
    "breeder": null,
@@ -1793,6 +1808,349 @@
    "notes": [],
    "fruit": "persimmon",
    "first_seen": "2026-10-25"
+  },
+  {
+   "id": "killen",
+   "name": "Killen",
+   "aliases": [],
+   "summary": "Early American persimmon raised in Delaware from an Early Golden seed.",
+   "description": "Joseph Killen of Felton, Delaware raised this American persimmon from a seed of Early Golden. It ripens early, nearly with Early Golden, in early October in southern Indiana, and the medium, firm fruit is praised for its flavor and texture. The trees are usually female with occasional male branchlets and are described as self-pollinating, on a slow-growing tree that spreads by suckers.",
+   "one_liner": "The early, well-flavored Early Golden seedling",
+   "refs": [
+    "https://journal.americanpomological.org/index.php/jofaps/article/download/1169/1173/2697",
+    "https://ag.purdue.edu/department/hla/extension/extension-publications-library/ext-pubs/ho-108-w.html",
+    "https://plants.ces.ncsu.edu/plants/diospyros-virginiana-killen/common-name/killen-common-persimmon/"
+   ],
+   "breeder": {
+    "name": "Joseph Killen",
+    "kind": "breeder"
+   },
+   "awards": [],
+   "notes": [],
+   "type": "american",
+   "tags": [
+    "American"
+   ],
+   "fruit": "persimmon",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "id": "wabash",
+   "name": "Wabash",
+   "aliases": [],
+   "summary": "Very early, small, red-orange wild selection from Lawrence County, Illinois.",
+   "description": "A wild American persimmon selected by J.C. McDaniel near Pinkstaff, Lawrence County, Illinois, unrelated to Early Golden. It is early-ripening, opening the season at Urbana by mid-August, with small, deep red-orange, sweet and aromatic fruit that can be seedless when pollinated by a 60-chromosome male. The foliage turns red in fall.",
+   "one_liner": "The very early one that opens the season in August",
+   "refs": [
+    "https://journal.americanpomological.org/index.php/jofaps/article/download/1169/1173/2697",
+    "https://journal.americanpomological.org/index.php/jofaps/article/download/12/12/185",
+    "https://journals.ashs.org/view/journals/hortsci/55/1/article-p4.xml"
+   ],
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "type": "american",
+   "tags": [
+    "American"
+   ],
+   "fruit": "persimmon",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "id": "penland",
+   "name": "Penland",
+   "aliases": [
+    "Penland's Seedless"
+   ],
+   "summary": "Wild tetraploid clone from the Blue Ridge at Penland, North Carolina, sold as seedless.",
+   "description": "An isolated wild clone found at Penland in the North Carolina Blue Ridge in 1937 and long sold as Penland's Seedless. It is a tetraploid that bears few seeds alone but sets seed with 60-chromosome males, and its fruit is smaller and less sweet than Wabash. It proved cold-hardy at Urbana, Illinois, on a slender tree with fine twigs.",
+   "one_liner": "The mountain seedless type for a 60-chromosome patch",
+   "refs": [
+    "https://journal.americanpomological.org/index.php/jofaps/article/download/1169/1173/2697",
+    "https://journal.americanpomological.org/index.php/jofaps/article/download/12/12/185"
+   ],
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "type": "american",
+   "tags": [
+    "American"
+   ],
+   "fruit": "persimmon",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "id": "florence",
+   "name": "Florence",
+   "aliases": [],
+   "summary": "University of Illinois selection from an open-pollinated Killen seedling.",
+   "description": "Selected at Urbana by Herbert C. Barrett and J.C. McDaniel of the University of Illinois from open-pollinated seedlings of Killen. Its flavor and texture are compared favorably with Garretson, and it has the smallest seeds in its group.",
+   "one_liner": "The small-seeded Killen seedling from Illinois",
+   "refs": [
+    "https://journal.americanpomological.org/index.php/jofaps/article/download/1169/1173/2697",
+    "https://journals.ashs.org/view/journals/hortsci/55/1/article-p4.xml"
+   ],
+   "breeder": {
+    "name": "University of Illinois (H.C. Barrett, J.C. McDaniel)",
+    "kind": "university"
+   },
+   "awards": [],
+   "notes": [],
+   "type": "american",
+   "tags": [
+    "American"
+   ],
+   "fruit": "persimmon",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "id": "buhrman",
+   "name": "Buhrman",
+   "aliases": [
+    "Hershey Blue",
+    "Wafer Seed"
+   ],
+   "summary": "Large, late, watery Pennsylvania wild persimmon that can blush blue.",
+   "description": "A wild hexaploid American persimmon from Pennsylvania, spread through John Hershey's catalogs and believed free of Early Golden ancestry. Its large, yellowish, watery fruit sometimes turns blue and ripens late, and it can stay astringent. Future Forest Plants offers it as a collector's variety.",
+   "one_liner": "The late, blue-tinged one for collectors",
+   "refs": [
+    "https://journal.americanpomological.org/index.php/jofaps/article/download/12/12/185",
+    "https://www.futureforestplants.com/shop/p/persimmon-varieties",
+    "https://lists.ibiblio.org/sympa/arc/nafex/2015-10/msg00029.html"
+   ],
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "type": "american",
+   "tags": [
+    "American"
+   ],
+   "fruit": "persimmon",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "id": "lambert",
+   "name": "Lambert",
+   "aliases": [
+    "Hershey Shoto"
+   ],
+   "summary": "Large, egg-shaped, late persimmon from Hiawatha, Kansas.",
+   "description": "An American persimmon from Hiawatha, Kansas, from the mid-20th century, distributed through John Hershey's catalogs. It bears large, egg-shaped fruit that ripens late, reported larger than Early Golden.",
+   "one_liner": "The big egg-shaped late one from Kansas",
+   "refs": [
+    "https://journal.americanpomological.org/index.php/jofaps/article/download/12/12/185",
+    "https://www.futureforestplants.com/shop/p/persimmon-varieties",
+    "https://lists.ibiblio.org/sympa/arc/nafex/2015-10/msg00029.html"
+   ],
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "type": "american",
+   "tags": [
+    "American"
+   ],
+   "fruit": "persimmon",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "id": "keener",
+   "name": "Keener",
+   "aliases": [],
+   "summary": "Old large-fruited American persimmon of uncertain origin, often credited to Burbank.",
+   "description": "An older American persimmon credited to Luther Burbank in one cultivar history, though its provenance is uncertain and some suggest a kaki hybrid background. Sources describe exceptionally large fruit with a sweet, high-quality flavor.",
+   "one_liner": "The big, sweet old-timer with a murky past",
+   "refs": [
+    "https://journal.americanpomological.org/index.php/jofaps/article/download/12/12/185",
+    "https://www.futureforestplants.com/shop/p/persimmon-varieties",
+    "https://peacefulheritage.com/products/persimmon-scion-wood-naturally-grown"
+   ],
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "type": "american",
+   "tags": [
+    "American"
+   ],
+   "fruit": "persimmon",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "id": "golden-supreme",
+   "name": "Golden Supreme",
+   "aliases": [],
+   "summary": "Old Illinois hexaploid with comparatively large, seedless fruit.",
+   "description": "A wild American persimmon from Illinois dating to the late 1800s and a hexaploid. It is reported to bear comparatively large, seedless fruit and is the male-side parent of Prairie Sun.",
+   "one_liner": "The old Illinois heirloom with few seeds",
+   "refs": [
+    "https://journal.americanpomological.org/index.php/jofaps/article/download/12/12/185",
+    "https://journals.ashs.org/view/journals/hortsci/55/1/article-p4.xml",
+    "https://www.bellaonline.com/articles/art183329.asp"
+   ],
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "type": "american",
+   "tags": [
+    "American"
+   ],
+   "fruit": "persimmon",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "id": "ennis",
+   "name": "Ennis",
+   "aliases": [
+    "Ennis Seedless"
+   ],
+   "summary": "Seedless tetraploid American persimmon found near Bedford, Indiana.",
+   "description": "A wild tetraploid American persimmon found by Robert Ennis near Bedford, Indiana. It ripens mid-season, in mid-October in southern Indiana, with medium, soft, seedless fruit of excellent flavor and moderate yields.",
+   "one_liner": "The seedless mid-October one from Indiana",
+   "refs": [
+    "https://ag.purdue.edu/department/hla/extension/extension-publications-library/ext-pubs/ho-108-w.html",
+    "https://journal.americanpomological.org/index.php/jofaps/article/download/12/12/185",
+    "https://journals.ashs.org/view/journals/hortsci/55/1/article-p4.xml"
+   ],
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "type": "american",
+   "tags": [
+    "American"
+   ],
+   "fruit": "persimmon",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "id": "craggs",
+   "name": "Craggs",
+   "aliases": [],
+   "summary": "Red-blushed southern Illinois wild selection rated among the best for fresh eating.",
+   "description": "A wild American persimmon selected near Harrisburg, Illinois. Its fruit has red-blushed skin, ripens from October into November, and is rated among the best for fresh eating, though soft.",
+   "one_liner": "The red-blushed one for eating fresh",
+   "refs": [
+    "https://journal.americanpomological.org/index.php/jofaps/article/download/1169/1173/2697"
+   ],
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "type": "american",
+   "tags": [
+    "American"
+   ],
+   "fruit": "persimmon",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "id": "knowles",
+   "name": "Knowles",
+   "aliases": [],
+   "summary": "Consistently seedless late persimmon from Gibson County, Indiana.",
+   "description": "An American persimmon from Gibson County, Indiana, noted for consistently seedless fruit. The fruit is small, soft and late-ripening.",
+   "one_liner": "The small late one that's reliably seedless",
+   "refs": [
+    "https://journal.americanpomological.org/index.php/jofaps/article/download/1169/1173/2697",
+    "https://journal.americanpomological.org/index.php/jofaps/article/download/1146/1150/2651"
+   ],
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "type": "american",
+   "tags": [
+    "American"
+   ],
+   "fruit": "persimmon",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "id": "sfes",
+   "name": "SFES",
+   "aliases": [],
+   "summary": "Productive red-fruited tetraploid from Lucky Pittman of Hopkinsville, Kentucky.",
+   "description": "A tetraploid American persimmon from Lucky Pittman of Hopkinsville, Kentucky. It bears red fruit and is described as very productive.",
+   "one_liner": "The heavy-bearing red one from Kentucky",
+   "refs": [
+    "https://www.futureforestplants.com/shop/p/persimmon-varieties",
+    "https://journals.ashs.org/view/journals/hortsci/55/1/article-p4.xml"
+   ],
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "type": "american",
+   "tags": [
+    "American"
+   ],
+   "fruit": "persimmon",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "id": "tecumseh",
+   "name": "Tecumseh",
+   "aliases": [],
+   "summary": "Small, hardy Asian persimmon, likely a Great Wall seedling, rated zone 6.",
+   "description": "An Asian persimmon named and selected by Dr. Jim Shanks of the University of Maryland and thought to be a seedling of Great Wall. It bears small fruit that holds on the tree into January and February, is self-fertile, and is rated for zones 6-8.",
+   "one_liner": "The small hardy Asian one that hangs into winter",
+   "refs": [
+    "https://ediblelandscaping.com/collections/persimmon/products/tecumseh-persimmon-1"
+   ],
+   "breeder": {
+    "name": "University of Maryland (Jim Shanks)",
+    "kind": "university"
+   },
+   "awards": [],
+   "notes": [],
+   "type": "asian",
+   "tags": [
+    "Asian",
+    "Zone 6"
+   ],
+   "fruit": "persimmon",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "id": "miss-kim",
+   "name": "Miss Kim",
+   "aliases": [],
+   "summary": "Dwarf, self-fertile Asian persimmon rated zone 6 by one seller.",
+   "description": "A dwarf Asian persimmon reaching 10-15 feet. It ripens in early October and holds into winter, with sweet fruit best eaten soft, and it is self-fertile. Edible Landscaping rates it for zones 6-9, while One Green World lists zones 7-9.",
+   "one_liner": "The dwarf self-fertile Asian for a small yard",
+   "refs": [
+    "https://ediblelandscaping.com/products/miss-kim-persimmon-1",
+    "https://onegreenworld.com/product/miss-kim-2"
+   ],
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "type": "asian",
+   "tags": [
+    "Asian",
+    "Zone 6"
+   ],
+   "fruit": "persimmon",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "id": "tam-kam",
+   "name": "Tam Kam",
+   "aliases": [
+    "TamKam"
+   ],
+   "summary": "Korean Asian persimmon with large, flat, seedless fruit, rated zone 6 by one seller.",
+   "description": "An Asian persimmon from Sunchow, Korea, ripening early with large, flat, lobed, deep orange fruit that is very sweet, seedless and can be eaten firm. It is self-fertile on a medium tree. Edible Landscaping rates it zones 6-9, though growers report mixed results at the cold end of that range.",
+   "one_liner": "The big seedless Korean one at the edge of hardiness",
+   "refs": [
+    "https://ediblelandscaping.com/products/tam-kam-persimmon-1",
+    "https://growingfruit.org/t/tam-kam-persimmon-zone-6a/53217"
+   ],
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "type": "asian",
+   "tags": [
+    "Asian",
+    "Zone 6"
+   ],
+   "fruit": "persimmon",
+   "first_seen": "2026-11-24"
   }
  ],
  "listings": [
