@@ -1,16 +1,19 @@
 {
  "fruit": "gooseberry",
- "updated": "2026-11-19",
+ "updated": "2026-11-25",
  "scope": "Named gooseberry cultivars for zone 6b: American (Ribes hirtellum-type), European (R. uva-crispa) and American × European hybrids, plus gooseberry × currant hybrids (jostaberry and similar). Plain currants and unnamed species plants are left out. NJ allows gooseberries into Hunterdon County; only a few Sussex, Passaic and Morris County townships are closed to them.",
  "last_run": {
-  "date": "2026-11-19",
-  "summary": "Price changes at Restoring Eden: Hinnonmaki Red $14.99 → $22.99.",
-  "gaps": [],
-  "checked": [
-   "restoring-eden"
+  "date": "2026-11-25",
+  "summary": "Catalog deep dive added 15 gooseberry cultivars: Houghton, Downing, Clark, Hinnonmaki Green, Achilles, Careless, Langley Gage, Greenfinch, Martlet, Xenia, Rokula, Rolonda, Jogranda, Rikö, Krasnoslavyansky.",
+  "gaps": [
+   "Columbus, Spinefree, Abundance, Ross, Larell, Remarka, Resistenta, Hoenings Früheste, Komandor, Grushenka, Kroma, Early Sulphur, Lancashire Lad, Crown Bob, Keepsake, Golden Drop and Mucurines found but thinly documented or left for a later night",
+   "Krondal and Black Satin: no Ribes cultivar found under those names"
   ],
+  "checked": [],
   "held": [],
-  "notes": []
+  "notes": [
+   "Catalog deep dive added 15 gooseberry cultivars: Houghton, Downing, Clark, Hinnonmaki Green, Achilles, Careless, Langley Gage, Greenfinch, Martlet, Xenia, Rokula, Rolonda, Jogranda, Rikö, Krasnoslavyansky"
+  ]
  },
  "history_log": [
   "Sep 25: gooseberries added to Rare Fruit Deals; seeded from 15 sellers.",
@@ -43,7 +46,8 @@
   "Nov 5: Price changes at Buy Shrubs and Trees: Hinnonmaki Red $49.95 → $29.95, Pixwell $49.95 → $29.95",
   "Nov 6: New listings at Cornell Farms: Hinnonmaki Yellow ($24.99), Little Ben (sold out), Black Velvet (sold out), Jahn's Prairie (sold out), Selby (sold out), Jostaberry (Josta) (sold out); Found one new in-scope seller: Cornell Farms (Portland, OR), with Hinnonmaki Yellow in stock (1 gal, $24.99, low stock) and five other listings sold out; Platt Hill, Devil Mountain, Phoenix Perennials, Whiffletree, Portland Nursery and Vermont Edible Landscapes had nothing shippable or checkable; Whitman's 'Lepaa Red' lead is already an alias of Hinnonmaki Red; New seller Cornell Farms (OR) added with Hinnonmaki Yellow, Little Ben, Black Velvet, Jahn's Prairie, Selby, Josta",
   "Nov 9: Back in stock at Raintree Nursery: Invicta $19.99; Sold out at Secret Orchard Nursery: Jostaberry (Josta)",
-  "Nov 19: Price changes at Restoring Eden: Hinnonmaki Red $14.99 → $22.99"
+  "Nov 19: Price changes at Restoring Eden: Hinnonmaki Red $14.99 → $22.99",
+  "Nov 25: Catalog deep dive added 15 gooseberry cultivars: Houghton, Downing, Clark, Hinnonmaki Green, Achilles, Careless, Langley Gage, Greenfinch, Martlet, Xenia, Rokula, Rolonda, Jogranda, Rikö, Krasnoslavyansky"
  ],
  "sources": {
   "directories": [
@@ -110,7 +114,9 @@
    "Rolling River Nursery, Mckinleyville CA — site unreachable again tonight (prior 521 errors, robots.txt blocks); grower community reports the original operation became Planting Justice, with former owners now running Fruitwood Nursery (already in checked_no_named_stock)."
   ],
   "to_check": [
-   "Whitman Farms: 'Lepaa Red' gooseberry listed, not on file"
+   "Whitman Farms: 'Lepaa Red' gooseberry listed, not on file",
+   "Planting Justice: 'Houghton' listed (sold out, pre-order), not on file",
+   "Whitman Farms: 'Hoenings Earliest' and 'Achilles' reportedly carried, not on file"
   ]
  },
  "nurseries": [
@@ -1380,6 +1386,382 @@
    "awards": [],
    "first_seen": "2026-10-02",
    "notes": []
+  },
+  {
+   "id": "houghton",
+   "name": "Houghton",
+   "aliases": [],
+   "summary": "Very hardy 1830s Massachusetts gooseberry; small, very sweet red berries.",
+   "description": "Raised by Abel Houghton in Lynn, Massachusetts, in 1833 from an American x European gooseberry background, and recommended by the American Pomological Society in 1852. The small, round-oval, thin-skinned berries are very sweet and turn dark red. The bush is vigorous, spreading and very productive with slender drooping canes, very cold-hardy, and ripens mid-season.",
+   "one_liner": "The very hardy 1830s heirloom with small, very sweet berries",
+   "refs": [
+    "https://npgstest.ars-grin.gov/gringlobal/accessiondetail?id=1451047",
+    "https://chestofbooks.com/gardening-horticulture/American-Horticultural-Manual-Vol2/The-Gooseberry.html"
+   ],
+   "breeder": {
+    "name": "Abel Houghton",
+    "kind": "breeder"
+   },
+   "awards": [],
+   "notes": [],
+   "type": "hybrid",
+   "color": "red",
+   "tags": [
+    "Hybrid"
+   ],
+   "fruit": "gooseberry",
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "downing",
+   "name": "Downing",
+   "aliases": [],
+   "summary": "19th-century New York gooseberry; pale green, juicy berries of very good flavor.",
+   "description": "An American gooseberry that originated in New York in the 1800s. The pale green, roundish-oval berries are about twice the size of Houghton's, smooth-skinned, soft and juicy with very good flavor. The vigorous plant has stout, very thorny wood and is described as mildew-resistant and rust-resistant.",
+   "one_liner": "The classic American green that rarely mildews",
+   "refs": [
+    "https://extension.usu.edu/gooseberries-in-the-garden.pdf",
+    "https://chestofbooks.com/gardening-horticulture/American-Horticultural-Manual-Vol2/The-Gooseberry.html",
+    "https://corpora.tika.apache.org/base/docs/govdocs1/720/720375.html"
+   ],
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "type": "american",
+   "color": "green",
+   "tags": [
+    "American"
+   ],
+   "fruit": "gooseberry",
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "clark",
+   "name": "Clark",
+   "aliases": [],
+   "summary": "Canadian red gooseberry; very large, high-quality fruit; parent of Captivator.",
+   "description": "A red gooseberry long grown in Canada, thought to be a natural American-European cross and a parent of Captivator. It bears very large, high-quality red fruit on a dense, low, thorny bush of moderate vigor that ripens mid- to late season. It is very susceptible to mildew.",
+   "one_liner": "The very large red one behind Captivator",
+   "refs": [
+    "https://vtechworks.lib.vt.edu/bitstream/handle/10919/55308/438-107.pdf",
+    "https://npgstest.ars-grin.gov/gringlobal/accessiondetail?id=1451055",
+    "https://plantlust.com/plants/22183/clark-gooseberry/"
+   ],
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "type": "hybrid",
+   "color": "red",
+   "tags": [
+    "Hybrid"
+   ],
+   "fruit": "gooseberry",
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "hinnonmaki-green",
+   "name": "Hinnonmaki Green",
+   "aliases": [
+    "Hinnonmäki Grön",
+    "Hino Green",
+    "Hinnomaki Green"
+   ],
+   "summary": "Finnish gooseberry; large, sweet, aromatic olive-green berries on a hardy bush.",
+   "description": "A Finnish gooseberry from the Hinnonmäki testing station, the same source as Hinnonmaki Red and Yellow. Large olive-green berries are sweet and aromatic when fully ripe, on a heavy-cropping, spreading bush. It is very cold-hardy and ripens mid-season, from mid-July in Britain.",
+   "one_liner": "The green sister of Hinnonmaki Red, sweet when fully ripe",
+   "refs": [
+    "https://www.rhs.org.uk/plants/255432/ribes-uva-crispa-hinnonmaki-gron-d/details",
+    "https://www.ashridgetrees.co.uk/hinnonmaki-green-gooseberry-bushes"
+   ],
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "type": "european",
+   "color": "green",
+   "tags": [
+    "European"
+   ],
+   "fruit": "gooseberry",
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "achilles",
+   "name": "Achilles",
+   "aliases": [],
+   "summary": "Old European gooseberry; very large, sweet oval berries ripening red.",
+   "description": "A European dessert gooseberry with very large oval berries that start green and ripen deep red, sweet and rich, with flavor rated excellent. The plant carries substantial thorns and is usually listed as late-ripening. Most sources call it mildew-susceptible.",
+   "one_liner": "The very large dessert berry for late in the season",
+   "refs": [
+    "https://extension.usu.edu/gooseberries-in-the-garden.pdf",
+    "https://corpora.tika.apache.org/base/docs/govdocs1/720/720375.html",
+    "https://victoriananursery.co.uk/Gooseberry-Bush-Achilles/"
+   ],
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "type": "european",
+   "color": "red",
+   "tags": [
+    "European"
+   ],
+   "fruit": "gooseberry",
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "careless",
+   "name": "Careless",
+   "aliases": [],
+   "summary": "Classic English cooking gooseberry; large, smooth green berries; RHS AGM.",
+   "description": "An old English culinary gooseberry listed in Hogg's Fruit Manual. Large, smooth green berries turn creamy white and translucent when ripe, with good flavor, on a compact, upright, thorny bush about 1–1.5 m tall. It is self-fertile, a heavy cropper, very cold-hardy (RHS H6) and ripens mid-season, around mid-July in Britain.",
+   "one_liner": "The classic English cooking gooseberry for pies and jam",
+   "refs": [
+    "https://www.rhs.org.uk/plants/200996/ribes-uva-crispa-careless-c-d/details",
+    "https://chestofbooks.com/gardening-horticulture/Robert-Hogg/The-Fruit-Manual-Great-Britain/Gooseberries-Synopsis-of-Gooseberries-Part-4.html"
+   ],
+   "breeder": null,
+   "awards": [
+    "RHS Award of Garden Merit"
+   ],
+   "notes": [],
+   "type": "european",
+   "color": "green",
+   "tags": [
+    "European"
+   ],
+   "fruit": "gooseberry",
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "langley-gage",
+   "name": "Langley Gage",
+   "aliases": [],
+   "summary": "Famous 1897 English dessert gooseberry; sweet, juicy, thin-skinned berries.",
+   "description": "An English dessert gooseberry dating from 1897 and long regarded as one of the best-flavored English varieties. Its large, thin-skinned berries ripen pale yellow to amber and are juicy and sweet. The moderately vigorous, thorny bush is a light cropper and is not mildew-resistant, so it needs care against mildew.",
+   "one_liner": "The famous English dessert berry, sweet but mildew-prone",
+   "refs": [
+    "https://npgstest.ars-grin.gov/gringlobal/accessiondetail?id=1450813",
+    "https://chrisbowers.co.uk/product/langley-gage-gooseberry-bushes"
+   ],
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "type": "european",
+   "color": "yellow",
+   "tags": [
+    "European"
+   ],
+   "fruit": "gooseberry",
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "greenfinch",
+   "name": "Greenfinch",
+   "aliases": [],
+   "summary": "Compact English culinary gooseberry with some mildew resistance; RHS AGM.",
+   "description": "A modern English culinary gooseberry similar to Careless. It forms a compact, bushy plant about 1–1.5 m tall with fewer spines and heavy crops of green berries mid-season. It has some resistance to mildew and leaf spot and is very cold-hardy (RHS H6).",
+   "one_liner": "The compact, cleaner-leaved stand-in for Careless",
+   "refs": [
+    "https://www.rhs.org.uk/plants/201041/ribes-uva-crispa-greenfinch-c/details",
+    "https://www.botanicaplantnursery.co.uk/all/gooseberry-greenfinch"
+   ],
+   "breeder": null,
+   "awards": [
+    "RHS Award of Garden Merit"
+   ],
+   "notes": [],
+   "type": "european",
+   "color": "green",
+   "tags": [
+    "European"
+   ],
+   "fruit": "gooseberry",
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "martlet",
+   "name": "Martlet",
+   "aliases": [],
+   "summary": "Newer red dessert gooseberry; large, sweet, smooth berries; RHS AGM.",
+   "description": "A newer European dessert gooseberry whose large, smooth berries start pale green and ripen dark red and sweet, from June to mid-July in Britain. The vigorous, upright, thorny shrub reaches about 1.2 m, is very productive, self-fertile and very cold-hardy (RHS H6). Sellers describe it as mildew-resistant with clean foliage.",
+   "one_liner": "The big sweet red for eating fresh off the bush",
+   "refs": [
+    "https://www.rhs.org.uk/plants/201126/ribes-uva-crispa-martlet-d/details",
+    "https://www.chrisbowers.co.uk/product/goose-martlet"
+   ],
+   "breeder": null,
+   "awards": [
+    "RHS Award of Garden Merit"
+   ],
+   "notes": [],
+   "type": "european",
+   "color": "red",
+   "tags": [
+    "European"
+   ],
+   "fruit": "gooseberry",
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "xenia",
+   "name": "Xenia",
+   "aliases": [
+    "Rafzuera"
+   ],
+   "summary": "Swiss red dessert gooseberry; large, nearly hairless berries on a less spiny bush.",
+   "description": "Bred in 1990 by Peter Hauenstein in Rafz, Switzerland, from Invicta crossed with a selection, and registered as 'Rafzuera'. Its round red berries are larger than Hinnonmaki Red and Invicta, almost hairless and very sweet, ripening early to mid-season. The semi-upright to spreading bush has fewer prickles than those varieties and is sold as mildew-resistant.",
+   "one_liner": "The large sweet red with fewer prickles",
+   "refs": [
+    "https://active.inspection.gc.ca/english/plaveg/pbrpov/cropreport/goo/app00002996e.shtml",
+    "https://www.thompson-morgan.com/p/gooseberry-xenia/CWW3551TM"
+   ],
+   "breeder": {
+    "name": "Peter Hauenstein",
+    "kind": "breeder"
+   },
+   "awards": [],
+   "notes": [],
+   "type": "european",
+   "color": "red",
+   "tags": [
+    "European"
+   ],
+   "fruit": "gooseberry",
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "rokula",
+   "name": "Rokula",
+   "aliases": [],
+   "summary": "German early red gooseberry; large, excellent-flavored berries; mildew-resistant.",
+   "description": "Bred in Germany by Rudolf Bauer from Mauks Frühe Rote and a mildew-resistant gooseberry. The large, round red berries have excellent flavor but can split in rain. The bushy, slightly drooping plant has few spines, is disease-resistant to American gooseberry mildew, and is early-ripening, at the end of June.",
+   "one_liner": "The early red with few spines and mildew resistance",
+   "refs": [
+    "https://npgstest.ars-grin.gov/gringlobal/accessiondetail?id=1580647",
+    "https://www.bundessortenamt.de/bsa/media/Files/BSL/bsl_strauchbeerenobst_2002.pdf",
+    "https://www.rhs.org.uk/plants/201194/ribes-uva-crispa-rokula-cd/details"
+   ],
+   "breeder": {
+    "name": "Rudolf Bauer",
+    "kind": "breeder"
+   },
+   "awards": [],
+   "notes": [],
+   "type": "european",
+   "color": "red",
+   "tags": [
+    "European"
+   ],
+   "fruit": "gooseberry",
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "rolonda",
+   "name": "Rolonda",
+   "aliases": [
+    "Rolanda"
+   ],
+   "summary": "German dark-red gooseberry; very sweet berries that hold on the bush; disease-resistant.",
+   "description": "A German gooseberry bred by Rudolf Bauer and released in the mid-1980s. Medium to large, oval, dark red to nearly black berries are very sweet when fully ripe and hang well on the bush. The broad, bushy, high-yielding plant has few spines and is disease-resistant to American mildew and leaf spot, with resistance to cracking; sources differ on ripening, from mid-season to late.",
+   "one_liner": "The dark-red, very sweet one that hangs well on the bush",
+   "refs": [
+    "https://npgstest.ars-grin.gov/gringlobal/accessiondetail?id=1580642",
+    "https://www.bundessortenamt.de/bsa/media/Files/BSL/bsl_strauchbeerenobst_2002.pdf"
+   ],
+   "breeder": {
+    "name": "Rudolf Bauer",
+    "kind": "breeder"
+   },
+   "awards": [],
+   "notes": [],
+   "type": "european",
+   "color": "red",
+   "tags": [
+    "European"
+   ],
+   "fruit": "gooseberry",
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "jogranda",
+   "name": "Jogranda",
+   "aliases": [],
+   "summary": "German jostaberry-type hybrid; berries somewhat larger than Josta; mildew-resistant.",
+   "description": "A German gooseberry x black currant hybrid of the jostaberry type, bred by Rudolf Bauer and on the market by the late 1980s. Its black-red berries are large, somewhat larger than Josta's, and mildly tart. The broad, arching, thornless bush is mildew-resistant and ripens mid-early, in late June.",
+   "one_liner": "The bigger-berried jostaberry",
+   "refs": [
+    "https://npgstest.ars-grin.gov/gringlobal/accessiondetail?id=1571458",
+    "https://www.bundessortenamt.de/bsa/media/Files/BSL/bsl_strauchbeerenobst_2002.pdf",
+    "https://www.zobodat.at/pdf/Osnabruecker-Naturwiss-Mitt_15_0049-0058.pdf"
+   ],
+   "breeder": {
+    "name": "Rudolf Bauer",
+    "kind": "breeder"
+   },
+   "awards": [],
+   "notes": [],
+   "type": "hybrid",
+   "color": "black",
+   "tags": [
+    "Gooseberry × currant"
+   ],
+   "fruit": "gooseberry",
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "riko",
+   "name": "Rikö",
+   "aliases": [
+    "Riko"
+   ],
+   "summary": "Hungarian black currant x gooseberry hybrid; aromatic, tart black berries.",
+   "description": "A Hungarian black currant x gooseberry hybrid from the Research Institute for Berry Fruit at Fertőd, from Silvergieters Schwarze crossed with the gooseberry Lady Delamere. It bears medium to large, tart, aromatic black berries on a strong, widely spreading bush with very low mildew susceptibility. It is late-ripening, in early July.",
+   "one_liner": "The late, aromatic Hungarian jostaberry type",
+   "refs": [
+    "https://www.bundessortenamt.de/bsa/media/Files/BSL/bsl_strauchbeerenobst_2002.pdf",
+    "https://www.yumda.com/de/lexikon/Jostabeere.html",
+    "https://www.rhs.org.uk/plants/215912/ribes-x-nidigrolaria-riko-pbr-f/details"
+   ],
+   "breeder": {
+    "name": "Research Institute for Berry Fruit, Fertőd",
+    "kind": "university"
+   },
+   "awards": [],
+   "notes": [],
+   "type": "hybrid",
+   "color": "black",
+   "tags": [
+    "Gooseberry × currant"
+   ],
+   "fruit": "gooseberry",
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "krasnoslavyansky",
+   "name": "Krasnoslavyansky",
+   "aliases": [
+    "Red Slavic",
+    "Krasnoslavyanskiy"
+   ],
+   "summary": "Russian dark cherry-red gooseberry; sweet berries with slight tartness.",
+   "description": "A Russian gooseberry bred at the Leningrad Fruit and Vegetable Experimental Station from Avenarius x Oregon and entered in the State Register in 1992. It bears dark cherry-red berries of about 4–5.5 g, sweet with slight acidity, ripening mid-season. Sources describe it as moderately resistant to powdery mildew but differ on its thorniness and hardiness.",
+   "one_liner": "The sweet dark-red Russian selection",
+   "refs": [
+    "https://agronom.info/en/p/gooseberry-red-slavic-4692.html",
+    "https://old.journal-vniispk.ru/pdf/2022/3/11.pdf"
+   ],
+   "breeder": {
+    "name": "Leningrad Fruit and Vegetable Experimental Station",
+    "kind": "university"
+   },
+   "awards": [],
+   "notes": [],
+   "type": "european",
+   "color": "red",
+   "tags": [
+    "European"
+   ],
+   "fruit": "gooseberry",
+   "first_seen": "2026-11-25"
   }
  ],
  "listings": [
