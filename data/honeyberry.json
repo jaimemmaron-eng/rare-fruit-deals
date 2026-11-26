@@ -1,16 +1,22 @@
 {
  "fruit": "honeyberry",
- "updated": "2026-11-19",
+ "updated": "2026-11-26",
  "scope": "Named honeyberry / haskap (Lonicera caerulea) cultivars, shippable to Annandale, NJ (zone 6b/7a). Nearly all need a second variety that blooms at the same time, so each variety is tagged early or late bloomer where sellers agree. In zone 6–7, late bloomers (the Boreal series and the Japanese types from Maxine Thompson) usually do better; early bloomers like Tundra and Indigo Gem can open too soon and get caught by late freezes. Names overlap: Berry Blue = Czech #17 = Berry Smart Blue; Yezberry Solo = Kapu; Yezberry Maxie = Kuchi.",
  "last_run": {
-  "date": "2026-11-19",
-  "summary": "Back in stock at Restoring Eden: Blue Moon $24.99.",
-  "gaps": [],
-  "checked": [
-   "restoring-eden"
+  "date": "2026-11-26",
+  "summary": "Catalog deep dive added 13 honeyberry cultivars: Leningradsky Velikan, Bakcharsky Velikan, Docz Velikana, Vostorg, Wojtek, Zojka, Morena, Blue Goose, Sugar Mountain Blue, Blue Corn, Candy Blue, Nimfa, Amfora. Added Kaido as an alias of Yezberry Honey Bunch.",
+  "gaps": [
+   "Bloom timing not documented for the new additions; left null.",
+   "Breeder for Bakcharsky Velikan conflicts between sources; left null.",
+   "Tomichka, Kamchadalka, Fialka, Goluboe Vereteno, Yugana, Silginka, Uslada, Sinij Utes, Duet, Jolanta not added: no descriptive source opened tonight.",
+   "Possible aliases Zolushka=Cinderella and Sinyaya Ptitsa=Blue Bird not confirmed by an opened source."
   ],
+  "checked": [],
   "held": [],
-  "notes": []
+  "notes": [
+   "Catalog deep dive added 13 honeyberry cultivars: Leningradsky Velikan, Bakcharsky Velikan, Docz Velikana, Vostorg, Wojtek, Zojka, Morena, Blue Goose, Sugar Mountain Blue, Blue Corn, Candy Blue, Nimfa, Amfora",
+   "Added Kaido as an alias of Yezberry Honey Bunch"
+  ]
  },
  "history_log": [
   "Oct 3: seeded from Stark Bro's, Honeyberry USA, Raintree, One Green World, Park Seed and Berries Unlimited.",
@@ -35,7 +41,8 @@
   "Nov 5: Back in stock at Restoring Eden: Blue Forest $24.99; Sold out at Restoring Eden: Blue Moon",
   "Nov 7: New listings at Berries Unlimited: Honey Wild (unconfirmed), Honey Gold (unconfirmed), Wild Beast (unconfirmed), Blue Cloud (unconfirmed), WildTreasure (unconfirmed), Blue Moose (unconfirmed), Happy Giant (unconfirmed); New listings at Grimm's Gardens: Borealis (sold out), Tundra (sold out), Aurora (unconfirmed); New listings at Nature Hills Nursery: Tundra (sold out), Borealis (sold out); New listings at Plant Addicts: Yezberry Honey Bunch (sold out); New sellers: Grimm's Gardens, Nature Hills Nursery (now showing Tundra and Borealis, backordered) and Plant Addicts (Yezberry Honey Bunch, sold out); Added Berries Unlimited's Honey Wild, Honey Gold, Wild Beast, Blue Cloud and WildTreasure, plus Blue Moose and Happy Giant listings",
   "Nov 9: Back in stock at Stark Bro's Nurseries: Boreal Blizzard $21.99, Borealis $21.99; Back in stock at Weaver Family Farms Nursery: Aurora $39.99; Price changes at One Green World: Tundra $21.95 → $24.95, Honey Bee $21.95 → $24.95, Cinderella $21.95 → $24.95",
-  "Nov 19: Back in stock at Restoring Eden: Blue Moon $24.99"
+  "Nov 19: Back in stock at Restoring Eden: Blue Moon $24.99",
+  "Nov 26: Catalog deep dive added 13 honeyberry cultivars: Leningradsky Velikan, Bakcharsky Velikan, Docz Velikana, Vostorg, Wojtek, Zojka, Morena, Blue Goose, Sugar Mountain Blue, Blue Corn, Candy Blue, Nimfa, Amfora; Added Kaido as an alias of Yezberry Honey Bunch"
  ],
  "sources": {
   "directories": [
@@ -1158,7 +1165,8 @@
    "id": "honey-bunch",
    "name": "Yezberry Honey Bunch",
    "aliases": [
-    "Honey Bunch"
+    "Honey Bunch",
+    "Kaido"
    ],
    "color": "blue",
    "bloom": "Late bloomer",
@@ -1547,6 +1555,283 @@
    "notes": [],
    "fruit": "honeyberry",
    "first_seen": "2026-11-07"
+  },
+  {
+   "id": "leningradsky-velikan",
+   "name": "Leningradsky Velikan",
+   "aliases": [
+    "Leningradskij Velikan",
+    "Leningradskiy Velikan",
+    "Leningrad Giant"
+   ],
+   "summary": "Vigorous Russian honeyberry with long, narrow, sweet-tart berries.",
+   "description": "A Russian cultivar whose name means 'Leningrad Giant'. It grows vigorously to about 1.5 m and bears cylindrical, narrow blue berries of up to 2 g with a sweet, slightly sour, aromatic flavor, ripening from mid-June. It is only partly self-fertile and crops poorly alone, so it needs another variety blooming at the same time.",
+   "one_liner": "The vigorous Russian giant with long sweet-tart berries",
+   "refs": [
+    "https://www.tutifruti.sk/honeysuckle-haskap-leningradskij-velikan-pot",
+    "https://www.tutifruti.sk/soft-fruits-pot/zimolez-haskap/russian-haskap-varieties"
+   ],
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "color": "blue",
+   "bloom": null,
+   "tags": [],
+   "fruit": "honeyberry",
+   "first_seen": "2026-11-26"
+  },
+  {
+   "id": "bakcharsky-velikan",
+   "name": "Bakcharsky Velikan",
+   "aliases": [
+    "Bakcharskiy Velikan",
+    "Bakcarskij Velikan",
+    "Bakchar Giant"
+   ],
+   "summary": "Large-fruited Siberian honeyberry registered in Russia in 2005.",
+   "description": "A Siberian cultivar entered in the Russian register in 2005. It makes a vigorous, long-lived bush to about 1.5–2 m with long cylindrical berries averaging about 2 g (some to 2.5 g), sweet-sour with thin skin, ripening mid-season. Sources call it very cold-hardy and disease-resistant, but it needs a pollinator variety for a good crop.",
+   "one_liner": "The big-berried Siberian that needs a partner to crop well",
+   "refs": [
+    "https://tutifruti.sk/honeysuckle-haskap-bakcarskij-velikan-pot",
+    "https://agronom.info/en/p/lonicera-bakcharskiy-velikan-70153.html"
+   ],
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "color": "blue",
+   "bloom": null,
+   "tags": [],
+   "fruit": "honeyberry",
+   "first_seen": "2026-11-26"
+  },
+  {
+   "id": "docz-velikana",
+   "name": "Docz Velikana",
+   "aliases": [
+    "Doch Velikana",
+    "Daughter of the Giant"
+   ],
+   "summary": "Russian dessert honeyberry licensed in 2009.",
+   "description": "A Russian dessert cultivar, licensed since 2009, whose name means 'Daughter of the Giant'. It ripens in June and is described as good fresh or frozen; it is also suggested as a pollinator for Bakcharsky Velikan.",
+   "one_liner": "The Docz Velikana selection we're still learning about",
+   "refs": [
+    "https://www.tutifruti.sk/soft-fruits-pot/zimolez-haskap/russian-haskap-varieties",
+    "https://tutifruti.sk/honeysuckle-haskap-bakcarskij-velikan-pot"
+   ],
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "color": "blue",
+   "bloom": null,
+   "tags": [],
+   "fruit": "honeyberry",
+   "first_seen": "2026-11-26"
+  },
+  {
+   "id": "vostorg",
+   "name": "Vostorg",
+   "aliases": [],
+   "summary": "Large-berried, early Russian honeyberry for fresh eating or freezing.",
+   "description": "A Russian cultivar described as a dessert berry for fresh eating or freezing that holds up well in transport. In a 2024 Polish trial its berries were large and early-ripening, though yield on young bushes was low. It is also listed as a pollinator for Bakcharsky Velikan.",
+   "one_liner": "The early Russian dessert berry that travels well",
+   "refs": [
+    "https://www.inhort.pl/wp-content/uploads/2025/12/3.16_publikacja_agriculture.pdf",
+    "https://www.tutifruti.sk/soft-fruits-pot/zimolez-haskap/russian-haskap-varieties"
+   ],
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "color": "blue",
+   "bloom": null,
+   "tags": [],
+   "fruit": "honeyberry",
+   "first_seen": "2026-11-26"
+  },
+  {
+   "id": "wojtek",
+   "name": "Wojtek",
+   "aliases": [],
+   "summary": "Productive Polish honeyberry selected in the 1990s.",
+   "description": "A Polish cultivar selected in the 1990s. In a 2024 trial at Poland's Institute of Horticulture it gave the highest yield of six cultivars, with firm berries of about 1.6 g suited to machine harvest, ripening mid-early in the first half of June; its sugar content was the lowest in that trial. The bush is compact and upright to about 1.5 m.",
+   "one_liner": "The heavy-cropping Polish one with firm berries",
+   "refs": [
+    "https://www.inhort.pl/wp-content/uploads/2025/12/3.16_publikacja_agriculture.pdf",
+    "https://fryd.app/en/library/plants/27088-honigbeerelonicerakamtschatica/varieties/27164-wojtek"
+   ],
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "color": "blue",
+   "bloom": null,
+   "tags": [],
+   "fruit": "honeyberry",
+   "first_seen": "2026-11-26"
+  },
+  {
+   "id": "zojka",
+   "name": "Zojka",
+   "aliases": [],
+   "summary": "Polish honeyberry from the 1990s, often paired with Wojtek.",
+   "description": "A Polish cultivar selected in the 1990s. It forms a branching bush about 1.5 m tall with berries of about 1 g, described as sweet and fruity with slight tartness, ripening from mid-May to mid-June. Sellers recommend planting it with another variety such as Wojtek for pollination.",
+   "one_liner": "The Polish partner for Wojtek",
+   "refs": [
+    "https://promessedefleurs.ie/fruit-trees/berries/honeyberry-bush/honeyberry-zojka-lonicera-caerulea-var-kamtschatica.html",
+    "https://www.inhort.pl/wp-content/uploads/2025/12/3.16_publikacja_agriculture.pdf"
+   ],
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "color": "blue",
+   "bloom": null,
+   "tags": [],
+   "fruit": "honeyberry",
+   "first_seen": "2026-11-26"
+  },
+  {
+   "id": "morena",
+   "name": "Morena",
+   "aliases": [],
+   "summary": "Very early older honeyberry with dark, polyphenol-rich berries.",
+   "description": "An older cultivar listed among Russia's registered blue honeysuckle cultivars. In a 2024 Polish trial it was the earliest to ripen, with the darkest berries and the highest polyphenol and anthocyanin content, but small berries and low yield.",
+   "one_liner": "The very early one with the darkest, richest berries",
+   "refs": [
+    "https://www.inhort.pl/wp-content/uploads/2025/12/3.16_publikacja_agriculture.pdf",
+    "https://agroatlas.ru/en/content/cultural/Lonicera_K/index.html"
+   ],
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "color": "blue",
+   "bloom": null,
+   "tags": [],
+   "fruit": "honeyberry",
+   "first_seen": "2026-11-26"
+  },
+  {
+   "id": "blue-goose",
+   "name": "Blue Goose",
+   "aliases": [],
+   "summary": "Early honeyberry from Berries Unlimited with small elongated berries.",
+   "description": "A cultivar from Berries Unlimited trialed at Montana State University. It is early-ripening with small elongated berries of about 0.5–0.6 g and a flavor the trial called medicinal. It broke bud during winter warm spells and suffered frost damage when cold returned.",
+   "one_liner": "The early small-berried one that can wake too soon",
+   "refs": [
+    "https://agresearch.montana.edu/warc/research_current/berries/haskap/haskap-variety-evaluation.html",
+    "https://extension.usu.edu/diverseag/files/Haskapcultivarhandout2.pdf"
+   ],
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "color": "blue",
+   "bloom": null,
+   "tags": [],
+   "fruit": "honeyberry",
+   "first_seen": "2026-11-26"
+  },
+  {
+   "id": "sugar-mountain-blue",
+   "name": "Sugar Mountain Blue",
+   "aliases": [],
+   "summary": "Early Russian-origin honeyberry with small berries.",
+   "description": "A Russian-origin cultivar trialed at Montana State University. It is early-ripening with small oval berries of about 0.7–1 g and a flavor the trial called medicinal; it was damaged by cold after breaking bud early in mild spells, though it yielded well at one Montana site.",
+   "one_liner": "The early Russian-type that does better in steady winters",
+   "refs": [
+    "https://agresearch.montana.edu/warc/research_current/berries/haskap/haskap-variety-evaluation.html",
+    "https://extension.usu.edu/diverseag/files/Haskapcultivarhandout2.pdf"
+   ],
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "color": "blue",
+   "bloom": null,
+   "tags": [],
+   "fruit": "honeyberry",
+   "first_seen": "2026-11-26"
+  },
+  {
+   "id": "blue-corn",
+   "name": "Blue Corn",
+   "aliases": [],
+   "summary": "Early honeyberry from Berries Unlimited dropped from Montana trials.",
+   "description": "A cultivar from Berries Unlimited trialed at Montana State University. It is early-ripening with berries of about 0.8 g and a tonic-like aftertaste, and it performed poorly enough to be removed from the trial in 2018.",
+   "one_liner": "The Blue Corn selection we're still learning about",
+   "refs": [
+    "https://agresearch.montana.edu/warc/research_current/berries/haskap/haskap-variety-evaluation.html"
+   ],
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "color": "blue",
+   "bloom": null,
+   "tags": [],
+   "fruit": "honeyberry",
+   "first_seen": "2026-11-26"
+  },
+  {
+   "id": "candy-blue",
+   "name": "Candy Blue",
+   "aliases": [
+    "Avalanche"
+   ],
+   "summary": "Early honeyberry known abroad as Avalanche.",
+   "description": "An early-ripening cultivar, ripening as early as the end of May in its Slovak seller's conditions, and known abroad under the name Avalanche.",
+   "one_liner": "The Candy Blue selection we're still learning about",
+   "refs": [
+    "https://www.tutifruti.sk/soft-fruits-pot/zimolez-haskap/russian-haskap-varieties"
+   ],
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "color": "blue",
+   "bloom": null,
+   "tags": [],
+   "fruit": "honeyberry",
+   "first_seen": "2026-11-26"
+  },
+  {
+   "id": "nimfa",
+   "name": "Nimfa",
+   "aliases": [
+    "Nymph",
+    "Nympha"
+   ],
+   "summary": "Russian registered honeyberry often used as a pollinator.",
+   "description": "A cultivar on Russia's list of registered blue honeysuckle cultivars. European sellers recommend it as a pollinator for Leningradsky Velikan and Bakcharsky Velikan.",
+   "one_liner": "The Russian pollinator partner for the Velikan giants",
+   "refs": [
+    "https://agroatlas.ru/en/content/cultural/Lonicera_K/index.html",
+    "https://www.tutifruti.sk/honeysuckle-haskap-leningradskij-velikan-pot",
+    "https://agronom.info/en/p/lonicera-bakcharskiy-velikan-70153.html"
+   ],
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "color": "blue",
+   "bloom": null,
+   "tags": [],
+   "fruit": "honeyberry",
+   "first_seen": "2026-11-26"
+  },
+  {
+   "id": "amfora",
+   "name": "Amfora",
+   "aliases": [
+    "Amphora"
+   ],
+   "summary": "Russian registered honeyberry cultivar.",
+   "description": "A cultivar on Russia's list of registered blue honeysuckle cultivars, also named as a pollinator for Bakcharsky Velikan.",
+   "one_liner": "The Amfora selection we're still learning about",
+   "refs": [
+    "https://agroatlas.ru/en/content/cultural/Lonicera_K/index.html",
+    "https://agronom.info/en/p/lonicera-bakcharskiy-velikan-70153.html"
+   ],
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "color": "blue",
+   "bloom": null,
+   "tags": [],
+   "fruit": "honeyberry",
+   "first_seen": "2026-11-26"
   }
  ],
  "listings": [
