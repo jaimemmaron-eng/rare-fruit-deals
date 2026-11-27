@@ -1,16 +1,21 @@
 {
  "fruit": "cornelian",
- "updated": "2026-11-19",
+ "updated": "2026-11-27",
  "scope": "Named cornelian cherry (Cornus mas) cultivars grown for fruit, shippable to Annandale, NJ (zone 6b/7a; the species is hardy to zone 4). Unnamed seedlings and ornamental leaf-color forms (Variegata, Tricolor, Aurea, Golden Glory, Saffron Sentinel) are left out. US sellers mostly use trademark names for the Ukrainian cultivars (Pioneer = Lukianivskyi, Sunrise = Marina, Red Star = Vydubetskyi, Yellow = Yantarnyi), so the same tree shows up under both names. Plant two different cultivars for a good crop.",
  "last_run": {
-  "date": "2026-11-19",
-  "summary": "No stock or price changes at the 1 nurseries checked.",
-  "gaps": [],
-  "checked": [
-   "restoring-eden"
+  "date": "2026-11-27",
+  "summary": "Catalog deep dive added 15 named cornelian cherry cultivars from Austria, Bulgaria, Poland, Slovakia, Ukraine and Crimea (Jolico, Kazanlak, Schönbrunner Gourmet-Dirndl, Szafer, Bolestraszycki, Dublany, Paczoski, Nikolka, Olena, Semen, Devin, Titus, Yevgenia, Koralovyi, Vyshgorodsky) and synonyms for 8 varieties on file.",
+  "gaps": [
+   "Trees and Shrubs Online lists 'Radost' as a separate Ukrainian hybrid from 'Siretsky' (Red Dawn), but Radost is on file as an alias of Red Dawn; left unchanged, worth a review.",
+   "Trees and Shrubs Online gives 'Johan Lishka' as Jolico's selector; BOKU gives 'Josef Lischka' at HBLFA Schönbrunn; BOKU used.",
+   "Not added yet (thin or colour-unstated): Schumener/Shumen, Slowianin, Raciborski, Shan, Kostya, Grenader, Hecoma, Pancharevo, Bulgarico, Cornello Castle, Cornmas, Matador, P5, Prezent, Nezhny, Vutivka Svitlanu, Bukowiński, Ak-Zogal, Armudi-Zogal, Ntoulia 1/2, Öszi Tüz, Bo 2034.",
+   "No current US seller checked for the new additions (catalog job only)."
   ],
+  "checked": [],
   "held": [],
-  "notes": []
+  "notes": [
+   "Catalog deep dive added 15 named cornelian cherry cultivars from Austria, Bulgaria, Poland, Slovakia, Ukraine and Crimea (Jolico, Kazanlak, Schönbrunner Gourmet-Dirndl, Szafer, Bolestraszycki, Dublany, Paczoski, Nikolka, Olena, Semen, Devin, Titus, Yevgenia, Koralovyi, Vyshgorodsky) and synonyms for 8 varieties on file"
+  ]
  },
  "history_log": [
   "Oct 3: seeded from One Green World, Cricket Hill Garden, Restoring Eden, Raintree and Burnt Ridge.",
@@ -36,7 +41,8 @@
   "Nov 8: No new sellers or varieties tonight: Scenic Hill Farm, Bower & Branch and Big Beautiful Barns sell only unnamed Cornus mas; Cricket Hill's extra cornelian cherry listings are seedlings (aurea strain, open-pollinated Elegant seedling), which are out of scope",
   "Nov 9: Back in stock at Raintree Nursery: Pioneer $49.99, Coral Blaze $49.99; Sold out at Cricket Hill Garden: Sunrise; Price changes at One Green World: Elegant $44.95 → $39.95, Exotica $44.95 → $39.95, Yellow $44.95 → $39.95",
   "Nov 16: no changes at the 1 nurseries checked",
-  "Nov 19: no changes at the 1 nurseries checked"
+  "Nov 19: no changes at the 1 nurseries checked",
+  "Nov 27: Catalog deep dive added 15 named cornelian cherry cultivars from Austria, Bulgaria, Poland, Slovakia, Ukraine and Crimea (Jolico, Kazanlak, Schönbrunner Gourmet-Dirndl, Szafer, Bolestraszycki, Dublany, Paczoski, Nikolka, Olena, Semen, Devin, Titus, Yevgenia, Koralovyi, Vyshgorodsky) and synonyms for 8 varieties on file"
  ],
  "sources": {
   "directories": [
@@ -260,7 +266,9 @@
    "aliases": [
     "Elehantnyi",
     "Elegantnyj",
-    "Elegantnyi"
+    "Elegantnyi",
+    "Elegantny",
+    "Very Smart"
    ],
    "summary": "Heavy crops of dark red, pear-shaped fruit; sweet enough to eat fresh.",
    "description": "Ukrainian cultivar ‘Elehantnyi’, sold in the US as Elegant™. Bears heavy crops of glossy dark red, pear-shaped fruit that ripens late August into September and tends to hang on the tree rather than drop. Sweet enough for fresh eating when fully ripe, and good for preserves. Plant a second variety for best fruit set.",
@@ -285,7 +293,10 @@
    "aliases": [
     "Lukyanovskii",
     "Lukianivskyi",
-    "Lukianovskyi"
+    "Lukianovskyi",
+    "Lukyanivsky",
+    "Lukianivsky",
+    "Lukyanovsky"
    ],
    "summary": "Large, juicy, aromatic pear-shaped fruit that ripens about two weeks before Elegant.",
    "description": "Ukrainian cultivar ‘Lukianivskyi’ (Lukyanovskii), released in 1975 from Kyiv's botanical garden and sold in the US as Pioneer™. Very productive, with glossy dark red, pear-shaped fruit up to 1½\" long; juicy, sweet and aromatic, and soft when fully ripe. Ripens late summer, ahead of Elegant.",
@@ -310,7 +321,10 @@
     "Vydubetskyi",
     "Vidubetskii",
     "Vydubieckii",
-    "Redstar"
+    "Redstar",
+    "Vydubychi",
+    "Wydubieckij",
+    "Vidubetskiy"
    ],
    "summary": "One of the most productive cultivars; juicy, glossy dark red oval fruit.",
    "description": "Ukrainian cultivar ‘Vydubetskyi’ from Svitlana Klymenko's breeding work, released in 1990 and sold in the US as Red Star™. Among the heaviest croppers, with glossy dark red, oval fruit about 1¼\" long and a sweet-tart, aromatic flavor. Needs another variety as a pollinizer.",
@@ -380,7 +394,10 @@
    ],
    "aliases": [
     "Koralovyi Marka",
-    "Koralovyj Marka"
+    "Koralovyj Marka",
+    "Koral Mark",
+    "Korallovyi-Marka",
+    "Koralovyi-Marka"
    ],
    "summary": "Bright coral-red fruit, among the sweetest; drops when fully ripe.",
    "description": "Ukrainian cultivar ‘Koralovyi Marka’, sold as Coral Blaze™. Larger and sweeter than average, with bright coral-red fruit (growers report around 12% sugar, among the highest). Fruit drops when completely ripe; 20–30 lb from a mature plant. Needs a pollinizer; Pioneer and Sunrise are suggested partners.",
@@ -403,7 +420,10 @@
    ],
    "aliases": [
     "Ekzotychnyi",
-    "Ekzoticheskiy"
+    "Ekzoticheskiy",
+    "Exotika",
+    "Exoticheskiy",
+    "Ekzotichnyi"
    ],
    "summary": "Ukrainian cultivar with large, sweet fruit (around 10% sugar reported).",
    "description": "Ukrainian cultivar ‘Ekzotychnyi’ (Ekzoticheskiy), sold in the US as Exotica™. Large red fruit with a relatively high sugar content for the species (growers report about 10%).",
@@ -511,7 +531,8 @@
     "Red"
    ],
    "aliases": [
-    "Pervenec"
+    "Pervenec",
+    "Le premier né"
    ],
    "summary": "Eastern European selection; name means “firstborn”.",
    "description": "Eastern European cornelian cherry selection whose name means “firstborn”. Rarely offered in the US.",
@@ -612,7 +633,10 @@
    ],
    "aliases": [
     "Svetlyachok",
-    "Swietljaczok"
+    "Swietljaczok",
+    "Svetliachok",
+    "Firefly",
+    "Svetlyatchok"
    ],
    "summary": "Name means “firefly”; Cricket Hill lists it, sold out today.",
    "description": "Name means “firefly”; Cricket Hill lists it, sold out today. Details will fill in as more sellers are checked.",
@@ -696,7 +720,8 @@
     "Red"
    ],
    "aliases": [
-    "Vladimirskiy"
+    "Vladimirskiy",
+    "Vladimir"
    ],
    "summary": "Eastern European named selection; Cricket Hill lists it, sold out today.",
    "description": "Eastern European named selection; Cricket Hill lists it, sold out today. Details will fill in as more sellers are checked.",
@@ -704,6 +729,385 @@
    "awards": [],
    "first_seen": "2026-10-03",
    "notes": []
+  },
+  {
+   "id": "jolico",
+   "name": "Jolico",
+   "aliases": [],
+   "color": "red",
+   "tags": [
+    "Red",
+    "Sweet"
+   ],
+   "summary": "Austrian large-fruited, sweet, late-ripening selection.",
+   "description": "Selected at the Schönbrunn horticultural institute in Vienna and widely planted in Austria's Dirndl Valley. Its large, sweet, orange-red fruit (about 4–6.5 g, with a small stone) is high in sugar and vitamin C, and it is one of the last to ripen, around late September to early October in Austria. A slow-growing shrub or small tree to about 5 m that starts bearing young and needs a second cornelian cherry for cross-pollination.",
+   "one_liner": "The large, sweet, late one from Austria's Dirndl Valley",
+   "refs": [
+    "https://boku.ac.at/fileadmin/data/H03000/H79000/PBU/Dirndl/subsubpage_3_1_Ausgewaehlte_Sorten_von_Cornus_mas_mit_internationalem_Ursprung.pdf",
+    "https://www.treesandshrubsonline.org/articles/cornus/cornus-mas-cultivars-h-m/",
+    "https://www.rhs.org.uk/plants/191987/cornus-mas-jolico-f/details"
+   ],
+   "breeder": {
+    "name": "Josef Lischka, HBLFA Schönbrunn (Austria)",
+    "kind": "breeder",
+    "short": "Lischka"
+   },
+   "awards": [
+    "RHS Award of Garden Merit"
+   ],
+   "notes": [],
+   "fruit": "cornelian",
+   "first_seen": "2026-11-27"
+  },
+  {
+   "id": "kazanlak",
+   "name": "Kazanlak",
+   "aliases": [
+    "Kasanlytskyi",
+    "Kasanlaker",
+    "Kasanlytsky",
+    "Cornella Kasanlaker"
+   ],
+   "color": "red",
+   "tags": [
+    "Red"
+   ],
+   "summary": "Bulgarian vigorous, large-fruited, bright red selection.",
+   "description": "Selected in Bulgaria by Tsolo Nagov (1985). A strong-growing tree to about 7 m with large, bright red, pear-shaped to olive-sized fruit of high eating quality and heavy yields. Mid-season, ripening late August into September in Europe.",
+   "one_liner": "The vigorous Bulgarian with big, bright red fruit",
+   "refs": [
+    "https://boku.ac.at/fileadmin/data/H03000/H79000/PBU/Dirndl/subsubpage_3_1_Ausgewaehlte_Sorten_von_Cornus_mas_mit_internationalem_Ursprung.pdf",
+    "https://www.treesandshrubsonline.org/articles/cornus/cornus-mas-cultivars-h-m/"
+   ],
+   "breeder": {
+    "name": "Tsolo Nagov (Bulgaria)",
+    "kind": "breeder",
+    "short": "Nagov"
+   },
+   "awards": [],
+   "notes": [],
+   "fruit": "cornelian",
+   "first_seen": "2026-11-27"
+  },
+  {
+   "id": "schonbrunner-gourmet-dirndl",
+   "name": "Schönbrunner Gourmet-Dirndl",
+   "aliases": [
+    "Schönbrunner Gourmet Dirndl",
+    "Schönbrunner Gourmetdirndl"
+   ],
+   "color": "red",
+   "tags": [
+    "Red",
+    "Sweet"
+   ],
+   "summary": "Austrian table-fruit selection with sweet, pear-shaped fruit.",
+   "description": "Selected as a culinary variety by Helmut Pirc at the Schönbrunn horticultural institute in Vienna in 1990. The red, pear-shaped fruit is about 3 cm long, sweet and good eaten fresh, ripening in September. A tree up to about 6 m, sold widely in Europe as a fruit tree.",
+   "one_liner": "The Viennese sweet one bred for eating fresh",
+   "refs": [
+    "https://boku.ac.at/fileadmin/data/H03000/H79000/PBU/Dirndl/subsubpage_3_1_Ausgewaehlte_Sorten_von_Cornus_mas_mit_internationalem_Ursprung.pdf",
+    "https://www.treesandshrubsonline.org/articles/cornus/cornus-mas-cultivars-s-z/"
+   ],
+   "breeder": {
+    "name": "Helmut Pirc, HBLFA Schönbrunn (Austria)",
+    "kind": "university",
+    "short": "Schönbrunn"
+   },
+   "awards": [],
+   "notes": [],
+   "fruit": "cornelian",
+   "first_seen": "2026-11-27"
+  },
+  {
+   "id": "szafer",
+   "name": "Szafer",
+   "aliases": [],
+   "color": "red",
+   "tags": [
+    "Dark red",
+    "Sweet"
+   ],
+   "summary": "Polish late selection, rated among the best-tasting.",
+   "description": "Introduced by Bolestraszyce Arboretum in Poland. The dark red, pear-shaped fruit is very high in sugar and good eaten raw, and is described as one of the best-tasting selections. A rather weak grower; late-ripening, from September into mid-October.",
+   "one_liner": "The very sweet late Polish one for eating raw",
+   "refs": [
+    "https://www.treesandshrubsonline.org/articles/cornus/cornus-mas-cultivars-s-z/"
+   ],
+   "breeder": {
+    "name": "Bolestraszyce Arboretum (Poland)",
+    "kind": "university",
+    "short": "Bolestraszyce"
+   },
+   "awards": [],
+   "notes": [],
+   "fruit": "cornelian",
+   "first_seen": "2026-11-27"
+  },
+  {
+   "id": "bolestraszycki",
+   "name": "Bolestraszycki",
+   "aliases": [],
+   "color": "red",
+   "tags": [
+    "Dark red"
+   ],
+   "summary": "Polish late selection with large, bottle-shaped fruit.",
+   "description": "Introduced by Bolestraszyce Arboretum in Poland. Its large, bottle-shaped fruit is dark red and late-ripening, from September to early October.",
+   "one_liner": "The big-fruited late Polish arboretum selection",
+   "refs": [
+    "https://www.treesandshrubsonline.org/articles/cornus/cornus-mas-cultivars-a-g/"
+   ],
+   "breeder": {
+    "name": "Bolestraszyce Arboretum (Poland)",
+    "kind": "university",
+    "short": "Bolestraszyce"
+   },
+   "awards": [],
+   "notes": [],
+   "fruit": "cornelian",
+   "first_seen": "2026-11-27"
+  },
+  {
+   "id": "dublany",
+   "name": "Dublany",
+   "aliases": [],
+   "color": "red",
+   "tags": [
+    "Dark red",
+    "Sweet"
+   ],
+   "summary": "Polish mid-season selection, high in sugar and vitamin C.",
+   "description": "Introduced by Bolestraszyce Arboretum in Poland. A moderately vigorous plant with broad, pear-shaped dark red fruit high in sugar and vitamin C, ripening mid to late August.",
+   "one_liner": "The August Polish one rich in sugar and vitamin C",
+   "refs": [
+    "https://www.treesandshrubsonline.org/articles/cornus/cornus-mas-cultivars-a-g/"
+   ],
+   "breeder": {
+    "name": "Bolestraszyce Arboretum (Poland)",
+    "kind": "university",
+    "short": "Bolestraszyce"
+   },
+   "awards": [],
+   "notes": [],
+   "fruit": "cornelian",
+   "first_seen": "2026-11-27"
+  },
+  {
+   "id": "paczoski",
+   "name": "Paczoski",
+   "aliases": [],
+   "color": "red",
+   "tags": [
+    "Red"
+   ],
+   "summary": "Polish very late selection with drop-shaped red fruit.",
+   "description": "Introduced by Bolestraszyce Arboretum in Poland. Its elongated, drop-shaped red fruit is very late-ripening, from mid-September into late October.",
+   "one_liner": "The very late Polish one that stretches your season",
+   "refs": [
+    "https://www.treesandshrubsonline.org/articles/cornus/cornus-mas-cultivars-n-r/"
+   ],
+   "breeder": {
+    "name": "Bolestraszyce Arboretum (Poland)",
+    "kind": "university",
+    "short": "Bolestraszyce"
+   },
+   "awards": [],
+   "notes": [],
+   "fruit": "cornelian",
+   "first_seen": "2026-11-27"
+  },
+  {
+   "id": "nikolka",
+   "name": "Nikolka",
+   "aliases": [
+    "Petit Nicholas"
+   ],
+   "color": "red",
+   "tags": [
+    "Dark red",
+    "Early"
+   ],
+   "summary": "Very early hybrid with juicy dark red fruit.",
+   "description": "A hybrid with dark red, pear-shaped, juicy fruit of good flavor. Very early-ripening, from late July to early August.",
+   "one_liner": "The very early one that starts the season in late July",
+   "refs": [
+    "https://www.treesandshrubsonline.org/articles/cornus/cornus-mas-cultivars-n-r/"
+   ],
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "fruit": "cornelian",
+   "first_seen": "2026-11-27"
+  },
+  {
+   "id": "olena",
+   "name": "Olena",
+   "aliases": [
+    "Elena",
+    "Helen",
+    "Hellena"
+   ],
+   "color": "red",
+   "tags": [
+    "Red",
+    "Early",
+    "Sweet"
+   ],
+   "summary": "Ukrainian early, very cold-hardy selection.",
+   "description": "A Ukrainian selection made in 1975 from open-pollinated seedlings. The round to oval red fruit is sweet to sweet-tart and early-ripening, from mid-August in Europe. Very cold-hardy: it is reported to have fruited after a winter of -35°C.",
+   "one_liner": "The very cold-hardy early one from Ukraine",
+   "refs": [
+    "https://www.treesandshrubsonline.org/articles/cornus/cornus-mas-cultivars-n-r/",
+    "https://www.treesandshrubsonline.org/articles/cornus/cornus-mas-cultivars-a-g/"
+   ],
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "fruit": "cornelian",
+   "first_seen": "2026-11-27"
+  },
+  {
+   "id": "semen",
+   "name": "Semen",
+   "aliases": [
+    "Sémen",
+    "Siméon"
+   ],
+   "color": "red",
+   "tags": [
+    "Dark red"
+   ],
+   "summary": "Crimean seedling with sweet-tart fruit very high in vitamin C.",
+   "description": "A seedling from the Kizilovka garden in Crimea. A moderately vigorous plant with dark red, pear-shaped, sweet-tart fruit that is very high in vitamin C and can be eaten raw, ripening late August to early September.",
+   "one_liner": "The Crimean one loaded with vitamin C",
+   "refs": [
+    "https://www.treesandshrubsonline.org/articles/cornus/cornus-mas-cultivars-s-z/"
+   ],
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "fruit": "cornelian",
+   "first_seen": "2026-11-27"
+  },
+  {
+   "id": "devin",
+   "name": "Devin",
+   "aliases": [
+    "Dvin"
+   ],
+   "color": "red",
+   "tags": [
+    "Dark red"
+   ],
+   "summary": "Slovak high-yielding, tart, late selection.",
+   "description": "Introduced by the fruit research and breeding institute at Bojnice, Slovakia. A moderately vigorous plant with very high, steady yields of tart, dark red fruit of about 4.5 g. Late-ripening, from mid-September.",
+   "one_liner": "The heavy-bearing tart Slovak one for processing",
+   "refs": [
+    "https://www.treesandshrubsonline.org/articles/cornus/cornus-mas-cultivars-a-g/",
+    "https://boku.ac.at/fileadmin/data/H03000/H79000/PBU/Dirndl/subsubpage_3_1_Ausgewaehlte_Sorten_von_Cornus_mas_mit_internationalem_Ursprung.pdf"
+   ],
+   "breeder": {
+    "name": "Fruit Research Breeding Institute, Bojnice (Slovakia)",
+    "kind": "university",
+    "short": "Bojnice"
+   },
+   "awards": [],
+   "notes": [],
+   "fruit": "cornelian",
+   "first_seen": "2026-11-27"
+  },
+  {
+   "id": "titus",
+   "name": "Titus",
+   "aliases": [],
+   "color": "red",
+   "tags": [
+    "Dark red"
+   ],
+   "summary": "Slovak vigorous, very high-yielding selection with small fruit.",
+   "description": "Introduced by the fruit research and breeding institute at Bojnice, Slovakia. A vigorous plant with very high yields of small fruit that turns dark red when ripe, from mid-August into September.",
+   "one_liner": "The vigorous Slovak one with heavy crops of small fruit",
+   "refs": [
+    "https://www.treesandshrubsonline.org/articles/cornus/cornus-mas-cultivars-s-z/",
+    "https://boku.ac.at/fileadmin/data/H03000/H79000/PBU/Dirndl/subsubpage_3_1_Ausgewaehlte_Sorten_von_Cornus_mas_mit_internationalem_Ursprung.pdf"
+   ],
+   "breeder": {
+    "name": "Fruit Research Breeding Institute, Bojnice (Slovakia)",
+    "kind": "university",
+    "short": "Bojnice"
+   },
+   "awards": [],
+   "notes": [],
+   "fruit": "cornelian",
+   "first_seen": "2026-11-27"
+  },
+  {
+   "id": "yevgenia",
+   "name": "Yevgenia",
+   "aliases": [
+    "Eugenia"
+   ],
+   "color": "dark",
+   "tags": [
+    "Near-black"
+   ],
+   "summary": "Hybrid with dark red to nearly black fruit high in vitamin C.",
+   "description": "A moderately vigorous hybrid with pear-shaped fruit that ripens dark red to almost black-red and is high in vitamin C. Mid-season, ripening mid-August to mid-September.",
+   "one_liner": "The near-black one rich in vitamin C",
+   "refs": [
+    "https://www.treesandshrubsonline.org/articles/cornus/cornus-mas-cultivars-s-z/"
+   ],
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "fruit": "cornelian",
+   "first_seen": "2026-11-27"
+  },
+  {
+   "id": "koralovyi",
+   "name": "Koralovyi",
+   "aliases": [
+    "Corallovyi",
+    "Corail"
+   ],
+   "color": "coral",
+   "tags": [
+    "Coral red"
+   ],
+   "summary": "Vigorous hybrid with orange-red fruit.",
+   "description": "A vigorous hybrid with orange-red fruit, ripening mid-August to mid-September. It is listed separately from Koralovyi Marka (sold as Coral Blaze).",
+   "one_liner": "The vigorous coral-orange one",
+   "refs": [
+    "https://www.treesandshrubsonline.org/articles/cornus/cornus-mas-cultivars-a-g/",
+    "https://www.treesandshrubsonline.org/articles/cornus/cornus-mas-cultivars-h-m/"
+   ],
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "fruit": "cornelian",
+   "first_seen": "2026-11-27"
+  },
+  {
+   "id": "vyshgorodsky",
+   "name": "Vyshgorodsky",
+   "aliases": [
+    "Vyshgorodskiy"
+   ],
+   "color": "red",
+   "tags": [
+    "Dark red"
+   ],
+   "summary": "Kyiv seedling selection noted for drought tolerance.",
+   "description": "Raised from a seedling at the Kashchenko Acclimatisation Garden in Kyiv. The fruit is dark red and rather small, and the plant is reported to be very drought tolerant.",
+   "one_liner": "The drought-tolerant Kyiv selection",
+   "refs": [
+    "https://www.treesandshrubsonline.org/articles/cornus/cornus-mas-cultivars-s-z/"
+   ],
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "fruit": "cornelian",
+   "first_seen": "2026-11-27"
   }
  ],
  "listings": [
