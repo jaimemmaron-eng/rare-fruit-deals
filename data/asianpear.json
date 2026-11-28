@@ -1,16 +1,18 @@
 {
  "fruit": "asianpear",
- "updated": "2026-11-19",
+ "updated": "2026-11-28",
  "scope": "Named Asian pear cultivars (Pyrus pyrifolia, P. bretschneideri and Asian-type hybrids such as Juicy Jewel) shippable to Annandale, NJ (zone 6b/7a). Trees grafted on callery pear (Pyrus calleryana, invasive in NJ) are left out, and so are Asian × European crosses sold as such (Maxie) and multi-variety combo trees. Most Asian pears need a second variety that blooms at the same time; known bad pairs are Nijisseiki × Kikusui, Shinsui × Kikusui, Hosui × Niitaka and Kosui × Shinsui, and Niitaka can't pollinate others.",
  "last_run": {
-  "date": "2026-11-19",
-  "summary": "No stock or price changes at the 1 nurseries checked.",
-  "gaps": [],
-  "checked": [
-   "restoring-eden"
+  "date": "2026-11-28",
+  "summary": "Catalog deep dive added 14 Asian pears: Japanese Akizuki, Nansui, Gold Nijisseiki, Okusankichi, Yakumo, Kumoi, Choju, Shuurei, Syuugyoku and Shinsetsu, and Korean Whangkeumbae, Chuwhangbae, Hwasan and Gamcheonbae.",
+  "gaps": [
+   "Skipped for uncertain skin type or thin sourcing: Wonhwang, Mansoo, Shinil, Shincheon, Changjo, Hougetsu, Huangguan, Dangshan Su Li, Hanareum, Seigyoku; worth a later pass."
   ],
+  "checked": [],
   "held": [],
-  "notes": []
+  "notes": [
+   "Catalog deep dive added 14 Asian pears: Japanese Akizuki, Nansui, Gold Nijisseiki, Okusankichi, Yakumo, Kumoi, Choju, Shuurei, Syuugyoku and Shinsetsu, and Korean Whangkeumbae, Chuwhangbae, Hwasan and Gamcheonbae"
+  ]
  },
  "history_log": [
   "Sep 15: Asian pears first tracked alongside hybrid persimmons (Blue Hill, Bob Wells, One Green World, Just Fruits).",
@@ -35,7 +37,8 @@
   "Nov 5: Back in stock at One Green World: Hosui $39.95, Kikusui $39.95, Kosui $39.95",
   "Nov 9: Price changes at Stark Bro's Nurseries: Hosui $57.99 → $64.99; Price changes at Willis Orchard Co.: Chojuro $39.95 → $34.95; New listings at Plant Me Green: Kikusui (sold out), Korean Giant (unconfirmed), Shinko (unconfirmed), Shinseiki (unconfirmed); New listings at One Green World: Yoinashi ($44.95); New listings at Mehrabyan Nursery: Nijisseiki ($29.95); New listings at Burnt Ridge Nursery: Shinseiki (unconfirmed); Found Plant Me Green (potted Kikusui, Korean Giant, Shinko and Shinseiki, $15 flat shipping) and added Yoinashi at One Green World, Twentieth Century at Mehrabyan and Shinseiki at Burnt Ridge; Forestfarm and Blooming Junction had nothing in scope; New seller Plant Me Green (Kikusui sold out",
   "Nov 16: Sold out at One Green World: Yoinashi",
-  "Nov 19: no changes at the 1 nurseries checked"
+  "Nov 19: no changes at the 1 nurseries checked",
+  "Nov 28: Catalog deep dive added 14 Asian pears: Japanese Akizuki, Nansui, Gold Nijisseiki, Okusankichi, Yakumo, Kumoi, Choju, Shuurei, Syuugyoku and Shinsetsu, and Korean Whangkeumbae, Chuwhangbae, Hwasan and Gamcheonbae"
  ],
  "sources": {
   "directories": [
@@ -76,7 +79,8 @@
   ],
   "to_check": [
    "Starking Hardy Giant at Stark Bro's (still Stark-exclusive branding only, 'from Korea in 1969', out of stock $64.99 as of Oct 7; no source yet ties it to Korean Giant/Olympic/Dan Bae as a synonym vs. a distinct release - leaving as its own unlisted name until sourced)",
-   "Burnt Ridge: Hosui and Tennosui named on its Asian pear page, not yet verified or on file (Shinseiki added Nov 9; Maxie is out of scope)"
+   "Burnt Ridge: Hosui and Tennosui named on its Asian pear page, not yet verified or on file (Shinseiki added Nov 9; Maxie is out of scope)",
+   "Burnt Ridge: 'Yakumo' (and 'Seigyoku') scionwood listed on ASIAN-PEAR-SCIONWOOD page, not on file: https://www.burntridgenursery.com/ASIAN-PEAR-SCIONWOOD/productinfo/SCION-AS"
   ]
  },
  "nurseries": [
@@ -1166,6 +1170,387 @@
    "tags": [
     "Smooth skin"
    ]
+  },
+  {
+   "id": "akizuki",
+   "name": "Akizuki",
+   "aliases": [],
+   "summary": "Large, very sweet Japanese russet pear ripening between Hosui and Niitaka.",
+   "description": "Released in 1998 by Japan's national fruit research institute from a cross of a Niitaka × Hosui selection with Kosui. The fruit is large (about 500 g), oblate, with yellowish red-brown russet skin and very sweet, low-acid flesh, slightly sweeter than Hosui. It ripens mid to late season, about ten days after Hosui, is resistant to black spot, and needs a compatible pollinizer such as Kosui, Hosui or Niitaka.",
+   "one_liner": "The very sweet big russet that follows Hosui",
+   "refs": [
+    "https://patents.justia.com/patent/PP12373",
+    "https://www.jstage.jst.go.jp/article/jsbbs/66/1/66_46/_html/-char/en"
+   ],
+   "breeder": {
+    "name": "National Institute of Fruit Tree Science (Japan)",
+    "kind": "university",
+    "short": "NIFTS Japan"
+   },
+   "awards": [],
+   "notes": [],
+   "type": "japanese",
+   "skin": "russet",
+   "tags": [
+    "Japanese",
+    "Russet"
+   ],
+   "fruit": "asianpear",
+   "first_seen": "2026-11-28"
+  },
+  {
+   "id": "nansui",
+   "name": "Nansui",
+   "aliases": [],
+   "summary": "Sweet, juicy late russet pear from Nagano with a long storage life.",
+   "description": "Bred at the Nanshin Agricultural Experiment Station in Nagano, Japan, from Echigo × Shinsui and registered in 1990. The fruit is about 400 g, oblate, with yellowish-brown russet skin and sweet, juicy white flesh. It ripens late, after Hosui, keeps about a month at room temperature and about three months in cold storage, and is susceptible to black spot.",
+   "one_liner": "The sweet late russet that keeps for months in the fridge",
+   "refs": [
+    "https://ishs.org/ishs-article/587_40/",
+    "https://www.jstage.jst.go.jp/article/jsbbs/66/1/66_46/_html/-char/en"
+   ],
+   "breeder": {
+    "name": "Nanshin Agricultural Experiment Station, Nagano",
+    "kind": "university",
+    "short": "Nagano Nanshin"
+   },
+   "awards": [],
+   "notes": [],
+   "type": "japanese",
+   "skin": "russet",
+   "tags": [
+    "Japanese",
+    "Russet"
+   ],
+   "fruit": "asianpear",
+   "first_seen": "2026-11-28"
+  },
+  {
+   "id": "gold-nijisseiki",
+   "name": "Gold Nijisseiki",
+   "aliases": [],
+   "summary": "A black-spot-resistant mutant of the classic Nijisseiki (20th Century).",
+   "description": "A mutant of Nijisseiki induced by gamma irradiation at Japan's Institute of Radiation Breeding and registered in 1990–91. Its smooth yellow-green to yellow fruit, about 300–350 g, matches Nijisseiki in quality and ripens slightly later. Its main difference is intermediate resistance to black spot, a disease that badly affects Nijisseiki.",
+   "one_liner": "The 20th Century pear made resistant to black spot",
+   "refs": [
+    "https://www.jstage.jst.go.jp/article/jsbbs1951/43/3/43_3_455/_article/-char/en",
+    "https://www.jircas.go.jp/sites/default/files/publication/jarq/33-4-227-234_0.pdf",
+    "https://www.jstage.jst.go.jp/article/jsbbs/66/1/66_46/_html/-char/en"
+   ],
+   "breeder": {
+    "name": "Institute of Radiation Breeding, NIAR (Japan)",
+    "kind": "university",
+    "short": "IRB Japan"
+   },
+   "awards": [],
+   "notes": [],
+   "type": "japanese",
+   "skin": "smooth",
+   "tags": [
+    "Japanese",
+    "Smooth skin"
+   ],
+   "fruit": "asianpear",
+   "first_seen": "2026-11-28"
+  },
+  {
+   "id": "okusankichi",
+   "name": "Okusankichi",
+   "aliases": [],
+   "summary": "Old Japanese very late, very large russet pear that stores for months.",
+   "description": "An old Japanese variety and a parent of several modern cultivars. The fruit is very large, with greenish-brown to tan russet skin and firm, sweet but fairly acidic flesh. It ripens very late and stores for six to seven months; it is susceptible to fire blight and is partly self-compatible but sets better with a pollinizer such as Chojuro, Nijisseiki or Hosui.",
+   "one_liner": "The very late keeper that stores into spring",
+   "refs": [
+    "https://www.dpi.nsw.gov.au/agriculture/horticulture/pomes/other/nashi/okusanki",
+    "https://patents.google.com/patent/USPP9179"
+   ],
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "type": "japanese",
+   "skin": "russet",
+   "tags": [
+    "Japanese",
+    "Russet"
+   ],
+   "fruit": "asianpear",
+   "first_seen": "2026-11-28"
+  },
+  {
+   "id": "yakumo",
+   "name": "Yakumo",
+   "aliases": [],
+   "summary": "Small, early, smooth-skinned Japanese pear with excellent flavor.",
+   "description": "A Japanese cultivar from Nijisseiki × Akaho, dating from the 1920s and a parent in the breeding of later pears. The fruit is small and round with smooth yellowish-green skin and excellent flavor, but it stores poorly and may crack after heavy rain. It is an early-ripening pear and is resistant to black spot.",
+   "one_liner": "The small early pear prized for flavor",
+   "refs": [
+    "https://dpird-web.matrix.squiz.cloud/agriculture/horticulture/pomes/other/nashi/yakumo",
+    "https://www.jircas.go.jp/sites/default/files/publication/jarq/13-4-234-237_0.pdf"
+   ],
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "type": "japanese",
+   "skin": "smooth",
+   "tags": [
+    "Japanese",
+    "Smooth skin"
+   ],
+   "fruit": "asianpear",
+   "first_seen": "2026-11-28"
+  },
+  {
+   "id": "kumoi",
+   "name": "Kumoi",
+   "aliases": [
+    "Nashi Kumoi"
+   ],
+   "summary": "Golden-brown Japanese russet pear from the 1950s, grown in the UK.",
+   "description": "Released in Japan in 1955 from the first national pear breeding programme. The apple-shaped fruit has golden-brown russet skin and crisp, juicy, mild and sweet white flesh. The RHS rates it hardy to about −15 to −20°C and describes it as partially self-fertile, cropping better with a pollinizer.",
+   "one_liner": "The golden russet with crisp, mild flesh",
+   "refs": [
+    "https://www.rhs.org.uk/plants/58610/pyrus-pyrifolia-kumoi-f/details",
+    "https://www.jircas.go.jp/sites/default/files/publication/jarq/13-4-234-237_0.pdf"
+   ],
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "type": "japanese",
+   "skin": "russet",
+   "tags": [
+    "Japanese",
+    "Russet"
+   ],
+   "fruit": "asianpear",
+   "first_seen": "2026-11-28"
+  },
+  {
+   "id": "choju",
+   "name": "Choju",
+   "aliases": [],
+   "summary": "Extremely early Japanese russet pear with tender flesh.",
+   "description": "Released in 1976 by the Kanagawa Prefectural Horticultural Experiment Station from Asahi × Kimizukawase. The fruit is medium-sized and oblate with russet skin and tender, low-acid flesh of medium sweetness. It is very early-ripening, picked before Shinsui, but stores poorly.",
+   "one_liner": "The extremely early russet that opens the season",
+   "refs": [
+    "https://www.dpi.nsw.gov.au/agriculture/horticulture/pomes/other/nashi/choju",
+    "https://www.jircas.go.jp/sites/default/files/publication/jarq/13-4-234-237_0.pdf"
+   ],
+   "breeder": {
+    "name": "Kanagawa Prefectural Horticultural Experiment Station",
+    "kind": "university",
+    "short": "Kanagawa"
+   },
+   "awards": [],
+   "notes": [],
+   "type": "japanese",
+   "skin": "russet",
+   "tags": [
+    "Japanese",
+    "Russet"
+   ],
+   "fruit": "asianpear",
+   "first_seen": "2026-11-28"
+  },
+  {
+   "id": "shuurei",
+   "name": "Shuurei",
+   "aliases": [
+    "Syuurei"
+   ],
+   "summary": "Mid-season smooth-skinned Japanese pear, sweet and low in acid.",
+   "description": "Bred by Japan's national fruit tree institute (NIFTS, NARO) from Kosui × Chikusui and registered around 2000. The fruit is about 350 g and oblate with smooth skin and soft, sweet, low-acid flesh. It ripens mid-season and is cross-incompatible with Akizuki, so it needs a different pollinizer.",
+   "one_liner": "The sweet mid-season smooth-skinned pear",
+   "refs": [
+    "https://repository.naro.go.jp/records/1815",
+    "https://www.jstage.jst.go.jp/article/jsbbs/66/1/66_46/_html/-char/en"
+   ],
+   "breeder": {
+    "name": "National Institute of Fruit Tree Science, NARO (Japan)",
+    "kind": "university",
+    "short": "NIFTS Japan"
+   },
+   "awards": [],
+   "notes": [],
+   "type": "japanese",
+   "skin": "smooth",
+   "tags": [
+    "Japanese",
+    "Smooth skin"
+   ],
+   "incompatible": [
+    "akizuki"
+   ],
+   "fruit": "asianpear",
+   "first_seen": "2026-11-28"
+  },
+  {
+   "id": "syuugyoku",
+   "name": "Syuugyoku",
+   "aliases": [
+    "Shuugyoku"
+   ],
+   "summary": "Early smooth-skinned Japanese pear, resistant to black spot.",
+   "description": "Bred at Japan's Fruit Tree Research Station from Kikusui × Kosui and named in 1986. The fruit is about 400 g with smooth yellow-green skin turning yellow and sweet, low-acid flesh. It is early-ripening, about two weeks before Nijisseiki, keeps a week or so at room temperature, resists black spot, and cannot pollinize or be pollinized by Kosui.",
+   "one_liner": "The early smooth pear that shrugs off black spot",
+   "refs": [
+    "https://patents.google.com/patent/USPP6726"
+   ],
+   "breeder": {
+    "name": "Fruit Tree Research Station, MAFF (Japan)",
+    "kind": "university",
+    "short": "FTRS Japan"
+   },
+   "awards": [],
+   "notes": [],
+   "type": "japanese",
+   "skin": "smooth",
+   "tags": [
+    "Japanese",
+    "Smooth skin"
+   ],
+   "incompatible": [
+    "kosui"
+   ],
+   "fruit": "asianpear",
+   "first_seen": "2026-11-28"
+  },
+  {
+   "id": "shinsetsu",
+   "name": "Shinsetsu",
+   "aliases": [],
+   "summary": "Very large, late Japanese russet pear that stores well.",
+   "description": "A Japanese cultivar from Imamuraaki × Okusankichi. The fruit is very large and round-conic with heavy, tough russet skin and sweet, low-acid flesh of good eating quality. It ripens late, after Korean Giant (Dan Bae), stores well, and is pollinized by Chojuro, Hosui or Kosui.",
+   "one_liner": "The very large late russet for long storage",
+   "refs": [
+    "https://www.dpi.nsw.gov.au/agriculture/horticulture/pomes/other/nashi/shinsets"
+   ],
+   "breeder": null,
+   "awards": [],
+   "notes": [],
+   "type": "japanese",
+   "skin": "russet",
+   "tags": [
+    "Japanese",
+    "Russet"
+   ],
+   "fruit": "asianpear",
+   "first_seen": "2026-11-28"
+  },
+  {
+   "id": "whangkeumbae",
+   "name": "Whangkeumbae",
+   "aliases": [
+    "Hwangkeumbae",
+    "Whangkeum Bae"
+   ],
+   "summary": "Korea's yellow, smooth-skinned mid-September pear.",
+   "description": "Released in 1985 by Korea's National Horticultural Research Institute from Niitaka × Nijisseiki. The fruit is medium to large (around 500 g) with smooth yellowish-green to light yellow skin and juicy, sweet, soft flesh. It ripens in mid-September, needs a cross-pollinizer, and is cross-incompatible with Changjo.",
+   "one_liner": "The Korean pear with clear yellow skin",
+   "refs": [
+    "https://ishs.org/ishs-article/587_20/",
+    "https://koreascience.kr/article/JAKO201633056056969.pdf",
+    "https://journal.americanpomological.org/index.php/jofaps/article/download/2887/2891/6133"
+   ],
+   "breeder": {
+    "name": "National Horticultural Research Institute (RDA, Korea)",
+    "kind": "university",
+    "short": "NHRI Korea"
+   },
+   "awards": [],
+   "notes": [],
+   "type": "korean",
+   "skin": "smooth",
+   "tags": [
+    "Korean",
+    "Smooth skin"
+   ],
+   "fruit": "asianpear",
+   "first_seen": "2026-11-28"
+  },
+  {
+   "id": "chuwhangbae",
+   "name": "Chuwhangbae",
+   "aliases": [
+    "Chuhwangbae"
+   ],
+   "summary": "Late Korean brown-russet pear, sweet with good flavor.",
+   "description": "Released in the mid-1980s by Korea's National Horticultural Research Institute. The fruit is medium-sized with brown russet skin and sweet flesh of good flavor. It ripens late, in mid-October in Korea.",
+   "one_liner": "The late Korean russet with good flavor",
+   "refs": [
+    "https://ishs.org/ishs-article/587_20/",
+    "https://koreascience.kr/article/JAKO200128066987731.pdf"
+   ],
+   "breeder": {
+    "name": "National Horticultural Research Institute (RDA, Korea)",
+    "kind": "university",
+    "short": "NHRI Korea"
+   },
+   "awards": [],
+   "notes": [],
+   "type": "korean",
+   "skin": "russet",
+   "tags": [
+    "Korean",
+    "Russet"
+   ],
+   "fruit": "asianpear",
+   "first_seen": "2026-11-28"
+  },
+  {
+   "id": "hwasan",
+   "name": "Hwasan",
+   "aliases": [
+    "Whasan"
+   ],
+   "summary": "Large Korean brown-russet pear for late September.",
+   "description": "Released in 1994 by Korea's National Horticultural Research Institute. The fruit is large with attractive brown russet skin and juicy, sweet flesh. It ripens in late September, needs a cross-pollinizer, and is prone to fruit cracking.",
+   "one_liner": "The large late-September Korean russet",
+   "refs": [
+    "https://ishs.org/ishs-article/587_20/",
+    "https://koreascience.kr/article/JAKO200128066987731.pdf"
+   ],
+   "breeder": {
+    "name": "National Horticultural Research Institute (RDA, Korea)",
+    "kind": "university",
+    "short": "NHRI Korea"
+   },
+   "awards": [],
+   "notes": [],
+   "type": "korean",
+   "skin": "russet",
+   "tags": [
+    "Korean",
+    "Russet"
+   ],
+   "fruit": "asianpear",
+   "first_seen": "2026-11-28"
+  },
+  {
+   "id": "gamcheonbae",
+   "name": "Gamcheonbae",
+   "aliases": [],
+   "summary": "Very large, late Korean brown-russet pear.",
+   "description": "Released in 1991 by Korea's National Horticultural Research Institute. The fruit is very large with brown russet skin and juicy, sweet flesh. It ripens late, in early October in Korea.",
+   "one_liner": "The very large Korean russet for October",
+   "refs": [
+    "https://ishs.org/ishs-article/587_20/",
+    "https://koreascience.kr/article/JAKO200128066987731.pdf"
+   ],
+   "breeder": {
+    "name": "National Horticultural Research Institute (RDA, Korea)",
+    "kind": "university",
+    "short": "NHRI Korea"
+   },
+   "awards": [],
+   "notes": [],
+   "type": "korean",
+   "skin": "russet",
+   "tags": [
+    "Korean",
+    "Russet"
+   ],
+   "fruit": "asianpear",
+   "first_seen": "2026-11-28"
   }
  ],
  "listings": [
